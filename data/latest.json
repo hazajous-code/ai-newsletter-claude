@@ -10,11 +10,19 @@
     "sourceCount": 15
   },
   "dailyInsight": {
-    "headline": "오늘 수집된 AI 동향 요약",
-    "body": "오늘 뉴스 60건, AI 구루 발언 27건, 테크 유튜브 0건, 논문 16건을 수집했습니다. LLM 요약을 활성화하면(.env 에 유효한 API 키 입력) 전문 에디터 톤의 한국어 인사이트와 소스 간 연결점이 자동 생성됩니다.",
-    "connections": [],
-    "watchNext": [],
-    "llm": false
+    "headline": "AI 투자 청구서가 도착했다 — 비용은 오르고, 승부는 “AI로 일하는 법”으로 이동",
+    "body": "오늘의 큰 그림: AI 데이터센터 수요발 메모리 대란이 애플 아이폰과 한국오라클 가격 인상으로 번지며, AI 인프라 투자가 실물 제품·SW 가격으로 전가되기 시작했다. 동시에 업계 리더들의 메시지는 “AI 기능을 파는 것”이 아니라 “AI로 일하는 시스템을 바꾸는 것”으로 수렴한다(나델라, Chi-Hua Chien). 콘텐츠 영역에선 Sora·Midjourney발 생성물 범람과 “사람다움” 회귀 담론이 맞물리며 브랜드의 차별점이 진정성·신뢰로 옮겨가고 있다. 마케터의 오늘 숙제는 둘이다 — 하반기 비용 가정을 다시 잡고, AI를 ‘기능 추가’가 아니라 ‘파이프라인 재설계’로 접근하는 것.",
+    "connections": [
+      "메모리 대란(AI 데이터센터) → 애플·오라클 가격 인상 → 마케팅 툴·하드웨어 비용 상승으로 연결",
+      "나델라·Chi-Hua Chien·Benedict Evans 모두 ‘AI 도입’이 아니라 ‘시스템·직무 재편’을 핵심으로 지목",
+      "Sora 2 + Midjourney 의료 확장 + Mollick ‘Choosing to Stay Human’ = 생성물 범람과 진정성 회귀가 동시 진행"
+    ],
+    "watchNext": [
+      "메모리·환율발 가격 인상이 일시적인지 구조적인지 (하반기 원가 가정의 분기점)",
+      "국내 AX(KOSA 법정단체·SKT 독자모델) 협력 모델이 실제 도입 사례로 이어지는지",
+      "Sora·생성영상 저작권·초상권 분쟁의 첫 판례·가이드라인"
+    ],
+    "llm": true
   },
   "articles": [
     {
@@ -1928,38 +1936,53 @@
   "reportSummary": {
     "topTrends": [
       {
-        "title": "As America turns 250, unlocking the next generation's potential is key",
-        "evidenceUrl": "https://www.mckinsey.com/mgi/media-center/as-america-turns-250-unlocking-the-next-generations-potential-is-key",
-        "soWhat": "",
-        "quote": ""
+        "title": "AI 비용의 청구서가 도착 — 메모리 대란이 아이폰·오라클 가격 인상으로",
+        "evidenceUrl": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+        "quote": "Tim Cook: 메모리 가격 상황이 ‘지속 불가능(unsustainable)’",
+        "soWhat": "AI 데이터센터 수요가 반도체·메모리 가격을 끌어올려 하드웨어·엔터프라이즈 SW 가격 인상 도미노로 번진다. 하반기 마케팅·IT 예산의 툴 구독·클라우드·장비 비용 가정을 지금 다시 잡아야 한다."
       },
       {
-        "title": "Launch of China Auto Consumer Survey, 2026",
-        "evidenceUrl": "https://www.mckinsey.com/cn/updates/launch-of-china-auto-consumer-survey-2026",
-        "soWhat": "",
-        "quote": ""
+        "title": "“AI를 파는 회사가 아니라, AI로 일하는 법을 바꾼 회사가 이긴다”",
+        "evidenceUrl": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+        "quote": "Chi-Hua Chien: 진짜 AI 승자는 AI를 팔지 않는다",
+        "soWhat": "나델라도 ‘AI 단독이 아니라 그것을 굴리는 시스템이 비즈니스를 바꾼다’고 못박았다. 마케팅도 ‘AI 기능 도입’이 아니라 캠페인·콘텐츠 제작 파이프라인 자체를 재설계할 때 성과가 난다."
       },
       {
-        "title": "AI usage among white-collar workers and students in Hong Kong: survey findings",
-        "evidenceUrl": "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings",
-        "soWhat": "",
-        "quote": ""
+        "title": "생성 콘텐츠 범람 시대, 차별점은 ‘사람다움’과 신뢰",
+        "evidenceUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+        "quote": "Ethan Mollick: SNS가 점점 서로 비슷해 보인다",
+        "soWhat": "Sora 2·Midjourney로 생성물이 폭증할수록 브랜드 보이스·진정성·출처 투명성이 차별화 포인트가 된다. AI 양산 콘텐츠와 구분되는 ‘사람의 관점’을 의도적으로 설계하라."
       },
       {
-        "title": "Computex2026 is over. The booths are packed up. The keynotes are done. What did we actually learn?",
-        "evidenceUrl": "https://www.mckinsey.com/cn/updates/computex2026-is-over-what-did-we-actually-learn",
-        "soWhat": "",
-        "quote": ""
+        "title": "AI가 ‘효율’을 넘어 ‘전문 판단 보조’로 — 의료 AI가 1차의 수준 도달",
+        "evidenceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "quote": "Google AMIE, Nature 게재 — 복잡한 질환 관리에서 1차 진료의와 대등",
+        "soWhat": "AI 메시지가 ‘시간 절약’에서 ‘전문가급 판단 보조’로 이동 중. 단 의료·국방 등 고신뢰 영역일수록 규제·검증·신뢰 소구가 핵심이며 과장은 역효과."
       },
       {
-        "title": "The Download: a reality check for geoengineering and the science of interoception",
-        "evidenceUrl": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-        "soWhat": "",
-        "quote": ""
+        "title": "한국, AI 전환(AX) 본격화 — 공급·수요기업 협력 단계로",
+        "evidenceUrl": "https://zdnet.co.kr/view/?no=20260618143439",
+        "quote": "KOSA, AI 법정단체 출범 — AX 협력 생태계 구축",
+        "soWhat": "국내 B2B에서 ‘AX 파트너십’ 메시지의 기회가 열린다(SKT 독자모델·마키나락스 사례). 단 한국오라클 10% 인상처럼 인프라 비용 상승이 동반돼 도입 ROI는 신중히."
+      },
+      {
+        "title": "규제·공급 리스크 현실화 — Anthropic, 수출통제로 모델 일시 중단",
+        "evidenceUrl": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+        "quote": "수출통제 명령으로 최신 모델을 되살리는 데 한 주를 소모",
+        "soWhat": "핵심 마케팅 스택이 특정 AI 모델에 묶이면 정책·공급 중단 리스크에 그대로 노출된다. 주요 워크플로는 멀티벤더·대안 모델을 확보해 종속을 줄여라."
       }
     ],
-    "actions": [],
-    "risks": [],
-    "llm": false
+    "actions": [
+      "하반기 마케팅·IT 예산에 AI 인프라발 비용 인상(툴 구독·클라우드·장비) 가정 반영",
+      "‘AI 기능 도입’이 아니라 캠페인·콘텐츠 파이프라인 1개를 골라 재설계 PoC 착수",
+      "생성 콘텐츠 저작권·출처 검증 체크리스트 + 브랜드 보이스 가이드 강화",
+      "핵심 AI 스택의 멀티벤더·대안 모델 확보로 단일 종속 리스크 완화"
+    ],
+    "risks": [
+      "메모리·환율발 가격 인상은 단기 변동성일 수 있음 — 과잉 반영 주의",
+      "의료·국방 ‘AI 자문’ 사례는 규제·신뢰 이슈 — 마케팅 소구 시 과장 금지",
+      "Sora 등 생성영상의 저작권·초상권 분쟁 리스크"
+    ],
+    "llm": true
   }
 }

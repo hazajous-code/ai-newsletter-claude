@@ -40,10 +40,12 @@ jobs:
           AWS_SESSION_TOKEN: ${{ secrets.AWS_SESSION_TOKEN }}   # 임시(STS) 자격증명일 때만 필요
           AWS_REGION: ${{ secrets.AWS_REGION }}
           ANTHROPIC_AWS_WORKSPACE_ID: ${{ secrets.ANTHROPIC_AWS_WORKSPACE_ID }}
-          # 직접 키(선택, fallback)
+          # 직접 키 (first-party sk-ant-... / OpenAI). AWS 미설정 시 자동으로 이게 사용됨.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LLM_PROVIDER: aws
+          # 비우면 사용 가능한 공급자를 aws→anthropic→openai 순으로 자동 선택.
+          # 특정 공급자 강제 시 repo Variable 에 LLM_PROVIDER 지정(aws|anthropic|openai).
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
         run: python scrape_daily.py
 
       - name: Commit updated data

@@ -53,7 +53,21 @@ PREFERRED = os.getenv("LLM_PROVIDER", "").strip().lower()
 
 # Claude Platform on AWS (Anthropic 직접 운영, SigV4 + workspace_id)
 # 모델 ID는 접두사 없는 그대로의 ID(claude-opus-4-8 등)를 사용한다 — Bedrock의 anthropic. 접두사 아님.
-AWS_REGION = (os.getenv("AWS_REGION") or os.getenv("AWS_DEFAULT_REGION") or "").strip()
+def _clean_region(v):
+    """리전 코드만 추출. 전체 엔드포인트 URL을 잘못 넣어도(ap-... 추출) 견고하게 동작."""
+    v = (v or "").strip()
+    if not v:
+        return ""
+    m = re.search(r"aws-external-anthropic\.([a-z]{2}-[a-z]+-\d+)\.api\.aws", v)
+    if m:
+        return m.group(1)
+    m = re.search(r"\b([a-z]{2}-[a-z]+-\d+)\b", v)  # 일반 AWS 리전 패턴
+    if m:
+        return m.group(1)
+    return v
+
+
+AWS_REGION = _clean_region(os.getenv("AWS_REGION") or os.getenv("AWS_DEFAULT_REGION"))
 AWS_WORKSPACE_ID = os.getenv("ANTHROPIC_AWS_WORKSPACE_ID", "").strip()
 AWS_MODEL = os.getenv("AWS_MODEL", ANTHROPIC_MODEL).strip()
 
@@ -100,7 +114,8 @@ def _aws_client():
     global _AWS_CLIENT
     if _AWS_CLIENT is None:
         from anthropic import AnthropicAWS  # pip install "anthropic[aws]"
-        _AWS_CLIENT = AnthropicAWS()
+        # 정제한 리전을 명시 전달 — 환경변수에 URL이 잘못 들어있어도 SDK가 그걸 쓰지 않도록.
+        _AWS_CLIENT = AnthropicAWS(aws_region=AWS_REGION)
         creds = "set" if (os.getenv("AWS_ACCESS_KEY_ID") or os.getenv("AWS_PROFILE")) else "MISSING"
         print(
             f"[INFO] AWS client: base_url={getattr(_AWS_CLIENT, 'base_url', '?')} "

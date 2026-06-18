@@ -37,6 +37,7 @@ jobs:
           # Claude Platform on AWS (SigV4) — IAM 자격증명
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_SESSION_TOKEN: ${{ secrets.AWS_SESSION_TOKEN }}   # 임시(STS) 자격증명일 때만 필요
           AWS_REGION: ${{ secrets.AWS_REGION }}
           ANTHROPIC_AWS_WORKSPACE_ID: ${{ secrets.ANTHROPIC_AWS_WORKSPACE_ID }}
           # 직접 키(선택, fallback)

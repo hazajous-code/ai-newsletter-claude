@@ -367,30 +367,30 @@ def _snip(text, n=120):
     return text[:n] + ("…" if len(text) > n else "")
 
 
-def _digest(payload, limit=20):
-    """교차 연결 품질을 위해 제목 + 짧은 요약 스니펫 + 링크를 함께 제공."""
+def _digest(payload):
+    """에디터가 '선별'할 수 있도록 후보를 넉넉히 제공(제목 + 요약 스니펫 + 링크)."""
     lines = []
-    for a in payload.get("articles", [])[:8]:
+    for a in payload.get("articles", [])[:20]:
         lines.append(
             f"[뉴스/{a.get('sourceName','')}] {a.get('titleKo') or a.get('title','')}"
-            f" — {_snip(a.get('summaryKo') or a.get('description',''))} | {a.get('url','')}"
+            f" — {_snip(a.get('summaryKo') or a.get('description',''), 160)} | {a.get('url','')}"
         )
-    for g in payload.get("guruMentions", [])[:5]:
+    for g in payload.get("guruMentions", [])[:12]:
         lines.append(
             f"[구루/{g.get('name','')}] {g.get('quoteTitle','')}"
-            f" — {_snip(g.get('summaryKo') or g.get('quoteText',''))} | {g.get('url','')}"
+            f" — {_snip(g.get('summaryKo') or g.get('quoteText',''), 160)} | {g.get('url','')}"
         )
-    for y in payload.get("youtubeBriefs", [])[:4]:
+    for y in payload.get("youtubeBriefs", [])[:8]:
         lines.append(
             f"[유튜브/{y.get('channelName','')}] {y.get('videoTitle','')}"
-            f" — {_snip(y.get('summaryKo') or y.get('description',''))} | {y.get('url','')}"
+            f" — {_snip(y.get('summaryKo') or y.get('description',''), 140)} | {y.get('url','')}"
         )
-    for p in payload.get("papers", [])[:4]:
+    for p in payload.get("papers", [])[:8]:
         lines.append(
             f"[논문] {p.get('titleKo') or p.get('title','')}"
-            f" — {_snip(p.get('contribution') or p.get('description',''))} | {p.get('url','')}"
+            f" — {_snip(p.get('contribution') or p.get('description',''), 140)} | {p.get('url','')}"
         )
-    return "\n".join(lines[:limit])
+    return "\n".join(lines)
 
 
 def build_daily_insight(payload):
@@ -398,14 +398,16 @@ def build_daily_insight(payload):
     if not digest:
         return None
     prompt = (
-        "다음은 오늘 수집된 AI 동향 목록이다. 전략 보고서 톤으로 '오늘의 AI 인사이트'를 작성하라. "
-        "과장 없이 간결하게, 뉴스/구루/유튜브/논문 간 연결점을 짚어라.\n\n"
+        "당신은 바쁜 마케팅·전략 실무자를 위한 수석 에디터다. 아래는 오늘 수집된 AI 동향 후보 "
+        "전체 목록이다. 개별 기사를 요약하지 말고, 전체를 관통하는 '가장 큰 흐름'을 짚어라. "
+        "마케터가 이 글 하나만 읽어도 오늘의 핵심을 놓치지 않도록, 비용·시장·경쟁·콘텐츠 관점에서 "
+        "서로 다른 소스를 연결해 큰 그림을 그려라. 과장 금지, 근거 중심, 한국어.\n\n"
         f"{digest}\n\n"
         "아래 JSON 키로만 출력:\n"
-        '{"headline":"오늘 가장 중요한 흐름 한 줄",'
-        '"body":"3~5문장 분석. 시장 변화와 마케팅 실무자에게 중요한 이유 포함",'
-        '"connections":["서로 다른 소스 간 연결점1","연결점2"],'
-        '"watchNext":["다음에 확인할 포인트1","포인트2"]}'
+        '{"headline":"오늘의 큰 그림을 압축한 제목 한 줄(원문 제목 번역 금지, 직접 재구성)",'
+        '"body":"3~4문장. 오늘 가장 중요한 흐름과 그것이 마케팅/브랜드/전략 실무자에게 의미하는 바",'
+        '"connections":["서로 다른 소스를 잇는 흐름1","흐름2","흐름3"],'
+        '"watchNext":["다음에 확인할 분기점1","포인트2"]}'
     )
     r = llm_json(prompt, max_tokens=1200)
     if not r:
@@ -424,20 +426,25 @@ def build_report_summary(payload):
     if not digest:
         return None
     prompt = (
-        "다음 오늘의 AI 동향을 바탕으로 임원 보고에 그대로 옮길 수 있는 '보고용 서머리'를 작성하라.\n\n"
+        "당신은 바쁜 마케터를 위한 수석 에디터다. 아래 후보 목록 전체에서 "
+        "마케팅·브랜드·콘텐츠·전략 실무자에게 '정말 중요한' 5~6개만 선별하라(나머지는 과감히 버려라). "
+        "단순 신제품 홍보·인사·지역 행사·무관한 일반 뉴스는 제외한다. "
+        "가능하면 여러 소스를 관통하는 흐름/테마로 묶고, 제목은 원문 번역이 아니라 "
+        "'마케터에게 왜 중요한지'가 드러나게 한국어로 재구성하라.\n\n"
         f"{digest}\n\n"
-        "topTrends 는 최대 5개. evidenceUrl 은 위 목록의 실제 링크를 사용하라.\n"
+        "각 트렌드의 evidenceUrl 은 반드시 위 목록에 실제로 있는 링크를 그대로 사용한다.\n"
         "아래 JSON 키로만 출력:\n"
-        '{"topTrends":[{"title":"트렌드","evidenceUrl":"근거 링크",'
-        '"soWhat":"의미 한 문장","quote":"있으면 핵심 인용, 없으면 빈 문자열"}],'
-        '"actions":["실행 제안1","실행 제안2"],'
-        '"risks":["리스크/유의점1","유의점2"]}'
+        '{"topTrends":[{"title":"마케터 관점으로 재구성한 트렌드 제목",'
+        '"evidenceUrl":"위 목록의 실제 링크","soWhat":"그래서 마케터가 무엇을 해야 하나(1~2문장)",'
+        '"quote":"있으면 핵심 인용/근거, 없으면 빈 문자열"}],'
+        '"actions":["오늘 당장 검토할 실행 제안1","제안2","제안3"],'
+        '"risks":["과장·맹신을 경계할 리스크/유의점1","유의점2"]}'
     )
-    r = llm_json(prompt, max_tokens=1400)
+    r = llm_json(prompt, max_tokens=2000)
     if not r:
         return None
     trends = []
-    for t in (r.get("topTrends") or [])[:5]:
+    for t in (r.get("topTrends") or [])[:6]:
         if not isinstance(t, dict):
             continue
         trends.append({

@@ -1,0 +1,183 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-06-18",
+  "description": "테크 유튜버 최신 영상 수집 레지스트리. YouTube RSS(https://www.youtube.com/feeds/videos.xml?channel_id=ID)만 사용한다. channelId가 비어 있으면 scrape_daily.py가 handle로 채널 ID를 해석한다. baselineTier는 초기 신뢰도 힌트일 뿐, 최종 신뢰도(High/Medium/Low)는 영상별로 LLM이 부여한다.",
+  "defaults": {
+    "maxItemsPerChannel": 2,
+    "requestTimeoutSec": 15,
+    "retry": 1
+  },
+  "feedUrlTemplate": "https://www.youtube.com/feeds/videos.xml?channel_id={channelId}",
+  "channels": [
+    {
+      "id": "two-minute-papers",
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "channelUrl": "https://www.youtube.com/@TwoMinutePapers",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+      "baselineTier": "high",
+      "topic": "AI research demos"
+    },
+    {
+      "id": "matt-wolfe",
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "channelUrl": "https://www.youtube.com/@mreflow",
+      "channelId": "UChpleBmo18P08aKCIgti38g",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+      "baselineTier": "medium",
+      "topic": "AI tools & news"
+    },
+    {
+      "id": "ai-explained",
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "channelUrl": "https://www.youtube.com/@aiexplained-official",
+      "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "baselineTier": "high",
+      "topic": "AI analysis"
+    },
+    {
+      "id": "wes-roth",
+      "name": "Wes Roth",
+      "handle": "@WesRoth",
+      "channelUrl": "https://www.youtube.com/@WesRoth",
+      "channelId": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "baselineTier": "medium",
+      "topic": "AI news"
+    },
+    {
+      "id": "the-ai-advantage",
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "channelUrl": "https://www.youtube.com/@aiadvantage",
+      "channelId": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ",
+      "baselineTier": "medium",
+      "topic": "AI productivity"
+    },
+    {
+      "id": "fireship",
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "channelUrl": "https://www.youtube.com/@Fireship",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "baselineTier": "medium",
+      "topic": "dev & tech"
+    },
+    {
+      "id": "mkbhd",
+      "name": "Marques Brownlee",
+      "handle": "@mkbhd",
+      "channelUrl": "https://www.youtube.com/@mkbhd",
+      "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+      "baselineTier": "medium",
+      "topic": "consumer tech"
+    },
+    {
+      "id": "bloomberg-technology",
+      "name": "Bloomberg Technology",
+      "handle": "@BloombergTechnology",
+      "channelUrl": "https://www.youtube.com/@BloombergTechnology",
+      "channelId": "",
+      "feed": "",
+      "baselineTier": "high",
+      "topic": "tech business news"
+    },
+    {
+      "id": "the-verge",
+      "name": "The Verge",
+      "handle": "@TheVerge",
+      "channelUrl": "https://www.youtube.com/@TheVerge",
+      "channelId": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCddiUEpeqJcYeBxX1IVBKvQ",
+      "baselineTier": "medium",
+      "topic": "tech news"
+    },
+    {
+      "id": "lex-fridman",
+      "name": "Lex Fridman",
+      "handle": "@lexfridman",
+      "channelUrl": "https://www.youtube.com/@lexfridman",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+      "baselineTier": "high",
+      "topic": "long-form interviews"
+    },
+    {
+      "id": "dwarkesh-patel",
+      "name": "Dwarkesh Patel",
+      "handle": "@DwarkeshPatel",
+      "channelUrl": "https://www.youtube.com/@DwarkeshPatel",
+      "channelId": "UCJIfeSCssxSC_Dhc5s7woww",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJIfeSCssxSC_Dhc5s7woww",
+      "baselineTier": "high",
+      "topic": "AI deep interviews"
+    },
+    {
+      "id": "y-combinator",
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "channelUrl": "https://www.youtube.com/@ycombinator",
+      "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+      "baselineTier": "high",
+      "topic": "startups & AI"
+    },
+    {
+      "id": "a16z",
+      "name": "a16z",
+      "handle": "@a16z",
+      "channelUrl": "https://www.youtube.com/@a16z",
+      "channelId": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA",
+      "baselineTier": "high",
+      "topic": "venture & tech strategy"
+    },
+    {
+      "id": "ted-ai",
+      "name": "TED",
+      "handle": "@TED",
+      "channelUrl": "https://www.youtube.com/@TED",
+      "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
+      "baselineTier": "high",
+      "topic": "ideas & AI talks"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind",
+      "handle": "@Google_DeepMind",
+      "channelUrl": "https://www.youtube.com/@Google_DeepMind",
+      "channelId": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "baselineTier": "high",
+      "topic": "official AI lab"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "handle": "@OpenAI",
+      "channelUrl": "https://www.youtube.com/@OpenAI",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A",
+      "baselineTier": "high",
+      "topic": "official AI lab"
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "handle": "@NVIDIA",
+      "channelUrl": "https://www.youtube.com/@NVIDIA",
+      "channelId": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHuiy8bXnmK5nisYHUd1J5g",
+      "baselineTier": "high",
+      "topic": "official hardware/AI"
+    }
+  ]
+}

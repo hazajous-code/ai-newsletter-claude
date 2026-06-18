@@ -1,0 +1,291 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-06-18",
+  "description": "뉴스/리서치 수집 소스 레지스트리. 각 소스의 rss가 비어 있거나 실패하면 scrape_daily.py가 homepage 스크래핑으로 대체하며, 한 소스가 실패해도 전체 수집은 멈추지 않는다.",
+  "defaults": {
+    "maxItems": 5,
+    "requestTimeoutSec": 15,
+    "retry": 1
+  },
+  "newsSources": [
+    {
+      "id": "hbr",
+      "name": "Harvard Business Review",
+      "region": "global",
+      "language": "en",
+      "category": "business",
+      "homepage": "https://hbr.org",
+      "rss": "https://hbr.org/feed",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "mckinsey",
+      "name": "McKinsey Insights",
+      "region": "global",
+      "language": "en",
+      "category": "business",
+      "homepage": "https://www.mckinsey.com",
+      "rss": "https://www.mckinsey.com/insights/rss",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "mit-tech-review",
+      "name": "MIT Technology Review",
+      "region": "global",
+      "language": "en",
+      "category": "ai-tech",
+      "homepage": "https://www.technologyreview.com",
+      "rss": "https://www.technologyreview.com/feed/",
+      "maxItems": 5,
+      "trust": "high"
+    },
+    {
+      "id": "openai-blog",
+      "name": "OpenAI Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://openai.com/news/",
+      "rss": "https://openai.com/blog/rss.xml",
+      "maxItems": 5,
+      "trust": "high"
+    },
+    {
+      "id": "anthropic-blog",
+      "name": "Anthropic Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://www.anthropic.com/news",
+      "rss": "",
+      "maxItems": 5,
+      "trust": "high"
+    },
+    {
+      "id": "google-deepmind",
+      "name": "Google DeepMind Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://deepmind.google/discover/blog/",
+      "rss": "https://deepmind.google/blog/rss.xml",
+      "maxItems": 5,
+      "trust": "high"
+    },
+    {
+      "id": "nvidia-blog",
+      "name": "NVIDIA Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-tech",
+      "homepage": "https://blogs.nvidia.com",
+      "rss": "https://blogs.nvidia.com/feed/",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "region": "global",
+      "language": "en",
+      "category": "ai-tech",
+      "homepage": "https://techcrunch.com",
+      "rss": "https://techcrunch.com/feed/",
+      "maxItems": 5,
+      "trust": "medium"
+    },
+    {
+      "id": "the-verge",
+      "name": "The Verge",
+      "region": "global",
+      "language": "en",
+      "category": "ai-tech",
+      "homepage": "https://www.theverge.com",
+      "rss": "https://www.theverge.com/rss/index.xml",
+      "maxItems": 5,
+      "trust": "medium"
+    },
+    {
+      "id": "wired",
+      "name": "WIRED",
+      "region": "global",
+      "language": "en",
+      "category": "ai-tech",
+      "homepage": "https://www.wired.com",
+      "rss": "https://www.wired.com/feed/rss",
+      "maxItems": 4,
+      "trust": "medium"
+    },
+    {
+      "id": "google-ai-blog",
+      "name": "Google AI Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://blog.google/technology/ai/",
+      "rss": "https://blog.google/technology/ai/rss/",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "microsoft-ai-blog",
+      "name": "Microsoft AI Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://blogs.microsoft.com/ai/",
+      "rss": "https://blogs.microsoft.com/ai/feed/",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "meta-ai-blog",
+      "name": "Meta AI Blog",
+      "region": "global",
+      "language": "en",
+      "category": "ai-lab",
+      "homepage": "https://ai.meta.com/blog/",
+      "rss": "https://ai.meta.com/blog/rss/",
+      "maxItems": 4,
+      "trust": "high"
+    },
+    {
+      "id": "aitimes",
+      "name": "AI타임스",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://www.aitimes.com",
+      "rss": "https://www.aitimes.com/rss/allArticle.xml",
+      "maxItems": 6,
+      "trust": "medium"
+    },
+    {
+      "id": "zdnet-korea",
+      "name": "ZDNet Korea",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://zdnet.co.kr",
+      "rss": "https://feeds.feedburner.com/zdkorea",
+      "maxItems": 5,
+      "trust": "medium"
+    },
+    {
+      "id": "etnews",
+      "name": "전자신문",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://www.etnews.com",
+      "rss": "https://rss.etnews.com/Section901.xml",
+      "maxItems": 5,
+      "trust": "medium"
+    },
+    {
+      "id": "ddaily",
+      "name": "디지털데일리",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://www.ddaily.co.kr",
+      "rss": "https://www.ddaily.co.kr/rss/S1N1.xml",
+      "maxItems": 4,
+      "trust": "medium"
+    },
+    {
+      "id": "it-chosun",
+      "name": "IT조선",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://it.chosun.com",
+      "rss": "https://it.chosun.com/rss/rss.xml",
+      "maxItems": 4,
+      "trust": "medium"
+    },
+    {
+      "id": "bloter",
+      "name": "블로터",
+      "region": "korea",
+      "language": "ko",
+      "category": "ai-tech",
+      "homepage": "https://www.bloter.net",
+      "rss": "https://www.bloter.net/rss",
+      "maxItems": 4,
+      "trust": "medium"
+    },
+    {
+      "id": "hankyung-it",
+      "name": "한국경제 IT/테크",
+      "region": "korea",
+      "language": "ko",
+      "category": "business",
+      "homepage": "https://www.hankyung.com/it",
+      "rss": "https://www.hankyung.com/feed/it",
+      "maxItems": 4,
+      "trust": "medium"
+    }
+  ],
+  "paperSources": [
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv cs.AI",
+      "language": "en",
+      "category": "paper",
+      "homepage": "https://arxiv.org/list/cs.AI/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.AI",
+      "maxItems": 8,
+      "trust": "high"
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "name": "arXiv cs.CL",
+      "language": "en",
+      "category": "paper",
+      "homepage": "https://arxiv.org/list/cs.CL/recent",
+      "rss": "https://rss.arxiv.org/rss/cs.CL",
+      "maxItems": 8,
+      "trust": "high"
+    },
+    {
+      "id": "papers-with-code",
+      "name": "Papers with Code (Trending)",
+      "language": "en",
+      "category": "paper",
+      "homepage": "https://paperswithcode.com/",
+      "rss": "",
+      "maxItems": 6,
+      "trust": "high"
+    },
+    {
+      "id": "huggingface-papers",
+      "name": "Hugging Face Papers",
+      "language": "en",
+      "category": "paper",
+      "homepage": "https://huggingface.co/papers",
+      "rss": "",
+      "maxItems": 6,
+      "trust": "high"
+    }
+  ],
+  "urlExclusionPatterns": [
+    "/category/",
+    "/categories/",
+    "/topics/",
+    "/topic/",
+    "/collections/",
+    "/collection/",
+    "/tag/",
+    "/tags/",
+    "/search/",
+    "/our-insights/",
+    "/featured-insights/",
+    "/author/",
+    "/authors/",
+    "/page/",
+    "/section/"
+  ]
+}

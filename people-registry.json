@@ -1,0 +1,171 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-06-18",
+  "description": "AI 구루 최신 언급 수집 레지스트리. X/Twitter는 직접 크롤링하지 않으며, RSS/공식 블로그/Substack 등 공개 접근 가능한 소스만 사용한다. 출처 링크가 명확하지 않은 발언은 수집 단계에서 제외한다.",
+  "defaults": {
+    "maxItems": 3,
+    "requestTimeoutSec": 15,
+    "retry": 1
+  },
+  "policy": {
+    "noDirectTwitterCrawl": true,
+    "requireSourceLink": true,
+    "excludeRumors": true,
+    "preserveOriginalQuoteAndDate": true
+  },
+  "people": [
+    {
+      "id": "sam-altman",
+      "name": "Sam Altman",
+      "title": "CEO",
+      "org": "OpenAI",
+      "sources": [
+        { "type": "blog", "url": "https://blog.samaltman.com/", "rss": "https://blog.samaltman.com/posts.atom" }
+      ]
+    },
+    {
+      "id": "greg-brockman",
+      "name": "Greg Brockman",
+      "title": "President & Co-Founder",
+      "org": "OpenAI",
+      "sources": [
+        { "type": "web", "url": "https://blog.gregbrockman.com/", "rss": "" }
+      ]
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "title": "Co-Founder",
+      "org": "Safe Superintelligence (SSI)",
+      "sources": [
+        { "type": "web", "url": "https://ssi.inc/", "rss": "" }
+      ]
+    },
+    {
+      "id": "dario-amodei",
+      "name": "Dario Amodei",
+      "title": "CEO",
+      "org": "Anthropic",
+      "sources": [
+        { "type": "blog", "url": "https://www.darioamodei.com/", "rss": "" }
+      ]
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "title": "CEO",
+      "org": "Google DeepMind",
+      "sources": [
+        { "type": "web", "url": "https://deepmind.google/discover/blog/", "rss": "https://deepmind.google/blog/rss.xml" }
+      ]
+    },
+    {
+      "id": "yann-lecun",
+      "name": "Yann LeCun",
+      "title": "Chief AI Scientist",
+      "org": "Meta",
+      "sources": [
+        { "type": "web", "url": "https://yann.lecun.com/", "rss": "" }
+      ]
+    },
+    {
+      "id": "andrew-ng",
+      "name": "Andrew Ng",
+      "title": "Founder",
+      "org": "DeepLearning.AI",
+      "sources": [
+        { "type": "newsletter", "url": "https://www.deeplearning.ai/the-batch/", "rss": "https://www.deeplearning.ai/the-batch/rss.xml" }
+      ]
+    },
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "title": "Founder (former OpenAI/Tesla)",
+      "org": "Eureka Labs",
+      "sources": [
+        { "type": "blog", "url": "https://karpathy.github.io/", "rss": "https://karpathy.github.io/feed.xml" }
+      ]
+    },
+    {
+      "id": "fei-fei-li",
+      "name": "Fei-Fei Li",
+      "title": "Co-Director, Stanford HAI / CEO World Labs",
+      "org": "Stanford HAI",
+      "sources": [
+        { "type": "web", "url": "https://hai.stanford.edu/news", "rss": "" }
+      ]
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "title": "CEO",
+      "org": "NVIDIA",
+      "sources": [
+        { "type": "web", "url": "https://blogs.nvidia.com/blog/author/jensen-huang/", "rss": "https://blogs.nvidia.com/feed/" }
+      ]
+    },
+    {
+      "id": "satya-nadella",
+      "name": "Satya Nadella",
+      "title": "Chairman & CEO",
+      "org": "Microsoft",
+      "sources": [
+        { "type": "web", "url": "https://blogs.microsoft.com/", "rss": "https://blogs.microsoft.com/feed/" }
+      ]
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "title": "CEO",
+      "org": "xAI / Tesla",
+      "sources": [
+        { "type": "web", "url": "https://x.ai/news", "rss": "" }
+      ]
+    },
+    {
+      "id": "ben-thompson",
+      "name": "Ben Thompson",
+      "title": "Author",
+      "org": "Stratechery",
+      "sources": [
+        { "type": "newsletter", "url": "https://stratechery.com/", "rss": "https://stratechery.com/feed/" }
+      ]
+    },
+    {
+      "id": "benedict-evans",
+      "name": "Benedict Evans",
+      "title": "Analyst",
+      "org": "Independent",
+      "sources": [
+        { "type": "newsletter", "url": "https://www.ben-evans.com/", "rss": "https://www.ben-evans.com/benedictevans?format=rss" }
+      ]
+    },
+    {
+      "id": "ethan-mollick",
+      "name": "Ethan Mollick",
+      "title": "Professor, Wharton",
+      "org": "One Useful Thing",
+      "sources": [
+        { "type": "substack", "url": "https://www.oneusefulthing.org/", "rss": "https://www.oneusefulthing.org/feed" }
+      ]
+    },
+    {
+      "id": "simon-willison",
+      "name": "Simon Willison",
+      "title": "Developer / Author",
+      "org": "Independent",
+      "sources": [
+        { "type": "blog", "url": "https://simonwillison.net/", "rss": "https://simonwillison.net/atom/everything/" }
+      ]
+    },
+    {
+      "id": "harrison-chase",
+      "name": "Harrison Chase",
+      "title": "CEO & Co-Founder",
+      "org": "LangChain",
+      "sources": [
+        { "type": "blog", "url": "https://blog.langchain.dev/", "rss": "https://blog.langchain.dev/rss/" }
+      ]
+    }
+  ]
+}

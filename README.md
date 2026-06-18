@@ -114,6 +114,24 @@ python -m http.server 8090
 최초 1회, 저장소 **Settings → Pages → Build and deployment → Source** 를 **GitHub Actions** 로
 지정해야 워크플로가 동작한다(이미 Actions 소스면 자동 배포).
 
+## 매일 아침 자동 업데이트
+
+`.github/workflows/daily.yml` 이 **매일 07:00 KST(22:00 UTC)** 에 자동 실행되어
+수집 → `data/` 갱신 커밋 → Pages 재배포까지 수행한다. (Actions 탭에서 수동 실행도 가능)
+
+- 사용자 PC가 꺼져 있어도 GitHub 서버에서 돈다.
+- GitHub 무료 스케줄은 부하에 따라 수 분~십수 분 지연될 수 있다.
+
+### 한국어 LLM 요약 켜기 (선택)
+
+키 없이도 영문 원문 기반 요약으로 동작한다. 한국어 에디터 요약을 켜려면 저장소에
+**Settings → Secrets and variables → Actions → New repository secret** 으로 키를 등록한다.
+
+- `ANTHROPIC_API_KEY` (권장) 또는 `OPENAI_API_KEY`
+- (선택) Variables 에 `LLM_PROVIDER` = `anthropic` 또는 `openai`
+
+키는 암호화 저장되며 로그에 마스킹되고, 저장소 코드/데이터에는 절대 포함되지 않는다.
+
 ### 품질 필터링 (스펙 9절)
 
 `scrape_daily.py` 의 `apply_quality_filters()` 가 중복 제거 직후 적용된다.

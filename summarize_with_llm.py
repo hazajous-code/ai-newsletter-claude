@@ -49,7 +49,13 @@ ANTHROPIC_KEY = os.getenv("ANTHROPIC_API_KEY", "").strip()
 OPENAI_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 ANTHROPIC_MODEL = os.getenv("ANTHROPIC_MODEL", "claude-opus-4-8").strip()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini").strip()
-PREFERRED = os.getenv("LLM_PROVIDER", "anthropic").strip().lower()
+PREFERRED = os.getenv("LLM_PROVIDER", "").strip().lower()
+
+# Claude Platform on AWS (Anthropic 직접 운영, SigV4 + workspace_id)
+# 모델 ID는 접두사 없는 그대로의 ID(claude-opus-4-8 등)를 사용한다 — Bedrock의 anthropic. 접두사 아님.
+AWS_REGION = (os.getenv("AWS_REGION") or os.getenv("AWS_DEFAULT_REGION") or "").strip()
+AWS_WORKSPACE_ID = os.getenv("ANTHROPIC_AWS_WORKSPACE_ID", "").strip()
+AWS_MODEL = os.getenv("AWS_MODEL", ANTHROPIC_MODEL).strip()
 
 SYSTEM_PROMPT = (
     "당신은 AI·테크 분야를 다루는 한국어 전문 에디터입니다. "
@@ -63,15 +69,52 @@ SYSTEM_PROMPT = (
 # --------------------------------------------------------------------------- #
 # 공급자 호출 (requests 직접)
 # --------------------------------------------------------------------------- #
+def _aws_configured():
+    """Claude Platform on AWS 사용 조건: region + workspace_id 지정.
+    자격증명(AWS_ACCESS_KEY_ID/SECRET 또는 역할/프로파일)은 SDK가 표준 체인에서 해석."""
+    return bool(AWS_REGION and AWS_WORKSPACE_ID)
+
+
 def _providers():
-    """사용 가능한 공급자를 우선순위대로 반환."""
-    order = []
-    if PREFERRED == "openai":
-        order = ["openai", "anthropic"]
-    else:
-        order = ["anthropic", "openai"]
-    return [p for p in order if (p == "anthropic" and ANTHROPIC_KEY)
-            or (p == "openai" and OPENAI_KEY)]
+    """사용 가능한 공급자를 우선순위대로 반환. 기본 순서: aws → anthropic → openai.
+    LLM_PROVIDER 가 지정되면 그 공급자를 맨 앞으로 올린다."""
+    avail = []
+    if _aws_configured():
+        avail.append("aws")
+    if ANTHROPIC_KEY:
+        avail.append("anthropic")
+    if OPENAI_KEY:
+        avail.append("openai")
+    if PREFERRED in avail:
+        avail.remove(PREFERRED)
+        avail.insert(0, PREFERRED)
+    return avail
+
+
+_AWS_CLIENT = None
+
+
+def _aws_client():
+    """AnthropicAWS 클라이언트 싱글턴. region/workspace_id 는 환경변수에서, 자격증명은 SigV4 체인에서."""
+    global _AWS_CLIENT
+    if _AWS_CLIENT is None:
+        from anthropic import AnthropicAWS  # pip install "anthropic[aws]"
+        _AWS_CLIENT = AnthropicAWS()
+    return _AWS_CLIENT
+
+
+def _call_aws(user_prompt, max_tokens=1024):
+    client = _aws_client()
+    resp = client.messages.create(
+        model=AWS_MODEL,                # 접두사 없는 ID
+        max_tokens=max_tokens,
+        system=SYSTEM_PROMPT,
+        messages=[{"role": "user", "content": user_prompt}],
+    )
+    return "".join(
+        getattr(b, "text", "") for b in resp.content
+        if getattr(b, "type", None) == "text"
+    )
 
 
 def _call_anthropic(user_prompt, max_tokens=1024):
@@ -143,7 +186,9 @@ def llm_json(user_prompt, max_tokens=1024, retry=1):
     for provider in _providers():
         for _ in range(retry + 1):
             try:
-                if provider == "anthropic":
+                if provider == "aws":
+                    raw = _call_aws(user_prompt, max_tokens)
+                elif provider == "anthropic":
                     raw = _call_anthropic(user_prompt, max_tokens)
                 else:
                     raw = _call_openai(user_prompt, max_tokens)

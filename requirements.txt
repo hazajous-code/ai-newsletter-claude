@@ -5,3 +5,5 @@ lxml>=5.0.0
 python-dotenv>=1.0.0
 youtube-transcript-api>=0.6.2
 truststore>=0.9.0; python_version >= "3.10"
+# Claude Platform on AWS (SigV4). 미사용 시에도 무해 — aws 공급자 경로에서만 import.
+anthropic[aws]>=0.69.0

@@ -88,9 +88,19 @@ python -m http.server 8090
 
 ### LLM 공급자
 
-`.env` 의 `LLM_PROVIDER`(기본 `anthropic`)가 우선 공급자를 정하며, 해당 공급자 호출이
-실패하면 다른 공급자 키가 있을 경우 자동 폴백한다. SDK 없이 `requests` 로 직접 호출하므로
-추가 의존성이 없다.
+기본 우선순위는 **aws → anthropic → openai** 이며, `.env` 의 `LLM_PROVIDER` 로 맨 앞을 지정한다.
+선택한 공급자 호출이 실패하면 사용 가능한 다른 공급자로 자동 폴백한다.
+
+지원 공급자:
+
+- **Claude Platform on AWS** (Anthropic 직접 운영, SigV4): `anthropic[aws]` SDK 사용.
+  `AWS_ACCESS_KEY_ID` + `AWS_SECRET_ACCESS_KEY` + `AWS_REGION` + `ANTHROPIC_AWS_WORKSPACE_ID` 필요.
+  모델 ID는 **접두사 없는 그대로**(`claude-opus-4-8`) — Bedrock 의 `anthropic.` 접두사가 아니다.
+- **직접(first-party) Anthropic API** (`ANTHROPIC_API_KEY`, `sk-ant-...`): `requests` 직접 호출.
+- **OpenAI** (`OPENAI_API_KEY`): `requests` 직접 호출.
+
+> Claude Platform on AWS 는 IAM 자격증명(만료 없음)이라 매일 cron 에 적합하다. 반면 platform 에서
+> 발급하는 **단기 API 키는 최대 12시간** 후 만료되므로 자동화에는 IAM 자격증명을 쓴다.
 
 ## 수집 원칙
 
@@ -125,12 +135,20 @@ python -m http.server 8090
 ### 한국어 LLM 요약 켜기 (선택)
 
 키 없이도 영문 원문 기반 요약으로 동작한다. 한국어 에디터 요약을 켜려면 저장소에
-**Settings → Secrets and variables → Actions → New repository secret** 으로 키를 등록한다.
+**Settings → Secrets and variables → Actions → New repository secret** 으로 자격증명을 등록한다.
 
-- `ANTHROPIC_API_KEY` (권장) 또는 `OPENAI_API_KEY`
-- (선택) Variables 에 `LLM_PROVIDER` = `anthropic` 또는 `openai`
+**Claude Platform on AWS (권장 — 매일 cron 에 적합):**
 
-키는 암호화 저장되며 로그에 마스킹되고, 저장소 코드/데이터에는 절대 포함되지 않는다.
+- `AWS_ACCESS_KEY_ID`
+- `AWS_SECRET_ACCESS_KEY`
+- `AWS_REGION` (예: `us-east-1`)
+- `ANTHROPIC_AWS_WORKSPACE_ID`
+
+또는 직접 키: `ANTHROPIC_API_KEY` / `OPENAI_API_KEY`.
+
+`daily.yml` 은 `LLM_PROVIDER=aws` 로 실행되며, AWS 자격증명이 없으면 직접 키 → 그것도 없으면
+fallback(영문) 요약으로 자동 강등된다. 시크릿은 암호화 저장·로그 마스킹되며 저장소 코드/데이터에
+절대 포함되지 않는다.
 
 ### 품질 필터링 (스펙 9절)
 

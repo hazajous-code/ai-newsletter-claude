@@ -32,11 +32,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape (LLM 요약은 ANTHROPIC_API_KEY/OPENAI_API_KEY 시크릿 있을 때만)
+      - name: Scrape (LLM 요약은 자격증명 시크릿 있을 때만; 없으면 fallback)
         env:
+          # Claude Platform on AWS (SigV4) — IAM 자격증명
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          ANTHROPIC_AWS_WORKSPACE_ID: ${{ secrets.ANTHROPIC_AWS_WORKSPACE_ID }}
+          # 직접 키(선택, fallback)
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_PROVIDER: aws
         run: python scrape_daily.py
 
       - name: Commit updated data

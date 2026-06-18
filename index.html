@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI 뉴스레터 · 데일리 인텔리전스</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <title>AI 데일리 브리핑 · 마케터를 위한 큐레이션</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -13,12 +12,12 @@
       <div class="brand">
         <span class="brand-mark">AI</span>
         <div class="brand-text">
-          <h1>AI 뉴스레터</h1>
-          <p>데일리 인텔리전스 · 마케팅/전략 실무자용</p>
+          <h1>AI 데일리 브리핑</h1>
+          <p>마케팅·전략 실무자를 위한 큐레이션</p>
         </div>
       </div>
       <div class="topbar-right">
-        <div class="stats" id="stats" aria-live="polite"></div>
+        <span class="updated" id="updated"></span>
         <div class="lang-toggle" role="group" aria-label="언어 토글">
           <button data-lang="ko" class="active" type="button">한국어</button>
           <button data-lang="en" type="button">원문</button>
@@ -27,46 +26,23 @@
     </div>
   </header>
 
-  <main class="container" id="app">
-    <!-- 1. 오늘의 AI 인사이트 -->
-    <section class="block" id="sec-insight">
-      <div class="block-head"><h2>① 오늘의 AI 인사이트</h2></div>
-      <div id="insight" class="insight"></div>
-    </section>
+  <main class="page" id="app">
+    <!-- 1. 오늘의 흐름 -->
+    <section class="hero" id="insight" aria-label="오늘의 흐름"></section>
 
-    <!-- 2. 핵심 뉴스 -->
-    <section class="block" id="sec-news">
-      <div class="block-head"><h2>② 핵심 뉴스</h2><span class="count" id="news-count"></span></div>
-      <div class="grid" id="news"></div>
-    </section>
+    <!-- 2. 오늘의 핵심 트렌드 (보고용) -->
+    <section class="trends-wrap" id="trends" aria-label="오늘의 핵심 트렌드"></section>
 
-    <!-- 3. AI 구루 최신 언급 -->
-    <section class="block" id="sec-guru">
-      <div class="block-head"><h2>③ AI 구루 최신 언급</h2><span class="count" id="guru-count"></span></div>
-      <div class="grid" id="guru"></div>
-    </section>
-
-    <!-- 4. 테크 유튜버 브리프 -->
-    <section class="block" id="sec-youtube">
-      <div class="block-head"><h2>④ 테크 유튜버 브리프</h2><span class="count" id="youtube-count"></span></div>
-      <div class="grid" id="youtube"></div>
-    </section>
-
-    <!-- 5. 논문 / 리서치 -->
-    <section class="block" id="sec-paper">
-      <div class="block-head"><h2>⑤ 논문 / 리서치</h2><span class="count" id="paper-count"></span></div>
-      <div class="grid" id="paper"></div>
-    </section>
-
-    <!-- 6. 보고용 서머리 -->
-    <section class="block" id="sec-report">
-      <div class="block-head"><h2>⑥ 보고용 서머리</h2></div>
-      <div id="report" class="report"></div>
+    <!-- 3. 근거 자료 전체 (기본 접힘) -->
+    <section class="evidence" aria-label="근거 자료">
+      <h2 class="evidence-title">근거 자료 전체</h2>
+      <p class="evidence-sub" id="evidence-stat"></p>
+      <div id="evidence-groups"></div>
     </section>
   </main>
 
   <footer class="footer">
-    <p>출처 링크는 모두 원본으로 연결됩니다 · 자동 수집 후 LLM 에디터가 재구성합니다.</p>
+    <p>출처 링크는 모두 원본으로 연결됩니다 · 매일 아침 자동 수집 후 LLM 에디터가 한국어로 재구성합니다.</p>
   </footer>
 
   <script src="app.js"></script>

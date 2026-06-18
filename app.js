@@ -1,229 +1,262 @@
-/* AI 뉴스레터 대시보드 렌더러
- * data/latest.json 을 읽어 6개 섹션을 그린다. KO/EN 토글로 표시 언어를 전환한다.
- * LLM 미적용(fallback) 항목은 표시하되 작은 배지로 구분한다.
+/* AI 데일리 브리핑 — 임원 보고서 1페이지 렌더러
+ * 오늘의 흐름(인사이트) → 핵심 트렌드(보고용) → 근거 자료(접이식, 최소 카드).
+ * KO/EN 토글, 카드별 "자세히" 확장, 그룹별 상위 N + 전체 보기.
  */
 (function () {
   "use strict";
 
   let LANG = "ko";
   let DATA = null;
+  const TOP_N = 6;
 
-  const $ = (sel) => document.querySelector(sel);
-  const el = (tag, cls, html) => {
-    const n = document.createElement(tag);
-    if (cls) n.className = cls;
-    if (html != null) n.innerHTML = html;
-    return n;
-  };
+  const $ = (s) => document.querySelector(s);
   const esc = (s) =>
     String(s == null ? "" : s).replace(/[&<>"]/g, (c) =>
       ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])
     );
   const has = (s) => s != null && String(s).trim() !== "";
-
-  // 언어에 맞는 텍스트 선택 (ko 우선/원문 fallback)
-  const pick = (koVal, enVal) => {
-    if (LANG === "en") return has(enVal) ? enVal : koVal || "";
-    return has(koVal) ? koVal : enVal || "";
+  const pick = (ko, en) =>
+    LANG === "en" ? (has(en) ? en : ko || "") : has(ko) ? ko : en || "";
+  const snip = (t, n) => {
+    t = (t || "").trim();
+    return t.length > n ? t.slice(0, n).replace(/\s+\S*$/, "") + "…" : t;
   };
-
   const fmtDate = (iso) => {
     if (!has(iso)) return "";
     const d = new Date(iso);
-    if (isNaN(d)) return "";
-    return d.toLocaleDateString("ko-KR", { month: "short", day: "numeric" });
+    return isNaN(d) ? "" : d.toLocaleDateString("ko-KR", { month: "short", day: "numeric" });
   };
-
-  const fallbackBadge = (item) =>
-    item && item.llm === false ? '<span class="fallback-note">원문 기반</span>' : "";
-
-  const emptyBox = (msg) =>
-    `<div class="empty">${msg}<br><br>터미널에서 <code>python scrape_daily.py</code> 실행 후 새로고침하세요.</div>`;
-
-  const pointsList = (arr) =>
+  const normUrl = (u) => (u || "").trim().replace(/[#?].*$/, "").replace(/\/$/, "").toLowerCase();
+  const fb = (x) => (x && x.llm === false ? '<span class="fallback-note">원문 기반</span>' : "");
+  const li = (arr) =>
     Array.isArray(arr) && arr.length
-      ? `<ul class="points">${arr.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>`
+      ? `<ul>${arr.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>`
       : "";
 
-  // ---------------- Stats ----------------
-  function renderStats(d) {
-    const s = d.stats || {};
-    const items = [
-      ["누적", s.cumulativeDays, "일"],
-      ["뉴스", s.articleCount, "건"],
-      ["구루", s.guruMentionCount, "건"],
-      ["유튜브", s.youtubeBriefCount, "건"],
-      ["논문", s.paperCount, "건"],
-      ["출처", s.sourceCount, "개"],
-    ];
-    const stats = items
-      .map(
-        ([label, val, unit]) =>
-          `<div class="stat"><b>${val == null ? "-" : val}${unit || ""}</b><span>${label}</span></div>`
-      )
-      .join("");
-    const updated = has(d.updatedAt)
-      ? `<div class="updated">반영 ${esc(d.updatedAt.replace("T", " ").slice(0, 16))}</div>`
-      : "";
-    $("#stats").innerHTML = stats + updated;
+  // url → 한 줄 요약 (트렌드 So What 비었을 때 대체용)
+  function buildSummaryMap(d) {
+    const m = {};
+    (d.articles || []).forEach((a) => { if (a.url) m[normUrl(a.url)] = a.summaryKo || a.description; });
+    (d.papers || []).forEach((p) => { if (p.url) m[normUrl(p.url)] = p.contribution || p.description; });
+    (d.guruMentions || []).forEach((g) => { if (g.url) m[normUrl(g.url)] = g.summaryKo || g.quoteText; });
+    (d.youtubeBriefs || []).forEach((y) => { if (y.url) m[normUrl(y.url)] = y.summaryKo || y.description; });
+    return m;
   }
 
-  // ---------------- 1. Insight ----------------
+  // ---------------- 1. Hero ----------------
   function renderInsight(d) {
     const ins = d.dailyInsight || {};
     if (!has(ins.headline) && !has(ins.body)) {
-      $("#insight").innerHTML = emptyBox("아직 오늘의 인사이트가 없습니다.");
+      $("#insight").innerHTML =
+        `<div class="empty">아직 오늘의 인사이트가 없습니다. <code>python scrape_daily.py</code> 실행 후 새로고침하세요.</div>`;
       return;
     }
     const col = (title, arr) =>
-      Array.isArray(arr) && arr.length
-        ? `<div><h4>${title}</h4>${pointsList(arr)}</div>`
+      Array.isArray(arr) && arr.length ? `<div><h4>${title}</h4>${li(arr)}</div>` : "";
+    const sub =
+      (Array.isArray(ins.connections) && ins.connections.length) ||
+      (Array.isArray(ins.watchNext) && ins.watchNext.length)
+        ? `<div class="sub">${col("소스 간 연결점", ins.connections)}${col("다음에 확인할 것", ins.watchNext)}</div>`
         : "";
     $("#insight").innerHTML = `
-      <h3>${esc(ins.headline || "오늘의 AI 인사이트")} ${fallbackBadge(ins)}</h3>
-      <p>${esc(ins.body || "")}</p>
-      <div class="cols">
-        ${col("연결점", ins.connections)}
-        ${col("다음에 확인할 것", ins.watchNext)}
-      </div>`;
+      <div class="eyebrow">오늘의 흐름 ${fb(ins)}</div>
+      <h2>${esc(ins.headline || "오늘의 AI 인사이트")}</h2>
+      <p class="body">${esc(ins.body || "")}</p>
+      ${sub}`;
   }
 
-  // ---------------- 2. News ----------------
-  function articleCard(a) {
-    const c = el("article", "card");
-    c.innerHTML = `
-      <div class="meta"><span class="src">${esc(a.sourceName)}</span>
-        ${has(a.publishedAt) ? "· " + fmtDate(a.publishedAt) : ""} ${fallbackBadge(a)}</div>
-      <h3><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(pick(a.titleKo, a.title))}</a></h3>
-      <p class="summary">${esc(pick(a.summaryKo, a.description))}</p>
-      ${pointsList(a.insights)}
-      ${has(a.soWhat) ? `<div class="sowhat"><b>So What</b> · ${esc(a.soWhat)}</div>` : ""}
-      ${has(a.execLine) ? `<div class="exec"><b>임원 보고</b> · ${esc(a.execLine)}</div>` : ""}
-    `;
-    return c;
-  }
-
-  // ---------------- 3. Guru ----------------
-  function guruCard(g) {
-    const c = el("article", "card");
-    c.innerHTML = `
-      <div class="meta"><span class="src">${esc(g.name)}</span>
-        ${has(g.org) ? "· " + esc(g.org) : ""} ${has(g.publishedAt) ? "· " + fmtDate(g.publishedAt) : ""} ${fallbackBadge(g)}</div>
-      ${has(g.title) ? `<div class="kv"><span class="k">직함</span> <span class="v">${esc(g.title)}</span></div>` : ""}
-      <h3><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.quoteTitle)}</a></h3>
-      <p class="summary">${esc(pick(g.summaryKo, g.quoteText))}</p>
-      ${has(g.meaning) ? `<div class="kv"><span class="k">핵심 의미</span> <span class="v">${esc(g.meaning)}</span></div>` : ""}
-      ${has(g.businessImplication) ? `<div class="sowhat"><b>비즈니스 시사점</b> · ${esc(g.businessImplication)}</div>` : ""}
-      ${has(g.caution) ? `<div class="exec"><b>주의할 점</b> · ${esc(g.caution)}</div>` : ""}
-    `;
-    return c;
-  }
-
-  // ---------------- 4. YouTube ----------------
-  function youtubeCard(y) {
-    const tier = (y.trust || y.baselineTier || "medium").toLowerCase();
-    const basis = y.hasTranscript ? "자막 기반" : "설명 기반";
-    const c = el("article", "card");
-    c.innerHTML = `
-      <div class="meta"><span class="src">${esc(y.channelName)}</span>
-        ${has(y.publishedAt) ? "· " + fmtDate(y.publishedAt) : ""}
-        <span class="chip neutral">${basis}</span>
-        <span class="trust ${tier}">신뢰도 ${tier.toUpperCase()}</span> ${fallbackBadge(y)}</div>
-      <h3><a href="${esc(y.url)}" target="_blank" rel="noopener">${esc(y.videoTitle)}</a></h3>
-      <p class="summary">${esc(pick(y.summaryKo, y.description))}</p>
-      ${pointsList(y.keyPoints)}
-      ${has(y.implication) ? `<div class="sowhat"><b>실무 시사점</b> · ${esc(y.implication)}</div>` : ""}
-      ${y.needsVerification ? `<div class="verify">⚠ 검증 필요: 과장 가능성 있음</div>` : ""}
-    `;
-    return c;
-  }
-
-  // ---------------- 5. Paper ----------------
-  function paperCard(p) {
-    const c = el("article", "card");
-    c.innerHTML = `
-      <div class="meta"><span class="src">${esc(p.sourceName)}</span>
-        ${has(p.difficulty) ? `· <span class="chip neutral">난이도 ${esc(p.difficulty)}</span>` : ""} ${fallbackBadge(p)}</div>
-      <h3><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(pick(p.titleKo, p.title))}</a></h3>
-      ${has(p.topic) ? `<div class="kv"><span class="k">주제</span> <span class="v">${esc(p.topic)}</span></div>` : ""}
-      <p class="summary">${esc(pick(p.contribution, p.description))}</p>
-      ${has(p.applicability) ? `<div class="kv"><span class="k">실무 적용</span> <span class="v">${esc(p.applicability)}</span></div>` : ""}
-      ${has(p.marketingAngle) ? `<div class="sowhat"><b>마케팅 관점</b> · ${esc(p.marketingAngle)}</div>` : ""}
-    `;
-    return c;
-  }
-
-  // ---------------- 6. Report ----------------
-  function renderReport(d) {
+  // ---------------- 2. Trends ----------------
+  function renderTrends(d) {
     const r = d.reportSummary || {};
     const trends = Array.isArray(r.topTrends) ? r.topTrends : [];
+    const host = $("#trends");
     if (!trends.length && !(r.actions || []).length) {
-      $("#report").innerHTML = emptyBox("아직 보고용 서머리가 없습니다.");
+      host.innerHTML =
+        `<div class="section-head"><h2>오늘의 핵심 트렌드</h2></div>
+         <div class="empty">아직 정리된 트렌드가 없습니다.</div>`;
       return;
     }
-    const trendHtml = trends
-      .map(
-        (t, i) => `
-      <div class="trend">
-        <h4><span class="rank">${i + 1}</span>${esc(t.title)}</h4>
-        ${has(t.quote) ? `<p class="quote">“${esc(t.quote)}”</p>` : ""}
-        ${has(t.soWhat) ? `<div class="kv"><span class="k">So What</span> <span class="v">${esc(t.soWhat)}</span></div>` : ""}
-        ${has(t.evidenceUrl) ? `<a class="evidence" href="${esc(t.evidenceUrl)}" target="_blank" rel="noopener">근거 링크 ↗</a>` : ""}
-      </div>`
-      )
+    const smap = buildSummaryMap(d);
+    const items = trends
+      .map((t, i) => {
+        const line = has(t.soWhat)
+          ? `<p class="sowhat"><b>So What</b> · ${esc(t.soWhat)}</p>`
+          : (() => {
+              const alt = smap[normUrl(t.evidenceUrl)];
+              return has(alt) ? `<p class="sowhat">${esc(snip(alt, 150))}</p>` : "";
+            })();
+        return `
+          <article class="trend">
+            <div class="num">${i + 1}</div>
+            <div class="tbody">
+              <h3>${esc(t.title)}</h3>
+              ${has(t.quote) ? `<p class="quote">“${esc(t.quote)}”</p>` : ""}
+              ${line}
+              ${has(t.evidenceUrl) ? `<a class="ev" href="${esc(t.evidenceUrl)}" target="_blank" rel="noopener">근거 보기 ↗</a>` : ""}
+            </div>
+          </article>`;
+      })
       .join("");
-    const listCol = (title, arr) =>
-      Array.isArray(arr) && arr.length
-        ? `<div><h4>${title}</h4>${pointsList(arr)}</div>`
-        : "";
-    $("#report").innerHTML = `
-      <h3 style="margin:0 0 6px;font-size:16px;">Top ${trends.length} 트렌드 ${fallbackBadge(r)}</h3>
-      ${trendHtml}
-      <div class="lists">
-        ${listCol("실행 제안", r.actions)}
-        ${listCol("리스크 / 유의점", r.risks)}
+    const colA =
+      Array.isArray(r.actions) && r.actions.length
+        ? `<div class="report-col act"><h4>✓ 실행 제안</h4>${li(r.actions)}</div>` : "";
+    const colR =
+      Array.isArray(r.risks) && r.risks.length
+        ? `<div class="report-col risk"><h4>⚠ 리스크 / 유의점</h4>${li(r.risks)}</div>` : "";
+    const cols = colA || colR ? `<div class="report-cols">${colA}${colR}</div>` : "";
+    host.innerHTML = `
+      <div class="section-head"><h2>오늘의 핵심 트렌드</h2><span class="hint">보고서에 그대로 활용 ${fb(r)}</span></div>
+      <div class="trend-list">${items}</div>
+      ${cols}`;
+  }
+
+  // ---------------- 3. Evidence cards ----------------
+  function detailBlock(rows) {
+    const body = rows.filter(Boolean).join("");
+    return body ? `<button class="more-btn" type="button">자세히 ▾</button><div class="detail">${body}</div>` : "";
+  }
+  const kv = (k, v) => (has(v) ? `<div class="kv"><span class="k">${k}</span> ${esc(v)}</div>` : "");
+
+  function articleCard(a) {
+    const one = has(a.soWhat) ? a.soWhat : snip(pick(a.summaryKo, a.description), 110);
+    return `
+      <div class="mc">
+        <div class="mmeta"><span class="src">${esc(a.sourceName)}</span>
+          ${has(a.publishedAt) ? "· " + fmtDate(a.publishedAt) : ""} ${fb(a)}</div>
+        <h4><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(pick(a.titleKo, a.title))}</a></h4>
+        ${has(one) ? `<p class="one">${esc(one)}</p>` : ""}
+        ${detailBlock([
+          li(a.insights),
+          kv("So What", a.soWhat),
+          kv("임원 보고", a.execLine),
+        ])}
       </div>`;
   }
 
-  // ---------------- Grid filler ----------------
-  function fillGrid(id, arr, cardFn, emptyMsg) {
-    const host = $("#" + id);
-    host.innerHTML = "";
-    if (!Array.isArray(arr) || !arr.length) {
-      host.innerHTML = emptyBox(emptyMsg);
-      return;
-    }
-    const frag = document.createDocumentFragment();
-    arr.forEach((item) => frag.appendChild(cardFn(item)));
-    host.appendChild(frag);
+  function guruCard(g) {
+    const one = has(g.businessImplication) ? g.businessImplication : snip(pick(g.summaryKo, g.quoteText), 110);
+    return `
+      <div class="mc">
+        <div class="mmeta"><span class="src">${esc(g.name)}</span>
+          ${has(g.org) ? "· " + esc(g.org) : ""} ${has(g.publishedAt) ? "· " + fmtDate(g.publishedAt) : ""} ${fb(g)}</div>
+        <h4><a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.quoteTitle)}</a></h4>
+        ${has(one) ? `<p class="one">${esc(one)}</p>` : ""}
+        ${detailBlock([
+          kv("발언 요약", pick(g.summaryKo, g.quoteText)),
+          kv("핵심 의미", g.meaning),
+          kv("비즈니스 시사점", g.businessImplication),
+          kv("주의할 점", g.caution),
+        ])}
+      </div>`;
   }
 
-  function setCount(id, n) {
-    $("#" + id).textContent = n ? `${n}건` : "";
+  function youtubeCard(y) {
+    const tier = (y.trust || y.baselineTier || "medium").toLowerCase();
+    const one = has(y.implication) ? y.implication : snip(pick(y.summaryKo, y.description), 110);
+    return `
+      <div class="mc">
+        <div class="mmeta"><span class="src">${esc(y.channelName)}</span>
+          ${has(y.publishedAt) ? "· " + fmtDate(y.publishedAt) : ""}
+          <span class="trust ${tier}">${tier.toUpperCase()}</span>
+          ${y.needsVerification ? '<span class="verify">⚠ 검증</span>' : ""} ${fb(y)}</div>
+        <h4><a href="${esc(y.url)}" target="_blank" rel="noopener">${esc(y.videoTitle)}</a></h4>
+        ${has(one) ? `<p class="one">${esc(one)}</p>` : ""}
+        ${detailBlock([
+          kv("요약", pick(y.summaryKo, y.description)),
+          li(y.keyPoints),
+          kv("실무 시사점", y.implication),
+        ])}
+      </div>`;
+  }
+
+  function paperCard(p) {
+    const one = has(p.marketingAngle) ? p.marketingAngle : snip(pick(p.contribution, p.description), 110);
+    return `
+      <div class="mc">
+        <div class="mmeta"><span class="src">${esc(p.sourceName)}</span>
+          ${has(p.difficulty) ? `· <span class="chip">난이도 ${esc(p.difficulty)}</span>` : ""} ${fb(p)}</div>
+        <h4><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(pick(p.titleKo, p.title))}</a></h4>
+        ${has(one) ? `<p class="one">${esc(one)}</p>` : ""}
+        ${detailBlock([
+          kv("연구 주제", p.topic),
+          kv("핵심 기여", pick(p.contribution, p.description)),
+          kv("실무 적용", p.applicability),
+          kv("마케팅 관점", p.marketingAngle),
+        ])}
+      </div>`;
+  }
+
+  const GROUPS = [
+    { icon: "📰", label: "핵심 뉴스", key: "articles", card: articleCard, open: true },
+    { icon: "🧠", label: "AI 구루 언급", key: "guruMentions", card: guruCard },
+    { icon: "▶", label: "테크 유튜버", key: "youtubeBriefs", card: youtubeCard },
+    { icon: "📄", label: "논문 / 리서치", key: "papers", card: paperCard },
+  ];
+
+  function renderEvidence(d) {
+    const host = $("#evidence-groups");
+    host.innerHTML = "";
+    let total = 0;
+    GROUPS.forEach((g) => {
+      const items = d[g.key] || [];
+      total += items.length;
+      if (!items.length) return;
+      const det = document.createElement("details");
+      det.className = "group";
+      if (g.open) det.open = true;
+      const top = items.slice(0, TOP_N).map(g.card).join("");
+      const restCount = items.length - TOP_N;
+      det.innerHTML = `
+        <summary><span class="chev">▶</span><span class="gicon">${g.icon}</span>
+          ${g.label} <span class="gcount">${items.length}건</span></summary>
+        <div class="group-body">
+          ${top}
+          ${restCount > 0 ? `<button class="show-all" type="button">나머지 ${restCount}건 모두 보기</button>` : ""}
+        </div>`;
+      // 전체 보기
+      if (restCount > 0) {
+        det.querySelector(".show-all").addEventListener("click", function () {
+          this.insertAdjacentHTML("beforebegin", items.slice(TOP_N).map(g.card).join(""));
+          this.remove();
+          bindMore(det);
+        });
+      }
+      bindMore(det);
+      host.appendChild(det);
+    });
+    $("#evidence-stat").textContent =
+      `뉴스 ${(d.articles || []).length} · 구루 ${(d.guruMentions || []).length} · 유튜브 ${(d.youtubeBriefs || []).length} · 논문 ${(d.papers || []).length} · 출처 ${(d.stats && d.stats.sourceCount) || 0}개`;
+    if (!total) host.innerHTML = `<div class="empty">아직 수집된 자료가 없습니다.</div>`;
+  }
+
+  // "자세히" 토글 바인딩 (이벤트 위임이 아닌 직접 — 동적 추가분 대응)
+  function bindMore(scope) {
+    scope.querySelectorAll(".mc .more-btn").forEach((btn) => {
+      if (btn.dataset.bound) return;
+      btn.dataset.bound = "1";
+      btn.addEventListener("click", () => {
+        const mc = btn.closest(".mc");
+        const open = mc.classList.toggle("open");
+        btn.textContent = open ? "접기 ▴" : "자세히 ▾";
+      });
+    });
   }
 
   function renderAll() {
     if (!DATA) return;
-    renderStats(DATA);
+    $("#updated").textContent = has(DATA.updatedAt)
+      ? "반영 " + DATA.updatedAt.replace("T", " ").slice(0, 16)
+      : "";
     renderInsight(DATA);
-    fillGrid("news", DATA.articles, articleCard, "수집된 뉴스가 없습니다.");
-    fillGrid("guru", DATA.guruMentions, guruCard, "수집된 구루 발언이 없습니다.");
-    fillGrid("youtube", DATA.youtubeBriefs, youtubeCard, "수집된 유튜브 브리프가 없습니다.");
-    fillGrid("paper", DATA.papers, paperCard, "수집된 논문이 없습니다.");
-    renderReport(DATA);
-    setCount("news-count", (DATA.articles || []).length);
-    setCount("guru-count", (DATA.guruMentions || []).length);
-    setCount("youtube-count", (DATA.youtubeBriefs || []).length);
-    setCount("paper-count", (DATA.papers || []).length);
+    renderTrends(DATA);
+    renderEvidence(DATA);
   }
 
   function bindToggle() {
     document.querySelectorAll(".lang-toggle button").forEach((btn) => {
       btn.addEventListener("click", () => {
         LANG = btn.dataset.lang;
-        document
-          .querySelectorAll(".lang-toggle button")
-          .forEach((b) => b.classList.toggle("active", b === btn));
+        document.querySelectorAll(".lang-toggle button").forEach((b) => b.classList.toggle("active", b === btn));
         renderAll();
       });
     });
@@ -236,19 +269,12 @@
       if (!res.ok) throw new Error("HTTP " + res.status);
       DATA = await res.json();
     } catch (e) {
-      $("#insight").innerHTML = emptyBox(
-        "data/latest.json 을 불러오지 못했습니다. (" + esc(e.message) + ")"
-      );
+      $("#insight").innerHTML = `<div class="empty">data/latest.json 을 불러오지 못했습니다. (${esc(e.message)})</div>`;
       return;
     }
     renderAll();
   }
 
-  // 개발/검증용: 외부에서 샘플 데이터를 주입할 수 있게 노출
-  window.__renderData = (d) => {
-    DATA = d;
-    renderAll();
-  };
-
+  window.__renderData = (d) => { DATA = d; renderAll(); };
   document.addEventListener("DOMContentLoaded", init);
 })();

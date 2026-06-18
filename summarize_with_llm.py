@@ -31,6 +31,12 @@ except ImportError:
     sys.exit(1)
 
 try:
+    import truststore
+    truststore.inject_into_ssl()
+except Exception:
+    pass
+
+try:
     from dotenv import load_dotenv
     load_dotenv()
 except Exception:
@@ -413,6 +419,39 @@ def _raw_paper(p):
 
 
 # --------------------------------------------------------------------------- #
+# LLM 종합 실패 시 카운트/기사 기반 폴백 (키 없거나 호출 실패)
+# --------------------------------------------------------------------------- #
+def _fallback_insight(payload):
+    a, g = len(payload.get("articles", [])), len(payload.get("guruMentions", []))
+    y, p = len(payload.get("youtubeBriefs", [])), len(payload.get("papers", []))
+    return {
+        "headline": "오늘 수집된 AI 동향 요약",
+        "body": (
+            f"오늘 뉴스 {a}건, AI 구루 발언 {g}건, 테크 유튜브 {y}건, 논문 {p}건을 수집했습니다. "
+            "LLM 요약을 활성화하면(.env 에 유효한 API 키 입력) 전문 에디터 톤의 한국어 인사이트와 "
+            "소스 간 연결점이 자동 생성됩니다."
+        ),
+        "connections": [],
+        "watchNext": [],
+        "llm": False,
+    }
+
+
+def _fallback_report(payload):
+    top = payload.get("articles", [])[:5]
+    return {
+        "topTrends": [
+            {"title": a.get("titleKo") or a.get("title", ""),
+             "evidenceUrl": a.get("url", ""), "soWhat": "", "quote": ""}
+            for a in top
+        ],
+        "actions": [],
+        "risks": [],
+        "llm": False,
+    }
+
+
+# --------------------------------------------------------------------------- #
 # 진입점: enrich(payload)
 # --------------------------------------------------------------------------- #
 def enrich(payload):
@@ -447,13 +486,9 @@ def enrich(payload):
             _raw_paper(p); fail += 1
 
     insight = build_daily_insight(payload)
-    payload["dailyInsight"] = insight if insight else {
-        "headline": "오늘의 AI 인사이트", "body": "", "connections": [], "watchNext": [], "llm": False
-    }
+    payload["dailyInsight"] = insight if insight else _fallback_insight(payload)
     report = build_report_summary(payload)
-    payload["reportSummary"] = report if report else {
-        "topTrends": [], "actions": [], "risks": [], "llm": False
-    }
+    payload["reportSummary"] = report if report else _fallback_report(payload)
 
     print(f"[DONE] LLM 카드 생성 성공 {ok} / 원문 대체 {fail}", flush=True)
     return payload

@@ -40,6 +40,14 @@ except ImportError:
     print("[FATAL] feedparser 가 필요합니다. `pip install -r requirements.txt` 를 먼저 실행하세요.")
     sys.exit(1)
 
+# TLS 검증을 OS 인증서 저장소로 위임 (사내/프록시 환경의 self-signed CA 대응).
+# 설치돼 있지 않으면 기본 certifi 번들을 사용한다.
+try:
+    import truststore
+    truststore.inject_into_ssl()
+except Exception:
+    pass
+
 # 선택적 의존성 (없어도 동작)
 try:
     from dotenv import load_dotenv
@@ -124,7 +132,7 @@ def normalize_url(url):
     if not url:
         return ""
     url = url.strip()
-    url = re.sub(r"[?#].*$", "", url)  # 쿼리/프래그먼트 제거
+    url = re.sub(r"#.*$", "", url)  # 프래그먼트만 제거 (쿼리는 식별자일 수 있어 보존: ?v=, ?id= 등)
     return url.rstrip("/").lower()
 
 

@@ -92,6 +92,7 @@ def _providers():
 
 
 _AWS_CLIENT = None
+_LOGGED_DETAIL = set()  # 공급자별 상세 오류는 1회만 출력
 
 
 def _aws_client():
@@ -100,6 +101,13 @@ def _aws_client():
     if _AWS_CLIENT is None:
         from anthropic import AnthropicAWS  # pip install "anthropic[aws]"
         _AWS_CLIENT = AnthropicAWS()
+        creds = "set" if (os.getenv("AWS_ACCESS_KEY_ID") or os.getenv("AWS_PROFILE")) else "MISSING"
+        print(
+            f"[INFO] AWS client: base_url={getattr(_AWS_CLIENT, 'base_url', '?')} "
+            f"region={AWS_REGION or 'MISSING'} model={AWS_MODEL} "
+            f"workspace={'set' if AWS_WORKSPACE_ID else 'MISSING'} creds={creds}",
+            flush=True,
+        )
     return _AWS_CLIENT
 
 
@@ -196,7 +204,15 @@ def llm_json(user_prompt, max_tokens=1024, retry=1):
                 if parsed is not None:
                     return parsed
             except Exception as e:  # noqa: BLE001
-                print(f"[WARN] {provider} 호출 실패: {e}", flush=True)
+                detail = repr(e)
+                cause = getattr(e, "__cause__", None)
+                if cause is not None:
+                    detail += f" | cause={cause!r}"
+                if provider not in _LOGGED_DETAIL:
+                    _LOGGED_DETAIL.add(provider)
+                    print(f"[WARN] {provider} 호출 실패(상세): {detail}", flush=True)
+                else:
+                    print(f"[WARN] {provider} 호출 실패: {e}", flush=True)
                 time.sleep(0.8)
     return None
 

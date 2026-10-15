@@ -122,3 +122,9 @@ sup.fn a:hover{text-decoration:underline}
 .ntag.mk{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
 .empty{color:var(--ink-3);padding:16px 0}
 .news-list .orig{font-size:12.5px;color:var(--ink-3);margin-top:2px;font-style:italic}
+.lang{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.06em;color:#fff;background:var(--ink);padding:1px 6px;border-radius:3px;margin-right:8px;vertical-align:3px;font-family:var(--sans)}
+.news-list .s.en{color:var(--ink-2)}
+.news-list .ko{margin:8px 0 8px;padding:10px 14px;background:var(--soft);border-left:3px solid var(--accent)}
+.news-list .ko .kol{display:block;font-size:11px;font-weight:700;letter-spacing:.06em;color:var(--accent);margin-bottom:3px}
+.news-list .ko b{display:block;font-size:15.5px;line-height:1.5}
+.news-list .ko p{margin:3px 0 0;font-size:14.5px;color:var(--ink-2);line-height:1.6}

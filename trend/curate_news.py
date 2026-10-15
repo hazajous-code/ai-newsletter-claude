@@ -117,6 +117,7 @@ def main():
             "lang": a.get("lang") or src.get("language", ""),
             "titleKo": "",
             "summaryKo": "",
+            "summaryEn": "",
             "tags": tags,
             "score": round(sc, 2),
         })
@@ -148,6 +149,8 @@ def main():
                 it["titleKo"], it["summaryKo"] = a["titleKo"], a.get("summaryKo", "")
             elif it["url"] in tr:
                 it["titleKo"], it["summaryKo"] = tr[it["url"]].get("titleKo", ""), tr[it["url"]].get("summaryKo", "")
+            # 영어 요약: 번역 캐시의 summaryEn → 없으면 원문 description 앞부분
+            it["summaryEn"] = tr.get(it["url"], {}).get("summaryEn") or re.sub(r"\s+", " ", a.get("description", "") or "").strip()[:220]
         out[region] = picked
 
     os.makedirs(OUT_DIR, exist_ok=True)

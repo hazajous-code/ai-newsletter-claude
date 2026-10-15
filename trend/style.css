@@ -99,7 +99,7 @@ sup.fn a:hover{text-decoration:underline}
 [id^="r"]{scroll-margin-top:80px}
 
 /* tabs */
-.tabs{display:flex;gap:0;border-bottom:1px solid var(--line);padding-top:18px;font-size:14px;overflow-x:auto}
+.tabs{display:flex;flex-wrap:wrap;gap:0;border-bottom:1px solid var(--line);padding-top:18px;font-size:14px;overflow:visible}
 .tabs a{padding:10px 14px 9px;text-decoration:none;color:var(--ink-3);border-bottom:2px solid transparent;margin-bottom:-1px;white-space:nowrap}
 .tabs a:first-child{padding-left:0}
 .tabs a.on{color:var(--ink);font-weight:700;border-bottom-color:var(--ink)}

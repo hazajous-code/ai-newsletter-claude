@@ -1,0 +1,26 @@
+{
+  "_설명": "정기 조사 때 이 키워드들로 검색합니다. 자유롭게 추가·삭제하세요. focus는 이번 호에 특히 깊게 볼 주제(비워두면 상시 키워드만 사용).",
+  "audience": "마케터 (브랜드·콘텐츠·퍼포먼스·이커머스 실무자)",
+  "cadence": "매주 목요일 오전 8시(KST) 발행",
+  "always": [
+    "AI agent launch",
+    "AI marketing advertising",
+    "generative AI brand campaign",
+    "AI slop",
+    "GitHub trending AI",
+    "AI search SEO GEO",
+    "Meta Google OpenAI Anthropic announcement"
+  ],
+  "focus": [
+    "reverse engineering AI decompilation",
+    "AI software clone Adobe Microsoft Office",
+    "Meta Muse agent"
+  ],
+  "sections": [
+    "커버스토리 (focus 키워드 중심)",
+    "에이전트 소식",
+    "AI 슬롭 워치",
+    "마케터 체크리스트",
+    "출처"
+  ]
+}

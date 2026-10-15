@@ -48,11 +48,14 @@ jobs:
           LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
         run: python scrape_daily.py
 
+      - name: Curate today's AI news (trend/news.html)
+        run: python trend/curate_news.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ trend/data/
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
           else

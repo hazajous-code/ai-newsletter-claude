@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Trend Search · 오늘의 AI 뉴스</title>
+<meta name="description" content="매일 아침 고르는 중요한 AI 뉴스 — 글로벌·한국">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=text4">
+</head>
+<body>
+<div class="wrap">
+<nav class="tabs" aria-label="메뉴"><a href="index.html">주간 뉴스레터</a><a href="news.html" class="on">오늘의 AI 뉴스</a><a href="archive.html">지난 호</a></nav>
+
+<header class="mast tight">
+  <div class="top"><span>AI TREND SEARCH — 오늘의 AI 뉴스</span><span id="d">—</span></div>
+  <h1 style="font-size:clamp(32px,6vw,48px)">오늘 알아둘 <span>AI 뉴스</span></h1>
+  <p class="sub">글로벌·한국 AI 매체 20곳의 최근 3일 기사 중 중요도가 높은 기사만 고릅니다. 글로벌 최대 6건, 한국 최대 5건.</p>
+  <div class="news-meta"><span id="u">업데이트 —</span><span>매일 오전 7시(KST) 갱신</span></div>
+</header>
+
+<section class="news-region" style="border-bottom:0" aria-labelledby="hg">
+  <h2 id="hg">글로벌 <small id="cg"></small></h2>
+  <ol class="news-list" id="lg"><li class="empty" style="padding-left:0">불러오는 중…</li></ol>
+</section>
+
+<section class="news-region" style="border-bottom:0" aria-labelledby="hk">
+  <h2 id="hk">한국 <small id="ck"></small></h2>
+  <ol class="news-list" id="lk"><li class="empty" style="padding-left:0">불러오는 중…</li></ol>
+</section>
+
+<section style="border-bottom:0;padding-top:28px">
+  <div class="box">
+    <h4>선정 기준</h4>
+    <ul>
+      <li>제목에 AI 관련어가 있는 기사만 대상</li>
+      <li>점수: 빅테크·주요 AI 제품 언급, <b>마케팅·광고·커머스 영향</b>, 출시·발표, 정책·법·보안, 최신성, 매체 신뢰도</li>
+      <li>기업 공식 블로그의 고객 사례·투자·파트너 홍보 글은 감점</li>
+      <li>같은 매체 최대 2건, 같은 이야기는 1건만, 기준 점수 미달 기사는 노출하지 않음</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  <p><a href="index.html">주간 뉴스레터 보기</a> · <a href="archive.html">지난 호</a></p>
+</footer>
+</div>
+
+<script>
+(function(){
+  function esc(s){return String(s||"").replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+  function ago(iso){
+    var t=Date.parse(iso); if(!t) return "";
+    var h=Math.round((Date.now()-t)/36e5);
+    if(h<1) return "방금"; if(h<24) return h+"시간 전";
+    return Math.round(h/24)+"일 전";
+  }
+  function render(list,el,cnt){
+    var ul=document.getElementById(el);
+    if(!list||!list.length){ul.innerHTML='<li class="empty" style="padding-left:0">오늘은 기준을 넘는 기사가 없습니다.</li>';return;}
+    document.getElementById(cnt).textContent=list.length+"건";
+    ul.innerHTML=list.map(function(a){
+      var tags=(a.tags||[]).map(function(t){return '<span class="ntag'+(t==="마케팅 영향"?" mk":"")+'">'+esc(t)+'</span>';}).join("");
+      return '<li><a class="t" href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a>'+
+        (a.summary?'<p class="s">'+esc(a.summary)+(a.summary.length>=110?'…':'')+'</p>':'')+
+        '<div class="m"><span>'+esc(a.source)+'</span><span>·</span><span>'+ago(a.publishedAt)+'</span>'+tags+'</div></li>';
+    }).join("");
+  }
+  fetch("data/news.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
+    document.getElementById("d").textContent=(d.date||"").replace(/-/g,".");
+    document.getElementById("u").textContent="업데이트 "+(d.updatedAt||"").replace("T"," ").slice(0,16);
+    render(d.global,"lg","cg"); render(d.korea,"lk","ck");
+  }).catch(function(){
+    ["lg","lk"].forEach(function(id){document.getElementById(id).innerHTML='<li class="empty" style="padding-left:0">뉴스를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</li>';});
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 데일리 브리핑 · 마케터를 위한 큐레이션</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">AI</span>
+        <div class="brand-text">
+          <h1>AI 데일리 브리핑</h1>
+          <p>마케팅·전략 실무자를 위한 큐레이션</p>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <span class="updated" id="updated"></span>
+        <div class="lang-toggle" role="group" aria-label="언어 토글">
+          <button data-lang="ko" class="active" type="button">한국어</button>
+          <button data-lang="en" type="button">원문</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="page" id="app">
+    <!-- 1. 오늘의 흐름 -->
+    <section class="hero" id="insight" aria-label="오늘의 흐름"></section>
+
+    <!-- 2. 오늘의 핵심 트렌드 (보고용) -->
+    <section class="trends-wrap" id="trends" aria-label="오늘의 핵심 트렌드"></section>
+
+    <!-- 3. 근거 자료 전체 (기본 접힘) -->
+    <section class="evidence" aria-label="근거 자료">
+      <h2 class="evidence-title">근거 자료 전체</h2>
+      <p class="evidence-sub" id="evidence-stat"></p>
+      <div id="evidence-groups"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>출처 링크는 모두 원본으로 연결됩니다 · 매일 아침 자동 수집 후 LLM 에디터가 한국어로 재구성합니다.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

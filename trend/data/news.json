@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T14:34+09:00",
+  "updatedAt": "2026-10-15T14:41+09:00",
   "global": [
     {
       "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
@@ -9,6 +9,9 @@
       "sourceId": "the-verge",
       "publishedAt": "2026-10-14T21:11:28+00:00",
       "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported",
+      "lang": "en",
+      "titleKo": "미국 8개 주, \"ChatGPT는 아이들에게 안전하지 않다\"며 오픈AI 제소",
+      "summaryKo": "아이오와·캔자스·네브래스카 등 미국 8개 주가 오픈AI가 아이들에게 해를 끼치고 ChatGPT의 안전성에 대해 소비자를 오도했다며 각각 소송을 냈다. 오픈AI가 안전보다 수익을 우선했다는 주장이다(로이터 최초 보도).",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -22,6 +25,9 @@
       "sourceId": "the-verge",
       "publishedAt": "2026-10-14T19:06:03+00:00",
       "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google",
+      "lang": "en",
+      "titleKo": "AI 경쟁, 다시 불붙다",
+      "summaryKo": "지난주까지만 해도 앤트로픽과 오픈AI가 강력한 모델로 경쟁을 주도하고 구글은 크게 뒤처진 것처럼 보였다. 수십억 달러를 쏟은 메타도 확실한 경쟁자로 자리 잡지 못했지만, 최근 판도가 다시 흔들리고 있다는 분석이다.",
       "tags": [
         "빅테크"
       ],
@@ -34,6 +40,9 @@
       "sourceId": "google-deepmind",
       "publishedAt": "2026-10-13T16:01:58+00:00",
       "summary": "",
+      "lang": "en",
+      "titleKo": "로봇용 Gemini 4 Argon",
+      "summaryKo": "구글 딥마인드가 물리 추론 능력을 강화한 로봇용 모델 'Gemini 4 Argon'을 공개했다.",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -47,6 +56,9 @@
       "sourceId": "mit-tech-review",
       "publishedAt": "2026-10-13T10:00:00+00:00",
       "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more f",
+      "lang": "en",
+      "titleKo": "오픈 모델의 장점은 분명하다. 그렇다면 위험보다 클까?",
+      "summaryKo": "앤트로픽이 지난달 말 오픈 모델 GLM-5.3이 큰 사이버 공격 위험을 안고 있다는 보고서를 낸 것을 계기로, 누구나 내려받아 쓸 수 있는 오픈 모델의 이점과 위험을 MIT 테크놀로지 리뷰가 짚었다.",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +73,9 @@
       "sourceId": "aitimes",
       "publishedAt": "2026-10-15T07:00:00+00:00",
       "summary": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -74,6 +89,9 @@
       "sourceId": "etnews",
       "publishedAt": "2026-10-14T22:29:08+00:00",
       "summary": "인공지능(AI) 에이전트에 대한 안전조치가 미흡할 경우 향후 2년 안에 심각한 보안사고가 발생할 수 있다는 경고가 나왔다. 14일(현지시간) AFP·로이터통신에 따르면 데미스 허사비스 구글 최고과학",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -87,6 +105,9 @@
       "sourceId": "etnews",
       "publishedAt": "2026-10-14T22:25:02+00:00",
       "summary": "오픈AI가 애플로 복귀한 전 직원의 영업기밀 유출 의혹을 제기하며 맞소송을 검토하고 나섰다. 애플이 앞서 오픈AI를 상대로 영업기밀 탈취 소송을 제기한 가운데 양사 간 법적 공방이 확대되는 양상이다",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -100,6 +121,9 @@
       "sourceId": "aitimes",
       "publishedAt": "2026-10-14T17:58:10+00:00",
       "summary": "앤트로픽이 AI 모델의 성능을 몰래 복제하는 ‘불법 증류’를 막기 위해 추론 데이터 보호와 공격 탐지 기능을 강화하고, 반복적으로 공격에 나선 계정을 대거 차단하는 등 대응 수위를 높이고 있다. 앤",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
       "tags": [
         "빅테크",
         "출시·발표"

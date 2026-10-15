@@ -16,6 +16,7 @@ SRC = os.path.join(ROOT, "data", "latest.json")
 REG = os.path.join(ROOT, "source-registry.json")
 OUT_DIR = os.path.join(ROOT, "trend", "data")
 OUT = os.path.join(OUT_DIR, "news.json")
+TR = os.path.join(OUT_DIR, "translations.json")  # 영문 기사 한국어 제목·요약 캐시 (URL 키)
 
 LIMIT = {"global": 6, "korea": 5}
 MAX_AGE_DAYS = 3
@@ -95,6 +96,7 @@ def main():
     data = json.load(open(SRC, encoding="utf-8"))
     reg = {s["id"]: s for s in json.load(open(REG, encoding="utf-8")).get("newsSources", [])}
     now = datetime.datetime.now(datetime.timezone.utc)
+    tr = json.load(open(TR, encoding="utf-8")) if os.path.exists(TR) else {}
 
     pools = {"global": [], "korea": []}
     for a in data.get("articles", []):
@@ -112,6 +114,9 @@ def main():
             "sourceId": a.get("sourceId"),
             "publishedAt": a.get("publishedAt", ""),
             "summary": re.sub(r"\s+", " ", (a.get("summaryKo") or a.get("description") or "")).strip()[:(110 if region == "korea" else 170)],
+            "lang": a.get("lang") or src.get("language", ""),
+            "titleKo": "",
+            "summaryKo": "",
             "tags": tags,
             "score": round(sc, 2),
         })
@@ -133,6 +138,16 @@ def main():
                 break
         picked = [p for p in picked if p["score"] >= MIN_SCORE]
         picked.sort(key=lambda x: x["publishedAt"], reverse=True)
+        # 영문 기사: LLM 번역(summarize_with_llm)이 있으면 사용, 없으면 번역 캐시 사용
+        src_by_url = {a.get("url"): a for a in data.get("articles", [])}
+        for it in picked:
+            if it["lang"] == "ko" or region == "korea":
+                continue
+            a = src_by_url.get(it["url"], {})
+            if a.get("titleKo") and a.get("titleKo") != a.get("title"):
+                it["titleKo"], it["summaryKo"] = a["titleKo"], a.get("summaryKo", "")
+            elif it["url"] in tr:
+                it["titleKo"], it["summaryKo"] = tr[it["url"]].get("titleKo", ""), tr[it["url"]].get("summaryKo", "")
         out[region] = picked
 
     os.makedirs(OUT_DIR, exist_ok=True)

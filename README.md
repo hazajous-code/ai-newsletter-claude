@@ -25,7 +25,8 @@ AI 뉴스·논문·구루 발언·테크 유튜버 소식을 매일 수집하고
 
 ```
 ai-newsletter/
-├── index.html              # 대시보드 (UI)            ✅ 완료
+├── index.html              # → trend/ (주간 뉴스레터)로 이동
+├── dashboard.html          # 데일리 대시보드 (이전 메인)  ✅ 완료
 ├── styles.css              # 스타일                    ✅ 완료
 ├── app.js                  # data/latest.json 렌더링   ✅ 완료
 ├── scrape_daily.py         # 뉴스/논문/유튜브/구루 수집  ✅ 완료

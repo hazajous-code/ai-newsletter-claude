@@ -8,206 +8,192 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-bin" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/><path d="M9 12v4M12 12h1.5v4M9 12h0"/></symbol>
+  <symbol id="i-bot" viewBox="0 0 24 24"><rect x="4" y="8" width="16" height="11" rx="2"/><path d="M12 4v4M9 13h.01M15 13h.01M9 16h6"/></symbol>
+  <symbol id="i-scan" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6"/><path d="m20 20-4.5-4.5"/></symbol>
+  <symbol id="i-loop" viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 14-5.3L20 9"/><path d="M20 4v5h-5"/><path d="M20 12a8 8 0 0 1-14 5.3L4 15"/><path d="M4 20v-5h5"/></symbol>
+  <symbol id="i-code" viewBox="0 0 24 24"><path d="m8 7-5 5 5 5M16 7l5 5-5 5M14 4l-4 16"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5M8 7h7"/></symbol>
+  <symbol id="i-img" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 9"/></symbol>
+  <symbol id="i-mega" viewBox="0 0 24 24"><path d="M3 10v4h4l6 4V6L7 10z"/><path d="M17 9a4 4 0 0 1 0 6"/></symbol>
+</svg>
 
 <div class="page">
 <div class="topbar">
   <span class="brand">AI TREND <i>SEARCH</i></span>
-  <nav><a href="#b1">01 복제의 시대</a><a href="#b2">02 Always-on Agent</a><a href="#b3">03 AI 슬롭</a><a href="#b4">04 마케터 체크리스트</a><a href="archive.html">지난 호</a></nav>
+  <nav><a href="#b1">01 복제의 시대</a><a href="#b2">02 Always-on Agent</a><a href="#b3">03 AI 슬롭</a><a href="#b4">04 체크리스트</a><a href="archive.html">지난 호</a></nav>
   <span>Vol.01 · 2026.10.15 (목) · 마케터를 위한 주간 AI 트렌드</span>
 </div>
 
-<!-- ───────── HERO ───────── -->
+<!-- HERO -->
 <header class="hero">
   <div>
     <p class="eyebrow">EDITOR'S NOTE · 이번 호 메인 메시지</p>
     <h1>AI는 <em>지능</em>을 복제한다.<br>지성은 복제되지 않는다.</h1>
-    <p class="lead">리버스 엔지니어링 × AI로 게임·포토샵·워드가 복제된 한 주. 정답이 있는 일은 빠르게 복제되고 있고, <b>무엇을·왜 만들지 묻는 힘</b>만이 복제되지 않는 영역으로 남는다.</p>
+    <p class="lead">정답이 있는 일은 빠르게 복제된다. 남는 건 <b>무엇을·왜 만들지 묻는 힘.</b></p>
     <ul class="kw" aria-label="이번 호 키워드">
       <li class="f">리버스 엔지니어링</li><li class="f">AI 소프트웨어 복제</li><li class="f">Meta Muse</li>
       <li>Always-on Agent</li><li>AI 슬롭</li><li>AI 마케팅</li><li>GitHub 트렌딩</li>
     </ul>
   </div>
   <div class="hof">
-    <p class="cap">리처드 호프스태터, 『<b>미국의 반지성주의</b>』(1963, 퓰리처상)의 구분 → 이번 주 뉴스에 대입하면</p>
+    <p class="cap">리처드 호프스태터 『<b>미국의 반지성주의</b>』(1963, 퓰리처상)의 구분 × 이번 주 뉴스</p>
     <div class="hof-grid">
       <div class="hof-col">
         <h3>지능<small>Intelligence</small></h3>
-        <p class="def">정해진 목표를 향해 붙잡고·다루고·재배열하고·조정하는 실용적인 마음</p>
-        <ul>
-          <li>바이너리 분석 → 기능 재현 (REA)</li>
-          <li>원본과 바이트 일치할 때까지 반복 (게임 디컴파일)</li>
-          <li>PSD·DOCX 파일 열고 다시 저장 (ArtCraft)</li>
-        </ul>
+        <p class="def">목표를 향해 붙잡고·다루고·재배열하는 실용적 마음</p>
+        <ul><li>바이너리 → 기능 재현</li><li>바이트 일치까지 반복</li><li>PSD·DOCX 열고 다시 저장</li></ul>
       </div>
       <div class="hof-col intellect">
         <h3>지성<small>Intellect</small></h3>
-        <p class="def">따져보고·의아해하고·이론화하고·비판하고·상상하는, 마음의 비판적·창조적 측면</p>
-        <ul>
-          <li>무엇을 만들 가치가 있는가</li>
-          <li>이걸 내놓아도 되는가 (AI 슬롭의 반대편)</li>
-          <li>브랜드가 지킬 취향과 판단</li>
-        </ul>
+        <p class="def">따져보고·의아해하고·비판하고·상상하는 마음</p>
+        <ul><li>만들 가치가 있는가</li><li>내놓아도 되는가</li><li>브랜드의 취향과 판단</li></ul>
       </div>
     </div>
     <div class="hof-verdict"><div>→ 빠르게 복제 가능</div><div class="r">→ 마케터의 일이 남는 자리</div></div>
   </div>
 </header>
 
-<!-- ───────── AT A GLANCE ───────── -->
-<section class="board" style="padding-top:36px">
+<section class="board" style="padding-top:32px">
   <div class="stats">
-    <div class="stat r"><div class="n">10만+</div><div class="l">REA 공개 약 1주 만의 깃허브 스타 (보도별 11.5만~13.4만)</div></div>
-    <div class="stat"><div class="n">17개</div><div class="l">MW2(2009)를 플레이 가능하게 만든 병렬 Claude Code 에이전트 수</div></div>
-    <div class="stat"><div class="n">7 + 3</div><div class="l">AI로 만든 어도비 대체 앱 7종 + 워드·엑셀·파워포인트 대체 앱 3종</div></div>
-    <div class="stat r"><div class="n">6곳</div><div class="l">'26년 하반기까지 서비스형 Always-on Agent를 내놓은 주요 플랫폼사</div></div>
+    <div class="stat r"><div class="n">10만+</div><div class="l">REA 공개 약 1주 만의 깃허브 스타</div></div>
+    <div class="stat"><div class="n">17개</div><div class="l">MW2를 살려낸 병렬 Claude Code 에이전트</div></div>
+    <div class="stat"><div class="n">7 + 3</div><div class="l">AI로 만든 어도비 대체 7종 + 오피스 대체 3종</div></div>
+    <div class="stat r"><div class="n">280만</div><div class="l">Muse 출시 12일간 전 세계 설치 수(앱토피아 추정)</div></div>
   </div>
 </section>
 
-<!-- ───────── 01 ───────── -->
+<!-- 01 -->
 <section class="board" id="b1">
-  <div class="board-head"><span class="no">01</span><h2>리버스 엔지니어링 × AI — 깃허브발 '복제의 시대'</h2><span class="sub">COVER STORY · focus 키워드</span></div>
-  <div class="summary">10월 첫 주 깃허브 트렌딩 상단은 새 모델이 아니라 <b>"소스 코드 없이 남의 소프트웨어를 이해하고 다시 만드는"</b> 도구가 차지했다. 정답 판정이 분명한 '매칭 디컴파일' 구조가 에이전트의 무한 반복과 맞물리며 <b>게임 → 크리에이티브 툴 → 오피스</b>로 복제 대상이 넓어지는 중.</div>
+  <div class="board-head"><span class="no">01</span><h2>리버스 엔지니어링 × AI — 깃허브발 '복제의 시대'</h2><span class="sub">COVER STORY</span></div>
+  <p class="oneliner">소스 코드 없이 남의 소프트웨어를 다시 만드는 일이, 숙련도의 문제에서 토큰 비용의 문제로 바뀌었다.</p>
 
-  <div class="split">
-    <div>
-      <p class="col-title">왜 지금 가능해졌나</p>
-      <div class="concept">
-        <p class="tagline"><span class="chip">기존</span>사람이 하던 리버스 엔지니어링</p>
-        <ul>
-          <li>Ghidra·IDA 등 디컴파일러로 사람이 함수 하나씩 해석</li>
-          <li>커뮤니티가 <span class="u">수년에 걸쳐</span> 축적한 자원봉사 작업</li>
-          <li class="strong">숙련도·시간이 진입장벽 → 소수 고전 게임 중심</li>
-        </ul>
-      </div>
-      <div class="arrow-down"></div>
-      <div class="concept">
-        <p class="tagline"><span class="chip green">'26년 10월~</span>에이전트가 반복하는 리버스 엔지니어링</p>
-        <ul>
-          <li><b>REA</b>: 코딩 에이전트(Claude Code·Codex·Cursor) ↔ 디컴파일러 연결</li>
-          <li>원본과 <span class="u">바이트 일치 여부로 합격/불합격</span> 판정 → 사람 없이 수 시간 반복</li>
-          <li class="strong">병목이 '숙련도'에서 <span class="r">'토큰 비용'</span>으로 이동</li>
-          <li><span class="g">MW2 복원 프로젝트: 3개월간 약 600~700억 토큰 사용(보도)</span></li>
-        </ul>
-      </div>
-    </div>
-    <div>
-      <p class="col-title">주요 복제 사건 타임라인</p>
-      <div class="tl">
-        <div class="tl-item"><span class="when">'26.8월</span><div class="card"><div class="hd"><span class="co">GoldenEye 007</span><span class="chip line">게임</span></div><div class="bd">디컴파일 100% 달성 → 몇 주 뒤 에이전트로 만든 PC 포트가 <b class="r">60fps로 전체 캠페인 구동</b></div></div></div>
-        <div class="tl-item"><span class="when">8/13</span><div class="card"><div class="hd"><span class="co">Xbox</span><span class="prod">Xbox Labs</span><span class="g">금지 대신 연구</span></div><div class="bd">AI 디컴파일·포팅을 직접 실험하고 업계와 공유하는 내부 조직 발표 — <b class="r">플랫폼사가 '수용' 쪽으로 움직인 첫 사례</b></div></div></div>
-        <div class="tl-item"><span class="when">9/30</span><div class="card"><div class="hd"><span class="co">CoD: MW2 (2009)</span><span class="chip line">게임</span></div><div class="bd">Claude Code 에이전트 <b class="r">17개 병렬</b>로 플레이 가능 상태 도달 → 액티비전이 영상 차단, 호스팅 중단</div></div></div>
-        <div class="tl-item hot"><span class="when">10/6</span><div class="card"><div class="hd"><span class="co">GTA V</span><span class="chip line">게임</span><span class="g">유출 소스 기반 보도</span></div><div class="bd">브라우저판 사이트 등장, <b class="r">수 시간 만에 내려감</b> — 락스타·테이크투 DMCA 보도</div></div></div>
-        <div class="tl-item hot"><span class="when">10/7</span><div class="card"><div class="hd"><span class="co">morluto</span><span class="prod">REA</span><span class="g">Reverse Engineer Anything · 오픈소스</span></div><div class="bd">에이전트에 디컴파일러를 쥐여주는 툴킷, <b class="r">약 1주 만에 깃허브 스타 10만+</b>, 트렌딩 1위권</div></div></div>
-        <div class="tl-item hot"><span class="when">10/12~13</span><div class="card"><div class="hd"><span class="co">Brandon Thomas</span><span class="prod">ArtCraft · WordCraft</span><span class="g">Claude Opus 5.5 + Rust</span></div><div class="bd">어도비 7종 대체 앱에 이어 <b class="r">워드·엑셀·파워포인트 대체 앱</b> 공개 (MIT/Apache 2.0, 알파)</div></div></div>
-      </div>
-    </div>
+  <p class="col-title">어떻게 복제하나 — REA + 에이전트 파이프라인</p>
+  <div class="pipe">
+    <div class="node"><svg class="ico lg"><use href="#i-bin"/></svg><b>앱·게임 바이너리</b><small>소스 코드 없는<br>실행 파일</small></div>
+    <div class="node dark"><svg class="ico lg"><use href="#i-bot"/></svg><b>코딩 에이전트</b><small>Claude Code · Codex · Cursor</small></div>
+    <div class="node"><svg class="ico lg"><use href="#i-scan"/></svg><b>디컴파일러</b><small>Ghidra · IDA · Hopper<br>(REA가 연결)</small></div>
+    <div class="node red"><svg class="ico lg"><use href="#i-loop"/></svg><b>원본과 바이트 비교</b><span class="loop">불일치 시 무한 반복</span></div>
+    <div class="node"><svg class="ico lg"><use href="#i-code"/></svg><b>재구현·포팅</b><small>PC · 모바일 · 브라우저</small></div>
+  </div>
+  <div class="pipe-cap">
+    <div><span class="chip">이전</span>사람이 함수 하나씩 해석, 커뮤니티가 수년 걸려 진행</div>
+    <div><span class="chip red">지금</span>합격/불합격이 분명해 사람 없이 수 시간 반복 · <span class="g">MW2 3개월 600~700억 토큰(보도)</span></div>
+  </div>
+
+  <p class="col-title mt">복제 사건 타임라인 — '26년 8월 ~ 10월</p>
+  <div class="htl">
+    <div class="ev"><span class="d">8월</span><span class="dot"></span><div class="box"><div class="who">게임</div><div class="what">GoldenEye 007</div><div class="key">디컴파일 100% → 에이전트 PC 포트 <b>60fps</b></div></div></div>
+    <div class="ev"><span class="d">8/13</span><span class="dot"></span><div class="box"><div class="who">Xbox</div><div class="what">Xbox Labs</div><div class="key">금지 대신 <b>직접 연구</b>하는 조직 신설</div><span class="badge">플랫폼사 수용</span></div></div>
+    <div class="ev"><span class="d">9/30</span><span class="dot"></span><div class="box"><div class="who">게임</div><div class="what">CoD: MW2</div><div class="key">에이전트 <b>17개 병렬</b>로 플레이 가능</div><span class="badge">액티비전 차단</span></div></div>
+    <div class="ev hot"><span class="d">10/6</span><span class="dot"></span><div class="box"><div class="who">게임</div><div class="what">GTA V 브라우저판</div><div class="key">유출 소스 기반 보도, <b>수 시간 만에 내려감</b></div><span class="badge">DMCA</span></div></div>
+    <div class="ev hot"><span class="d">10/7</span><span class="dot"></span><div class="box"><div class="who">오픈소스 · morluto</div><div class="what">REA 공개</div><div class="key">약 1주 만에 <b>스타 10만+</b></div><span class="badge">깃허브 트렌딩</span></div></div>
+    <div class="ev hot"><span class="d">10/12~13</span><span class="dot"></span><div class="box"><div class="who">Brandon Thomas</div><div class="what">ArtCraft · WordCraft</div><div class="key">어도비 7종 → <b>워드·엑셀·PPT</b> 대체 앱</div><span class="badge">Claude Opus 5.5</span></div></div>
   </div>
 
   <div class="split even mt">
     <div>
       <p class="col-title">게임 복제 현황</p>
-      <div class="games">
-        <div class="game"><div class="t">GTA V <span class="status down">차단</span></div><div class="what">유출 소스를 WebAssembly로 재컴파일한 브라우저판(보도)</div><div class="react">원본 에셋 재배포 → <b class="r">침해 가능성 높음</b></div></div>
-        <div class="game"><div class="t">Halo: CE <span class="status live">구동 중</span></div><div class="what">원본 Xbox판 약 99.5% 매칭 디컴파일 → PC·리눅스·안드로이드·브라우저</div><div class="react">MS 대체로 침묵 · 본인 디스크 이미지 필요</div></div>
-        <div class="game"><div class="t">CoD: MW2 <span class="status down">차단</span></div><div class="what">병렬 에이전트 17개로 재구현, 사용자의 원본 설치본을 읽어 구동</div><div class="react">액티비전 영상 차단 · 호스팅 중단</div></div>
-        <div class="game"><div class="t">Fallout: New York <span class="status down">삭제</span></div><div class="what">Claude로 만든 브라우저 재현작, 수백만 뷰</div><div class="react">베데스다 중지 요청 → 제작자 삭제</div></div>
-        <div class="game"><div class="t">GoldenEye 007 <span class="status live">구동 중</span></div><div class="what">디컴파일 100% → 에이전트 제작 PC 포트 60fps</div><div class="react">공식 대응 보도 없음</div></div>
-        <div class="game"><div class="t">C&amp;C 제너럴 <span class="status gray">iOS 포트</span></div><div class="what">Google AI Studio로 엔진을 재구성해 에뮬레이터 없이 iOS 구동</div><div class="react">AI가 그래픽 API 변환·터치 조작 지원</div></div>
+      <div class="tiles" style="grid-template-columns:repeat(3,1fr)">
+        <div class="tile down"><span class="t">GTA V</span><span class="k">유출 소스 → 웹 재컴파일</span><span class="s">● 차단</span></div>
+        <div class="tile live"><span class="t">Halo: CE</span><span class="k">99.5% 매칭 → 4개 플랫폼</span><span class="s">● 구동 중</span></div>
+        <div class="tile down"><span class="t">CoD: MW2</span><span class="k">병렬 에이전트 17개</span><span class="s">● 차단</span></div>
+        <div class="tile down"><span class="t">Fallout: NY</span><span class="k">Claude 제작, 수백만 뷰</span><span class="s">● 중지 요청·삭제</span></div>
+        <div class="tile live"><span class="t">GoldenEye</span><span class="k">PC 포트 60fps</span><span class="s">● 구동 중</span></div>
+        <div class="tile"><span class="t">C&amp;C 제너럴</span><span class="k">AI Studio로 iOS 네이티브</span><span class="s">● iOS 포트</span></div>
       </div>
     </div>
     <div>
-      <p class="col-title">소프트웨어 복제 — 얼마나 따라왔나 <span class="muted">(개발자 자체 주장 기준)</span></p>
+      <p class="col-title">오피스·어도비 복제 진척도 <span class="muted">(개발자 자체 주장)</span></p>
       <div class="bars">
-        <div class="bar-row"><span class="nm">WordCraft<small>워드 · 리본 명령</small></span><div class="bar"><i style="width:88%"></i></div><span class="v">88%</span></div>
-        <div class="bar-row"><span class="nm">GridCraft<small>엑셀 · 워크시트 함수</small></span><div class="bar"><i style="width:98%"></i></div><span class="v">98%</span></div>
-        <div class="bar-row"><span class="nm">DeckCraft<small>PPT · 기능 범위</small></span><div class="bar"><i style="width:79%"></i></div><span class="v">79%</span></div>
-        <div class="bar-row"><span class="nm">DeckCraft<small>PPT · 실사용 준비도</small></span><div class="bar"><i class="red" style="width:55%"></i></div><span class="v r">55%</span></div>
-        <div class="bar-row"><span class="nm">PhotoCraft<small>PSD 바이트 단위 재저장</small></span><div class="bar"><i style="width:99.3%"></i></div><span class="v">134/135</span></div>
+        <div class="bar-row"><span class="nm">WordCraft<small>워드 리본 명령</small></span><div class="bar"><i style="width:88%"></i></div><span class="v">88%</span></div>
+        <div class="bar-row"><span class="nm">GridCraft<small>엑셀 함수</small></span><div class="bar"><i style="width:98%"></i></div><span class="v">98%</span></div>
+        <div class="bar-row"><span class="nm">DeckCraft<small>PPT 기능 범위</small></span><div class="bar"><i style="width:79%"></i></div><span class="v">79%</span></div>
+        <div class="bar-row"><span class="nm">DeckCraft<small>실사용 준비도</small></span><div class="bar"><i class="red" style="width:55%"></i></div><span class="v r">55%</span></div>
+        <div class="bar-row"><span class="nm">PhotoCraft<small>PSD 재저장</small></span><div class="bar"><i style="width:99.3%"></i></div><span class="v">134/135</span></div>
       </div>
-      <p class="muted" style="margin-top:10px">※ 전부 알파 단계. '한 달 내 기능 100%' 약속은 몇 달로 연기, 한 픽셀 아티스트는 포토샵 클론을 "전혀 쓸 수 없다"고 평가. <b>파일 호환 ≠ 작업 품질.</b></p>
-
-      <p class="col-title" style="margin-top:22px">법적 쟁점 스펙트럼</p>
-      <div class="spectrum">
-        <div class="s1"><b>원본 에셋 재배포</b>GTA V 브라우저판<br>→ 침해 가능성 높음</div>
-        <div class="s2"><b>새 코드 + 원본 소장</b>Halo·MW2 포트<br>→ 회색지대, 판례 없음</div>
-        <div class="s3"><b>AI 클린룸 재구현</b>원본으로 학습한 모델이 쓴 코드도 클린룸인가?<br>→ 미해결</div>
-      </div>
+      <p class="muted" style="margin-top:8px">※ 모두 알파 단계 · "포토샵 클론은 전혀 쓸 수 없다"(픽셀 아티스트 평가) → <b>파일 호환 ≠ 작업 품질</b></p>
     </div>
   </div>
 
-  <div class="insight"><div class="lab">마케터 시선</div><div class="txt">복제 비용이 0에 가까워지면 <b class="r">'기능'은 해자가 되기 어렵다.</b> 우리가 쓰는 마케팅 SaaS 가격 협상력이 바뀔 수 있고, 반대로 우리 브랜드의 웹 도구·앱·마이크로사이트도 쉽게 복제될 수 있다. 남는 경쟁력은 <b>브랜드·데이터·관계·신뢰</b> — 호프스태터식으로는 '지성'이 만든 것들.</div></div>
+  <p class="col-title mt">법적 쟁점 스펙트럼</p>
+  <div class="spectrum">
+    <div class="s1"><b>원본 에셋 재배포</b>GTA V → 침해 가능성 높음</div>
+    <div class="s2"><b>새 코드 + 원본 소장</b>Halo·MW2 → 회색지대, 판례 없음</div>
+    <div class="s3"><b>AI 클린룸 재구현</b>원본 학습 모델이 쓴 코드도 클린룸? → 미해결</div>
+  </div>
+
+  <div class="insight"><div class="lab">마케터 시선</div><div class="txt">복제 비용이 0에 가까워지면 <b class="r">기능은 해자가 아니다.</b> 남는 경쟁력은 <b>브랜드·데이터·관계·신뢰</b> — '지성'이 만든 것들.</div></div>
 </section>
 
-<!-- ───────── 02 ───────── -->
+<!-- 02 -->
 <section class="board" id="b2">
   <div class="board-head"><span class="no">02</span><h2>Always-on AI Agent — 그리고 메타 Muse</h2><span class="sub">AGENTS</span></div>
-  <div class="summary">Google·Microsoft가 서비스형 에이전트를 먼저 발표했지만 초기 대상은 소규모 테스터·기업 고객 중심이었던 반면, <b>Meta는 일반 소비자 대상 무료 중심의 Muse</b>를 내놓고 인스타그램·광고 계정·커머스 연동까지 붙이며 대중화 경쟁에 불을 붙였다. <span class="g">Muse: 2주간 280만 다운로드, 앱스토어 1위</span></div>
+  <p class="oneliner">구글·MS가 먼저 발표했지만 테스터·기업 중심 — 메타는 소비자 무료 Muse로 대중화 경쟁에 불을 붙였다.</p>
 
-  <div class="split">
+  <p class="col-title">주요 플랫폼사 출시 타임라인 — '26년</p>
+  <div class="htl">
+    <div class="ev"><span class="d">5/19</span><span class="dot"></span><div class="box"><div class="who">Google</div><div class="what">Gemini Spark</div><div class="key">Workspace 연계 <b>24/7 개인 에이전트</b></div><span class="badge">테스터 → AI Ultra</span></div></div>
+    <div class="ev"><span class="d">6/4</span><span class="dot"></span><div class="box"><div class="who">Microsoft</div><div class="what">Scout</div><div class="key">M365 권한 체계 안의 <b>기업형</b> 에이전트</div><span class="badge">비공개 프리뷰</span></div></div>
+    <div class="ev"><span class="d">8/11</span><span class="dot"></span><div class="box"><div class="who">xAI</div><div class="what">Grok Bot</div><div class="key">여러 봇이 <b>분담·협업</b>하는 AI 팀메이트</div><span class="badge">상위 유료 구독</span></div></div>
+    <div class="ev hot"><span class="d">9/8</span><span class="dot"></span><div class="box"><div class="who">Meta</div><div class="what">Muse</div><div class="key">탐색부터 구매까지 <b>대중형</b> 개인 에이전트</div><span class="badge">미국 · 대부분 무료</span></div></div>
+    <div class="ev"><span class="d">9/29</span><span class="dot"></span><div class="box"><div class="who">OpenAI</div><div class="what">dots</div><div class="key">4,000개+ 앱 연결 <b>범용</b> 업무 에이전트</div><span class="badge">Pro · Business Premium</span></div></div>
+    <div class="ev"><span class="d">9월</span><span class="dot"></span><div class="box"><div class="who">Instinct</div><div class="what">Instinct</div><div class="key">문자·음성으로 쓰는 <b>생활밀착형</b></div><span class="badge">비공개 베타 · $1B 투자</span></div></div>
+  </div>
+
+  <div class="split even mt">
     <div>
-      <p class="col-title">Always-on AI Agent 개념</p>
-      <div class="concept">
-        <p class="tagline"><span class="chip">'26년 초~</span>Self-hosted AI Agent</p>
-        <ul>
-          <li>오픈소스 기반 Persistent Agent 확산</li>
-          <li><span class="u">사용자가 실행 환경을 직접 구축·관리</span></li>
-          <li class="strong">인프라·모델·도구 구성은 자유롭지만 기술적 진입장벽과 운영 부담 존재</li>
-          <li>대표: OpenClaw, Hermes 등</li>
-        </ul>
+      <p class="col-title">포지셔닝 맵</p>
+      <div class="pmap">
+        <span class="ax x1">← 업무·기업</span><span class="ax x2">개인·소비자 →</span>
+        <span class="ax y1">↓ 제한적·유료</span><span class="ax y2">↑ 대중·무료</span>
+        
+        <div class="pin" style="left:13%;top:80%"><i style="width:16px;height:16px"></i><b>MS Scout</b><small>비공개 프리뷰</small></div>
+        <div class="pin" style="left:30%;top:66%"><i style="width:16px;height:16px"></i><b>xAI Grok Bot</b><small>상위 유료</small></div>
+        <div class="pin" style="left:46%;top:50%"><i style="width:16px;height:16px"></i><b>OpenAI dots</b><small>Pro·Business</small></div>
+        <div class="pin" style="left:62%;top:62%"><i style="width:16px;height:16px"></i><b>Gemini Spark</b><small>AI Ultra</small></div>
+        <div class="pin" style="left:84%;top:76%"><i style="width:16px;height:16px"></i><b>Instinct</b><small>비공개 베타</small></div>
+        <div class="pin hot" style="left:83%;top:20%"><i style="width:28px;height:28px"></i><b class="r">Meta Muse</b><small>대부분 무료</small></div>
       </div>
-      <div class="arrow-down"></div>
-      <div class="concept">
-        <p class="tagline"><span class="chip green">'26년 5월~</span>서비스형 Always-on AI Agent</p>
-        <ul>
-          <li>주요 AI 플랫폼사의 관리형 에이전트 출시 본격화</li>
-          <li><span class="u">별도 구축 없이 목표·권한만 설정해 지속적 업무 위임</span></li>
-          <li class="strong">편의성·접근성은 높지만 사업자가 제공하는 기능·연동 범위 안에서만 활용</li>
-          <li>대표: Gemini Spark, Grok Bot, Meta Muse, OpenAI dots</li>
-        </ul>
-      </div>
+      <p class="muted">※ 출시 시점 공개 정보 기준 편집부 분류</p>
     </div>
     <div>
-      <p class="col-title">주요 플랫폼사 Always-on AI Agent 출시 현황</p>
-      <div class="tl">
-        <div class="tl-item"><span class="when">'26.5월</span><div class="card"><div class="hd"><span class="co">Google</span><span class="prod">Gemini Spark</span><span class="g">초기 Trusted Testers 대상 → 유료 구독자 확대</span></div><div class="bd">Google Workspace 데이터 기반 장기·반복 업무를 자동 수행하는 <b class="r">구글 생태계 연계형 Personal Agent</b></div></div></div>
-        <div class="tl-item"><span class="when">'26.6월</span><div class="card"><div class="hd"><span class="co">Microsoft</span><span class="prod">Scout</span><span class="g">일부 기업 고객 프리뷰</span></div><div class="bd">M365 업무 데이터·조직 권한 체계와 연계해 업무를 지속 수행하는 <b class="r">Enterprise형 Agent</b></div></div></div>
-        <div class="tl-item"><span class="when">'26.8월</span><div class="card"><div class="hd"><span class="co">xAI</span><span class="prod">Grok Bot</span><span class="g">유료 구독자 대상</span></div><div class="bd">역할별 전용 Bot을 만들어 <b class="r">복수 에이전트가 업무를 분담·협업</b>하는 AI Teammate</div></div></div>
-        <div class="tl-item hot"><span class="when">'26.9월</span><div class="card"><div class="hd"><span class="co">Meta</span><span class="prod">Muse</span><span class="g">미국 일반 사용자 · 기본 무료</span></div><div class="bd">전용 Cloud VM 기반으로 일상 업무부터 상품 탐색·구매까지 수행하는 <b class="r">대중형 Personal Agent</b></div></div></div>
-        <div class="tl-item"><span class="when">'26.9월</span><div class="card"><div class="hd"><span class="co">OpenAI</span><span class="prod">dots</span><span class="g">프로 이상 구독자</span></div><div class="bd">사용자 맥락을 학습하고 4,000개+ 플러그인과 연결해 장기 업무를 수행하는 <b class="r">범용 Personal/Work Agent</b></div></div></div>
-        <div class="tl-item"><span class="when">'26.9월</span><div class="card dashed"><div class="hd"><span class="co">Instinct</span><span class="g">초대 기반 무료 베타</span></div><div class="bd">별도 앱 없이 문자·메신저 등 <b class="r">기존 커뮤니케이션 채널</b>에서 일상 업무를 대행하는 생활밀착형 Agent</div></div></div>
+      <p class="col-title">Muse vs ChatGPT — 출시 초기 12일 <span class="muted">(앱토피아 추정)</span></p>
+      <div class="vgroup">
+        <div>
+          <h5>다운로드 (미국·캐나다 iOS)</h5>
+          <div class="vbars"><div class="vbar hot"><span class="val">180만</span><span class="col" style="height:85%"></span></div><div class="vbar"><span class="val">130만</span><span class="col" style="height:61%"></span></div></div>
+          <div class="vlabels"><span>Muse</span><span>ChatGPT</span></div>
+        </div>
+        <div>
+          <h5>일간 활성 사용자 (미국 모바일)</h5>
+          <div class="vbars"><div class="vbar hot"><span class="val">64.2만</span><span class="col" style="height:85%"></span></div><div class="vbar"><span class="val">23.1만</span><span class="col" style="height:31%"></span></div></div>
+          <div class="vlabels"><span>Muse</span><span>ChatGPT</span></div>
+        </div>
       </div>
+      <p class="muted" style="margin-top:10px">미국 앱스토어 종합 1위 · 같은 기간 전 세계 설치 약 280만 · 메타 공식 수치 아님</p>
     </div>
   </div>
 
-  <!-- Muse deep dive -->
   <div class="split three mt">
     <div>
-      <p class="col-title">Muse 개요</p>
-      <p style="font-weight:800;margin:0 0 8px">'26년 9월 Meta는 개인 소비자용 AI Agent <span class="r">Muse</span>를 발표하고 <span class="u">'Personal Superintelligence'</span> 비전을 구체화</p>
-      <ul style="font-size:13.5px;padding-left:16px;margin:0 0 14px">
-        <li>대화·연결 서비스 기반으로 개인의 목표와 맥락을 파악, 장기 목표 달성을 위한 계획 수립·실행</li>
-        <li>Muse Spark 모델 기반, 사용자별 전용 Secure VM 내 브라우저 구동으로 보안 강화</li>
-        <li>Stripe Link를 통한 사용자 승인 기반 결제</li>
-        <li><b>10/12 첫 프런티어 모델 Muse Wonder 공개</b> — '능동 기억' 강조, API 입력 $4 / 출력 $20 (100만 토큰당)</li>
-      </ul>
-      <p style="font-weight:800;margin:0 0 6px;font-size:14px">[업무 실행 흐름]</p>
+      <p class="col-title">Muse 작동 방식</p>
       <div class="flow">
-        <div class="step fill">Muse 앱·웹·왓츠앱에서 일상 질문 또는 업무·장기 목표 전달</div>
+        <div class="step fill"><b>목표 전달</b>Muse 앱·웹·왓츠앱</div>
         <div class="step-arrow"></div>
-        <div class="step">① 이메일·캘린더·SNS 연결<br>② 3rd Party 앱 연결 <span class="muted">(Walmart, Best Buy, GAP, Sephora, Expedia, Shopify 등)</span></div>
+        <div class="step"><b>계정·앱 연결</b>메일·캘린더·SNS + Walmart·Best Buy·Gap·Sephora·Wayfair</div>
         <div class="step-arrow"></div>
-        <div class="step">목표를 실행 계획으로 전환 → 업무 지속 수행·셀프 보완</div>
+        <div class="step"><b>전용 Secure VM에서 실행</b><span class="g">Sentinel이 외부 통신 감시</span></div>
         <div class="step-arrow"></div>
-        <div class="step fill"><b>결제·게시 전 사용자 승인</b><span class="g">"승인 없이는 아무것도 게시·발송·지출하지 않는다"</span></div>
+        <div class="step fill"><b class="r">결제·발송 전 사용자 승인</b>Stripe Link 1회용 카드 결제</div>
       </div>
     </div>
-
     <div style="grid-column:span 2">
       <p class="col-title">핵심 사용 시나리오</p>
       <div class="phones">
         <div class="phone-wrap">
-          <h4>Muse가 진행 중인 업무 파악</h4>
-          <ul><li>배송 일정 확인·판매자 이메일 발송</li><li>중고 골프채 검색·구매, 영화 티켓 예매</li></ul>
+          <h4>① 진행 중 업무 자동 수행</h4>
           <div class="phone">
             <div class="ph-top"><span>9:41</span><span>●●● ▮</span></div>
             <div class="avatar"></div><div class="ph-name">Muse</div><div class="ph-state">finding tee times</div>
@@ -217,20 +203,19 @@
               <div class="ph-item"><span class="ic b"></span><div>Organized move-in docs<small>3 documents updated</small></div></div>
               <div class="ph-item"><span class="ic o"></span><div>Purchased 56° wedge<small>Used · Pay with Link</small></div></div>
               <div class="ph-item"><span class="ic"></span><div>Emailed teacher<small>Confirmed volunteer slot</small></div></div>
-              <div class="ph-item"><span class="ic b"></span><div>Booked Saturday movie tickets<small>2 seats · 7:30 PM</small></div></div>
+              <div class="ph-item"><span class="ic b"></span><div>Booked movie tickets<small>2 seats · 7:30 PM</small></div></div>
             </div>
           </div>
         </div>
         <div class="phone-wrap">
-          <h4>사용자 승인 필요 항목 확인</h4>
-          <ul><li>이메일 발송 전 승인 요청</li><li>구매 결제·인스타그램 게시 전 승인 요청</li></ul>
+          <h4>② 민감 작업은 승인 요청</h4>
           <div class="phone">
             <div class="ph-top"><span>9:41</span><span>●●● ▮</span></div>
             <div class="avatar"></div><div class="ph-name">Muse</div><div class="ph-state">● Connected</div>
             <div class="hl" style="padding:2px 0">
               <div class="ph-sec" style="color:var(--red)">Needs review</div>
               <div style="font-weight:700">Allow Muse to send emails in Gmail?</div>
-              <div class="muted" style="font-size:10px;margin:2px 0 4px">Follow-up email to your golf group about Thursday</div>
+              <div class="muted" style="font-size:10px;margin:2px 0 4px">Follow-up email to your golf group</div>
               <span class="ph-btn pri">Allow once</span><span class="ph-btn">Allow for this task</span><span class="ph-btn">Deny</span>
             </div>
             <div class="hl" style="margin-top:12px;padding:2px 0">
@@ -241,124 +226,116 @@
           </div>
         </div>
         <div class="phone-wrap">
-          <h4>상품 추천 → 결제까지 제안</h4>
-          <ul><li>원하는 제품·목적을 말하면 가격과 함께 추천</li><li>주문 정보 확인 후 'Allow' 클릭 시 결제</li></ul>
+          <h4>③ 추천 → 승인 → 결제</h4>
           <div class="phone">
             <div class="ph-top"><span>9:41</span><span>●●● ▮</span></div>
             <div class="avatar"></div><div class="ph-name">Muse</div><div class="ph-state">Waiting for permission</div>
-            <div class="bubble">Here are some top rated options for you.</div>
+            <div class="bubble">Here are some top rated options.</div>
             <div class="hl">
               <div class="pitem"><span class="img"></span><div>Softball Helmet A<small>$59.99</small></div></div>
               <div class="pitem"><span class="img b"></span><div>Softball Helmet B<small>$54.99</small></div></div>
               <div class="pitem"><span class="img c"></span><div>Youth Helmet<small>$65.99</small></div></div>
             </div>
-            <div class="bubble me">The pink helmet is perfect.</div>
+            <div class="bubble me">The pink one is perfect.</div>
             <div class="order hl"><b>Muse wants to place an order</b>
-              <div class="row"><span>Card ···· 1234</span><span>Pay with Link</span></div>
-              <div class="row"><b>Estimated total</b><b>$59.99</b></div>
+              <div class="row"><span>Card ···· 1234</span><span>Link</span></div>
+              <div class="row"><b>Total</b><b>$59.99</b></div>
               <span class="ph-btn">Deny</span><span class="ph-btn pri">Allow</span>
             </div>
           </div>
-          <p class="caption-g">주문 전 상품·판매처·가격·결제 카드·예상 금액 제시 → 사용자가 'Allow' 클릭 시 결제</p>
         </div>
       </div>
+      <p class="muted" style="margin-top:8px">※ 화면은 공개된 기능을 바탕으로 재구성한 예시</p>
     </div>
   </div>
 
-  <p class="col-title mt">Muse 비즈니스 확장 — 마케터에게 의미하는 것</p>
+  <p class="col-title mt">Muse 비즈니스 확장</p>
   <div class="hflow">
-    <div class="step fill"><b>9/8 · Muse 출시(미국)</b><small>인스타그램·왓츠앱 안의 소비자 에이전트, Muse 내 광고는 넣지 않겠다고 발표</small></div>
-    <div class="step"><b>9/20 · 아마존 접근 차단 / Shopify 결제 연동</b><small>"에이전트가 대신 쇼핑할 때 누가 고객 접점을 쥐는가" 경쟁 본격화</small></div>
-    <div class="step"><b>9/29 · Muse for Small Business</b><small>인스타 분석·페이스북 페이지·<span class="r">메타 광고 계정</span> + Canva·Shopify·Klaviyo 연결</small></div>
-    <div class="step fill"><b>10/12 · Muse Wonder</b><small>메타 첫 프런티어 모델, Muse 에이전트의 두뇌로 탑재</small></div>
+    <div class="step fill"><b>9/8 출시</b><small>미국 · Muse 내 광고 없음</small></div>
+    <div class="step"><b>9/20 전후</b><small>아마존 차단 · Shop Pay·PayPal 결제 추가</small></div>
+    <div class="step"><b>9/23 리테일 파트너</b><small>Walmart · Gap · Sephora · Wayfair · Best Buy</small></div>
+    <div class="step"><b>9/29 Small Business</b><small><span class="r">메타 광고 계정</span> · Canva · Shopify · Klaviyo 연결</small></div>
+    <div class="step fill"><b>10/12 Muse Wonder</b><small>첫 프런티어 모델 · API $4/$20</small></div>
   </div>
-  <p class="muted" style="margin-top:8px">※ 현재 미국·캐나다 중심. 인도 등 아시아 노출 보도가 있으나 태국·한국 정식 출시는 미발표. 공식 커넥터에 LINE 등 태국 플랫폼은 없음.</p>
+  <p class="muted" style="margin-top:8px">※ 미국·캐나다 중심 · 태국·한국 출시 미발표 · 공식 커넥터에 LINE 없음</p>
 
-  <div class="insight"><div class="lab">마케터 시선</div><div class="txt">Muse는 '자율 미디어 바이어'라기보다 <b class="r">분석·초안 작성 비서 + 승인 게이트</b>. 광고 계정·페이지·결제 권한이 한곳에 모이므로 권한 범위와 연결 해제 방법을 먼저 점검할 것. 에이전트가 계정을 '읽는' 순간, <b>캠페인 네이밍 규칙·페이지 정보·상품 피드 품질</b>이 곧 에이전트가 이해하는 우리 브랜드가 된다.</div></div>
+  <div class="insight"><div class="lab">마케터 시선</div><div class="txt">Muse는 자율 미디어 바이어가 아닌 <b class="r">분석·초안 비서 + 승인 게이트.</b> 에이전트가 계정을 읽는 순간, <b>캠페인 네이밍·페이지 정보·상품 피드</b>가 곧 '우리 브랜드'가 된다.</div></div>
 </section>
 
-<!-- ───────── 03 ───────── -->
+<!-- 03 -->
 <section class="board" id="b3">
   <div class="board-head"><span class="no">03</span><h2>AI 슬롭 워치 — 만들 수 있다 ≠ 내놓아도 된다</h2><span class="sub">AI SLOP</span></div>
-  <div class="summary">'AI 슬롭'은 대량으로 찍어낸 저품질 AI 콘텐츠. 이번 주엔 출판·광고에서 사례가 이어졌고, 공통점은 <b>"AI를 썼다"보다 "아무도 판단하지 않은 것처럼 보인다"는 인상이 역풍의 원인</b>이라는 점.</div>
-  <div class="cases">
-    <div class="case">
-      <div class="ch">아마존의 가짜 AI 책<small>ABC News · 10/10</small></div>
-      <dl>
-        <dt>무슨 일</dt><dd>ABC AI 전문기자의 책 제목을 거의 그대로 베낀 AI 책 발견 — 실존하지 않는 듯한 저자, 89쪽 Comic Sans 본문</dd>
-        <dt>확산</dt><dd>같은 템플릿의 '짝퉁 책'이 다른 작가 것도 다수</dd>
-        <dt>대응</dt><dd>아마존이 문의 다음 날 해당 목록 삭제, 유사 도서 수십 권은 여전히 판매</dd>
-      </dl>
-      <div class="lesson">→ 플랫폼 검수만으로는 못 막는다. 브랜드 사칭 모니터링 필요</div>
+  <p class="oneliner">역풍의 원인은 "AI를 썼다"가 아니라 "아무도 판단하지 않은 것처럼 보인다".</p>
+  <div class="slop">
+    <div class="sc">
+      <div class="top"><svg class="ico lg"><use href="#i-book"/></svg><div><b>아마존의 가짜 AI 책</b><small>ABC News · 10/10</small></div></div>
+      <div class="flowmini"><div>기자 책 제목 베낀 AI 책 발견</div><span>›</span><div>같은 템플릿 짝퉁 다수</div><span>›</span><div class="r">1권 삭제, 수십 권 여전히 판매</div></div>
+      <div class="lesson">플랫폼 검수로는 못 막는다 — 사칭 모니터링 필요</div>
     </div>
-    <div class="case">
-      <div class="ch">'빅5' 출판사의 무고지 AI 표지<small>Wired 보도 인용 · Gizmodo · 10/10</small></div>
-      <dl>
-        <dt>무슨 일</dt><dd>3개 대형 출판사가 저자·독자 고지 없이 ChatGPT·Claude로 홍보 문구, 이미지 생성기로 표지를 만든다는 내부 증언</dd>
-        <dt>출처</dt><dd>익명 업계 관계자 20여 명, 출판사 공식 입장 없음</dd>
-        <dt>대응</dt><dd>미출간 원고를 LLM에 넣지 않기로 사전 합의하는 관행 등장</dd>
-      </dl>
-      <div class="lesson">→ '몰래 썼다'가 드러나는 순간이 가장 비싸다</div>
+    <div class="sc">
+      <div class="top"><svg class="ico lg"><use href="#i-img"/></svg><div><b>'빅5' 출판사의 무고지 AI 표지</b><small>Wired 인용 · Gizmodo · 10/10</small></div></div>
+      <div class="flowmini"><div>3곳이 고지 없이 AI 표지·카피 제작</div><span>›</span><div>익명 증언 20여 명, 공식 입장 없음</div><span>›</span><div class="r">'몰래 썼다' 논란</div></div>
+      <div class="lesson">드러나는 순간이 가장 비싸다 — 공개 원칙 먼저</div>
     </div>
-    <div class="case">
-      <div class="ch">태즈메이니아 대중교통 AI 캠페인<small>AdNews</small></div>
-      <dl>
-        <dt>무슨 일</dt><dd>호주 태즈메이니아 대중교통 캠페인이 AI 생성 크리에이티브로 제작</dd>
-        <dt>반응</dt><dd>광고 업계 매체에서 'AI 슬롭'이라는 비판</dd>
-        <dt>함의</dt><dd>공공·브랜드 광고에서 AI 제작물의 품질 기준이 곧 평판 기준</dd>
-      </dl>
-      <div class="lesson">→ 도구가 아니라 기획 의도·검수 기준이 결과를 가른다</div>
+    <div class="sc">
+      <div class="top"><svg class="ico lg"><use href="#i-mega"/></svg><div><b>태즈메이니아 대중교통 AI 캠페인</b><small>AdNews</small></div></div>
+      <div class="flowmini"><div>AI 생성 크리에이티브로 캠페인 제작</div><span>›</span><div>광고 업계 매체 AdNews 보도</div><span>›</span><div class="r">'AI 슬롭' 비판</div></div>
+      <div class="lesson">도구가 아니라 기획·검수 기준이 결과를 가른다</div>
     </div>
   </div>
-
   <div class="matrix">
-    <div class="h"></div><div class="h">판단이 들어간 AI 활용 (지성)</div><div class="h">판단이 빠진 AI 활용 (슬롭)</div>
-    <div class="rh">기획</div><div>누구에게 무엇을 왜 말할지 사람이 정하고 AI로 변주</div><div class="bad">"일단 많이 만들어보자" — 목적 없는 대량 생산</div>
-    <div class="rh">검수</div><div>브랜드 가이드·사실 확인 기준을 통과한 것만 게시</div><div class="bad">생성 결과를 그대로 게시</div>
-    <div class="rh">공개</div><div>AI 사용 고지 원칙을 미리 정하고 지킴</div><div class="bad">숨겼다가 외부에서 드러남</div>
+    <div class="h"></div><div class="h">판단이 들어간 AI (지성)</div><div class="h">판단이 빠진 AI (슬롭)</div>
+    <div class="rh">기획</div><div>목적을 사람이 정하고 AI로 변주</div><div class="bad">목적 없는 대량 생산</div>
+    <div class="rh">검수</div><div>가이드·사실 확인 통과분만 게시</div><div class="bad">생성 결과 그대로 게시</div>
+    <div class="rh">공개</div><div>AI 사용 고지 원칙 사전 합의</div><div class="bad">숨겼다가 외부에서 드러남</div>
   </div>
 </section>
 
-<!-- ───────── 04 ───────── -->
+<!-- 04 -->
 <section class="board" id="b4">
   <div class="board-head"><span class="no">04</span><h2>이번 주 마케터 체크리스트</h2><span class="sub">ACTION ITEMS</span></div>
   <div class="checks">
-    <div class="ck now"><div class="top"><span class="chip red">META 광고</span><span class="due">지금 확인</span></div><h4>'AI 생성 기능 테스트' 설정 확인</h4><p>일부 광고에서 웹사이트 대신 AI가 만든 랜딩 페이지를 보여주는 테스트 진행 중(노출의 5% 미만이라고 설명). 브랜드 가이드가 엄격하면 설정부터 점검.</p></div>
-    <div class="ck now"><div class="top"><span class="chip red">WHATSAPP</span><span class="due">10/1~ 적용</span></div><h4>비즈니스 메시지 과금 변경</h4><p>24시간 창 안 서비스·유틸리티 답장도 메시지 단위 과금. 클릭투왓츠앱 광고 후 72시간 창 답장은 계속 무료.</p></div>
-    <div class="ck now"><div class="top"><span class="chip red">META API</span><span class="due">10/27 예정</span></div><h4>마케팅 API v24 종료 · 일부 기능 제거</h4><p>v24는 10/6 종료. 10/27 메신저 스토리 지면·투표 광고 등 제거 예정 — 자동화 툴·대시보드 버전 확인.</p></div>
-    <div class="ck"><div class="top"><span class="chip dark">AGENT</span><span class="due" style="color:var(--ink-3)">분기 내</span></div><h4>'에이전트가 읽는 계정' 대비</h4><p>캠페인 네이밍, 페이지 정보, 상품 피드 품질 정비 — 에이전트가 이해하는 '우리 브랜드'의 원재료.</p></div>
-    <div class="ck"><div class="top"><span class="chip dark">SLOP</span><span class="due" style="color:var(--ink-3)">이번 달</span></div><h4>AI 제작물 공개·검수 원칙 문서화</h4><p>언제 AI 사용을 밝힐지, 어떤 검수를 거칠지 한 줄이라도 팀 기준으로 남기기.</p></div>
-    <div class="ck"><div class="top"><span class="chip dark">MOAT</span><span class="due" style="color:var(--ink-3)">분기 내</span></div><h4>우리 자산의 '복제 가능성' 점검</h4><p>기능만으로 차별화하던 웹 도구·앱을 점검하고, 데이터·커뮤니티·브랜드 경험처럼 복제 어려운 축을 정리.</p></div>
+    <div class="ck now"><div class="top"><span class="chip red">META 광고</span><span class="due">지금 확인</span></div><h4>'AI 생성 기능 테스트' 설정</h4><p>웹사이트 대신 AI 랜딩 페이지 노출 테스트(노출 5% 미만)</p></div>
+    <div class="ck now"><div class="top"><span class="chip red">WHATSAPP</span><span class="due">10/1~</span></div><h4>비즈니스 메시지 과금 변경</h4><p>24시간 창 답장도 유료 · 광고 후 72시간 창은 무료</p></div>
+    <div class="ck now"><div class="top"><span class="chip red">META API</span><span class="due">10/27</span></div><h4>v24 종료 · 일부 기능 제거</h4><p>메신저 스토리 지면·투표 광고 제거 — 툴 버전 확인</p></div>
+    <div class="ck"><div class="top"><span class="chip dark">AGENT</span><span class="due" style="color:var(--ink-3)">분기 내</span></div><h4>에이전트가 읽는 계정 정비</h4><p>캠페인 네이밍 · 페이지 정보 · 상품 피드</p></div>
+    <div class="ck"><div class="top"><span class="chip dark">SLOP</span><span class="due" style="color:var(--ink-3)">이번 달</span></div><h4>AI 공개·검수 원칙 문서화</h4><p>언제 밝히고 무엇을 검수할지 한 줄 기준</p></div>
+    <div class="ck"><div class="top"><span class="chip dark">MOAT</span><span class="due" style="color:var(--ink-3)">분기 내</span></div><h4>자산 복제 가능성 점검</h4><p>기능 대신 데이터·커뮤니티·경험 축 정리</p></div>
   </div>
 </section>
 
-<!-- ───────── SOURCES ───────── -->
+<!-- SOURCES -->
 <section class="board">
   <div class="board-head"><span class="no">SRC</span><h2 style="font-size:20px">출처</h2></div>
   <ol class="src">
-    <li><a href="https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral">The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral — KDnuggets</a></li>
+    <li><a href="https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral">Why REA and ArtCraft Are Going Viral — KDnuggets</a></li>
     <li><a href="https://apidog.com/blog/what-is-rea-reverse-engineer-anything/">What Is REA (Reverse Engineer Anything)? — Apidog</a></li>
     <li><a href="https://www.techspot.com/article/3184-decompilation-on-steroids/">Decompilation on Steroids — TechSpot (10/11)</a></li>
-    <li><a href="https://startupfortune.com/ai-reverse-engineering-turns-gta-5-and-halo-into-browser-games-overnight/">AI reverse engineering turns GTA 5 and Halo into browser games — Startup Fortune</a></li>
+    <li><a href="https://startupfortune.com/ai-reverse-engineering-turns-gta-5-and-halo-into-browser-games-overnight/">GTA 5 and Halo into browser games — Startup Fortune</a></li>
     <li><a href="https://www.gamemeca.com/en/view.php?gid=1781785">AI 게임 리버스 엔지니어링 — 게임메카 (10/14)</a></li>
-    <li><a href="https://www.techspot.com/news/114179-developer-who-cloned-photoshop-using-ai-has-now.html">Photoshop cloner now creates Word, Excel, PowerPoint replicas — TechSpot (10/13)</a></li>
-    <li><a href="https://petapixel.com/2026/10/12/there-are-free-open-source-versions-of-microsoft-office-apps-thanks-to-ai/">Free, Open-Source Microsoft Office Apps Thanks to AI — PetaPixel</a></li>
-    <li><a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/">Meta releases its first frontier model, Muse Wonder — TechCrunch (10/12)</a></li>
-    <li><a href="https://about.fb.com/news/2026/10/introducing-muse-wonder-models/">Introducing Muse Wonder and Muse Wonder Full — Meta</a></li>
-    <li><a href="https://www.deccanherald.com/technology/artificial-intelligence/explained-what-is-metas-muse-ai-agent-and-its-advanced-capabilities-4176412">What is Meta Muse AI agent — Deccan Herald</a></li>
-    <li><a href="https://www.relevantaudience.com/meta/meta-muse-small-business-connectors/">Meta adds small-business skills and connectors to Muse — Relevant Audience</a></li>
+    <li><a href="https://www.techspot.com/news/114179-developer-who-cloned-photoshop-using-ai-has-now.html">Word, Excel, PowerPoint replicas — TechSpot (10/13)</a></li>
+    <li><a href="https://petapixel.com/2026/10/12/there-are-free-open-source-versions-of-microsoft-office-apps-thanks-to-ai/">Open-Source Office Apps Thanks to AI — PetaPixel</a></li>
+    <li><a href="https://engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant">Google's Gemini Spark is an agentic AI assistant — Engadget (5/19)</a></li>
+    <li><a href="https://cmotech.news/story/microsoft-launches-scout-personal-agent-for-365-work">Microsoft launches Scout personal agent for 365 — CMOtech (6/4)</a></li>
+    <li><a href="https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/">xAI launches Grok Bot — Unite.AI</a></li>
+    <li><a href="https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday">OpenAI launches dots — The Next Web (9/29)</a></li>
+    <li><a href="https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/">All the AI agents that can live in your text messages — TechCrunch</a></li>
+    <li><a href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/">Meta's Muse is outpacing ChatGPT's early mobile launch — TechCrunch (9/21)</a></li>
+    <li><a href="https://thepaypers.com/payments/news/meta-launches-personal-ai-agent-with-stripe-powered-checkout">Meta launches personal AI agent with Stripe-powered checkout — The Paypers</a></li>
+    <li><a href="https://cryptobriefing.com/meta-muse-agentic-shopping-retail-partnerships/">Muse retail partnerships — Crypto Briefing</a></li>
+    <li><a href="https://www.relevantaudience.com/meta/meta-muse-small-business-connectors/">Muse small-business connectors — Relevant Audience</a></li>
+    <li><a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/">Meta releases Muse Wonder — TechCrunch (10/12)</a></li>
     <li><a href="https://admakeai.com/blog/meta-ads-updates-october-2026">Meta Ads updates October 2026 — AdMakeAI</a></li>
     <li><a href="https://www.abc.net.au/news/2026-10-10/cam-wilson-ai-book-copyright-laws/107220714">Someone made an AI slop book about me — ABC News (10/10)</a></li>
-    <li><a href="https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603">Major Publishers Reportedly Cover Their Books in AI Slop — Gizmodo (10/10)</a></li>
-    <li><a href="https://www.adnews.com.au/news/the-ai-generated-tasmanian-public-transport-campaign-labelled-ai-slop">Tasmanian public transport campaign labelled AI 'slop' — AdNews</a></li>
-    <li><a href="https://thewayofimprovement.blog/2020/02/24/the-difference-between-intelligence-and-intellect/">Hofstadter on "Intelligence" vs "Intellect" — The Way of Improvement</a></li>
-    <li>Always-on AI Agent 출시 현황(Gemini Spark·Scout·Grok Bot·dots·Instinct)·Muse 사용 시나리오 — 편집부 내부 리서치 자료</li>
+    <li><a href="https://gizmodo.com/as-they-supposedly-battle-ai-slop-major-publishers-reportedly-cover-their-books-in-it-2000824603">Publishers Reportedly Cover Their Books in AI Slop — Gizmodo (10/10)</a></li>
+    <li><a href="https://www.adnews.com.au/news/the-ai-generated-tasmanian-public-transport-campaign-labelled-ai-slop">Tasmanian transport campaign labelled AI 'slop' — AdNews</a></li>
+    <li><a href="https://thewayofimprovement.blog/2020/02/24/the-difference-between-intelligence-and-intellect/">Hofstadter: Intelligence vs Intellect — The Way of Improvement</a></li>
   </ol>
 </section>
 
 <footer>
   <span>AI Trend Search는 <a href="keywords.json">키워드 목록</a> 기준으로 매주 목요일 자동 조사·발행됩니다. · <a href="archive.html">지난 호 보기</a></span>
-  <span>보도 요약이며, 수치는 각 출처의 보도·자체 주장 기준입니다.</span>
+  <span>보도 요약이며, 수치는 각 출처의 보도·추정·자체 주장 기준입니다.</span>
 </footer>
 </div>
 </body>

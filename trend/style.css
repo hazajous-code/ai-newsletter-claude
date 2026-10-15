@@ -67,3 +67,22 @@ footer a{color:var(--ink-2)}
   .stat-row,.stat-row.two{grid-template-columns:1fr}
   .tbl td:first-child{white-space:normal}
 }
+
+/* v1.1 — action-oriented blocks */
+.action{margin:22px 0 6px;padding:16px 20px;background:var(--accent-soft);border-left:4px solid var(--accent)}
+.action .h{font-size:12px;font-weight:700;letter-spacing:.12em;color:var(--accent);margin:0 0 6px}
+.action p{margin:0;font-size:16px}
+.ba{margin:18px 0;border:1px solid var(--line)}
+.ba div{padding:12px 16px}
+.ba div+div{border-top:1px dashed var(--line)}
+.ba small{display:block;font-size:12px;color:var(--ink-3);font-weight:700;letter-spacing:.04em;margin-bottom:2px}
+.ba .after{background:var(--soft)}
+.qs{margin:14px 0;padding:0;list-style:none;counter-reset:q}
+.qs li{counter-increment:q;padding:10px 0 10px 40px;border-bottom:1px solid var(--line);position:relative}
+.qs li::before{content:counter(q);position:absolute;left:0;top:10px;width:26px;height:26px;border-radius:50%;background:var(--ink);color:#fff;font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center}
+.qs li b{display:block}
+.qs li span{color:var(--ink-2);font-size:15px}
+.prompt{background:#fafafa;border:1px solid var(--line);padding:16px 18px;font-size:14.5px;line-height:1.7;white-space:pre-wrap;font-family:var(--sans);margin:14px 0}
+.copy{font-size:12.5px;border:1px solid var(--ink);background:#fff;padding:4px 12px;cursor:pointer;font-family:var(--sans)}
+.copy:hover{background:var(--ink);color:#fff}
+.teamq{font-family:var(--serif);font-size:22px;line-height:1.5;margin:10px 0 0}

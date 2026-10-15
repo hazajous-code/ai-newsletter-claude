@@ -86,3 +86,14 @@ footer a{color:var(--ink-2)}
 .copy{font-size:12.5px;border:1px solid var(--ink);background:#fff;padding:4px 12px;cursor:pointer;font-family:var(--sans)}
 .copy:hover{background:var(--ink);color:#fff}
 .teamq{font-family:var(--serif);font-size:22px;line-height:1.5;margin:10px 0 0}
+
+/* glossary footnotes */
+sup.fn{font-size:.62em;line-height:0;margin-left:1px;font-family:var(--sans);font-weight:700}
+sup.fn a{color:var(--accent);text-decoration:none;padding:0 1px}
+sup.fn a:hover{text-decoration:underline}
+.gloss{margin:0;padding-left:26px;font-size:15px}
+.gloss li{margin:0 0 10px;line-height:1.65;color:var(--ink-2);scroll-margin-top:20px}
+.gloss li b{color:var(--ink);margin-right:6px}
+.gloss li:target{background:var(--accent-soft)}
+.gloss .back{text-decoration:none;color:var(--ink-3);font-size:13px}
+[id^="r"]{scroll-margin-top:80px}

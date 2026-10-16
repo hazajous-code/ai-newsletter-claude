@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-28",
+  "updatedAt": "2026-09-28T09:00+09:00",
+  "global": [
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-27T20:34:28+00:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-27T19:57:30+00:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-27T17:21:07+00:00",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between Apr",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "트럼프·아모데이, 백악관 단독 만찬... 앤트로픽과 관계 개선 신호탄?",
+      "url": "https://www.etnews.com/20260928000005",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-27T22:04:14+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 최고경영자(CEO)와 1대 1 면담을 갖는다. 미 정부와 앤트로픽 사이 긴장이 이어지던 가운데 나온 만남이어서, 관계 개선의 신호로 볼 수 있을",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "다크웹서 'AI 계정 해킹' 활개... “지금이 가장 위험한 시점”",
+      "url": "https://www.etnews.com/20260928000004",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-27T21:56:34+00:00",
+      "summary": "기업용 AI 모델 계정과 클라우드 컴퓨팅 자원을 노린 해킹 범죄가 올해 눈에 띄게 늘어난 것으로 나타났다. 구글 위협분석그룹(TAG)의 존 헐트퀴스트 수석 분석가는 27일 파이낸셜타임스에 다크웹과 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-27T17:39:33+00:00",
+      "summary": "오픈AI의 'GPT-6 아스트라'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 '가장 지능적이고 안전하게 정",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-27T16:23:59+00:00",
+      "summary": "오픈AI가 월 500달러(약 68만원)에 달하는 최상위 요금제 ‘챗GPT 프로 맥스(ChatGPT Pro Max)’를 준비하고 있다는 정황이 포착됐다. AIPRM의 리드 엔지니어 티보르 블라호는 2",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI, '두번째 탈옥' 사고...최근 몇년간 일어난 보안사고 보니",
+      "url": "https://zdnet.co.kr/view/?no=20260927214347",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-27T12:43:47+00:00",
+      "summary": "[지디넷코리아]최근 외신은 오픈AI AI 모델이 미국 인구조사국과 증권거래위원회(SEC) 등 미 정부 웹사이트의 공개 데이터에 접근했다고 보도했다. 오픈AI도 자체 조사에서 외부 시스템에 영향을 미",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

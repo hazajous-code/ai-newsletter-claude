@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-07T09:00+09:00",
+  "global": [
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-06T23:26:38+00:00",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 resul",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-06T20:47:01+00:00",
+      "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-06T20:35:20+00:00",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-06T12:00:00+00:00",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-06T12:00:00+00:00",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 5.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "[10월6일] “아모데이와 같은 방향이라더니”…알트먼, “앤트로픽과 근본적으로 다르다”",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215995",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "샘 알트먼 오픈AI CEO가 5일(현지시간) 폴리티코와의 인터뷰에서 “AI의 혜택을 위해 어느 정도의 나쁜 일은 감수해야 한다”고 말한 것이 눈길을 끌었습니다. 이번 발언은 ‘AI의 혜택을 위해 일",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "\"이기종 연결부터 심폐소생술까지\"… AI반도체 특별관, K-반도체 저력 입증",
+      "url": "https://zdnet.co.kr/view/?no=20261006180230",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-06T23:00:02+00:00",
+      "summary": "[지디넷코리아]초거대 인공지능(AI) 시대를 맞아 데이터센터의 전력·병목 이슈를 해결하고, 실생활과 산업 현장에 AI를 적용하기 위한 국산 AI 반도체 혁신 기술이 한자리에 모였다.6일 서울 강남 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "서울대-LG전자·KT, '피지컬AI' 핵심기술 개발한다",
+      "url": "https://zdnet.co.kr/view/?no=20261006181215",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-06T22:00:02+00:00",
+      "summary": "[지디넷코리아]서울대학교가 LG전자, KT, 마음AI 등 기업과 손잡고 '월드 파운데이션 모델(WFM)' 핵심 알고리즘 개발에 박차를 가하고 있다. 구체적인 성과는 내년께 나올 것으로 기대된다. 서",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "오픈AI, 챗GPT에 '시각적 광고' 도입…이미지 생성 옆 노출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215993",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-06T17:56:02+00:00",
+      "summary": "오픈AI가 '챗GPT'의 이미지 생성 기능에 광고를 결합한 새로운 시각적 광고 형식을 선보인다. 사용자가 이미지를 생성하는 동안 제품이나 서비스와 관련된 광고가 생성 결과 옆에 표시되는 방식이다. ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 9.5
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-24",
+  "updatedAt": "2026-09-24T09:00+09:00",
+  "global": [
+    {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-24T00:15:20+00:00",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of hi",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like ",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-23T23:39:44+00:00",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-23T22:17:39+00:00",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-23T16:00:00+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-23T15:25:14+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-23T09:00:00+00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 8.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "[9월23일] AI 에이전트, 이제야 ‘진짜 개인 비서’에 가까워지나",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215598",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-24T07:00:00+00:00",
+      "summary": "AI 에이전트라는 말이 등장한 지는 벌써 2~3년이 됐습니다. 하지만 최근 들어서야 일반 사용자들이 체감할 만한 서비스가 나오기 시작했습니다. 스페이스XAI의 ‘그록봇(Grok Bot)’은 출시 한",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "새만금개발청, 현대차그룹 'AI 데이터센터' 건축심의 본격 착수",
+      "url": "https://www.etnews.com/20260922000449",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-23T23:00:00+00:00",
+      "summary": "새만금개발청(청장 문성요)은 새만금 1산단 7공구에 착공하는 현대자동차그룹의 인공지능(AI) 데이터센터(AI DC) 건축계획(안)에 대한 건축심의에 착수했다고 24일 밝혔다. 현대자동차그룹은 지난 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "앤드리슨 호로위츠, 대학 대안 'AI 아카데미' 출범...젊은 창업가 육성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215596",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-23T16:55:48+00:00",
+      "summary": "미국 벤처캐피털 앤드리슨 호로위츠(a16z)가 전통적인 대학 교육을 대체할 수 있는 새로운 AI 교육기관을 설립하고 젊은 AI 인재와 창업가 육성에 나선다. 대학 진학 대신 AI 제품을 직접 만들고",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

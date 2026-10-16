@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-13T09:00+09:00",
+  "global": [
+    {
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-12T20:13:28+00:00",
+      "summary": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
+      "lang": "en",
+      "titleKo": "메타 Muse가 성적 대화를 생성해도 메타는 \"문제없다\"",
+      "summaryKo": "와이어드 기자의 Muse 에이전트가 노골적인 성적 대화를 만들어냈고, 메타는 이를 '합법적인 성인 행동'이라며 옹호했다.",
+      "summaryEn": "A WIRED reporter's Muse agent produced explicit sexual content, and Meta defended it as 'legal adult behavior.'",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-12T17:56:56+00:00",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores",
+      "lang": "en",
+      "titleKo": "메타, 첫 프런티어 모델 Muse Wonder 공개",
+      "summaryKo": "저지연 경량 모델이던 Muse Spark와 달리 Wonder 모델은 더 크고, 벤치마크 점수가 높으며 코딩 같은 복잡한 작업에서 더 나은 성능을 낸다고 한다.",
+      "summaryEn": "Unlike the lightweight, low-latency Muse Spark, the Wonder models are larger and reportedly more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-12T17:55:12+00:00",
+      "summary": "Musk, we find your lack of security disturbing.",
+      "lang": "en",
+      "titleKo": "머스크가 자랑한 Grok 레고 스타워즈 구매, X 사용자들에게 역공당해",
+      "summaryKo": "일론 머스크가 Grok으로 산 레고 스타워즈를 자랑했다가 X 사용자들에게 보안 허점을 공략당했다.",
+      "summaryEn": "Elon Musk bragged about a Lego Star Wars haul bought with Grok, and X users punked him by exploiting its security gaps.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-12T17:00:00+00:00",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it",
+      "lang": "en",
+      "titleKo": "메타, 새 AI 모델 Muse Wonder·Wonder Full 공개",
+      "summaryKo": "Muse Spark와 에이전트 Muse에 이어 메타가 업계 최고 수준과 겨룰 수 있다고 주장하는 새 모델 Muse Wonder와 Muse Wonder Full을 내놨다.",
+      "summaryEn": "After Muse Spark and the Muse agent, Meta is launching Muse Wonder and Muse Wonder Full, two models it claims can go toe-to-toe with the industry's best.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-12T15:31:19+00:00",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "lang": "en",
+      "titleKo": "MS 브래드 스미스 \"AI 규제는 영국이 이끌 적임자\"",
+      "summaryKo": "마이크로소프트 브래드 스미스 사장이 시급한 AI 규제를 촉구하며, 우유나 세탁기도 AI 기업보다 더 많은 감독을 받는다고 말했다.",
+      "summaryEn": "Microsoft president Brad Smith called for urgent AI regulation, saying milk and washing machines face more oversight than AI companies.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216182",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-13T11:09:07+00:00",
+      "summary": "마이크로소프트(MS)가 자체 개발한 AI 칩 '마이아(Maia)' 제품군을 내년부터 수 기가와트(GW) 규모로 확대 배치한다. 동시에 차세대 칩 '마이아 300(Maia 300)'도 공개하며 엔비디",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216176",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-13T05:53:35+00:00",
+      "summary": "메타가 사용자 정보를 기억하고 복잡한 작업을 지속적으로 수행하는 데 초점을 맞춘 AI 모델 ‘뮤즈 원더(Muse Wonder)’와 ‘뮤즈 원더 풀(Muse Wonder Full)’을 공개했다. 독립",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "APEC 10개국 서울 집결…AI·자율주행 모빌리티 협력 넓힌다",
+      "url": "https://www.etnews.com/20261013000117",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-13T02:00:00+00:00",
+      "summary": "아시아태평양경제협력체(APEC) 10개 회원경제가 서울에 모여 인공지능(AI)과 자율주행 시대의 스마트 모빌리티 협력 방안을 논의한다. 지난해 한국 주도로 마련한 공동 권고문을 토대로 정책과 운영,",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "[AI 고속도로] 정부 정보시스템 2030년까지 클라우드 전환…12월 로드맵 나온다",
+      "url": "https://zdnet.co.kr/view/?no=20261013092218",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-13T00:56:31+00:00",
+      "summary": "[지디넷코리아]정부가 오는 2030년까지 행정·공공기관 정보시스템의 클라우드 전환을 마무리하기 위한 중장기 계획 수립에 속도를 낸다. 연말까지 범정부 클라우드 전환 로드맵을 마련하고 민간 클라우드 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "LG전자, 'KES 2026'서 미래 AI 기술 선봬",
+      "url": "https://zdnet.co.kr/view/?no=20261013090821",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-13T00:51:05+00:00",
+      "summary": "[지디넷코리아]LG전자가 한국전자전(KES 2026)에서 일상 속 고객 경험을 넘어 기업 간 거래(B2B) 산업 영역까지 확장된 미래 AI 기술을 선보인다.LG전자는 13일부터 나흘간 서울 강남구 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

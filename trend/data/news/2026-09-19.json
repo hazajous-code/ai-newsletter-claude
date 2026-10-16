@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-19",
+  "updatedAt": "2026-09-19T09:00+09:00",
+  "global": [
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-18T23:13:31+00:00",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-18T21:07:24+00:00",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was startin",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei arg",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-16T13:00:33+00:00",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 7.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-19T06:16:26+00:00",
+      "summary": "독립 보안 연구진이 앤트로픽의 '클로드'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hac",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
+      "url": "https://zdnet.co.kr/view/?no=20260918221337",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-18T23:00:02+00:00",
+      "summary": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215461",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-18T18:26:15+00:00",
+      "summary": "초지능 AI가 인류를 멸종시킬 수 있다는 경고가 잇따르는 가운데, AI 분야의 개척자로 꼽히는 앤드류 응 스탠포드대학교 교수가 이러한 주장을 강하게 비판했다. 그는 AI의 현실적인 위험에 대해서는 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "마케팅 영향",
+        "정책·법·보안"
+      ],
+      "score": 7.5
+    }
+  ]
+}

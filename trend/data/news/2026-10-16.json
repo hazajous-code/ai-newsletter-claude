@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-16T11:42+09:00",
+  "global": [
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-15T22:43:23+00:00",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. Wi",
+      "lang": "en",
+      "titleKo": "이제 ChatGPT가 크롬 탭을 볼 수 있다",
+      "summaryKo": "ChatGPT Atlas 브라우저는 사라졌지만, ChatGPT의 크롬 확장 프로그램이 업그레이드돼 이미 열려 있는 탭을 활용할 수 있게 됐다. ChatGPT 웹·데스크톱 앱에서 크롬을 태그하면 브라우저 탭 내용을 볼 수 있다.",
+      "summaryEn": "OpenAI's ChatGPT Atlas browser is gone, but ChatGPT's Chrome extension can now use the tabs you already have open. Tag Chrome in ChatGPT's web or desktop app and it can view your browser tabs.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-15T21:18:15+00:00",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they ",
+      "lang": "en",
+      "titleKo": "메타 Muse의 뜻밖의 기능, 애플 HomeView의 아쉬움",
+      "summaryKo": "와이어드 팟캐스트 'Uncanny Valley'가 메타 Muse의 예상 밖 기능, 최대 친AI 슈퍼팩의 불투명한 지출, AI를 아는 척하는 남성들의 경향을 다뤘다.",
+      "summaryEn": "WIRED's Uncanny Valley podcast covers an unexpected Muse feature, shadowy spending by the largest pro-AI super PAC, and men's tendency to overstate how much they know about AI.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-15T21:09:33+00:00",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture,",
+      "lang": "en",
+      "titleKo": "트럼프, 백악관 복원 자랑하며 AI로 수정된 사진 게시",
+      "summaryKo": "트럼프 대통령이 트루스소셜에 올린 백악관 보수 사진 중 기둥 비교 사진이 AI로 수정된 것으로 보인다. 여러 불일치가 있었고 구글 AI 탐지기도 'AI 생성·수정' 이미지로 표시했다.",
+      "summaryEn": "One of the White House renovation photos Trump posted on Truth Social, comparing an old column with a 'restored' one, appears AI-modified. It shows discrepancies and was flagged by Google's AI detector.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-15T20:04:53+00:00",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "lang": "en",
+      "titleKo": "메타, 맥에서 돌아가는 오픈 웨이트 AI 모델 출시",
+      "summaryKo": "메타가 애플과 손잡고 애플 실리콘에서 로컬로 실행되는 새 모델 'Muse Spark Open'을 내놨다.",
+      "summaryEn": "Meta teamed up with Apple to launch Muse Spark Open, its newest model, which runs locally on Apple silicon.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-15T19:55:25+00:00",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of ",
+      "lang": "en",
+      "titleKo": "아마존 디바이스 총괄 파노스 파네이 \"AI 기기가 앱을 대신하는 미래\"",
+      "summaryKo": "테크크런치 디스럽트에서 파노스 파네이는 명령을 기다리지 않고 배경에서 사용자의 필요를 먼저 알아채는 '앰비언트 AI 기기'의 미래를 설명했다.",
+      "summaryEn": "At TechCrunch Disrupt, Amazon devices chief Panos Panay described ambient AI devices that work in the background, anticipating users' needs instead of waiting for commands.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "lang": "en",
+      "titleKo": "GPT-Rosalind, 대학 연구실에 제공",
+      "summaryKo": "오픈AI가 자격을 갖춘 대학 연구실에 생명과학 연구용 GPT-Rosalind와 관련 도구를 지원하는 'Rosalind Academic Plan'을 내놨다.",
+      "summaryEn": "OpenAI introduced the Rosalind Academic Plan, giving eligible academic labs sponsored access to GPT-Rosalind and tools for life sciences research.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "[10월15일] AI 수학 능력 급발전의 파장…과학 연구부터 인터넷 보안까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216279",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-16T07:00:00+00:00",
+      "summary": "지난주 오픈AI가 722편의 수학 연구 원고를 공개하면서 AI의 과학 연구 능력에 관심이 집중됐습니다. 그동안 AI가 과학 연구를 수십년 앞당길 수 있다는 전망이 이어졌지만, 일반인들이 그 의미를 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "리퀴드 AI, 플래그십 모델 'LFM2.5-24B-A2B' 공개...\"온디바이스 에이전트 겨냥\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216299",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-15T17:39:40+00:00",
+      "summary": "독창적인 아키텍처와 빠른 속도로 주목받아 온 리퀴드 AI가 지금까지 선보인 모델 중 가장 큰 규모인 플래그십 모델을 선보였다. 복잡한 추론과 도구 사용을 지원하면서도 기기 내에서 빠르게 실행할 수 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Net5.5G 지능형 IP 네트워크 서밋 성료, AI 시대 새 성장의 기반으로 안전하고 복원력 있는 IP 네트워크 강조",
+      "url": "https://zdnet.co.kr/view/?no=20261015231013",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-15T14:10:13+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 15일 /PRNewswire/ -- 글로벌 울트라 브로드밴드 포럼(Global Ultra-Broadband Forum•UBBF) 2026 기간에 Net5.5G 지",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

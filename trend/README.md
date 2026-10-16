@@ -1,7 +1,7 @@
 # AI Trend Search (마케터용 주간 AI 트렌드 뉴스레터)
 
 - 최신 호: `trend/index.html` → Pages 주소 `/trend/`
-- 오늘의 AI 뉴스 탭: `trend/news.html` ← `trend/data/news.json`. 매일 07:00 KST `daily.yml`이 `scrape_daily.py`(수집) 후 `trend/curate_news.py`(선별: 글로벌 ≤6, 한국 ≤5, 기준 점수 미달 제외)를 실행해 갱신
+- 오늘의 AI 뉴스 탭: `trend/news.html` ← `trend/data/news.json`. 매일 07:00 KST `daily.yml`이 `scrape_daily.py`(수집) 후 `trend/curate_news.py`(선별: 글로벌 ≤6, 한국 ≤5, 기준 점수 미달 제외)를 실행해 갱신. 날짜별 아카이브는 `trend/data/news/YYYY-MM-DD.json` + `index.json`, 페이지에서 `news.html?d=YYYY-MM-DD`로 열람. 과거 스냅샷으로 재생성: `python trend/curate_news.py --backfill 30`
 - 지난 호: `trend/issues/YYYY-MM-DD.html`, 목록은 `trend/archive.html`
 - 조사 키워드: `trend/keywords.json` — `always`(상시)와 `focus`(이번 호 집중 주제)를 수정하면 다음 발행부터 반영
 - 디자인: 흰 배경, `trend/style.css` 공통 사용

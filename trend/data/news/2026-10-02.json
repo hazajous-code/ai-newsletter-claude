@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-02",
+  "updatedAt": "2026-10-02T09:00+09:00",
+  "global": [
+    {
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-01T22:10:42+00:00",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-01T21:08:11+00:00",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-01T17:12:21+00:00",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-30T20:01:45+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-30T10:40:30+00:00",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "최대선 센터장 \"사이버보안 특화 모델 AI 기본법 사각지대...기준 마련 시급\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215867",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-02T04:56:01+00:00",
+      "summary": "최대선 숭실대 AI안전성연구센터장이 정부 주도로 개발 중인 '사이버보안 특화 AI 파운데이션 모델'이 정작 안전성을 규율하는 'AI 기본법'의 법적 규제와 관리 체계에서 벗어나 있어 명확한 기준과 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "美 캘리포니아주, 오픈AI에 소환장…AI 안정성 조사",
+      "url": "https://www.etnews.com/20261002000002",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-01T23:04:05+00:00",
+      "summary": "미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다. 1일(현지시간) 캘리포니아주 법무장관실은 오픈AI에 사이버 보안 사고 조사를 위한 소환장을 발부했다고 밝혔다.",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "\"위성·로봇 제어도 차단\"…오픈AI·앤트로픽 '안전장치 오탐'에 개발자 이탈",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215850",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-01T18:46:53+00:00",
+      "summary": "AI 모델의 안전장치가 사이버보안이나 로봇, 항공우주 분야의 정상적인 개발 작업까지 위험한 요청으로 오인하면서 개발자들의 불만이 커지고 있다. AI 코딩 에이전트가 개발 현장의 필수 도구로 자리 잡",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

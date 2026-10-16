@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-06",
+  "updatedAt": "2026-10-06T09:00+09:00",
+  "global": [
+    {
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-05T23:09:55+00:00",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-05T20:36:48+00:00",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "All the drama around AI’s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-05T19:28:59+00:00",
+      "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what res",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowled",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in ",
+      "tags": [],
+      "score": 5.0
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-05T10:00:00+00:00",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 5.5
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215976",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-05T21:01:19+00:00",
+      "summary": "10월31일까지 ‘구글 AI 프로’ 연간 구독권을 40% 할인된 가격으로 구매할 수 있다. 신규 연간 구독자를 대상으로 기존 연간 플랜 요금인 29만 원에서 40% 할인된 17만4000원(월 환산 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "클로드, 3개월 간 논문 36편 작성…새로운 'AI 과학 연구법' 조명",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215979",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-05T20:48:07+00:00",
+      "summary": "앤트로픽이 매슈 슈워츠 하버드대학교 물리학 교수의 기고문 '클로드형 과학(Claude-shaped science)'을 공식 블로그에 게재하며 프론티어 모델을 활용한 과학 연구의 새로운 접근법을 조명",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-30",
+  "updatedAt": "2026-09-30T09:00+09:00",
+  "global": [
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-30T00:19:13+00:00",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no fi",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with ",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-29T22:20:59+00:00",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot downloa",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-29T21:49:09+00:00",
+      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that artic",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since Apri",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-29T19:05:00+00:00",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-29T18:03:01+00:00",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-28T17:03:16+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개…소비자용 아닌 B2B 승부수",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-30T07:07:16+00:00",
+      "summary": "오픈AI가 24시간 백그라운드에서 상시 가동되는 자율형 AI 에이전트 서비스 '닷츠(dots)'를 공개했다. 당초 메타의 개인 맞춤형 에이전트 '뮤즈(Muse)'를 겨냥한 제품으로 예상됐으나, 완전",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI, 40조원 신규 투자 유치 추진…기업가치 1900조원 목표",
+      "url": "https://www.etnews.com/20260930000012",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-29T23:45:55+00:00",
+      "summary": "오픈AI가 최소 300억 달러(약 40조7000억원) 규모의 신규 투자 유치를 추진 중이라고 블룸버그 통신이 29일(현지시간) 보도했다. 이번 라운드에서 기업가치는 1조4000억달러(약 1900조원",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "배경훈 \"독파모·프런티어 AI 함께 간다\"…韓 AI 전략 '두 축'",
+      "url": "https://zdnet.co.kr/view/?no=20260930061513",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-29T23:26:27+00:00",
+      "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 독자 AI 파운데이션 모델(독파모)과 프런티어 AI를 한국 AI 전략의 두 축으로 가져가겠다는 구상을 밝혔다. 독파모는 산업과 사회 현장에서",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "'배 6척' 띄운 샘 알트먼…오픈AI가 데브데이서 꺼낸 6가지 카드는",
+      "url": "https://zdnet.co.kr/view/?no=20260930072733",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-29T22:29:32+00:00",
+      "summary": "[지디넷코리아]샘 알트먼 오픈AI 최고경영자(CEO)가 데브데이를 앞두고 띄운 '배 6척'의 실체가 드러났다. 개발 업계에서 'ship'은 제품이나 기능을 실제로 출시하거나 배포한다는 뜻으로 쓰이는",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "\"한도 차면 할인 끝\" 앤트로픽…오픈AI는 '파격 할인'으로 고객 빼앗기",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215761",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-29T18:13:54+00:00",
+      "summary": "앤트로픽과 오픈AI가 기업용 고객을 유치하기 위해 서로 다른 영업 전략을 펼치고 있다. 28일(현지시간) 디 인포메이션에 따르면, 앤트로픽은 기업 고객과의 계약에서 정해진 AI 토큰 및 사용량 한도",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

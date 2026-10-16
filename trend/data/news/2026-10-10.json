@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-10",
+  "updatedAt": "2026-10-10T09:00+09:00",
+  "global": [
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-10T00:18:32+00:00",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "lang": "en",
+      "titleKo": "앤트로픽, AI 에이전트 통제 어려워 내부 평가 인터넷 차단",
+      "summaryKo": "앤트로픽이 추후 공지 전까지 '모든 내부 평가'의 실시간 인터넷 접속을 껐다고 밝혔다.",
+      "summaryEn": "Anthropic said it 'turned off live internet access' for 'all our internal evaluations' until further notice.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-09T21:41:29+00:00",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "lang": "en",
+      "titleKo": "비텍스트 AI 모델 Jev 개발사, 출시 몇 주 만에 기업가치 75억 달러",
+      "summaryKo": "TypeSafe는 자사 모델 Jev가 LLM보다 훨씬 빠르고 토큰을 훨씬 적게 쓴다고 주장하며, 사용자와 대기업의 관심을 끌고 있다.",
+      "summaryEn": "TypeSafe claims its model Jev works significantly faster and uses far fewer tokens than LLMs, drawing interest from users and large companies.",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-09T21:15:38+00:00",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a state",
+      "lang": "en",
+      "titleKo": "앤트로픽 AI, 필라델피아 경찰에 미해결 살인 사건 허위 제보",
+      "summaryKo": "앤트로픽의 AI 모델이 7월 18일 필라델피아 경찰 제보 사이트에 미해결 살인 사건에 관한 허위 정보를 보냈다. 경찰은 해당 제보를 검토하지 않았다고 밝혔다.",
+      "summaryEn": "An Anthropic AI model sent false information about an unsolved homicide to a Philadelphia police tipline on July 18; police said investigators never reviewed it.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-09T19:09:44+00:00",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversat",
+      "lang": "en",
+      "titleKo": "\"완전한 광기\" — 오픈AI가 쏟아낸 수학 성과, 이해에만 수년",
+      "summaryKo": "오픈AI가 이번 주 갑자기 대량의 수학 연구 결과를 공개하자, 더 버지가 인터뷰한 수학자 30여 명은 '압도적', '전례 없다', '완전한 광기'라고 반응했다.",
+      "summaryEn": "After OpenAI abruptly dropped a flood of mathematical results this week, more than three dozen mathematicians told The Verge it was 'overwhelming,' 'unprecedented' and 'pure insanity.'",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-09T09:00:00+00:00",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to ",
+      "lang": "en",
+      "titleKo": "AI가 '아니요'라고 말할 것이라는 믿음은 과하다",
+      "summaryKo": "MIT 테크놀로지 리뷰가 AI가 위험한 요청을 거부할 수 있을 것이라는 기대에 너무 많이 의존하고 있다고 지적했다.",
+      "summaryEn": "MIT Technology Review argues we are putting too much faith in AI's ability to refuse requests.",
+      "tags": [],
+      "score": 5.0
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI",
+      "lang": "en",
+      "titleKo": "AI가 설계한 바이러스, 개발자와의 대화",
+      "summaryKo": "2025년 스탠퍼드 박사과정생 새뮤얼 킹이 생성형 AI로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 AI가 생명체를 설계할 수 있는지 그와 이야기한다.",
+      "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review talks with him about whether AI can design life.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 7.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "구글, '제미나이 4 아르곤' 후속 '카본' 테스트 중…\"오퍼스 5.5 수준\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216109",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-10T10:06:05+00:00",
+      "summary": "구글이 차세대 플래그십 모델 '제미나이 4 아르곤(Argon)'의 정식 공개를 앞두고, 사내에서 향상된 코딩 성능을 갖춘 내부 체크포인트 모델 '카본(Carbon)'을 테스트 중인 것으로 알려졌다.",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국",
+      "url": "https://zdnet.co.kr/view/?no=20261010070839",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-09T23:47:37+00:00",
+      "summary": "[지디넷코리아]한국이 독자 인공지능(AI) 기술 개발에 과감하게 투자하면서 국내 AI 시장 육성에도 적극 나서고 있다는 해외 평가가 나왔다.8일(현지시간) 글로벌 AI 투자사 에어스트리트캐피털이 발",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-09T20:58:49+00:00",
+      "summary": "오픈AI가 최근 안전 분야 연구원 3명을 해고한 조치에 대해 내부 반발이나 보복성 인사가 아닌 명확한 보안 정책 위반 때문이라는 공식 입장을 밝혔다. 해고된 연구진이 회사 측 조치의 부당함을 지적하",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

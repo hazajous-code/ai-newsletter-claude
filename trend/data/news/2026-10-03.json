@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-03",
+  "updatedAt": "2026-10-03T09:00+09:00",
+  "global": [
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-03T00:45:39+00:00",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-02T21:08:37+00:00",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading M",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-02T20:08:40+00:00",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it'",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-02T18:11:27+00:00",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, m",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-02T16:00:00+00:00",
+      "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "AI '생각의 사슬' 무력화되나…'순환 깊이'가 부른 불투명성 우려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215934",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-03T09:57:25+00:00",
+      "summary": "AI 모델의 안전성과 인간의 통제력을 담보하던 핵심 장치인 '사고 사슬(CoT)' 모니터링 체계가 흔들리고 있다. 프롬프트와 정답 사이의 중간 추론 과정을 인간의 언어로 보여주던 기존 방식과 달리,",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
+      "url": "https://zdnet.co.kr/view/?no=20261002190003",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-02T21:00:03+00:00",
+      "summary": "[지디넷코리아]사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. 유럽연합(EU)이 비동의 성적 이미지 생성 AI를 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "은행권, 오픈소스 AI에이전트 해킹 가시화…\"국가적 AiPT 대비해야\"",
+      "url": "https://zdnet.co.kr/view/?no=20261002205944",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-02T20:45:01+00:00",
+      "summary": "[지디넷코리아]최근 은행권 개인정보 유출 과정에서 중국산 오픈소스 인공지능(AI)기반 에이전트가 해킹 테스트 도구로 악용됐다는 진단이 나온 가운데, 국가적으로 AI기반 지속 위협(AiPt·AI-Po",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

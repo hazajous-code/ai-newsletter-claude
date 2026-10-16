@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-05",
+  "updatedAt": "2026-10-05T09:00+09:00",
+  "global": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-04T20:31:07+00:00",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI slop seems to be overwhelming bug bounty programs.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-04T20:08:34+00:00",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-04T15:21:59+00:00",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied a",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they could",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "\"AI가 인류 위협\" 경고한 제이콥 콕슨, 뉴욕시의회 청문회 선다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215959",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-05T09:09:23+00:00",
+      "summary": "뉴욕시의회가 빅테크 기업의 인공지능 위험성을 규제하기 위한 청문회를 개최한 가운데, 전직 AI 연구원들과 주요 기업 대표들이 대거 증언대에 선다.블룸버그는 5일(현지시간) 전 앤트로픽 연구원 제이콥",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "AI 데이터센터 식혀라...삼성은 '글로벌 사냥', LG는 '내실 고도화'",
+      "url": "https://zdnet.co.kr/view/?no=20261002221843",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-05T00:00:01+00:00",
+      "summary": "[지디넷코리아]폭발적으로 성장하는 글로벌 인공지능(AI) 데이터센터 열관리 시장을 두고 삼성전자와 LG전자가 서로 다른 냉각 전략을 택했다. 삼성전자가 유망 해외 기업을 인수합병(M&A)해 시장에 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "\"품질 좋은 침대 추천해줘\"…AI, 시몬스 먼저 꼽았다",
+      "url": "https://zdnet.co.kr/view/?no=20261002114025",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-04T23:00:02+00:00",
+      "summary": "[지디넷코리아]시몬스가 주요 생성형 AI 서비스가 가장 먼저 추천하는 침대·매트리스 브랜드인 것으로 나타났다.5일 AI 브랜드 분석 기업 에이아이백스랩이 지난 8월 23일부터 9월 4일까지 진행된 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "화면 안 보고 게임한다…GPT-6 아스트라, 'WoW' 40분 만에 클리어",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215945",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-04T18:27:01+00:00",
+      "summary": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    }
+  ]
+}

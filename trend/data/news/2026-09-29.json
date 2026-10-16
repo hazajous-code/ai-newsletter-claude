@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-29",
+  "updatedAt": "2026-09-29T09:00+09:00",
+  "global": [
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-28T23:39:20+00:00",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-28T18:45:00+00:00",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, i",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-28T17:03:16+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-28T00:00:00+00:00",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215734",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-29T07:27:02+00:00",
+      "summary": "앤트로픽이 차세대 모델 라인업의 두 번째 주자인 '클로드 소네트 5.5(Claude Sonnet 5.5)'를 출시했다. 상장(IPO)을 준비 중인 앤트로픽이 기업용 시장에서의 주도권을 확고히 하기 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "딥엘, 챗GPT·코파일럿·클로드 속으로…AI 번역 기능 연동",
+      "url": "https://zdnet.co.kr/view/?no=20260929091500",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-29T00:15:00+00:00",
+      "summary": "[지디넷코리아]딥엘이 챗GPT 등 주요 인공지능(AI) 서비스에서 자사 번역 기능을 바로 사용할 수 있는 환경을 구축했다. 딥엘은 챗GPT와 마이크로소프트 코파일럿, 클로드에 연결할 수 있는 '딥엘",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

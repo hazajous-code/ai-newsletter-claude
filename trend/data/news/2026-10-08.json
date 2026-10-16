@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-08",
+  "updatedAt": "2026-10-08T09:00+09:00",
+  "global": [
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-07T20:48:45+00:00",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The developer of Hermes Agent raised a $90 million Series B.",
+      "tags": [
+        "마케팅 영향",
+        "출시·발표"
+      ],
+      "score": 7.5
+    },
+    {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-07T20:22:37+00:00",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "[AI리더의 서가] Agentic AI 구축 개발의 모든 것",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215958",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-08T09:00:00+00:00",
+      "summary": "Agentic AI 구축 개발의 모든 것이준·이형석 | 위키북스2026년 8월 19일추천이유이 책은 Google ADK를 기반으로 자체 판단하고 행동하는 Agentic AI의 구축 방법을 차근차근 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-08T05:34:26+00:00",
+      "summary": "앤트로픽이 가격을 대폭 내리고 성능을 최고 수준으로 끌어올린 소형 모델 '클로드 하이쿠 5.5(Claude Haiku 5.5)'를 출시했다. 기업공개(IPO)를 앞두고 AI 라인업을 대대적으로 확장",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "신한·KB 노린 해킹범 정체는 '광둥성 거주 26세 중국인'?…AI 흔적서 개인정보 포착",
+      "url": "https://www.etnews.com/20261008000087",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-08T01:11:15+00:00",
+      "summary": "최근 우리나라 주요 금융권을 겨냥한 연쇄 해킹의 배후가 중국 광둥성에 거주하는 26세 인물일 가능성이 있다는 분석이 나왔다. 8일 로이터통신에 따르면 미국 사이버보안업체 크라우드스트라이크는 전날 홈",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

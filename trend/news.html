@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=text7">
+<link rel="stylesheet" href="style.css?v=text8">
 </head>
 <body>
 <div class="wrap">
@@ -16,9 +16,15 @@
 
 <header class="mast tight">
   <div class="top"><span>AI TREND SEARCH — 오늘의 AI 뉴스</span><span id="d">—</span></div>
-  <h1 style="font-size:clamp(32px,6vw,48px)">오늘 알아둘 <span>AI 뉴스</span></h1>
-  <p class="sub">글로벌·한국 AI 매체 20곳의 최근 3일 기사 중 중요도가 높은 기사만 고릅니다. 글로벌 최대 6건, 한국 최대 5건.</p>
-  <div class="news-meta"><span id="u">업데이트 —</span><span>매일 오전 7시(KST) 갱신</span></div>
+  <h1 style="font-size:clamp(32px,6vw,48px)" id="h"><span id="hd">오늘</span> 알아둘 <span>AI 뉴스</span></h1>
+  <p class="sub">글로벌·한국 AI 매체 20곳의 최근 3일 기사 중 중요도가 높은 기사만 고릅니다. 글로벌 최대 6건, 한국 최대 5건. 지난 날짜의 뉴스도 아래에서 고를 수 있습니다.</p>
+  <div class="news-meta"><span id="u">업데이트 —</span><span>매일 오전 갱신</span></div>
+  <div class="datenav" aria-label="날짜 이동">
+    <button type="button" id="prev" aria-label="이전 날">← 이전 날</button>
+    <select id="pick" aria-label="날짜 선택"></select>
+    <button type="button" id="next" aria-label="다음 날">다음 날 →</button>
+    <a href="news.html" id="today" class="todaylink" hidden>오늘로</a>
+  </div>
 </header>
 
 <section class="news-region" style="border-bottom:0" aria-labelledby="hg">
@@ -55,7 +61,8 @@
     var t=Date.parse(iso); if(!t) return "";
     var h=Math.round((Date.now()-t)/36e5);
     if(h<1) return "방금"; if(h<24) return h+"시간 전";
-    return Math.round(h/24)+"일 전";
+    if(h<72) return Math.round(h/24)+"일 전";
+    var dt=new Date(t); return (dt.getMonth()+1)+"월 "+dt.getDate()+"일";
   }
   function render(list,el,cnt){
     var ul=document.getElementById(el);
@@ -63,13 +70,13 @@
     document.getElementById(cnt).textContent=list.length+"건";
     ul.innerHTML=list.map(function(a){
       var tags=(a.tags||[]).map(function(t){return '<span class="ntag'+(t==="마케팅 영향"?" mk":"")+'">'+esc(t)+'</span>';}).join("");
-      var isEn=(a.lang&&a.lang!=="ko")&&a.titleKo;
+      var isEn=(a.lang&&a.lang!=="ko");
       var head;
       if(isEn){
-        var en=a.summaryEn||"";
+        var en=a.summaryEn||a.summary||"";
         head='<span class="lang">EN</span><a class="t" href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a>'+
           (en?'<p class="s en">'+esc(en)+(en.length>=220&&!/[.!?)"']$/.test(en)?'…':'')+'</p>':'')+
-          '<div class="ko"><span class="kol">한국어 요약</span><b>'+esc(a.titleKo)+'</b>'+(a.summaryKo?'<p>'+esc(a.summaryKo)+'</p>':'')+'</div>';
+          (a.titleKo?'<div class="ko"><span class="kol">한국어 요약</span><b>'+esc(a.titleKo)+'</b>'+(a.summaryKo?'<p>'+esc(a.summaryKo)+'</p>':'')+'</div>':'');
       }else{
         var sum=a.summaryKo||a.summary, cut=!a.summaryKo&&sum&&sum.length>=110;
         head='<a class="t" href="'+esc(a.url)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a>'+(sum?'<p class="s">'+esc(sum)+(cut?'…':'')+'</p>':'');
@@ -78,12 +85,43 @@
         '<div class="m"><span>'+esc(a.source)+'</span><span>·</span><span>'+ago(a.publishedAt)+'</span>'+tags+'</div></li>';
     }).join("");
   }
-  fetch("data/news.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){
-    document.getElementById("d").textContent=(d.date||"").replace(/-/g,".");
+  var DAYS=["일","월","화","수","목","금","토"];
+  function label(ds){var p=ds.split("-");var dt=new Date(+p[0],+p[1]-1,+p[2]);return (+p[1])+"월 "+(+p[2])+"일 ("+DAYS[dt.getDay()]+")";}
+  function show(d,dates,cur){
+    var latest=dates.length&&cur===dates[0];
+    document.getElementById("hd").textContent=latest?"오늘":label(cur).replace(/ \(.\)/,"");
+    document.title="AI Trend Search · "+(latest?"오늘의 AI 뉴스":label(cur)+" AI 뉴스");
+    document.getElementById("d").textContent=cur.replace(/-/g,".");
     document.getElementById("u").textContent="업데이트 "+(d.updatedAt||"").replace("T"," ").slice(0,16);
+    document.getElementById("cg").textContent="";document.getElementById("ck").textContent="";
     render(d.global,"lg","cg"); render(d.korea,"lk","ck");
+    var i=dates.indexOf(cur);
+    document.getElementById("prev").disabled=(i<0||i>=dates.length-1);
+    document.getElementById("next").disabled=(i<=0);
+    document.getElementById("today").hidden=latest;
+    document.getElementById("pick").value=cur;
+  }
+  function go(cur,dates,push){
+    fetch("data/news/"+cur+".json?t="+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){
+      show(d,dates,cur);
+      if(push){var u=cur===dates[0]?"news.html":"news.html?d="+cur;history.pushState({d:cur},"",u);}
+      window.scrollTo(0,0);
+    }).catch(fail);
+  }
+  function fail(){["lg","lk"].forEach(function(id){document.getElementById(id).innerHTML='<li class="empty" style="padding-left:0">뉴스를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</li>';});}
+  fetch("data/news/index.json?t="+Date.now()).then(function(r){return r.json();}).then(function(ix){
+    var dates=(ix.dates||[]).map(function(x){return x.date;});
+    var sel=document.getElementById("pick");
+    sel.innerHTML=(ix.dates||[]).map(function(x){return '<option value="'+x.date+'">'+label(x.date)+' · '+(x.global+x.korea)+'건</option>';}).join("");
+    var q=(location.search.match(/[?&]d=(\d{4}-\d{2}-\d{2})/)||[])[1];
+    var cur=(q&&dates.indexOf(q)>=0)?q:dates[0];
+    go(cur,dates,false);
+    sel.onchange=function(){go(sel.value,dates,true);};
+    document.getElementById("prev").onclick=function(){var i=dates.indexOf(sel.value);if(i<dates.length-1)go(dates[i+1],dates,true);};
+    document.getElementById("next").onclick=function(){var i=dates.indexOf(sel.value);if(i>0)go(dates[i-1],dates,true);};
+    window.onpopstate=function(){var q2=(location.search.match(/[?&]d=(\d{4}-\d{2}-\d{2})/)||[])[1];go(q2&&dates.indexOf(q2)>=0?q2:dates[0],dates,false);};
   }).catch(function(){
-    ["lg","lk"].forEach(function(id){document.getElementById(id).innerHTML='<li class="empty" style="padding-left:0">뉴스를 불러오지 못했습니다. 잠시 후 새로고침해 주세요.</li>';});
+    fetch("data/news.json?t="+Date.now()).then(function(r){return r.json();}).then(function(d){show(d,[d.date],d.date);}).catch(fail);
   });
 })();
 </script>

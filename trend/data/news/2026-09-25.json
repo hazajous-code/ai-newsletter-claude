@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-25",
+  "updatedAt": "2026-09-25T09:00+09:00",
+  "global": [
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-24T19:59:26+00:00",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sy",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-24T19:36:35+00:00",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-24T16:00:00+00:00",
+      "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-23T16:00:00+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-23T15:25:14+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-23T09:00:00+00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "메타, 펜던트형 AI 기기 '뮤즈 참' 12월 출시 예고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-24T22:59:56+00:00",
+      "summary": "메타가 스마트폰을 거치지 않고 AI 에이전트와 직접 소통하는 전용 모바일 디바이스를 선보이며 자체 AI 생태계 확장에 나섰다.마크 저커버그 메타 CEO는 23일(현지시간) 미국 캘리포니아주 멘로파크",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-24T20:41:06+00:00",
+      "summary": "세계 최대 동영상 플랫폼 유튜브에 크리에이터가 자연어로 동영상을 편집하고 시청자가 프롬프트로 자신만의 추천 알고리즘을 구축하는 등 AI 기능이 대대적으로 추가됐다.유튜브는 23일(현지시간) 연례행사",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 9.5
+    }
+  ]
+}

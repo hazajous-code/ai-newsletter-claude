@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-04",
+  "updatedAt": "2026-10-04T09:00+09:00",
+  "global": [
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-03T16:30:01+00:00",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-03T12:00:00+00:00",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-04T08:59:00+00:00",
+      "summary": "오픈AI에서 안전 시스템 팀을 이끌며 모델 출시 안전 보고서 작성 등을 감독했던 핵심 인물 데이비드 로빈슨이 회사를 떠났다. 그는 오픈AI의 속도 중심 조직 문화가 위험을 키우고 있다며 \"시행착오를",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-03T20:42:47+00:00",
+      "summary": "빅테크 기업들이 AI에 대한 대중의 거부감과 불안감을 해소하기 위해 귀여운 마스코트를 잇달아 내세우는 마케팅 전환을 시도하고 있다. AI가 가져올 일자리 감소나 인류에 대한 실존적 위협이라는 중대한",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "“AI가 말하는 줄”…챗GPT 쓰더니 직장인 말투까지 변했다",
+      "url": "https://www.etnews.com/20261002000159",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-03T13:30:00+00:00",
+      "summary": "사람들이 챗GPT와 클로드 같은 생성형 인공지능(AI)을 생활 속에서 활용하는 일이 늘면서 인간의 언어 습관에도 변화가 나타나고 있다는 주장이 나왔다. 지난 30일(현지시간) 월스트리트저널(WSJ)",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-18",
+  "updatedAt": "2026-09-18T09:00+09:00",
+  "global": [
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-17T23:21:17+00:00",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Here’s What the AI Apocalypse Could Look Like",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-17T22:20:21+00:00",
+      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-17T18:58:05+00:00",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Sim",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-16T13:00:33+00:00",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 7.5
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-15T17:05:57+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "에임인텔리전스, 피지컬AI 안전 연구 글로벌 컨소시엄 ‘PASC’ 출범",
+      "url": "https://zdnet.co.kr/view/?no=20260918081204",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-17T23:12:04+00:00",
+      "summary": "[지디넷코리아]보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)는 로봇과 자율 시스템 등 피지컬 AI 전반의 안전 문제를 연구하기 위한 글로벌 컨소시엄 ‘PASC(Physi",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "구글, 수학 특화 AI '딥씽크 V3 매스매티카' 내부 테스트 정황 포착",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215399",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-17T18:00:00+00:00",
+      "summary": "구글이 고난도 수학 연산과 심층 추론에 특화된 차세대 모델을 개발 중인 정황이 외부 유출을 통해 확인됐다. 16일(현지시간) AI 전문 매체 테스팅카탈로그에 따르면, 구글 내부에서 테스트 중인 미공",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

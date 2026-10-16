@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-22",
+  "updatedAt": "2026-09-22T09:00+09:00",
+  "global": [
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-21T23:44:28+00:00",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-21T19:19:21+00:00",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, accordin",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-21T18:00:07+00:00",
+      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping w",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fi",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-21T14:51:34+00:00",
+      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security en",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-21T07:00:00+00:00",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "알리바바, 통역 지연 '2.3초'로 줄인 AI '큐원3.8-라이브트랜스레이트' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215516",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-21T18:20:59+00:00",
+      "summary": "알리바바가 오디오와 텍스트를 동시에 처리해 통역 지연 시간을 2.3초까지 단축한 차세대 통번역 모델을 공개했다.알리바바는 18일(현지시간) 대화 중 음성이 끝나기를 기다리지 않고 듣는 동시에 번역문",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    }
+  ]
+}

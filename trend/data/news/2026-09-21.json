@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-21",
+  "updatedAt": "2026-09-21T09:00+09:00",
+  "global": [
+    {
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-20T18:50:18+00:00",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning,",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-20T10:30:00+00:00",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei arg",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "화웨이, 새로운 AI 캠퍼스 시대를 여는 업그레이드된 Stellar AI Campus Network 공개",
+      "url": "https://zdnet.co.kr/view/?no=20260921031002",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-20T18:10:02+00:00",
+      "summary": "[지디넷코리아]상하이 2026년 9월 20일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026)에서 초고속 무선, 전방위 보안, 네트워크",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "출시·발표",
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "“문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215506",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-20T17:40:45+00:00",
+      "summary": "'챗GPT' 개발의 핵심 역할을 맡았던 연구원이 공개한 ‘글 못 쓰는 AI’가 전 세계 엔지니어들을 열광시키고 있다. 텍스트 생성이라는 생성 AI의 기본 기능을 과감히 버리고, 소프트웨어 백엔드에 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "중국, 앤트로픽 겨냥 “미 정보기관에 사용자 데이터 넘길 수도”",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215495",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-20T16:00:24+00:00",
+      "summary": "앤트로픽의 개인정보 보호정책 개정으로 사용자 데이터가 미국 정보기관에 공유될 위험이 커졌다는 중국 측 주장이 나왔다.블룸버그에 따르면, 관영매체인 중국중앙TV(CCTV) 계열 소셜미디어 계정 위위안",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "[안광섭 AI 진테제] Jev, 역사상 가장 빠르게 사용량이 증가한 유료 모델",
+      "url": "https://zdnet.co.kr/view/?no=20260920215302",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-20T12:53:02+00:00",
+      "summary": "[지디넷코리아]지난 15일, 미국 스타트업 타입세이프 AI(TypeSafe AI)가 2년가량의 비공개 개발을 끝내고 첫 모델 '제브(Jev)'를 공개했다. 투자금 4000만 달러를 유치했다는 발표도",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

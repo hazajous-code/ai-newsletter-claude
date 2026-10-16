@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-26",
+  "updatedAt": "2026-09-26T09:00+09:00",
+  "global": [
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-25T22:20:47+00:00",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-25T20:34:53+00:00",
+      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-25T16:58:20+00:00",
+      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-25T16:49:53+00:00",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we ",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-24T16:20:39+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-23T15:25:14+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-26T08:57:00+00:00",
+      "summary": "오픈AI가 최신 사이버 보안 전용 모델 'GPT-6 사이버(Cyber)'를 몇주 안에 공개하고, 기존 모델 API 공급 방식에서 벗어나 고객이 모델을 더 안전하고 자동화된 방식으로 배포 및 운용할 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-26T07:23:18+00:00",
+      "summary": "마이크로소프트(MS)가 '코파일럿(Copilot)'의 전면 개편을 단행하며 챗봇 중심 시장에서 자율형 에이전트 플랫폼으로의 전환을 선언했다. 단순한 대화형 AI 서비스에서 벗어나 오피스 소프트웨어와",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "AI 투자축 GPU서 CPU·메모리로 확장…판 뒤집힌다 “삼전닉스 가치 재평가”",
+      "url": "https://www.etnews.com/20260925000044",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-25T10:15:00+00:00",
+      "summary": "인공지능(AI) 인프라 투자의 중심축이 그래픽처리장치(GPU)에서 중앙처리장치(CPU)와 메모리 반도체로 빠르게 이동하면서 삼성전자와 SK하이닉스의 전략적 가치가 재평가될 수 있다는 분석이 나왔다.",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다",
+      "url": "https://zdnet.co.kr/view/?no=20260925080611",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-25T08:00:01+00:00",
+      "summary": "[지디넷코리아]깃허브가 폐쇄망 환경에서 인공지능(AI) 코딩 도구를 활용할 수 있는 환경을 구축했다. 사용자 권한 관리와 코드 검토 절차도 개선해 기업 개발팀 도구 도입과 운영 부담을 줄이는 데 초",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

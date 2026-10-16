@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-17",
+  "updatedAt": "2026-09-17T09:00+09:00",
+  "global": [
+    {
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-16T23:40:00+00:00",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel i",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-16T22:07:24+00:00",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being aske",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-16T13:00:33+00:00",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-16T13:00:00+00:00",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-09-15T17:05:57+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-17T07:00:00+00:00",
+      "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "美재무 “中과 AI 위험 논의 가능”…20일 뉴욕서 경제수장 회동",
+      "url": "https://www.etnews.com/20260917000074",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-16T22:17:51+00:00",
+      "summary": "미중 정상회담을 앞두고 양국 경제 수장이 인공지능(AI) 안전 문제를 협상 테이블에 올릴 가능성이 제기됐다. 스콧 베선트 미국 재무장관은 중국과 AI 분야에서 양국이 공통으로 직면한 위험을 논의할 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "MS AI수장 “AI에 권리 가르치면 통제 위험”…앤트로픽 비판",
+      "url": "https://www.etnews.com/20260917000073",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-09-16T22:14:44+00:00",
+      "summary": "마이크로소프트(MS)의 인공지능(AI) 부문 수장인 무스타파 술레이만 최고경영자(CEO)가 앤트로픽의 AI 모델 정책이 인간의 통제를 어렵게 만들 수 있다고 비판했다. 술레이만 CEO는 16일(현지",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-16T18:25:00+00:00",
+      "summary": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

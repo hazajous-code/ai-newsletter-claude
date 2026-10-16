@@ -1,0 +1,155 @@
+{
+  "date": "2026-09-20",
+  "updatedAt": "2026-09-20T09:00+09:00",
+  "global": [
+    {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-19T20:44:40+00:00",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actual",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-19T17:30:00+00:00",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-09-19T15:25:03+00:00",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The h",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cyberse",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-09-19T11:00:00+00:00",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-09-18T14:00:00+00:00",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei arg",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-19T19:46:59+00:00",
+      "summary": "오픈AI가 'GPT-6 아스트라'를 앞세워 기업용 시장 점유율을 가파르게 확대하자, 이 분야에서 우위를 점해온 앤트로픽이 기업공개(IPO)를 앞두고 차세대 AI 모델 공개를 준비 중인 것으로 알려졌",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-19T19:06:23+00:00",
+      "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "[안광섭 AI 진테제] AI 데이터센터 본질...복잡한 4각 함수",
+      "url": "https://zdnet.co.kr/view/?no=20260919140654",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-19T05:06:54+00:00",
+      "summary": "[지디넷코리아]최근 AI 데이터센터 사업의 자문과 설계, 심사를 맡아 여러 지역을 다니고 있다. 가장 자주 만나는 유형은 이 사업을 너무 쉽게 보고 오는 쪽이다. 부지가 있고 전력이 근처에 있으니 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

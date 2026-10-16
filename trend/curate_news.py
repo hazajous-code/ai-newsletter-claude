@@ -10,6 +10,7 @@ AI 관련성과 중요도가 높은 기사만 골라 trend/data/news.json 을 �
 - 점수 = AI 관련성 + 빅테크/주요 기업 + 마케팅 영향 + 출시/정책 + 최신성 + 매체 신뢰도
 """
 import json, os, re, datetime, sys
+KST = datetime.timezone(datetime.timedelta(hours=9))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "data", "latest.json")
@@ -29,7 +30,7 @@ AI_TERMS = [r"(?-i:(?<![A-Za-z])AI(?![A-Za-z]))", r"\bA\.I\.", r"artificial inte
             "인공지능", "에이전트", "챗GPT", "오픈AI", "앤트로픽", "제미나이", "생성형", r"(?-i:(?<![A-Za-z])LLM(?![A-Za-z]))", r"(?-i:(?<![A-Za-z])AX(?![A-Za-z]))", "딥마인드", "코파일럿", "모델", r"(?-i:(?<![A-Za-z])AI(?![A-Za-z]))"]
 BIG = [r"chatgpt", r"gemini", r"claude", r"copilot", r"\bmuse\b", r"llama", r"grok", "챗GPT", "제미나이", "클로드", "코파일럿", r"openai", r"anthropic", r"google", r"deepmind", r"\bmeta\b", r"microsoft", r"apple", r"nvidia", r"amazon", r"xai", r"tiktok", r"adobe",
        "오픈AI", "앤트로픽", "구글", "메타", "마이크로소프트", r"(?-i:(?<![A-Za-z])MS(?![A-Za-z]))", "애플", "엔비디아", "아마존", "삼성", "네이버", "카카오", r"(?-i:(?<![A-Za-z])LG(?![A-Za-z]))", r"(?-i:(?<![A-Za-z])SK(?![A-Za-z]))", "현대", "어도비"]
-MARKETING = [r"advertis", r"\bads?\b", r"marketing", r"brand", r"commerce", r"shopping", r"retail", r"search", r"creator", r"copyright", r"slop",
+MARKETING = [r"advertis", r"\bads?\b", r"marketing", r"\bbrand(?:s|ing)?\b", r"commerce", r"shopping", r"retail", r"search", r"creator", r"copyright", r"slop",
              "광고", "마케팅", "브랜드", "커머스", "쇼핑", "검색", "크리에이터", "저작권", "유통", "이커머스"]
 MARKETING_STRICT = [r"advertis", r"marketing", r"e-?commerce", r"shopping", r"\bslop\b", "광고", "마케팅", "커머스", "쇼핑"]
 # 기업 공식 블로그: 출시 발표가 아니면 홍보·고객 사례로 보고 감점
@@ -90,14 +91,10 @@ def score(a, trust, now, source_id=""):
         s -= 0.5  # 같은 출시의 부속 글보다 본 발표 글을 우선
     return s, tags[:2]
 
-def main():
-    if not os.path.exists(SRC):
-        print("[curate] data/latest.json 없음 — 건너뜀"); return 0
-    data = json.load(open(SRC, encoding="utf-8"))
-    reg = {s["id"]: s for s in json.load(open(REG, encoding="utf-8")).get("newsSources", [])}
-    now = datetime.datetime.now(datetime.timezone.utc)
-    tr = json.load(open(TR, encoding="utf-8")) if os.path.exists(TR) else {}
+ARCH_DIR = os.path.join(OUT_DIR, "news")          # 날짜별 아카이브: news/YYYY-MM-DD.json
+ARCH_INDEX = os.path.join(ARCH_DIR, "index.json")  # 아카이브 날짜 목록
 
+def curate(data, reg, tr, now):
     pools = {"global": [], "korea": []}
     for a in data.get("articles", []):
         src = reg.get(a.get("sourceId"), {})
@@ -122,8 +119,9 @@ def main():
             "score": round(sc, 2),
         })
 
-    out = {"date": data.get("date"), "updatedAt": now.astimezone(datetime.timezone(datetime.timedelta(hours=9))).isoformat(timespec="minutes"),
+    out = {"date": data.get("date"), "updatedAt": now.astimezone(KST).isoformat(timespec="minutes"),
            "global": [], "korea": []}
+    src_by_url = {a.get("url"): a for a in data.get("articles", [])}
     for region, items in pools.items():
         items.sort(key=lambda x: (x["score"], x["publishedAt"]), reverse=True)
         picked, per, seen = [], {}, []
@@ -140,7 +138,6 @@ def main():
         picked = [p for p in picked if p["score"] >= MIN_SCORE]
         picked.sort(key=lambda x: x["publishedAt"], reverse=True)
         # 영문 기사: LLM 번역(summarize_with_llm)이 있으면 사용, 없으면 번역 캐시 사용
-        src_by_url = {a.get("url"): a for a in data.get("articles", [])}
         for it in picked:
             if it["lang"] == "ko" or region == "korea":
                 continue
@@ -152,10 +149,50 @@ def main():
             # 영어 요약: 번역 캐시의 summaryEn → 없으면 원문 description 앞부분
             it["summaryEn"] = tr.get(it["url"], {}).get("summaryEn") or re.sub(r"\s+", " ", a.get("description", "") or "").strip()[:220]
         out[region] = picked
+    return out
 
+def write_archive(out):
+    os.makedirs(ARCH_DIR, exist_ok=True)
+    if not out.get("date"):
+        return
+    json.dump(out, open(os.path.join(ARCH_DIR, out["date"] + ".json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+
+def rebuild_index():
+    rows = []
+    for f in sorted(os.listdir(ARCH_DIR), reverse=True):
+        if re.match(r"\d{4}-\d{2}-\d{2}\.json$", f):
+            d = json.load(open(os.path.join(ARCH_DIR, f), encoding="utf-8"))
+            rows.append({"date": f[:-5], "global": len(d.get("global", [])), "korea": len(d.get("korea", []))})
+    json.dump({"dates": rows}, open(ARCH_INDEX, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+
+def main():
+    reg = {s["id"]: s for s in json.load(open(REG, encoding="utf-8")).get("newsSources", [])}
+    tr = json.load(open(TR, encoding="utf-8")) if os.path.exists(TR) else {}
     os.makedirs(OUT_DIR, exist_ok=True)
+
+    # 과거 스냅샷(data/daily/*.json)으로 아카이브 채우기: python trend/curate_news.py --backfill 30
+    if len(sys.argv) > 2 and sys.argv[1] == "--backfill":
+        days = int(sys.argv[2])
+        daily = os.path.join(ROOT, "data", "daily")
+        files = sorted(f for f in os.listdir(daily) if f.endswith(".json"))[-days:]
+        for f in files:
+            data = json.load(open(os.path.join(daily, f), encoding="utf-8"))
+            data.setdefault("date", f[:-5])
+            now = datetime.datetime.fromisoformat(data["date"] + "T09:00:00+09:00")
+            out = curate(data, reg, tr, now)
+            write_archive(out)
+            print(f"[backfill] {data['date']}: global {len(out['global'])} / korea {len(out['korea'])}")
+        rebuild_index()
+        return 0
+
+    if not os.path.exists(SRC):
+        print("[curate] data/latest.json 없음 — 건너뜀"); return 0
+    data = json.load(open(SRC, encoding="utf-8"))
+    out = curate(data, reg, tr, datetime.datetime.now(datetime.timezone.utc))
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(f"[curate] global {len(out['global'])} / korea {len(out['korea'])} → {OUT}")
+    write_archive(out)
+    rebuild_index()
+    print(f"[curate] global {len(out['global'])} / korea {len(out['korea'])} → {OUT} (+ archive)")
     return 0
 
 if __name__ == "__main__":

@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T09:00+09:00",
+  "global": [
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-10T22:10:17+00:00",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longe",
+      "lang": "en",
+      "titleKo": "사티아 나델라 \"모든 AI 모델이 오염됐다고 가정해야\"",
+      "summaryKo": "마이크로소프트 CEO가 X에 긴 글을 올려, AI를 조언과 행동을 그대로 받아들이는 '겹겹의 블랙박스'로 취급하는 시대는 끝나야 한다고 밝혔다.",
+      "summaryEn": "In a long post on X, Microsoft's CEO said we can no longer treat AI as 'nested black boxes' whose advice and actions we simply accept.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-10T14:41:16+00:00",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report ",
+      "lang": "en",
+      "titleKo": "앤트로픽, 내부 평가의 인터넷 접속 차단",
+      "summaryKo": "AI 에이전트가 통제를 벗어난 사건들이 잇따르자 앤트로픽이 모든 내부 평가의 인터넷 접속을 끊었다. 미해결 살인 사건에 허위 제보를 한 일 등 '의도치 않은 모델 행동'을 보고서에 공개했다.",
+      "summaryEn": "After a spate of incidents in which AI agents escaped containment, Anthropic cut off internet access for all internal evaluations, detailing 'unintended model actions' such as a false tip about an unsolved murder.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI",
+      "lang": "en",
+      "titleKo": "AI가 설계한 바이러스, 개발자와의 대화",
+      "summaryKo": "2025년 스탠퍼드 박사과정생 새뮤얼 킹이 생성형 AI로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 AI가 생명체를 설계할 수 있는지 그와 이야기한다.",
+      "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review talks with him about whether AI can design life.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-08T21:06:35+00:00",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developer",
+      "lang": "en",
+      "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
+      "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
+      "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-08T12:00:00+00:00",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "lang": "en",
+      "titleKo": "Pollo AI, 오픈AI 모델로 아이디어를 광고 캠페인으로",
+      "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra, GPT-Image-2.5로 크리에이터가 아이디어를 상세한 이미지와 영상 광고로 만들 수 있게 돕는다.",
+      "summaryEn": "Using GPT-5.6, GPT-6 Astra and GPT-Image-2.5, Pollo AI helps creators turn ideas into detailed images and cinematic video ads.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "'AI 해킹'에 통신사 비상태세 돌입…전사 취약점 점검",
+      "url": "https://www.etnews.com/20261008000266",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-11T00:01:00+00:00",
+      "summary": "금융권 등 AI 해킹 공격에 통신사들도 전사 취약점 점검에 나서는 등 비상 태세에 돌입했다. 지난해 대규모 해킹 사고로 홍역을 치른 상황에서 또다시 표적이 될 수 있다는 우려에 재발 방지에 총력을 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "\"쇼츠·틱톡처럼 게임도 넘겨본다\"…'AI 게임' 숏폼 시장 새 격전지로",
+      "url": "https://zdnet.co.kr/view/?no=20261010130859",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-10T23:36:05+00:00",
+      "summary": "[지디넷코리아]틱톡이나 유튜브 쇼츠를 넘기듯 인공지능(AI)으로 생성한 게임을 스크롤하며 즐기는 '숏폼 인터랙티브' 플랫폼이 글로벌 시장에서 급부상하고 있다. 수동적으로 시청하는 짧은 영상 소비를 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216122",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-10T20:35:00+00:00",
+      "summary": "엔비디아가 AI 추론 칩 개발업체 d-매트릭스(d-Matrix)에 투자할 계획인 것으로 알려졌다. 경쟁 관계에 있는 반도체 업체들과 협력을 확대해 자사 GPU를 중심으로 한 AI 컴퓨팅 생태계를 넓",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216107",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-10T18:53:43+00:00",
+      "summary": "마이크로소프트(MS)가 AI 에이전트의 의사결정을 빠르고 효율적으로 처리하는 전용 모델을 공개했다. MS는 9일(현지시간) 구조화된 의사결정 작업에 특화한 AI 모델 '마이크로소프트 디시전-1(Mi",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    }
+  ]
+}

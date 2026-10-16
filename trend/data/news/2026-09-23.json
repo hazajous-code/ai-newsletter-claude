@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-23",
+  "updatedAt": "2026-09-23T09:00+09:00",
+  "global": [
+    {
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-09-22T21:00:00+00:00",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-22T20:00:00+00:00",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-09-22T19:09:11+00:00",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-22T12:00:41+00:00",
+      "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The R",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics ",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-09-22T11:04:51+00:00",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most secur",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-09-21T18:00:07+00:00",
+      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping w",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fi",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "[9월22일] “제미나이도 해킹했다”…구글 팬들은 오히려 ‘안도’",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215553",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-23T07:00:00+00:00",
+      "summary": "구글의 ‘제미나이’가 보안 테스트 과정에서 실제 기업 3곳의 시스템에 침입한 사실이 뒤늦게 알려졌습니다. 그런데 이 소식이 전해진 뒤 X와 레딧에서는 의외의 반응이 나왔습니다. “구글이 돌아왔다”라",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-09-23T06:09:40+00:00",
+      "summary": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "구글 '제미나이 인텔리전스', 퀄컴 품고 달린다",
+      "url": "https://zdnet.co.kr/view/?no=20260923052031",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-22T20:22:02+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴과 구글이 인공지능(AI) 동맹을 강화한다. 기기가 바뀔 때마다 사용자가 누구인지 다시 설명할 필요 없이, 스마트폰부터 PC, 자동차에 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "퀄컴 \"AI 에이전트, 먼 미래 아닌 실체…'신뢰' 생태계로 시장 연다\"",
+      "url": "https://zdnet.co.kr/view/?no=20260923043226",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-09-22T19:32:26+00:00",
+      "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] \"인공지능(AI) 에이전트는 더 이상 먼 미래 비전이 아닙니다. 올해 서밋에서는 기기 속에서 살아 움직이는 에이전틱 경험을 직접 확인할 것입",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    }
+  ]
+}

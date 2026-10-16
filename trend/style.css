@@ -200,3 +200,13 @@ section h3{margin-top:34px;padding-top:4px}
   .frame{grid-template-columns:1fr;gap:6px 0;padding:14px 0}
   .frame .tag{margin:0}
 }
+
+/* v4: one vertical text line — tables, stats, notes start where frame text starts */
+:root{--rail:122px}
+.framed > .stat-row,.framed > .tblwrap,.framed > p,.framed > .muted,.framed > ul,.framed > .alert,.framed > h3{margin-left:var(--rail)}
+.framed > p.label{margin-left:0}
+.framed > h3{margin-top:30px}
+.framed .tbl th:first-child,.framed .tbl td:first-child{padding-left:0}
+@media (max-width:560px){
+  :root{--rail:0px}
+}

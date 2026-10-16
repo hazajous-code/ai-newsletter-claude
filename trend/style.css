@@ -203,9 +203,9 @@ section h3{margin-top:34px;padding-top:4px}
 
 /* v4: one vertical text line — tables, stats, notes start where frame text starts */
 :root{--rail:122px}
-.framed > .stat-row,.framed > .tblwrap,.framed > p,.framed > .muted,.framed > ul,.framed > .alert,.framed > h3{margin-left:var(--rail)}
+.framed > .frame ~ :is(.stat-row,.tblwrap,p,.muted,ul,.alert,h3){margin-left:var(--rail)}
+.framed > .frame.judge ~ *{margin-left:0}
 .framed > p.label{margin-left:0}
-.framed > h3{margin-top:30px}
 .framed .tbl th:first-child,.framed .tbl td:first-child{padding-left:0}
 @media (max-width:560px){
   :root{--rail:0px}

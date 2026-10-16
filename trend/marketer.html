@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Trend Search · Vol.01 마케터 자료</title>
+<meta name="description" content="AI Trend Search Vol.01 마케터 자료 — 적용 사례·체크리스트·30분 실습">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700&family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=text10">
+</head>
+<body>
+<div class="wrap">
+<nav class="tabs" aria-label="메뉴"><a href="index.html">주간 뉴스레터</a><a href="marketer.html" class="on">마케터 자료</a><a href="news.html">오늘의 AI 뉴스</a><a href="archive.html">지난 호</a></nav>
+
+<header class="mast tight">
+  <div class="top"><span>AI TREND SEARCH — 마케터 자료</span><span>Vol.01 · 2026.10.15 (목)</span></div>
+  <h1 style="font-size:clamp(30px,6vw,46px)">고객의 의도를 읽는 <span>실무 키트</span></h1>
+  <p class="sub">이번 호 <a href="index.html">주간 뉴스레터</a>의 주제를 업무로 옮기는 자료입니다. 실제 사례로 가능성과 조건을 확인하고, 체크리스트로 우리 상황을 판단한 뒤, 30분 실습으로 결과물 하나를 만듭니다.</p>
+</header>
+
+<div class="tldr">
+  <h2>이번 주 키트</h2>
+  <ol>
+    <li><b>적용 사례:</b> 잘란도는 검색창 대신 고객이 '상황'을 말하게 했고, 고객의 표현을 상품 탐색에 반영했습니다.</li>
+    <li><b>적용 판단:</b> 분석할 고객 원문(후기·문의)과 근거를 연결할 수 있는 업무부터 작게 시작하세요.</li>
+    <li><b>이번 주 결과물:</b> 구매를 망설이는 이유 3개와 근거가 연결된 광고 메시지 가설 3개.</li>
+  </ol>
+  <p class="jump">바로가기 <a href="#m1">01 적용 사례</a><a href="#m2">02 체크리스트</a><a href="#m3">03 TRY THIS</a> <span class="muted">· 실습 포함 약 40분</span></p>
+</div>
+
+<!-- 02 CASE -->
+<section aria-labelledby="m1">
+  <p class="label">01 · 적용 사례</p>
+  <h2 id="m1">잘란도 — 검색창 대신 고객이 '상황'을 말하게 했다</h2>
+  <p class="badges"><span class="badge real">실제 사례</span><span class="badge">2023~2024 공개 · 재분석</span><span class="badge vendor">성과 수치: 공급사(OpenAI) 공개 사례</span></p>
+  <p class="lede">유럽 최대 패션 플랫폼 잘란도는 AI 어시스턴트를 만들면서 마케팅·판매가 아니라 <b>고객이 원하는 것을 찾는 과정</b>을 출발점으로 삼았습니다.</p>
+  <p class="muted">※ 이번 주 새 사례가 아니라 공개 기록이 충분한 과거 사례를 다시 다룹니다. 고객이 의도를 말하는 방식이 바뀐다는 이번 호 주제를, 실제로 서비스에 반영한 대표적인 기록이기 때문입니다.</p>
+
+  <div class="tblwrap">
+  <table class="tbl case">
+    <tbody>
+      <tr><th>기업 / 시점 / 출처</th><td>잘란도(유럽 25개국). 2023년 가을 4개 시장 베타 → 2024년 10월 25개 전 시장, 현지 언어로 확대. 잘란도 디자인팀 회고 글(2024.11), 보도자료(2024.10), OpenAI 고객 사례</td></tr>
+      <tr><th>해결하려던 문제</th><td>검색창·카테고리·필터는 10~15년간 거의 바뀌지 않았고, 계절 코디나 행사 복장처럼 상황이 담긴 요청에는 결과가 너무 일반적이었다.</td></tr>
+      <tr><th>실제 적용 범위</th><td>상품 탐색 단계. 검색창 옆에 대화형 어시스턴트를 두고, 위치·날씨·행사를 고려한 추천을 제공. 예: "11월 바르셀로나에서 아빠 60번째 생일에 뭘 입지?"</td></tr>
+      <tr><th>드러난 고객 의도</th><td>대화에서 고객은 상품명 대신 <b>상황·분위기·제약</b>을 말했다. "옷장 정리, 밝은 색에 재밌는 패턴", "약혼자 생일 선물 도와줘", "스톡홀름 스타일", "너무 비싸지 않은 카디건".</td></tr>
+      <tr><th>작업 방식 · 사람의 판단</th><td>'IF/THEN/BECAUSE' 가설로 시작, 제품·디자인·데이터·엔지니어링·사업 인력이 한 팀. 사람이 대화 품질 기준을 정하고 매주 데이터를 검토. LLM<sup class="fn"><a href="#g1" id="r1" title="LLM (거대 언어 모델): 방대한 글을 학습해 사람처럼 글을 이해하고 쓰는 AI. ChatGPT·Claude 같은 서비스의 엔진.">1</a></sup> 외에 자체 검색 모델·데이터·지식 그래프<sup class="fn"><a href="#g2" id="r2" title="지식 그래프: 상품·브랜드·스타일 같은 정보들이 서로 어떻게 연결되는지 정리한 데이터 지도. AI가 관계를 이해하고 추천하는 데 쓴다.">2</a></sup>를 함께 구축.</td></tr>
+      <tr><th>결과</th><td>대화 경험 고객 100만 명 이상(잘란도). 모델 교체 후 상품 클릭 23% 증가, 위시리스트<sup class="fn"><a href="#g3" id="r3" title="위시리스트: 쇼핑몰에서 나중에 사려고 찜해 두는 목록.">3</a></sup> 추가 41% 증가, '도움 안 됨' 추천 5% 감소(OpenAI 공개).</td></tr>
+      <tr><th>측정 조건</th><td>클릭·위시리스트 수치의 비교 기준과 기간은 공개되지 않음. 전환율·매출 영향은 미공개.</td></tr>
+      <tr><th>한계</th><td>성과 수치는 공급사<sup class="fn"><a href="#g4" id="r4" title="공급사 공개 사례: AI·솔루션을 판매하는 회사가 자기 고객의 성과를 소개한 자료. 홍보 목적이 있어 독립 검증된 수치와 구분해 읽어야 한다.">4</a></sup>가 공개한 고객 사례로, 독립 검증되지 않았다. 대규모 플랫폼의 사례라 자체 데이터·인력이 적은 조직에 그대로 옮기기 어렵다.</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>우리에게 적용한다면</h3>
+  <p>잘란도 규모의 어시스턴트를 만들 필요는 없습니다. 핵심은 <b>고객이 자기 말로 표현한 의도를 모으고, 그것을 상품 정보·메시지와 연결한 것</b>입니다. 이미 가진 고객 문의·구매 후기·취소 사유가 같은 재료입니다.</p>
+  <div class="ba">
+    <div><small>상품 중심 문장 (가상 예시 · 밀키트 브랜드)</small>바쁜 당신을 위한 간편하고 맛있는 한 끼.</div>
+    <div class="after"><small>고객의 상황·의도에서 다시 쓴 문장</small>퇴근길에 장 볼 힘이 없는 날. 냉장고에서 꺼내 조리하면 저녁 준비 끝.</div>
+  </div>
+  <p>첫 문장은 경쟁사 로고를 붙여도 어색하지 않습니다. 두 번째 문장은 고객의 장면에서 출발하고, 실제 조리 시간이나 후기 같은 확인 가능한 근거를 붙이면 따라 하기 어려운 메시지가 됩니다.</p>
+
+  <div class="roles">
+    <p><b>실무자에게</b> 이번 주에 고객 문의·후기 10~20건에서 '구매 전 망설임'을 뽑아 근거표 하나를 만들 수 있습니다(03 TRY THIS).</p>
+    <p><b>광고주에게</b> 도입을 판단하려면 ① 분석할 고객 원문 자료가 있는지 ② 외부 도구에 넣을 수 있는 범위 ③ 메시지 가설을 검증할 작은 실험 범위를 먼저 확인하세요.</p>
+  </div>
+</section>
+
+<!-- 03 CHECKLIST -->
+<section aria-labelledby="m2">
+  <p class="label">02 · 체크리스트</p>
+  <h2 id="m2">우리도 고객의 언어로 시작할 준비가 되었나</h2>
+  <p>주제: 고객 후기·문의에서 광고 메시지 가설 찾기. 각 항목의 <b>완료 기준</b>을 채울 수 있는지 확인하세요.</p>
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>확인할 것</th><th>완료 기준</th><th>권장 담당</th></tr></thead>
+    <tbody>
+      <tr><td>해결할 문제</td><td>개선하려는 고객의 망설임과 대상 제품을 한 문장으로 정의</td><td>기획·AE</td></tr>
+      <tr><td>사용할 자료</td><td>분석할 후기 범위·수집 기간·사용 가능 범위를 기록</td><td>브랜드 담당자</td></tr>
+      <tr><td>입력 준비</td><td>외부 도구 입력 기준을 확인하고 개인정보·비공개 정보를 제거</td><td>자료 담당자</td></tr>
+      <tr><td>사실 근거</td><td>제품 주장과 고객 원문의 출처를 확인할 수 있음</td><td>기획·브랜드 담당자</td></tr>
+      <tr><td>산출물 품질</td><td>카피가 고객 원문과 제품 사실을 벗어나지 않음</td><td>카피·브랜드 담당자</td></tr>
+      <tr><td>검증 방법</td><td>기존 방식과 비교할 항목·기록 방법·검토 담당자를 정함</td><td>실험 담당자</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="verdict">
+    <span><b>시작 가능</b>6개 모두 완료</span>
+    <span><b>준비 후 진행</b>자료·입력 준비 중 미완료 → 담당자와 다음 행동 기록</span>
+    <span><b>이번에는 보류</b>분석할 고객 원문이 없거나 사용 범위가 불명확</span>
+  </div>
+</section>
+
+<!-- 04 TRY THIS -->
+<section aria-labelledby="m3">
+  <p class="label">03 · TRY THIS</p>
+  <h2 id="m3">30분 실습: 고객의 망설임을 광고 메시지 가설로 바꾸기</h2>
+  <dl class="spec">
+    <dt>목표</dt><dd>고객이 자기 말로 남긴 망설임을 찾아, 근거가 연결된 메시지 가설로 바꿀 수 있는지 확인</dd>
+    <dt>준비물</dt><dd>개인정보를 뺀 고객 후기·문의 10~20건(번호 부여), 확인된 제품 사실, 생성형 AI 대화 도구. 처음에는 공개 후기나 가상 자료로 연습</dd>
+    <dt>시간 / 난이도</dt><dd>약 30분 · 초급</dd>
+    <dt>결과물</dt><dd>고객 장벽 3개 + 근거 원문 + 메시지 가설 3개가 담긴 표 1개</dd>
+  </dl>
+  <ol class="steps">
+    <li><b>5분</b> 후기·문의에 자료 번호를 붙이고, 외부 도구에 넣어도 되는 범위인지 확인</li>
+    <li><b>10분</b> 아래 프롬프트로 장벽과 메시지 초안 생성</li>
+    <li><b>10분</b> 원문과 대조해 추론·과장·중복을 수정</li>
+    <li><b>5분</b> 검토할 메시지 하나와 다음 검증 방법을 정함</li>
+  </ol>
+  <pre class="prompt" id="prompt1">목표: 고객 후기·문의에서 구매를 망설이는 이유를 찾고,
+내부 검토용 광고 메시지 가설을 만든다.
+
+입력:
+- 제품과 대상 고객: [입력]
+- 확인된 제품 사실: [입력]
+- 자료 번호를 붙인 후기·문의: [입력]
+
+출력은 아래 열을 가진 표로 작성해줘.
+고객 장벽 | 근거 원문과 자료 번호 | 확인된 사실 / 추론 구분 | 관련 자료 건수 | 광고 메시지 가설 | 추가 확인 사항
+
+규칙:
+1. 장벽은 최대 3개로 묶고, 근거가 부족하면 억지로 채우지 마.
+2. 자료에 없는 효능, 수치, 고객 반응은 만들지 마.
+3. 같은 자료가 여러 장벽에 해당하면 중복 집계 여부를 표시해줘.
+4. 이 표본이 전체 고객을 대표한다고 가정하지 마.
+5. 메시지 가설은 확인된 제품 사실에 근거해 작성해줘.
+6. 관련 자료 건수는 이 입력 자료 안에서의 건수임을 명시해줘.</pre>
+  <button class="copy" type="button" onclick="(function(b){try{navigator.clipboard.writeText(document.getElementById('prompt1').innerText);b.textContent='복사됨';setTimeout(function(){b.textContent='프롬프트 복사'},1500)}catch(e){}})(this)">프롬프트 복사</button>
+
+  <div class="action"><p class="h">완료 기준</p><p>모든 장벽이 고객 원문에 연결되고, 메시지가 제품 사실을 벗어나지 않으며, 담당자가 다음에 확인할 가설 하나를 고를 수 있다.</p></div>
+  <div class="roles">
+    <p><b>실무자 결과물</b> 근거가 연결된 메시지 가설표</p>
+    <p><b>광고주 결과물</b> 어떤 고객 문제를 어떤 메시지로 검증할지 설명하는 실험 제안 1장</p>
+  </div>
+  <p><span class="tag">다음 단계</span>실제 광고 테스트로 넓힌다면 주요 지표·비교 조건·예산·검토 기간을 따로 설계하세요. 30분 실습으로 메시지 가설은 만들 수 있지만, 전환율 개선까지 확인되는 것은 아닙니다.</p>
+
+  <h3 style="margin-top:36px">오늘 팀에 던질 질문</h3>
+  <p class="teamq">"이번 주에 콘텐츠 하나를 더 만드는 대신, 고객의 망설임 하나를 해결한다면 무엇을 고를까요?"</p>
+  <p class="muted" style="margin-top:12px">※ 밀키트 카피와 실습 자료는 가상 예시입니다. 사례의 성과 수치는 각 출처의 공개 내용 기준입니다.</p>
+</section>
+
+<!-- GLOSSARY -->
+<section aria-labelledby="sg">
+  <p class="label">GLOSSARY</p>
+  <h2 id="sg" style="font-size:22px">용어 풀이</h2>
+  <ol class="gloss">
+    <li id="g1"><b>LLM (거대 언어 모델)</b> 방대한 글을 학습해 사람처럼 글을 이해하고 쓰는 AI. ChatGPT·Claude 같은 서비스의 엔진. <a href="#r1" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g2"><b>지식 그래프</b> 상품·브랜드·스타일 같은 정보들이 서로 어떻게 연결되는지 정리한 데이터 지도. AI가 관계를 이해하고 추천하는 데 쓴다. <a href="#r2" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g3"><b>위시리스트</b> 쇼핑몰에서 나중에 사려고 찜해 두는 목록. <a href="#r3" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g4"><b>공급사 공개 사례</b> AI·솔루션을 판매하는 회사가 자기 고객의 성과를 소개한 자료. 홍보 목적이 있어 독립 검증된 수치와 구분해 읽어야 한다. <a href="#r4" class="back" aria-label="본문으로">↩</a></li>
+  </ol>
+</section>
+
+<!-- SOURCES -->
+<section aria-labelledby="s9" style="border-bottom:0">
+  <p class="label">SOURCES</p>
+  <h2 id="s9" style="font-size:22px">출처</h2>
+  <ol class="src">
+    <li><a href="https://medium.com/zalando-design/designing-for-generative-ai-powered-content-discovery-10-learnings-from-zalando-assistant-4c9ff3206a44">Designing for generative AI powered content discovery: 10 learnings from Zalando Assistant — Zalando Design (2024.11.27)</a></li>
+    <li><a href="https://www.marketscreener.com/quote/stock/ZALANDO-SE-18100088/news/Zalando-brings-its-AI-powered-assistant-to-all-markets-and-adds-four-new-cities-to-its-Trend-Spott-47971802/">Zalando brings its AI-powered assistant to all markets — Zalando 보도자료 (2024.10.1)</a></li>
+    <li><a href="https://openai.com/index/zalando/">Boosting the customer retail experience with GPT-4o mini — OpenAI 고객 사례</a></li>
+  </ol>
+</section>
+
+<footer>
+  <p>AI Trend Search는 <a href="keywords.json">키워드 목록</a>을 기준으로 매주 목요일 자동 조사·발행됩니다. · <a href="archive.html">지난 호 보기</a></p>
+  <p>보도 내용을 요약한 것이며, 수치는 각 출처의 보도·자체 주장 기준입니다.</p>
+</footer>
+
+</div>
+</body>
+</html>

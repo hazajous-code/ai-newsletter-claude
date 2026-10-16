@@ -176,3 +176,10 @@ sup.fn a:hover{text-decoration:underline}
   .tbl.case th{width:96px}
   .roles b{display:block}
 }
+
+/* newsletter → marketer kit callout */
+.cta{margin:34px 0 10px;border:2px solid var(--ink);padding:18px 20px}
+.cta .h{font-size:12px;font-weight:700;letter-spacing:.12em;color:var(--accent);margin:0 0 6px}
+.cta p{margin:0 0 10px}
+.cta a{display:inline-block;background:var(--ink);color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:8px 14px}
+.cta a:hover{background:var(--accent);color:#fff}

@@ -4,7 +4,7 @@
 - 오늘의 AI 뉴스 탭: `trend/news.html` ← `trend/data/news.json`. 매일 07:00 KST `daily.yml`이 `scrape_daily.py`(수집) 후 `trend/curate_news.py`(선별: 글로벌 ≤6, 한국 ≤5, 기준 점수 미달 제외)를 실행해 갱신. 날짜별 아카이브는 `trend/data/news/YYYY-MM-DD.json` + `index.json`, 페이지에서 `news.html?d=YYYY-MM-DD`로 열람. 과거 스냅샷으로 재생성: `python trend/curate_news.py --backfill 30`
 - 지난 호: `trend/issues/YYYY-MM-DD.html` + `trend/issues/YYYY-MM-DD-marketer.html`, 목록은 `trend/archive.html`
 - 조사 키워드: `trend/keywords.json` — `always`(상시)와 `focus`(이번 호 집중 주제)를 수정하면 다음 발행부터 반영
-- 디자인: 흰 배경, `trend/style.css` 공통 사용
+- 디자인: 흰 배경, `trend/style.css` 공통 사용. 본문 Pretendard(jsDelivr CDN), 제목 Noto Serif KR(Google Fonts)
 
 ## 편집 원칙
 - **메인 메시지:** 기능은 AI가 복제한다. 남는 경쟁력은 **고객의 의도를 파악하고 제품·메시지에 반영하는 일**. 매호 주제는 달라도 결론은 이 관점으로 연결한다.
@@ -19,7 +19,7 @@
 2. **구성 — 두 페이지로 나눠 발행 (탭: 주간 뉴스레터 | 마케터 자료 | 오늘의 AI 뉴스 | 지난 호)**
    - **주간 뉴스레터 (`index.html`)** — 누구나 읽는 트렌드 해설
      - 마스트헤드(히어로 카피 + 키워드 칩) → 3줄 요약(+ 바로가기, 읽는 시간) → EDITOR'S NOTE(핵심 질문, 짧게)
-     - **01 핵심 트렌드:** `.frame` 태그로 변화 → 근거 → 마케팅 영향 → 한계 → 판단(실험할 일 / 준비할 일 / 지켜볼 일 / 지금 점검할 일). 고객 의도와 연결되는 신호 1건.
+     - **01 핵심 트렌드:** `.frame` 블록(마크업: `<div class="frame"><span class="tag">변화</span><p>본문</p></div>`, 판단은 `<div class="frame judge"><span class="tag a">판단</span><p>…</p></div>`)으로 변화 → 근거 → 마케팅 영향 → 한계 → 판단(실험할 일 / 준비할 일 / 지켜볼 일 / 지금 점검할 일). 고객 의도와 연결되는 신호 1건.
      - **02 두 번째 꼭지:** 그 주의 또 다른 주요 이슈 1건을 같은 `.frame` 구조로(예: 보안·규제·플랫폼 변화).
      - **03 브리프:** 함께 볼 소식 2~3건(`.briefs`) + 플랫폼 정책·기능 변경 `.alert`.
      - 마케터 자료로 가는 `.cta` 박스 → GLOSSARY → 출처.

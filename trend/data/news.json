@@ -1,82 +1,113 @@
 {
-  "date": "2026-10-15",
-  "updatedAt": "2026-10-15T14:58+09:00",
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-16T09:13+09:00",
   "global": [
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "source": "The Verge",
       "sourceId": "the-verge",
-      "publishedAt": "2026-10-14T21:11:28+00:00",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported",
+      "publishedAt": "2026-10-15T22:43:23+00:00",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. Wi",
       "lang": "en",
-      "titleKo": "미국 8개 주, \"ChatGPT는 아이들에게 안전하지 않다\"며 오픈AI 제소",
-      "summaryKo": "아이오와·캔자스·네브래스카 등 미국 8개 주가 오픈AI가 아이들에게 해를 끼치고 ChatGPT의 안전성에 대해 소비자를 오도했다며 각각 소송을 냈다. 오픈AI가 안전보다 수익을 우선했다는 주장이다(로이터 최초 보도).",
-      "summaryEn": "Eight US states, including Iowa, Kansas and Nebraska, have each sued OpenAI, accusing it of harming children and misleading customers about ChatGPT's safety. They allege the company put profits over safety (first reported by Reuters).",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-10-14T19:06:03+00:00",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google",
-      "lang": "en",
-      "titleKo": "AI 경쟁, 다시 불붙다",
-      "summaryKo": "지난주까지만 해도 앤트로픽과 오픈AI가 강력한 모델로 경쟁을 주도하고 구글은 크게 뒤처진 것처럼 보였다. 수십억 달러를 쏟은 메타도 확실한 경쟁자로 자리 잡지 못했지만, 최근 판도가 다시 흔들리고 있다는 분석이다.",
-      "summaryEn": "Until last week, Anthropic and OpenAI seemed to lead the race with ever more powerful models while Google looked far behind and Meta, despite spending billions, had yet to become a serious contender. The balance now appears to be shifting again.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-10-13T16:01:58+00:00",
-      "summary": "",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-15T21:18:15+00:00",
+      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they ",
       "lang": "en",
-      "titleKo": "로봇용 Gemini 4 Argon",
-      "summaryKo": "구글 딥마인드가 물리 추론 능력을 강화한 로봇용 모델 'Gemini 4 Argon'을 공개했다.",
-      "summaryEn": "Google DeepMind introduced Gemini 4 Argon for Robotics, a model with stronger physical reasoning for robots.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-15T21:09:33+00:00",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture,",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-15T20:04:53+00:00",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-10-13T10:00:00+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more f",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-15T19:55:25+00:00",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of ",
       "lang": "en",
-      "titleKo": "오픈 모델의 장점은 분명하다. 그렇다면 위험보다 클까?",
-      "summaryKo": "앤트로픽이 지난달 말 오픈 모델 GLM-5.3이 큰 사이버 공격 위험을 안고 있다는 보고서를 낸 것을 계기로, 누구나 내려받아 쓸 수 있는 오픈 모델의 이점과 위험을 MIT 테크놀로지 리뷰가 짚었다.",
-      "summaryEn": "After Anthropic reported late last month that the open model GLM-5.3 poses a major cyberattack risk, MIT Technology Review weighs the benefits and risks of open models anyone can download and use.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
     }
   ],
   "korea": [
     {
-      "title": "[10월14일] 챗GPT와 맞먹던 캐릭터닷AI가 4년 만에 파산한 이유",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216239",
+      "title": "[10월15일] AI 수학 능력 급발전의 파장…과학 연구부터 인터넷 보안까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216279",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-15T07:00:00+00:00",
-      "summary": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅",
+      "publishedAt": "2026-10-16T07:00:00+00:00",
+      "summary": "지난주 오픈AI가 722편의 수학 연구 원고를 공개하면서 AI의 과학 연구 능력에 관심이 집중됐습니다. 그동안 AI가 과학 연구를 수십년 앞당길 수 있다는 전망이 이어졌지만, 일반인들이 그 의미를 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
@@ -88,55 +119,36 @@
       "score": 7.0
     },
     {
-      "title": "구글 딥마인드 “2년 내 대형 AI 보안사고 우려…국제 표준 시급”",
-      "url": "https://www.etnews.com/20261015000007",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-10-14T22:29:08+00:00",
-      "summary": "인공지능(AI) 에이전트에 대한 안전조치가 미흡할 경우 향후 2년 안에 심각한 보안사고가 발생할 수 있다는 경고가 나왔다. 14일(현지시간) AFP·로이터통신에 따르면 데미스 허사비스 구글 최고과학",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "애플에 피소된 오픈AI, 기밀 유출 역공…맞소송 검토",
-      "url": "https://www.etnews.com/20261015000005",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-10-14T22:25:02+00:00",
-      "summary": "오픈AI가 애플로 복귀한 전 직원의 영업기밀 유출 의혹을 제기하며 맞소송을 검토하고 나섰다. 애플이 앞서 오픈AI를 상대로 영업기밀 탈취 소송을 제기한 가운데 양사 간 법적 공방이 확대되는 양상이다",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "앤트로픽, 불법 증류 차단 고강도 방어 체계 도입...“추출 시도 최대 99% 감축”",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216253",
+      "title": "리퀴드 AI, 플래그십 모델 'LFM2.5-24B-A2B' 공개...\"온디바이스 에이전트 겨냥\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216299",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-14T17:58:10+00:00",
-      "summary": "앤트로픽이 AI 모델의 성능을 몰래 복제하는 ‘불법 증류’를 막기 위해 추론 데이터 보호와 공격 탐지 기능을 강화하고, 반복적으로 공격에 나선 계정을 대거 차단하는 등 대응 수위를 높이고 있다. 앤",
+      "publishedAt": "2026-10-15T17:39:40+00:00",
+      "summary": "독창적인 아키텍처와 빠른 속도로 주목받아 온 리퀴드 AI가 지금까지 선보인 모델 중 가장 큰 규모인 플래그십 모델을 선보였다. 복잡한 추론과 도구 사용을 지원하면서도 기기 내에서 빠르게 실행할 수 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
       "tags": [
-        "빅테크",
         "출시·발표"
       ],
-      "score": 8.0
+      "score": 5.0
+    },
+    {
+      "title": "Net5.5G 지능형 IP 네트워크 서밋 성료, AI 시대 새 성장의 기반으로 안전하고 복원력 있는 IP 네트워크 강조",
+      "url": "https://zdnet.co.kr/view/?no=20261015231013",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-15T14:10:13+00:00",
+      "summary": "[지디넷코리아]빈 2026년 10월 15일 /PRNewswire/ -- 글로벌 울트라 브로드밴드 포럼(Global Ultra-Broadband Forum•UBBF) 2026 기간에 Net5.5G 지",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
     }
   ]
 }

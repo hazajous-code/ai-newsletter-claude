@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T09:16+09:00",
+  "updatedAt": "2026-10-17T10:48+09:00",
   "global": [
     {
       "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-16T22:51:22+00:00",
       "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes fol",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use",
+      "titleKo": "애플, 앱스토어 규정 개정으로 AI '누드화' 앱 금지 명시",
+      "summaryKo": "애플이 동의 없이 AI로 타인의 성적 이미지를 만드는 '누드화' 앱을 더 명확히 금지했다. 올해 초 Grok으로 비동의 딥페이크가 만들어지며 받은 비판에 따른 조치다.",
+      "summaryEn": "Apple's App Store rules now more explicitly ban AI \"nudify\" apps that create intimate images without consent, following criticism after Grok was used to make nonconsensual deepfakes.",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-16T21:22:28+00:00",
       "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indicati",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "titleKo": "리플릿 CEO \"더 이상 앤트로픽과 협력하지 않는다\"",
+      "summaryKo": "리플릿 CEO 암자드 마사드는 비용 등 여러 이유로 앤트로픽과의 협력을 끝냈다고 밝혔다. 리플릿은 8월 오픈AI와 제휴를 발표한 바 있다.",
+      "summaryEn": "Replit CEO Amjad Masad said the company no longer works with Anthropic, citing several reasons including cost. Replit announced an OpenAI partnership in August.",
       "tags": [
         "빅테크"
       ],
@@ -43,9 +43,9 @@
       "publishedAt": "2026-10-16T18:00:00+00:00",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a g",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
+      "titleKo": "라운드테이블: AI로 바이러스를 설계한 연구자와의 대화",
+      "summaryKo": "스탠퍼드 박사과정생 새뮤얼 킹은 2025년 생성형 AI 모델로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 그와 나눈 대담 영상을 공개했다.",
+      "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review hosts a session with him.",
       "tags": [
         "마케팅 영향"
       ],
@@ -59,9 +59,9 @@
       "publishedAt": "2026-10-16T16:30:00+00:00",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an",
+      "titleKo": "엔비디아 출신 VC \"로보틱스의 ChatGPT 모멘트는 아직\"",
+      "summaryKo": "엔비디아 로보틱스 제품 마케팅을 7년간 이끈 아물리야 비슈와나트는 액추에이터·로봇 손·소프트웨어·안전 기준 등 기본 요소를 다시 만드는 '레고 시대'에 있다고 말한다.",
+      "summaryEn": "Amulya Vishwanath, who led product marketing for Nvidia's robotics platforms for seven years, says robotics is in its \"Lego era,\" with basic building blocks still being rebuilt.",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -76,9 +76,9 @@
       "publishedAt": "2026-10-16T00:00:00+00:00",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "titleKo": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
+      "summaryKo": "엔지니어 두 명이 Codex로 몇 주 만에 Stack Overflow for Agents를 출시했고, ChatGPT 플러그인이 에이전트 생성을 최대 10배 늘리는 데 기여했다.",
+      "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10x growth in agent creation.",
       "tags": [
         "빅테크"
       ],

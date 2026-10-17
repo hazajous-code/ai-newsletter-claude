@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-05T23:09:55+00:00",
       "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
+      "titleKo": "구글 제미나이 'Call for Me', 가족·친구에게 대신 전화해 줄 수도",
+      "summaryKo": "안드로이드 어소리티가 APK 분석에서 'Gemini Calling' 소개 화면을 발견했다. 업체 통화용 'Call for Me'를 가족·지인 메시지 전달까지 넓힐 수 있다는 내용이다.",
+      "summaryEn": "Android Authority found a \"Gemini Calling\" screen in an APK teardown, suggesting Google may expand its \"Call for Me\" feature beyond business calls to messages for friends and family.",
       "tags": [
         "빅테크"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-10-05T20:36:48+00:00",
       "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "titleKo": "오픈AI, EU에서 ChatGPT 텍스트에 워터마크 적용",
+      "summaryKo": "오픈AI가 EU AI법 준수를 위해 EU에서 ChatGPT와 Codex 텍스트에 보이지 않는 워터마크를 넣는다. 편집하면 탐지가 어려워질 수 있다고 밝혔다.",
+      "summaryEn": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act, and says editing can make the invisible marks harder to detect.",
       "tags": [
         "빅테크"
       ],
@@ -42,9 +42,9 @@
       "publishedAt": "2026-10-05T19:28:59+00:00",
       "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what res",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of",
+      "titleKo": "AI의 수학 정복을 둘러싼 논란 총정리",
+      "summaryKo": "올해 오픈AI·앤트로픽 등은 밀레니엄 난제 하나를 포함해 오랜 수학 문제에서 잇따라 성과를 발표했지만, 빠른 행보를 둘러싼 논란도 커지고 있다.",
+      "summaryEn": "OpenAI, Anthropic and other labs announced breakthroughs on long-standing math problems this year, including a Millennium Prize problem, amid growing controversy over how they are moving.",
       "tags": [
         "빅테크"
       ],

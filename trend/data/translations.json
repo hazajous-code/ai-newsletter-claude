@@ -163,5 +163,90 @@
     "titleKo": "메타의 새 AI 로고 디자이너, 쏟아진 비난",
     "summaryKo": "디자이너 제시카 히셰는 메타와 일하면 반발이 있을 줄 알았지만, 이렇게까지 거센 분노를 받을 줄은 몰랐다.",
     "summaryEn": "Designer Jessica Hische expected some backlash for working with Meta, but not how angry people would get."
+  },
+  "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment": {
+    "titleKo": "애플, 앱스토어 규정 개정으로 AI '누드화' 앱 금지 명시",
+    "summaryKo": "애플이 동의 없이 AI로 타인의 성적 이미지를 만드는 '누드화' 앱을 더 명확히 금지했다. 올해 초 Grok으로 비동의 딥페이크가 만들어지며 받은 비판에 따른 조치다.",
+    "summaryEn": "Apple's App Store rules now more explicitly ban AI \"nudify\" apps that create intimate images without consent, following criticism after Grok was used to make nonconsensual deepfakes."
+  },
+  "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/": {
+    "titleKo": "리플릿 CEO \"더 이상 앤트로픽과 협력하지 않는다\"",
+    "summaryKo": "리플릿 CEO 암자드 마사드는 비용 등 여러 이유로 앤트로픽과의 협력을 끝냈다고 밝혔다. 리플릿은 8월 오픈AI와 제휴를 발표한 바 있다.",
+    "summaryEn": "Replit CEO Amjad Masad said the company no longer works with Anthropic, citing several reasons including cost. Replit announced an OpenAI partnership in August."
+  },
+  "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
+    "titleKo": "라운드테이블: AI로 바이러스를 설계한 연구자와의 대화",
+    "summaryKo": "스탠퍼드 박사과정생 새뮤얼 킹은 2025년 생성형 AI 모델로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 그와 나눈 대담 영상을 공개했다.",
+    "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review hosts a session with him."
+  },
+  "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/": {
+    "titleKo": "엔비디아 출신 VC \"로보틱스의 ChatGPT 모멘트는 아직\"",
+    "summaryKo": "엔비디아 로보틱스 제품 마케팅을 7년간 이끈 아물리야 비슈와나트는 액추에이터·로봇 손·소프트웨어·안전 기준 등 기본 요소를 다시 만드는 '레고 시대'에 있다고 말한다.",
+    "summaryEn": "Amulya Vishwanath, who led product marketing for Nvidia's robotics platforms for seven years, says robotics is in its \"Lego era,\" with basic building blocks still being rebuilt."
+  },
+  "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+    "titleKo": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
+    "summaryKo": "엔지니어 두 명이 Codex로 몇 주 만에 Stack Overflow for Agents를 출시했고, ChatGPT 플러그인이 에이전트 생성을 최대 10배 늘리는 데 기여했다.",
+    "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10x growth in agent creation."
+  },
+  "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/": {
+    "titleKo": "누스 리서치, 기업가치 15억 달러 확인…기업용 AI 에이전트 출시",
+    "summaryKo": "Hermes Agent 개발사 누스 리서치가 9,000만 달러 규모 시리즈 B 투자를 유치해 기업가치 15억 달러를 확인하고, 기업 사용자용 AI 에이전트를 내놓았다.",
+    "summaryEn": "Nous Research, developer of Hermes Agent, raised a $90 million Series B at a $1.5 billion valuation and launched AI agents for business users."
+  },
+  "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/": {
+    "titleKo": "마이크로소프트, 엔비디아 칩 탑재 AI PC와 새 윈도우 11 공개",
+    "summaryKo": "마이크로소프트가 AI 모델과 에이전트 구동용 엔비디아 칩을 탑재한 AI PC '서피스 랩톱 울트라'의 사양과 가격을 공개했다.",
+    "summaryEn": "Microsoft revealed specs and pricing for the Surface Laptop Ultra, AI PCs running on Nvidia chips designed to run AI models and agents, alongside a revamped Windows 11."
+  },
+  "https://openai.com/index/teens-learn-and-plan": {
+    "titleKo": "오픈AI, 10대용 ChatGPT에 대입 준비 도구 '칼리지 플래너' 추가",
+    "summaryKo": "10대용 ChatGPT에 대학 지원 관리를 돕는 칼리지 플래너가 추가되고, 플래시카드·퀴즈 기능과 10대 AI 자문위원회도 새로 도입된다.",
+    "summaryEn": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+  },
+  "https://openai.com/index/gpt-6-for-everyone": {
+    "titleKo": "GPT-6, 'Intelligent UI'와 함께 모든 사용자에게 공개",
+    "summaryKo": "GPT-6가 ChatGPT에서 전 세계에 배포된다. Intelligent UI로 더 빠른 응답과 함께 시각 자료와 직접 조작할 수 있는 인터랙티브 화면을 제공한다.",
+    "summaryEn": "GPT-6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences users can explore directly."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github": {
+    "titleKo": "오픈AI, 수학 난제 풀이 결과 또 대량 공개",
+    "summaryKo": "오픈AI가 미공개 프런티어 모델이 낸 오랜 수학 난제 풀이를 원고 722편, 결과군 372개로 공개했다. 수학계에서는 감탄과 함께 연구 윤리 문제도 제기됐다.",
+    "summaryEn": "OpenAI released solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts across 372 result families, raising questions about research ethics."
+  },
+  "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/": {
+    "titleKo": "실리콘밸리 AI 신동 시길 웬, 프라이버시 강조한 온디바이스 비서 '언더독' 출시",
+    "summaryKo": "실리콘밸리 유명 인사들의 투자를 받은 시길 웬이 무료이면서 완전한 프라이버시를 보장하고 일상 업무를 처리할 수 있다는 온디바이스 AI 비서를 내놓았다.",
+    "summaryEn": "Sigil Wen, backed by prominent Silicon Valley investors, built Underdog, an on-device AI assistant promising to be free, fully private, and capable for everyday tasks."
+  },
+  "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/": {
+    "titleKo": "AI 판단 모델이 콘텐츠 검수를 바꿀 수 있을까",
+    "summaryKo": "무수비가 실시간 콘텐츠 검수용 경량 판단 모델 PolicyLM-1.7B를 오픈 웨이트로 공개했다.",
+    "summaryEn": "Musubi announced PolicyLM-1.7B, a lightweight decision model for real-time content moderation, released with open weights."
+  },
+  "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+    "titleKo": "오픈AI, 수학 분야 AI 연구 성과 공개",
+    "summaryKo": "오픈AI가 내부 프런티어 모델로 얻은 수학 미해결 문제의 새 결과를 발표하고, Lean 증명 형식화와 연구 세부 내용을 GitHub에 공유했다.",
+    "summaryEn": "OpenAI published new results on open math problems from an internal frontier model and shared Lean proof formalizations and research details on GitHub."
+  },
+  "https://openai.com/index/jump-trading": {
+    "titleKo": "점프 트레이딩, ChatGPT로 퀀트 리서치 확대",
+    "summaryKo": "점프 트레이딩이 오픈AI를 활용해 퀀트 리서치를 넓히고 있다. 여러 데이터 소스를 결합한 장시간 AI 워크플로에 사람의 검토를 더하는 방식이다.",
+    "summaryEn": "Jump Trading uses OpenAI to expand quantitative research, with longer-running AI workflows that combine multiple data sources with human review."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors": {
+    "titleKo": "구글 제미나이 'Call for Me', 가족·친구에게 대신 전화해 줄 수도",
+    "summaryKo": "안드로이드 어소리티가 APK 분석에서 'Gemini Calling' 소개 화면을 발견했다. 업체 통화용 'Call for Me'를 가족·지인 메시지 전달까지 넓힐 수 있다는 내용이다.",
+    "summaryEn": "Android Authority found a \"Gemini Calling\" screen in an APK teardown, suggesting Google may expand its \"Call for Me\" feature beyond business calls to messages for friends and family."
+  },
+  "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/": {
+    "titleKo": "오픈AI, EU에서 ChatGPT 텍스트에 워터마크 적용",
+    "summaryKo": "오픈AI가 EU AI법 준수를 위해 EU에서 ChatGPT와 Codex 텍스트에 보이지 않는 워터마크를 넣는다. 편집하면 탐지가 어려워질 수 있다고 밝혔다.",
+    "summaryEn": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act, and says editing can make the invisible marks harder to detect."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution": {
+    "titleKo": "AI의 수학 정복을 둘러싼 논란 총정리",
+    "summaryKo": "올해 오픈AI·앤트로픽 등은 밀레니엄 난제 하나를 포함해 오랜 수학 문제에서 잇따라 성과를 발표했지만, 빠른 행보를 둘러싼 논란도 커지고 있다.",
+    "summaryEn": "OpenAI, Anthropic and other labs announced breakthroughs on long-standing math problems this year, including a Millennium Prize problem, amid growing controversy over how they are moving."
   }
 }

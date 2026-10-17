@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-06T23:26:38+00:00",
       "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 resul",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a",
+      "titleKo": "오픈AI, 수학 난제 풀이 결과 또 대량 공개",
+      "summaryKo": "오픈AI가 미공개 프런티어 모델이 낸 오랜 수학 난제 풀이를 원고 722편, 결과군 372개로 공개했다. 수학계에서는 감탄과 함께 연구 윤리 문제도 제기됐다.",
+      "summaryEn": "OpenAI released solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts across 372 result families, raising questions about research ethics.",
       "tags": [
         "빅테크"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-10-06T20:47:01+00:00",
       "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "titleKo": "실리콘밸리 AI 신동 시길 웬, 프라이버시 강조한 온디바이스 비서 '언더독' 출시",
+      "summaryKo": "실리콘밸리 유명 인사들의 투자를 받은 시길 웬이 무료이면서 완전한 프라이버시를 보장하고 일상 업무를 처리할 수 있다는 온디바이스 AI 비서를 내놓았다.",
+      "summaryEn": "Sigil Wen, backed by prominent Silicon Valley investors, built Underdog, an on-device AI assistant promising to be free, fully private, and capable for everyday tasks.",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -43,9 +43,9 @@
       "publishedAt": "2026-10-06T20:35:20+00:00",
       "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "titleKo": "AI 판단 모델이 콘텐츠 검수를 바꿀 수 있을까",
+      "summaryKo": "무수비가 실시간 콘텐츠 검수용 경량 판단 모델 PolicyLM-1.7B를 오픈 웨이트로 공개했다.",
+      "summaryEn": "Musubi announced PolicyLM-1.7B, a lightweight decision model for real-time content moderation, released with open weights.",
       "tags": [
         "정책·법·보안"
       ],
@@ -59,9 +59,9 @@
       "publishedAt": "2026-10-06T12:00:00+00:00",
       "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "titleKo": "오픈AI, 수학 분야 AI 연구 성과 공개",
+      "summaryKo": "오픈AI가 내부 프런티어 모델로 얻은 수학 미해결 문제의 새 결과를 발표하고, Lean 증명 형식화와 연구 세부 내용을 GitHub에 공유했다.",
+      "summaryEn": "OpenAI published new results on open math problems from an internal frontier model and shared Lean proof formalizations and research details on GitHub.",
       "tags": [
         "빅테크"
       ],
@@ -75,9 +75,9 @@
       "publishedAt": "2026-10-06T12:00:00+00:00",
       "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "titleKo": "점프 트레이딩, ChatGPT로 퀀트 리서치 확대",
+      "summaryKo": "점프 트레이딩이 오픈AI를 활용해 퀀트 리서치를 넓히고 있다. 여러 데이터 소스를 결합한 장시간 AI 워크플로에 사람의 검토를 더하는 방식이다.",
+      "summaryEn": "Jump Trading uses OpenAI to expand quantitative research, with longer-running AI workflows that combine multiple data sources with human review.",
       "tags": [
         "빅테크",
         "마케팅 영향"

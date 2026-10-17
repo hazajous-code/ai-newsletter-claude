@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T08:55+09:00",
+  "global": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a g",
+      "lang": "en",
+      "titleKo": "라운드테이블: AI로 바이러스를 설계한 연구자와의 대화",
+      "summaryKo": "스탠퍼드 박사과정생 새뮤얼 킹은 2025년 생성형 AI 모델로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 그와 나눈 대담 영상을 공개했다.",
+      "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review hosts a session with him.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "lang": "en",
+      "titleKo": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
+      "summaryKo": "엔지니어 두 명이 Codex로 몇 주 만에 Stack Overflow for Agents를 출시했고, ChatGPT 플러그인이 에이전트 생성을 최대 10배 늘리는 데 기여했다.",
+      "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10x growth in agent creation.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "lang": "en",
+      "titleKo": "GPT-Rosalind, 대학 연구실에 제공",
+      "summaryKo": "오픈AI가 자격을 갖춘 대학 연구실에 생명과학 연구용 GPT-Rosalind와 관련 도구를 지원하는 'Rosalind Academic Plan'을 내놨다.",
+      "summaryEn": "OpenAI introduced the Rosalind Academic Plan, giving eligible academic labs sponsored access to GPT-Rosalind and tools for life sciences research.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 5.5
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-15T15:00:24+00:00",
+      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotr",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "대만, 美 단속 발맞춰 중국 AI 칩 수출 통제 강화 추진",
+      "url": "https://zdnet.co.kr/view/?no=20261016170803",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-17T23:00:03+00:00",
+      "summary": "[지디넷코리아]대만이 최첨단 반도체의 중국 밀수를 차단하려는 미국 트럼프 행정부 단속에 동참하기 위해 인공지능(AI) 칩 수출 통제를 강화할 예정이다. 18일 블룸버그 통신에 따르면 궁밍신 대만 경",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "아트마켓의 아트프라이스: AI 시대 작가의 책임",
+      "url": "https://zdnet.co.kr/view/?no=20261018031003",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-17T18:10:03+00:00",
+      "summary": "[지디넷코리아] '사상가와 AI의 대화(Dialogue Between a Thinker and AI)': 인간의 사고, 맡겨진 펜, 그리고 세계의 책(world-book)의 투명성. 2026년 9월",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-17T18:06:23+00:00",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-17T17:02:23+00:00",
+      "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

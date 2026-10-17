@@ -1,35 +1,34 @@
 {
-  "date": "2026-10-17",
-  "updatedAt": "2026-10-17T10:48+09:00",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T08:55+09:00",
   "global": [
     {
-      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-10-16T22:51:22+00:00",
-      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes fol",
-      "lang": "en",
-      "titleKo": "애플, 앱스토어 규정 개정으로 AI '누드화' 앱 금지 명시",
-      "summaryKo": "애플이 동의 없이 AI로 타인의 성적 이미지를 만드는 '누드화' 앱을 더 명확히 금지했다. 올해 초 Grok으로 비동의 딥페이크가 만들어지며 받은 비판에 따른 조치다.",
-      "summaryEn": "Apple's App Store rules now more explicitly ban AI \"nudify\" apps that create intimate images without consent, following criticism after Grok was used to make nonconsensual deepfakes.",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-16T21:22:28+00:00",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indicati",
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "lang": "en",
-      "titleKo": "리플릿 CEO \"더 이상 앤트로픽과 협력하지 않는다\"",
-      "summaryKo": "리플릿 CEO 암자드 마사드는 비용 등 여러 이유로 앤트로픽과의 협력을 끝냈다고 밝혔다. 리플릿은 8월 오픈AI와 제휴를 발표한 바 있다.",
-      "summaryEn": "Replit CEO Amjad Masad said the company no longer works with Anthropic, citing several reasons including cost. Replit announced an OpenAI partnership in August.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
       "tags": [
         "빅테크"
       ],
@@ -49,24 +48,7 @@
       "tags": [
         "마케팅 영향"
       ],
-      "score": 7.5
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-10-16T16:30:00+00:00",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building ",
-      "lang": "en",
-      "titleKo": "엔비디아 출신 VC \"로보틱스의 ChatGPT 모멘트는 아직\"",
-      "summaryKo": "엔비디아 로보틱스 제품 마케팅을 7년간 이끈 아물리야 비슈와나트는 액추에이터·로봇 손·소프트웨어·안전 기준 등 기본 요소를 다시 만드는 '레고 시대'에 있다고 말한다.",
-      "summaryEn": "Amulya Vishwanath, who led product marketing for Nvidia's robotics platforms for seven years, says robotics is in its \"Lego era,\" with basic building blocks still being rebuilt.",
-      "tags": [
-        "빅테크",
-        "마케팅 영향"
-      ],
-      "score": 9.5
+      "score": 6.5
     },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -99,16 +81,32 @@
         "마케팅 영향"
       ],
       "score": 5.5
+    },
+    {
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-15T15:00:24+00:00",
+      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotr",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
     }
   ],
   "korea": [
     {
-      "title": "일본 성우들 \"AI로 목소리 복제, 허락받고 돈 내라”",
-      "url": "https://zdnet.co.kr/view/?no=20261016211936",
+      "title": "대만, 美 단속 발맞춰 중국 AI 칩 수출 통제 강화 추진",
+      "url": "https://zdnet.co.kr/view/?no=20261016170803",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-16T22:30:02+00:00",
-      "summary": "[지디넷코리아]일본 성우와 배우들이 자신의 목소리를 AI 학습이나 음성 합성에 이용하려면 사전에 허락을 받고 별도의 대가를 지급하라는 지침을 마련했다. AI가 실제 성우를 대신해 목소리를 생성하는 ",
+      "publishedAt": "2026-10-17T23:00:03+00:00",
+      "summary": "[지디넷코리아]대만이 최첨단 반도체의 중국 밀수를 차단하려는 미국 트럼프 행정부 단속에 동참하기 위해 인공지능(AI) 칩 수출 통제를 강화할 예정이다. 18일 블룸버그 통신에 따르면 궁밍신 대만 경",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
@@ -119,12 +117,28 @@
       "score": 5.0
     },
     {
-      "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+      "title": "아트마켓의 아트프라이스: AI 시대 작가의 책임",
+      "url": "https://zdnet.co.kr/view/?no=20261018031003",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-17T18:10:03+00:00",
+      "summary": "[지디넷코리아] '사상가와 AI의 대화(Dialogue Between a Thinker and AI)': 인간의 사고, 맡겨진 펜, 그리고 세계의 책(world-book)의 투명성. 2026년 9월",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-16T18:08:58+00:00",
-      "summary": "마이크로소프트(MS)가 2조8000억개의 매개변수를 갖춘 대규모 AI 모델 'MAI-베이스-2(MAI-Base-2)'의 사전 학습 완료를 발표했다. 정식 출시 전 무스타파 술레이먼 MS AI CEO",
+      "publishedAt": "2026-10-17T18:06:23+00:00",
+      "summary": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
@@ -136,37 +150,21 @@
       "score": 7.0
     },
     {
-      "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216332",
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-16T17:49:55+00:00",
-      "summary": "아마존이 일상 대화를 기억하고 요약해 할 일과 일정까지 정리해 주는 개인용 AI 기기 2종을 공개했다. 손목에 착용하거나 옷에 부착하는 웨어러블 기기와 스마트폰 뒷면에 자석으로 붙이는 소형 기기로,",
+      "publishedAt": "2026-10-17T17:02:23+00:00",
+      "summary": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
       "tags": [
         "빅테크",
-        "출시·발표"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "AI 시대 새로운 성장을 위한 네트워크 가치 재편",
-      "url": "https://zdnet.co.kr/view/?no=20261017001003",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-16T15:10:03+00:00",
-      "summary": "[지디넷코리아]빈 2026년 10월 16일 /PRNewswire/ -- 세계광대역협회(World Broadband Association, WBBA)가 네트워크 X 2026(Network X 2026",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "tags": [
         "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 7.0
     }
   ]
 }

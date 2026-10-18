@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-03T16:30:01+00:00",
       "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "titleKo": "오픈AI 안전 담당 직원 사임 \"회사 문화가 망가졌다\"",
+      "summaryKo": "오픈AI 안전 담당 직원 데이비드 로빈슨이 회사 문화가 망가졌다고 주장하며 경고와 함께 사임했다.",
+      "summaryEn": "OpenAI safety employee David Robinson resigned, claiming the company's culture is broken and issuing a warning as he left.",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-03T12:00:00+00:00",
       "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "titleKo": "메타 AI 에이전트 Muse, 친구·가족의 상세 프로필까지 만든다",
+      "summaryKo": "수백만 명이 메타의 AI 에이전트 Muse를 내려받았지만, 이를 활용하려면 친구·가족의 상세 프로필 생성 등 사생활 비용이 따른다.",
+      "summaryEn": "Millions have downloaded Meta's AI agent Muse, but getting it to do your bidding comes with privacy costs, including detailed profiles of users' friends and family.",
       "tags": [
         "빅테크"
       ],
@@ -43,8 +43,8 @@
       "publishedAt": "2026-10-02T00:00:00+00:00",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "Chatham Financial, Codex·GPT-5.6으로 거래 검증 30분→4분 미만 단축",
+      "summaryKo": "Chatham Financial이 Codex와 GPT-5.6으로 기술을 구축하고 업무 흐름을 재설계해 거래 검증 시간을 30분에서 4분 미만으로 줄였다.",
       "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "tags": [
         "빅테크"
@@ -59,9 +59,9 @@
       "publishedAt": "2026-10-01T00:00:00+00:00",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "titleKo": "소셜 클럽 The Den, ChatGPT Work로 주당 10~15시간 절약",
+      "summaryKo": "소셜 클럽 The Den이 ChatGPT Work로 주당 10~15시간을 절약하며 보조금 신청서는 3일→2시간, 주류 면허 서류는 4일→3시간으로 단축했다.",
+      "summaryEn": "Social club The Den frees up 10-15 hours a week with ChatGPT Work, preparing grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "tags": [
         "빅테크"
       ],

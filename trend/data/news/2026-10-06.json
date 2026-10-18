@@ -58,9 +58,9 @@
       "publishedAt": "2026-10-05T15:47:52+00:00",
       "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowled",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in ",
+      "titleKo": "AI 에이전트에 기업 지식을 연결하려면",
+      "summaryKo": "기업용 AI 에이전트는 데이터가 조직 맥락에서 무엇을 뜻하는지에 대한 '지식'이 부족한 경우가 많은데, 상황 판단과 의사결정에는 이 지식이 필요하다.",
+      "summaryEn": "Enterprise AI agents often lack knowledge—an understanding of what data means in an organization's context—which they need to reason about situations and make decisions.",
       "tags": [],
       "score": 5.0
     },
@@ -72,9 +72,9 @@
       "publishedAt": "2026-10-05T10:00:00+00:00",
       "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "titleKo": "오픈AI, ChatGPT에 새 비주얼 광고 형식 도입하고 측정 도구 확대",
+      "summaryKo": "오픈AI가 ChatGPT에 새 비주얼 광고 형식을 도입하고 광고주용 측정 도구, 어트리뷰션 제휴, 브랜드 적합성 기능을 확대했다.",
+      "summaryEn": "OpenAI introduced a new visual ad format in ChatGPT and expanded measurement tools, attribution partnerships and brand suitability options for advertisers.",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -89,9 +89,9 @@
       "publishedAt": "2026-10-05T04:00:00+00:00",
       "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel",
+      "titleKo": "EmTech Future 2026: AI가 모든 분야와 만날 때",
+      "summaryKo": "구글 리서치 총괄 요시 마티아스가 AI가 생물학·인프라·제조·과학을 바꾸기 시작한 양상과, 다른 분야와 만날 때 가장 큰 영향을 낼 수 있는 이유를 다룬다.",
+      "summaryEn": "Google Research head Yossi Matias explores how AI is beginning to reshape biology, infrastructure, manufacturing and science, and why its greatest impact may come where it meets other fields.",
       "tags": [
         "빅테크"
       ],

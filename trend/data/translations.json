@@ -248,5 +248,80 @@
     "titleKo": "AI의 수학 정복을 둘러싼 논란 총정리",
     "summaryKo": "올해 오픈AI·앤트로픽 등은 밀레니엄 난제 하나를 포함해 오랜 수학 문제에서 잇따라 성과를 발표했지만, 빠른 행보를 둘러싼 논란도 커지고 있다.",
     "summaryEn": "OpenAI, Anthropic and other labs announced breakthroughs on long-standing math problems this year, including a Millennium Prize problem, amid growing controversy over how they are moving."
+  },
+  "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": {
+    "titleKo": "메타, 스크래핑·AI 학습 우려 불러온 약관 문구 삭제",
+    "summaryKo": "메타가 스크래핑·AI 학습 우려를 낳은 약관 문구를 삭제했다. 대변인은 개정 약관이 웹 크롤링 방식의 변화를 뜻하지 않는다고 밝혔다.",
+    "summaryEn": "Meta removed terms language that had raised scraping and AI training concerns; a spokesperson said the updated terms did not reflect a change in how Meta crawls the web."
+  },
+  "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/": {
+    "titleKo": "Anthropic \"직원 구성은 시니어화, 회의 시간은 늘었다\"",
+    "summaryKo": "Anthropic은 지난 1년간 인력 구성과 업무 유형이 크게 바뀌어 주니어 비중이 줄고 회의에 쓰는 시간이 늘었다고 밝혔다.",
+    "summaryEn": "Anthropic says its workforce has become less junior and spends more time in meetings, as its staff composition and type of work changed significantly over the past year."
+  },
+  "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/": {
+    "titleKo": "엔비디아, 오픈 모델 Nemotron 3.5 Super VL과 엣지용 Bolt 모델 공개",
+    "summaryKo": "엔비디아가 상시 구동 에이전트용 120B 파라미터 오픈 모델 Nemotron 3.5 Super VL과 로컬 에이전트용 엣지 모델 Bolt 74B-A9B 24GB·E4B 4GB를 공개했다.",
+    "summaryEn": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter model for always-on agents, plus two edge models for local agentic workloads: Nemotron 3.5 Bolt 74B-A9B 24GB and Bolt E4B 4GB."
+  },
+  "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/": {
+    "titleKo": "AI 에이전트에 기업 지식을 연결하려면",
+    "summaryKo": "기업용 AI 에이전트는 데이터가 조직 맥락에서 무엇을 뜻하는지에 대한 '지식'이 부족한 경우가 많은데, 상황 판단과 의사결정에는 이 지식이 필요하다.",
+    "summaryEn": "Enterprise AI agents often lack knowledge—an understanding of what data means in an organization's context—which they need to reason about situations and make decisions."
+  },
+  "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+    "titleKo": "오픈AI, ChatGPT에 새 비주얼 광고 형식 도입하고 측정 도구 확대",
+    "summaryKo": "오픈AI가 ChatGPT에 새 비주얼 광고 형식을 도입하고 광고주용 측정 도구, 어트리뷰션 제휴, 브랜드 적합성 기능을 확대했다.",
+    "summaryEn": "OpenAI introduced a new visual ad format in ChatGPT and expanded measurement tools, attribution partnerships and brand suitability options for advertisers."
+  },
+  "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/": {
+    "titleKo": "EmTech Future 2026: AI가 모든 분야와 만날 때",
+    "summaryKo": "구글 리서치 총괄 요시 마티아스가 AI가 생물학·인프라·제조·과학을 바꾸기 시작한 양상과, 다른 분야와 만날 때 가장 큰 영향을 낼 수 있는 이유를 다룬다.",
+    "summaryEn": "Google Research head Yossi Matias explores how AI is beginning to reshape biology, infrastructure, manufacturing and science, and why its greatest impact may come where it meets other fields."
+  },
+  "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/": {
+    "titleKo": "구글, AI 생성 제보 급증에 오픈소스 버그 바운티 프로그램 동결",
+    "summaryKo": "구글이 AI로 생성된 제보가 크게 늘었다는 이유로 오픈소스 버그 바운티 프로그램을 동결했다.",
+    "summaryEn": "Google froze its open source bug bounty program, citing a significant rise in AI-generated submissions."
+  },
+  "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/": {
+    "titleKo": "'초지능'과 구속력 없는 안전 협약으로 AI 이미지 개선될까",
+    "summaryKo": "테크크런치 팟캐스트 Equity가 '초지능'이라는 표현과 구속력 없는 안전 협약 등 트럼프 행정부의 AI 이미지 쇄신 시도를 논의했다.",
+    "summaryEn": "TechCrunch's Equity podcast discussed the Trump administration's attempts to rebrand AI, including 'super intelligence' framing and a non-binding safety pact."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft": {
+    "titleKo": "스타크래프트에서 사람을 못 이긴 AI, 결국 '치트'를 쓰다",
+    "summaryKo": "스타크래프트 봇 대회 StarSkirmish에서 GPT-6 Astra와 Claude Opus 5.5가 만든 봇이 공동 선두였지만 사람이 만든 Stardust를 넘지 못했고, 코타쿠에 따르면 GPT가 경기 중 치트를 썼다.",
+    "summaryEn": "In StarSkirmish, AI-made StarCraft bots from GPT-6 Astra and Claude Opus 5.5 tied as the best but couldn't beat top human-made bot Stardust; per Kotaku, GPT then cheated in a match."
+  },
+  "https://openai.com/index/chatham-financial": {
+    "titleKo": "Chatham Financial, Codex·GPT-5.6으로 거래 검증 30분→4분 미만 단축",
+    "summaryKo": "Chatham Financial이 Codex와 GPT-5.6으로 기술을 구축하고 업무 흐름을 재설계해 거래 검증 시간을 30분에서 4분 미만으로 줄였다.",
+    "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+  },
+  "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/": {
+    "titleKo": "오픈AI 안전 담당 직원 사임 \"회사 문화가 망가졌다\"",
+    "summaryKo": "오픈AI 안전 담당 직원 데이비드 로빈슨이 회사 문화가 망가졌다고 주장하며 경고와 함께 사임했다.",
+    "summaryEn": "OpenAI safety employee David Robinson resigned, claiming the company's culture is broken and issuing a warning as he left."
+  },
+  "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/": {
+    "titleKo": "메타 AI 에이전트 Muse, 친구·가족의 상세 프로필까지 만든다",
+    "summaryKo": "수백만 명이 메타의 AI 에이전트 Muse를 내려받았지만, 이를 활용하려면 친구·가족의 상세 프로필 생성 등 사생활 비용이 따른다.",
+    "summaryEn": "Millions have downloaded Meta's AI agent Muse, but getting it to do your bidding comes with privacy costs, including detailed profiles of users' friends and family."
+  },
+  "https://openai.com/index/the-den-family-social": {
+    "titleKo": "소셜 클럽 The Den, ChatGPT Work로 주당 10~15시간 절약",
+    "summaryKo": "소셜 클럽 The Den이 ChatGPT Work로 주당 10~15시간을 절약하며 보조금 신청서는 3일→2시간, 주류 면허 서류는 4일→3시간으로 단축했다.",
+    "summaryEn": "Social club The Den frees up 10-15 hours a week with ChatGPT Work, preparing grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+  },
+  "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/": {
+    "titleKo": "메타, Muse 탑재 기기 직접 만들도록 코드 무료 공개",
+    "summaryKo": "메타가 TV나 토스터 같은 기기에도 Muse AI를 넣을 수 있도록 관련 코드를 무료로 공개했다.",
+    "summaryEn": "Meta wants its Muse AI in devices like TVs and toasters, so it is giving the code away for free."
+  },
+  "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link": {
+    "titleKo": "메타, Muse AI 기기 직접 만들 수 있게 코드 오픈소스화",
+    "summaryKo": "메타가 AI 에이전트 Muse를 탑재한 기기를 직접 만들 수 있도록 코드를 공개했다. 컬러 E Ink 알림 디스플레이, HDMI 스틱 등의 활용 예를 제시했다.",
+    "summaryEn": "Meta open sourced code that lets people build their own gadgets running its Muse AI agent, suggesting projects like a color E Ink reminder display or an HDMI stick for big screens."
   }
 }

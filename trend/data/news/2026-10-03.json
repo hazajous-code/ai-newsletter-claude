@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-03T00:45:39+00:00",
       "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "titleKo": "메타, Muse 탑재 기기 직접 만들도록 코드 무료 공개",
+      "summaryKo": "메타가 TV나 토스터 같은 기기에도 Muse AI를 넣을 수 있도록 관련 코드를 무료로 공개했다.",
+      "summaryEn": "Meta wants its Muse AI in devices like TVs and toasters, so it is giving the code away for free.",
       "tags": [
         "빅테크"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-10-02T21:08:37+00:00",
       "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading M",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
+      "titleKo": "메타, Muse AI 기기 직접 만들 수 있게 코드 오픈소스화",
+      "summaryKo": "메타가 AI 에이전트 Muse를 탑재한 기기를 직접 만들 수 있도록 코드를 공개했다. 컬러 E Ink 알림 디스플레이, HDMI 스틱 등의 활용 예를 제시했다.",
+      "summaryEn": "Meta open sourced code that lets people build their own gadgets running its Muse AI agent, suggesting projects like a color E Ink reminder display or an HDMI stick for big screens.",
       "tags": [
         "빅테크"
       ],
@@ -90,8 +90,8 @@
       "publishedAt": "2026-10-02T00:00:00+00:00",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "Chatham Financial, Codex·GPT-5.6으로 거래 검증 30분→4분 미만 단축",
+      "summaryKo": "Chatham Financial이 Codex와 GPT-5.6으로 기술을 구축하고 업무 흐름을 재설계해 거래 검증 시간을 30분에서 4분 미만으로 줄였다.",
       "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "tags": [
         "빅테크"

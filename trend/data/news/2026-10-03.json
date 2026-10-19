@@ -42,9 +42,9 @@
       "publishedAt": "2026-10-02T20:08:40+00:00",
       "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it'",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
+      "titleKo": "애플, AI 에이전트 위험 커지자 Mac '전체 디스크 접근' 권한 제한",
+      "summaryKo": "애플이 AI 에이전트가 초래하는 위험에 대응해 Mac의 '전체 디스크 접근' 권한에 새 제한을 도입한다. 이 수준의 접근을 정말 원하는 사용자만 권한을 줄 수 있도록 새 통제 장치를 적용한다고 밝혔다.",
+      "summaryEn": "Apple is adding new limits to Full Disk Access on Mac in response to risks posed by AI agents, with controls so only users who genuinely want to grant that level of access can do so.",
       "tags": [
         "빅테크"
       ],
@@ -58,9 +58,9 @@
       "publishedAt": "2026-10-02T18:11:27+00:00",
       "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, m",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "titleKo": "애플, AI 에이전트 위험 이유로 macOS '전체 디스크 접근' 통제 강화",
+      "summaryKo": "애플이 macOS의 전체 디스크 접근 권한에 새 통제를 추가한다. 고도화된 AI 에이전트 때문에 사용자 파일·메시지·메일·검색 기록에 대한 광범위한 접근이 더 위험해졌다는 설명이다.",
+      "summaryEn": "Apple will add new controls to macOS Full Disk Access, warning that capable AI agents make broad access to users' files, messages, mail and browsing history riskier.",
       "tags": [
         "빅테크"
       ],
@@ -74,9 +74,9 @@
       "publishedAt": "2026-10-02T16:00:00+00:00",
       "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+      "titleKo": "고위험 AI 연구를 공개적으로 하겠다는 Trillium Labs",
+      "summaryKo": "많은 프런티어 연구소가 위험한 연구를 비공개로 두는 것과 달리, Trillium Labs는 자기개선과 모델 행동에 관한 연구 결과를 공개하려 한다.",
+      "summaryEn": "While many frontier labs keep risky research private, Trillium Labs wants to publish its work on self-improvement and model behavior.",
       "tags": [
         "마케팅 영향"
       ],

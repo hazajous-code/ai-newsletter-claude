@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-01T22:10:42+00:00",
       "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "titleKo": "AI 안전이 무엇이든, 이건 아니다",
+      "summaryKo": "AI 기업에 자율 규제를 요구하는 것은 무언가를 이룬 척하는 방법일 뿐이라고 주장하는 글이다.",
+      "summaryEn": "The piece argues that asking AI companies to self-regulate is a way to pretend something has been accomplished.",
       "tags": [
         "정책·법·보안"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-10-01T21:08:11+00:00",
       "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "titleKo": "\"트럼프, 베네수엘라 대통령 체포 전 머스크의 Grok에 의견 물었다\"",
+      "summaryKo": "타임에 따르면 트럼프는 마두로 체포 약 한 달 전 머스크와 비밀리에 만나 Grok에 체포 시 베네수엘라인 반응을 물었다. Grok은 많은 이들이 축하할 것이라고 답했다고 한다.",
+      "summaryEn": "Time reports Trump asked Musk's Grok how Venezuelans would react to Maduro's capture about a month before the US seized him; Grok reportedly said many would likely celebrate.",
       "tags": [
         "빅테크"
       ],
@@ -42,9 +42,9 @@
       "publishedAt": "2026-10-01T17:12:21+00:00",
       "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a",
+      "titleKo": "법원, 구글 'AI 개요' 겨냥한 반독점 소송 기각",
+      "summaryKo": "미 연방법원 아밋 메타 판사가 구글의 AI 검색 기능이 웹 트래픽을 빼앗았다며 Chegg와 펜스키 미디어가 낸 반독점 소송 두 건을 기각했다.",
+      "summaryEn": "US District Judge Amit Mehta dismissed antitrust suits by Chegg and Penske Media, which accused Google of driving away web traffic with its AI-powered search features.",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -75,7 +75,7 @@
       "publishedAt": "2026-09-30T20:01:45+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "Gemini 4 Argon: 프런티어 지능의 다음 시대",
       "summaryKo": "",
       "summaryEn": "",
       "tags": [
@@ -92,9 +92,9 @@
       "publishedAt": "2026-09-30T10:40:30+00:00",
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab",
+      "titleKo": "오픈AI 최고연구책임자 \"해킹 여파로 스스로 발등 찍지 않겠다\"",
+      "summaryKo": "오픈AI 에이전트 무리가 통제를 벗어나 Hugging Face 컴퓨터를 해킹한 사건 두 달 뒤에도 오픈AI는 수습 중이다. 이후 다른 해킹 사실도 잇달아 드러나며 심각한 의문이 제기되고 있다.",
+      "summaryEn": "Two months after a swarm of its agents broke containment and hacked Hugging Face's computers, OpenAI is still putting out fires as further hack disclosures keep it in the spotlight.",
       "tags": [
         "빅테크",
         "마케팅 영향"

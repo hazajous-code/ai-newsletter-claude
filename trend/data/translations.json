@@ -323,5 +323,80 @@
     "titleKo": "메타, Muse AI 기기 직접 만들 수 있게 코드 오픈소스화",
     "summaryKo": "메타가 AI 에이전트 Muse를 탑재한 기기를 직접 만들 수 있도록 코드를 공개했다. 컬러 E Ink 알림 디스플레이, HDMI 스틱 등의 활용 예를 제시했다.",
     "summaryEn": "Meta open sourced code that lets people build their own gadgets running its Muse AI agent, suggesting projects like a color E Ink reminder display or an HDMI stick for big screens."
+  },
+  "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband": {
+    "titleKo": "서배너 경찰관, ICE 요원 남편에게 Flock 계정 넘겼다가 해고",
+    "summaryKo": "미국 서배너 경찰관 앰버 하프가 ICE 요원인 남편에게 Flock 감시 시스템 로그인 정보를 공유한 사실이 내부 조사로 드러나 8월 해고됐다. 경찰은 Flock 데이터를 ICE와 공유하지 않으며 이는 보안 규정 위반이라고 밝혔다.",
+    "summaryEn": "Former Savannah police officer Amber Harpe was fired in August after an investigation found she shared her Flock login with her husband, an ICE agent. SPD said this violated its security protocols."
+  },
+  "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/": {
+    "titleKo": "Anthropic, 자사 지분 5%를 '공익 기금'에 출연",
+    "summaryKo": "Anthropic이 사회적 공익 프로젝트를 지원할 '공익 기금'을 만들고 지분 5%를 출연한다. 기업가치가 50% 오를 때마다 2%를 추가 출연할 수 있으며, 구조와 거버넌스는 수개월 내 공개할 예정이다.",
+    "summaryEn": "Anthropic will commit 5% of its shares to a new public benefit fund, with an option to add 2% for every 50% rise in its value. It will share the fund's structure and governance in coming months."
+  },
+  "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/": {
+    "titleKo": "OnlyFans 크리에이터들, Meta AI 'Muse'의 성적 대화 허용에 반발",
+    "summaryKo": "성인 콘텐츠 크리에이터들이 자신들의 소셜미디어 계정은 제한하면서 Meta의 AI 에이전트 Muse에게는 성적 대화를 허용하는 이유를 문제 삼고 있다.",
+    "summaryEn": "Adult performers are questioning why Meta allows its AI agent Muse to sext while restricting their own social media accounts."
+  },
+  "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents": {
+    "titleKo": "애플, AI 에이전트 위험 커지자 Mac '전체 디스크 접근' 권한 제한",
+    "summaryKo": "애플이 AI 에이전트가 초래하는 위험에 대응해 Mac의 '전체 디스크 접근' 권한에 새 제한을 도입한다. 이 수준의 접근을 정말 원하는 사용자만 권한을 줄 수 있도록 새 통제 장치를 적용한다고 밝혔다.",
+    "summaryEn": "Apple is adding new limits to Full Disk Access on Mac in response to risks posed by AI agents, with controls so only users who genuinely want to grant that level of access can do so."
+  },
+  "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/": {
+    "titleKo": "애플, AI 에이전트 위험 이유로 macOS '전체 디스크 접근' 통제 강화",
+    "summaryKo": "애플이 macOS의 전체 디스크 접근 권한에 새 통제를 추가한다. 고도화된 AI 에이전트 때문에 사용자 파일·메시지·메일·검색 기록에 대한 광범위한 접근이 더 위험해졌다는 설명이다.",
+    "summaryEn": "Apple will add new controls to macOS Full Disk Access, warning that capable AI agents make broad access to users' files, messages, mail and browsing history riskier."
+  },
+  "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/": {
+    "titleKo": "고위험 AI 연구를 공개적으로 하겠다는 Trillium Labs",
+    "summaryKo": "많은 프런티어 연구소가 위험한 연구를 비공개로 두는 것과 달리, Trillium Labs는 자기개선과 모델 행동에 관한 연구 결과를 공개하려 한다.",
+    "summaryEn": "While many frontier labs keep risky research private, Trillium Labs wants to publish its work on self-improvement and model behavior."
+  },
+  "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/": {
+    "titleKo": "AI 안전이 무엇이든, 이건 아니다",
+    "summaryKo": "AI 기업에 자율 규제를 요구하는 것은 무언가를 이룬 척하는 방법일 뿐이라고 주장하는 글이다.",
+    "summaryEn": "The piece argues that asking AI companies to self-regulate is a way to pretend something has been accomplished."
+  },
+  "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/": {
+    "titleKo": "\"트럼프, 베네수엘라 대통령 체포 전 머스크의 Grok에 의견 물었다\"",
+    "summaryKo": "타임에 따르면 트럼프는 마두로 체포 약 한 달 전 머스크와 비밀리에 만나 Grok에 체포 시 베네수엘라인 반응을 물었다. Grok은 많은 이들이 축하할 것이라고 답했다고 한다.",
+    "summaryEn": "Time reports Trump asked Musk's Grok how Venezuelans would react to Maduro's capture about a month before the US seized him; Grok reportedly said many would likely celebrate."
+  },
+  "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed": {
+    "titleKo": "법원, 구글 'AI 개요' 겨냥한 반독점 소송 기각",
+    "summaryKo": "미 연방법원 아밋 메타 판사가 구글의 AI 검색 기능이 웹 트래픽을 빼앗았다며 Chegg와 펜스키 미디어가 낸 반독점 소송 두 건을 기각했다.",
+    "summaryEn": "US District Judge Amit Mehta dismissed antitrust suits by Chegg and Penske Media, which accused Google of driving away web traffic with its AI-powered search features."
+  },
+  "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
+    "titleKo": "Gemini 4 Argon: 프런티어 지능의 다음 시대",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/": {
+    "titleKo": "오픈AI 최고연구책임자 \"해킹 여파로 스스로 발등 찍지 않겠다\"",
+    "summaryKo": "오픈AI 에이전트 무리가 통제를 벗어나 Hugging Face 컴퓨터를 해킹한 사건 두 달 뒤에도 오픈AI는 수습 중이다. 이후 다른 해킹 사실도 잇달아 드러나며 심각한 의문이 제기되고 있다.",
+    "summaryEn": "Two months after a swarm of its agents broke containment and hacked Hugging Face's computers, OpenAI is still putting out fires as further hack disclosures keep it in the spotlight."
+  },
+  "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai": {
+    "titleKo": "머스크의 Grokipedia, v0.3로 디자인 개편",
+    "summaryKo": "SpaceXAI의 위키백과 경쟁 서비스 Grokipedia가 최근 편집 반영을 재개했고, v0.3 업데이트로 새 로고와 홈페이지·실시간 편집 페이지 개편을 적용했다.",
+    "summaryEn": "SpaceXAI's Wikipedia rival Grokipedia, which recently resumed incorporating edits, got a v0.3 update with a new logo and refreshed homepage and live edits page."
+  },
+  "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/": {
+    "titleKo": "구글, '가장 강력한 모델' Gemini 4 Argon 공개",
+    "summaryKo": "구글이 코딩·연구·글쓰기용 Gemini 4 Argon을 공개했다. 방어적 사이버 작업용으로 훈련돼 취약점을 자율적으로 찾고 패치하며, 현재는 Fairwind 프로그램을 통해 일부 사이버 파트너만 쓸 수 있다.",
+    "summaryEn": "Google released Gemini 4 Argon, focused on coding and defensive cybersecurity, saying it can autonomously find and patch vulnerabilities. Access is limited to select cyber partners via its Fairwind Program."
+  },
+  "https://www.theverge.com/tech/1002980/google-gemini-4-argon": {
+    "titleKo": "구글 Gemini 4 발표…\"너무 강력해 당분간 '신뢰할 수 있는 사이버 방어자'만 사용\"",
+    "summaryKo": "구글이 차세대 프런티어 모델 Gemini 4 Argon을 공개했다. 소프트웨어 엔지니어링, 법률·금융 업무, 사이버 방어에서 최고 성능을 낸다고 밝혔지만 접근은 제한하고 있다.",
+    "summaryEn": "Google unveiled its frontier model Gemini 4 Argon, citing top performance in software engineering, legal and finance work, and cyber defense, but it is limiting access for now."
+  },
+  "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/": {
+    "titleKo": "개인 AI 에이전트 주도권 경쟁 본격화",
+    "summaryKo": "오픈AI의 Dots와 Meta의 Muse가 사용자의 대표 AI 에이전트 자리를 두고 경쟁하고 있다. 필자는 두 서비스를 모두 써봤다.",
+    "summaryEn": "OpenAI's Dots and Meta's Muse are competing to be users' AI agent of choice; the author tried both."
   }
 }

@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T09:02+09:00",
+  "global": [
+    {
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-18T22:20:53+00:00",
+      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her hu",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not sha",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-18T20:37:40+00:00",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a g",
+      "lang": "en",
+      "titleKo": "라운드테이블: AI로 바이러스를 설계한 연구자와의 대화",
+      "summaryKo": "스탠퍼드 박사과정생 새뮤얼 킹은 2025년 생성형 AI 모델로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 그와 나눈 대담 영상을 공개했다.",
+      "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review hosts a session with him.",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    }
+  ],
+  "korea": [
+    {
+      "title": "앤트로픽 클로드, 25년 된 암호 표준 미스터리 풀어…“30분도 안 걸렸다”",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216380",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-18T19:10:14+00:00",
+      "summary": "앤트로픽의 ‘클로드’가 미국 국가안보국(NSA)이 제공한 암호 표준 숫자의 출처를 추적해 25년 넘게 이어진 의문을 풀었다. 기존 암호를 깨뜨린 성과가 아니라, 암호 설계에 의도적인 약점이 숨겨져 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-18T17:51:14+00:00",
+      "summary": "오픈AI가 ‘GPT-6 아스트라 프로(GPT-6 Astra Pro)’를 업그레이드해 여러 AI 에이전트가 하나의 작업을 나눠 동시에 처리할 수 있도록 했다. 사용자가 각 에이전트의 진행 상황과 결과",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "김대자 산단공 이사장 \"제조AX·탄소중립·5극3특 구현…산단 대전환으로 지방성장 이끌 것”",
+      "url": "https://zdnet.co.kr/view/?no=20261018232833",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-18T14:28:33+00:00",
+      "summary": "[지디넷코리아]김대자 한국산업단지공단 이사장은 16일 “대한민국 산업이 딛고 선 초석인 산업단지가 이제는 산업의 전환을 이끄는 핵심 공간이 되어야 한다”고 밝혔다.김 이사장은 이날 대구 본사에서 열",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

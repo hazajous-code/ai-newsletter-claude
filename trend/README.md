@@ -50,5 +50,5 @@
 
 ## 예약 발행 (2026-10-20 추가)
 - 미리 만든 호는 `issues/<YYYY-MM-DD>.html`·`issues/<YYYY-MM-DD>-marketer.html`로 먼저 올리고, `scheduled.json`에 `{"id","date","title","promoted": false}`로 등록한다. 발행 전에는 지난 호 목록에 노출되지 않고 사본 주소로만 미리 볼 수 있다.
-- 발행일(KST) 아침 `daily.yml`이 `python trend/promote.py`를 실행해 메인(index.html·marketer.html)을 교체하고 지난 호 목록에 한 줄 추가한다. 목요일 주간 발행 작업도 먼저 이 스크립트를 실행하며, 그날 예약 호가 있으면 새 호를 쓰지 않고 사실 재확인만 한다.
+- 발행일(KST) 아침 `daily.yml`이 `python trend/promote.py`를 실행해 메인(index.html·marketer.html)을 교체하고 지난 호 목록에 한 줄 추가한다. 화요일 주간 발행 작업도 먼저 이 스크립트를 실행하며, 그날 예약 호가 있으면 새 호를 쓰지 않고 사실 재확인만 한다.
 - 예약 호의 사본 링크 규칙: 공용 페이지는 `../`, 두 사본끼리는 서로를 가리킨다. promote.py가 메인용 링크로 바꾼다.

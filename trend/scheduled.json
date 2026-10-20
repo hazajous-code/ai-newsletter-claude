@@ -1,8 +1,9 @@
 [
   {
-    "id": "2026-10-22",
-    "date": "2026-10-22",
+    "id": "2026-10-20",
+    "date": "2026-10-20",
     "title": "Vol.02 — The external world has seen the preview.",
-    "promoted": false
+    "promoted": true,
+    "promoted_at": "2026-10-20T16:58+09:00"
   }
 ]

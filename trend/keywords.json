@@ -1,7 +1,7 @@
 {
   "_설명": "정기 조사 때 이 키워드들로 검색합니다. always=상시 뉴스, focus=이번 호 집중 주제, case_search=사례 탐색(기간 제한 없이 검증 가능한 사례).",
   "audience": "마케터 (브랜드·콘텐츠·퍼포먼스·이커머스 실무자)",
-  "cadence": "매주 목요일 오전 8시(KST) 발행",
+  "cadence": "매주 화요일 오전 8시(KST) 발행",
   "always": [
     "AI agent launch",
     "AI marketing advertising",

@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-27T20:34:28+00:00",
       "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "titleKo": "Anthropic CEO, 트럼프 대통령과 만찬 예정",
+      "summaryKo": "다리오 아모데이 Anthropic CEO가 백악관에서 트럼프 대통령과 첫 단독 만찬을 갖는다. 양측은 AI 안전 논쟁에서 반대 입장이며 관계가 경색돼 왔다.",
+      "summaryEn": "Anthropic CEO Dario Amodei is set to dine with President Trump at the White House in their first one-on-one meeting, amid strained relations over AI safety.",
       "tags": [
         "빅테크"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-09-27T19:57:30+00:00",
       "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "titleKo": "Muse는 Meta의 신뢰 문제를 극복할 수 있을까",
+      "summaryKo": "TechCrunch Equity 팟캐스트는 Meta Connect에서 공개된 소비자용 AI 에이전트 Muse를 다루며, 사용자가 민감한 금융 정보를 Meta에 맡길지 의문을 제기했다.",
+      "summaryEn": "TechCrunch's Equity podcast discussed Meta's new consumer AI agent Muse, unveiled at Connect, questioning whether users will trust Meta with sensitive financial data.",
       "tags": [
         "빅테크"
       ],

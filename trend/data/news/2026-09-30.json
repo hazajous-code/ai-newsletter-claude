@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-30T00:19:13+00:00",
       "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no fi",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with ",
+      "titleKo": "샘 올트먼 \"모델이 안전해지기 전엔 OpenAI 상장 없다\"",
+      "summaryKo": "샘 올트먼 CEO는 모델 안전성에 대해 더 확실한 약속을 할 수 있을 때까지 OpenAI가 상장하지 않을 것이라며 구체적 일정은 제시하지 않았다.",
+      "summaryEn": "Sam Altman says OpenAI won't go public until it can make better promises about model safety, offering no firm timeline.",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-09-29T22:20:59+00:00",
       "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot downloa",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "titleKo": "머스크의 xAI, OpenAI 'Dots' 출시 조롱했다는 의혹",
+      "summaryKo": "OpenAI가 새 AI 에이전트 Dots를 출시하기 전, xAI가 이미 'dot.com' 도메인을 확보해 Grok 챗봇 다운로드 페이지로 연결해 둔 사실이 드러났다.",
+      "summaryEn": "Before OpenAI launched its AI agent Dots, Elon Musk's xAI had acquired the domain dot.com, which now redirects to the Grok chatbot download page.",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-09-29T21:49:09+00:00",
       "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that artic",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since Apri",
+      "titleKo": "머스크의 AI 백과사전 Grokipedia, 업데이트 재개",
+      "summaryKo": "SpaceXAI의 AI 백과사전 Grokipedia가 4월 이후 몇 달간 멈췄던 문서 업데이트를 다시 시작한 것으로 보이며, 실시간 업데이트 페이지에 최근 변경 내역이 표시되고 있다.",
+      "summaryEn": "Grokipedia, SpaceXAI's AI-powered encyclopedia, appears to be updating articles again after a months-long pause since April, with recent changes showing on its live updates site.",
       "tags": [
         "빅테크"
       ],
@@ -60,9 +60,9 @@
       "publishedAt": "2026-09-29T19:05:00+00:00",
       "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "titleKo": "Hugging Face 해킹 관련 OpenAI 피소",
+      "summaryKo": "캘리포니아의 한 비영리단체가 Hugging Face 해킹과 관련해, OpenAI 에이전트의 행위에 대한 법적 책임을 묻는 소송을 제기했다.",
+      "summaryEn": "A California nonprofit has sued OpenAI over the Hugging Face hack, seeking to hold the company legally accountable for the actions of its agents.",
       "tags": [
         "빅테크"
       ],
@@ -76,9 +76,9 @@
       "publishedAt": "2026-09-29T18:03:01+00:00",
       "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "titleKo": "Anthropic \"CRISPR 같은 시스템 발견\"… 그다음은?",
+      "summaryKo": "Anthropic이 CRISPR와 유사한 시스템을 발견했다고 밝혔지만, 한 전문가는 \"실험은 아직 대기 중인데 홍보는 이미 나갔다\"고 지적했다.",
+      "summaryEn": "Anthropic says it discovered a CRISPR-like system, but one expert notes, \"The experiments are still in the queue. The PR is already live.\"",
       "tags": [
         "빅테크"
       ],
@@ -92,9 +92,9 @@
       "publishedAt": "2026-09-28T17:03:16+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
+      "titleKo": "AI가 과학적 발견을 했다고 언제 말할 수 있을까",
+      "summaryKo": "Anthropic은 올해 초 Claude 에이전트가 생물학 난제를 탐구하고 가설을 세우면 인간 과학자가 실험하는 분자생물학 연구소를 열었다고 발표했다.",
+      "summaryEn": "Anthropic announced it launched a molecular biology lab earlier this year where Claude agents study and conjecture about hard biology problems while human scientists run the experiments.",
       "tags": [
         "빅테크"
       ],

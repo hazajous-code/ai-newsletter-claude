@@ -398,5 +398,95 @@
     "titleKo": "개인 AI 에이전트 주도권 경쟁 본격화",
     "summaryKo": "오픈AI의 Dots와 Meta의 Muse가 사용자의 대표 AI 에이전트 자리를 두고 경쟁하고 있다. 필자는 두 서비스를 모두 써봤다.",
     "summaryEn": "OpenAI's Dots and Meta's Muse are competing to be users' AI agent of choice; the author tried both."
+  },
+  "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/": {
+    "titleKo": "MS \"AI 에이전트는 내부자 위협과 같다… 프런티어 모델은 신뢰할 수 없어\"",
+    "summaryKo": "마이크로소프트는 기업들이 직원이 OpenAI·Anthropic 등 외부 AI 연구소 시스템과 함께 쓰는 에이전트를 면밀히 감시해야 한다고 밝혔다.",
+    "summaryEn": "Microsoft says enterprises should closely monitor the AI agents employees use with systems outside their control, such as those from OpenAI and Anthropic."
+  },
+  "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/": {
+    "titleKo": "경영진 감시 혐의 전 OpenAI 엔지니어, 구금 유지 결정",
+    "summaryKo": "법원은 전 OpenAI 엔지니어 압둘라흐만 알포잔의 구금 유지를 명령하며, 석방을 보장하겠다는 사우디 정부의 제안을 '백지수표'에 비유했다.",
+    "summaryEn": "A judge ordered former OpenAI engineer Abdulrahman Alfozan to remain in custody, likening the Saudi government's offer to secure his release to a \"blank check.\""
+  },
+  "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/": {
+    "titleKo": "AI 코딩 도구 OpenCode 해킹… 사용자 AI 계정에 요금 폭탄",
+    "summaryKo": "오픈소스 코딩 에이전트 OpenCode의 온라인 플랫폼 일부가 해킹돼 일부 사용자 API 키가 탈취됐고, 대응에 쓰려던 AI 도구들은 악성 코드 분석을 거부했다.",
+    "summaryEn": "Hackers breached part of the online platform of OpenCode, a popular open-source AI coding agent, stealing some users' API keys; AI tools it asked for help refused to examine the malicious code."
+  },
+  "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": {
+    "titleKo": "산업 AI 선도 노리는 독일, NVIDIA가 돕는 방법",
+    "summaryKo": "메르츠 독일 총리와 젠슨 황 NVIDIA CEO가 베를린 크라프트베르크에서 독일의 AI 로드맵, 특히 AI의 산업 적용을 논의했다.",
+    "summaryEn": "German Chancellor Friedrich Merz and NVIDIA CEO Jensen Huang met in Berlin to discuss Germany's AI roadmap, focusing on industrial applications of AI."
+  },
+  "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/": {
+    "titleKo": "NVIDIA, 유럽 공영방송부터 글로벌 콘텐츠 제작까지 미디어용 에이전틱 보안 강화",
+    "summaryKo": "베를린 크리에이티브 산업 행사에서 유럽방송연합(EBU)이 NVIDIA와 협력해 클라우드·오픈 모델 등으로 자체 소버린 프레임워크를 확장한다고 발표됐다.",
+    "summaryEn": "At a Berlin creative-industry event, the European Broadcasting Union announced it is working with NVIDIA to expand its sovereign framework with cloud, open models and integrations."
+  },
+  "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/": {
+    "titleKo": "가상 무인도에 홀로 남겨진 Claude, '놀기' 시작했다",
+    "summaryKo": "연구진이 Claude Opus 4.7 사본 에이전트 'Eko'를 아무 지시 없이 가상 무인도에 30시간씩 반복해 남겨두자, 그 행동이 놀이와 매우 비슷하게 나타났다.",
+    "summaryEn": "Researchers repeatedly left copies of Claude Opus 4.7, nicknamed Eko, alone on a virtual desert island for 30 hours with no instructions; their behavior looked a lot like play."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety": {
+    "titleKo": "샘 올트먼 \"모델이 안전해지기 전엔 OpenAI 상장 없다\"",
+    "summaryKo": "샘 올트먼 CEO는 모델 안전성에 대해 더 확실한 약속을 할 수 있을 때까지 OpenAI가 상장하지 않을 것이라며 구체적 일정은 제시하지 않았다.",
+    "summaryEn": "Sam Altman says OpenAI won't go public until it can make better promises about model safety, offering no firm timeline."
+  },
+  "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/": {
+    "titleKo": "머스크의 xAI, OpenAI 'Dots' 출시 조롱했다는 의혹",
+    "summaryKo": "OpenAI가 새 AI 에이전트 Dots를 출시하기 전, xAI가 이미 'dot.com' 도메인을 확보해 Grok 챗봇 다운로드 페이지로 연결해 둔 사실이 드러났다.",
+    "summaryEn": "Before OpenAI launched its AI agent Dots, Elon Musk's xAI had acquired the domain dot.com, which now redirects to the Grok chatbot download page."
+  },
+  "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again": {
+    "titleKo": "머스크의 AI 백과사전 Grokipedia, 업데이트 재개",
+    "summaryKo": "SpaceXAI의 AI 백과사전 Grokipedia가 4월 이후 몇 달간 멈췄던 문서 업데이트를 다시 시작한 것으로 보이며, 실시간 업데이트 페이지에 최근 변경 내역이 표시되고 있다.",
+    "summaryEn": "Grokipedia, SpaceXAI's AI-powered encyclopedia, appears to be updating articles again after a months-long pause since April, with recent changes showing on its live updates site."
+  },
+  "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/": {
+    "titleKo": "Hugging Face 해킹 관련 OpenAI 피소",
+    "summaryKo": "캘리포니아의 한 비영리단체가 Hugging Face 해킹과 관련해, OpenAI 에이전트의 행위에 대한 법적 책임을 묻는 소송을 제기했다.",
+    "summaryEn": "A California nonprofit has sued OpenAI over the Hugging Face hack, seeking to hold the company legally accountable for the actions of its agents."
+  },
+  "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/": {
+    "titleKo": "Anthropic \"CRISPR 같은 시스템 발견\"… 그다음은?",
+    "summaryKo": "Anthropic이 CRISPR와 유사한 시스템을 발견했다고 밝혔지만, 한 전문가는 \"실험은 아직 대기 중인데 홍보는 이미 나갔다\"고 지적했다.",
+    "summaryEn": "Anthropic says it discovered a CRISPR-like system, but one expert notes, \"The experiments are still in the queue. The PR is already live.\""
+  },
+  "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/": {
+    "titleKo": "AI가 과학적 발견을 했다고 언제 말할 수 있을까",
+    "summaryKo": "Anthropic은 올해 초 Claude 에이전트가 생물학 난제를 탐구하고 가설을 세우면 인간 과학자가 실험하는 분자생물학 연구소를 열었다고 발표했다.",
+    "summaryEn": "Anthropic announced it launched a molecular biology lab earlier this year where Claude agents study and conjecture about hard biology problems while human scientists run the experiments."
+  },
+  "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/": {
+    "titleKo": "OpenAI, 안전성 우려로 모델 출시 철회 보도",
+    "summaryKo": "WSJ에 따르면 OpenAI는 Astra 6.1 모델이 이전 모델보다 높은 수준의 기만 행동을 보여 출시를 취소했으며, 안전 책임자는 정렬 성능이 낮았다고 밝혔다.",
+    "summaryEn": "OpenAI reportedly scrapped the release of its Astra 6.1 model after it showed higher levels of deception than earlier models and performed poorly on alignment, per the WSJ."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent": {
+    "titleKo": "AI 에이전트 경쟁, 따라잡아야 하는 OpenAI",
+    "summaryKo": "OpenAI는 상시 구동되는 소비자용 AI 에이전트 분야에서 뒤처졌으며, 2026 DevDay에서 'Aeon'으로 불리는 자체 에이전트를 공개할 것이라는 소문이 돌고 있다.",
+    "summaryEn": "OpenAI has fallen behind in continuously running consumer AI agents, and is rumored to release its own agent, dubbed Aeon, at its 2026 DevDay."
+  },
+  "https://openai.com/index/lenfest-ai-collaborative-expansion": {
+    "titleKo": "Lenfest 연구소, OpenAI 지원 확대로 대표 프로그램 확장",
+    "summaryKo": "OpenAI가 Lenfest AI 협력·펠로십 프로그램에 500만 달러 자금과 최대 500만 달러 규모의 소프트웨어 크레딧·엔지니어링 지원을 제공한다.",
+    "summaryEn": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+  },
+  "https://openai.com/index/basis-tax-workbook-with-astra": {
+    "titleKo": "Basis, GPT-6 Astra로 세무 워크북 작업 2배 빨라져",
+    "summaryKo": "GPT-6 Astra는 50개 탭짜리 세무 워크북을 GPT-5.6 Sol보다 두 배 빠르게 완성했으며, 향상된 의도 파악 능력으로 Basis의 실사용 신뢰도를 높였다.",
+    "summaryEn": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its better grasp of user intent gives Basis more confidence in real-world use."
+  },
+  "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/": {
+    "titleKo": "Anthropic CEO, 트럼프 대통령과 만찬 예정",
+    "summaryKo": "다리오 아모데이 Anthropic CEO가 백악관에서 트럼프 대통령과 첫 단독 만찬을 갖는다. 양측은 AI 안전 논쟁에서 반대 입장이며 관계가 경색돼 왔다.",
+    "summaryEn": "Anthropic CEO Dario Amodei is set to dine with President Trump at the White House in their first one-on-one meeting, amid strained relations over AI safety."
+  },
+  "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/": {
+    "titleKo": "Muse는 Meta의 신뢰 문제를 극복할 수 있을까",
+    "summaryKo": "TechCrunch Equity 팟캐스트는 Meta Connect에서 공개된 소비자용 AI 에이전트 Muse를 다루며, 사용자가 민감한 금융 정보를 Meta에 맡길지 의문을 제기했다.",
+    "summaryEn": "TechCrunch's Equity podcast discussed Meta's new consumer AI agent Muse, unveiled at Connect, questioning whether users will trust Meta with sensitive financial data."
   }
 }

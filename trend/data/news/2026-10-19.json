@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T10:54+09:00",
+  "updatedAt": "2026-10-19T09:00+09:00",
   "global": [
     {
       "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
@@ -66,6 +66,22 @@
         "마케팅 영향"
       ],
       "score": 6.5
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "lang": "en",
+      "titleKo": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
+      "summaryKo": "엔지니어 두 명이 Codex로 몇 주 만에 Stack Overflow for Agents를 출시했고, ChatGPT 플러그인이 에이전트 생성을 최대 10배 늘리는 데 기여했다.",
+      "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10x growth in agent creation.",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
     }
   ],
   "korea": [

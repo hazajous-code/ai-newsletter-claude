@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=text14">
+<link rel="stylesheet" href="style.css?v=text15">
 <script>try{var f=localStorage.getItem('fs');if(f)document.documentElement.classList.add(f)}catch(e){}</script>
 </head>
 <body>
@@ -127,6 +127,7 @@
   });
 })();
 </script>
-<script>(function(){var h=document.documentElement,bs=document.querySelectorAll('.fsctl button');function set(v){h.classList.remove('fs-l','fs-xl');if(v)h.classList.add(v);bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.fs===v?'true':'false')});try{v?localStorage.setItem('fs',v):localStorage.removeItem('fs')}catch(e){}}var cur='';try{cur=localStorage.getItem('fs')||''}catch(e){}set(cur);bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.fs)})})})();</script>
+<script>(function(){document.querySelectorAll('table.tbl').forEach(function(t){var hs=[].map.call(t.querySelectorAll('thead th'),function(th){return th.textContent.trim();});if(!hs.length)return;t.querySelectorAll('tbody tr').forEach(function(tr){[].forEach.call(tr.children,function(td,i){if(hs[i]&&!td.hasAttribute('data-label'))td.setAttribute('data-label',hs[i]);});});});})();
+(function(){var h=document.documentElement,bs=document.querySelectorAll('.fsctl button');function set(v){h.classList.remove('fs-l','fs-xl');if(v)h.classList.add(v);bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.fs===v?'true':'false')});try{v?localStorage.setItem('fs',v):localStorage.removeItem('fs')}catch(e){}}var cur='';try{cur=localStorage.getItem('fs')||''}catch(e){}set(cur);bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.fs)})})})();</script>
 </body>
 </html>

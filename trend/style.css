@@ -302,3 +302,23 @@ footer{font-size:15px}
 .fsctl{align-self:center}
 .tabs a,.tabs a:first-child{padding:10px 0 9px;margin-right:24px}
 @media (max-width:560px){.tabs a,.tabs a:first-child{margin-right:20px}}
+
+/* v6: 읽기 흐름 보강 — 블록 안 단락 간격, 인용 출처 줄, 휴대폰에서 표를 카드형으로 */
+.frame p + p{margin-top:.8em}
+.mast .quote-by{font-size:15px;color:var(--ink-3);margin:8px 0 4px}
+.mast .quote-by + .sub{margin-top:6px}
+@media (max-width:560px){
+  .tblwrap{overflow-x:visible}
+  .tbl:not(.case) thead{display:none}
+  .tbl:not(.case),.tbl:not(.case) tbody,.tbl:not(.case) tr,.tbl:not(.case) td{display:block;width:100%}
+  .tbl:not(.case) tbody{border-top:2px solid var(--ink)}
+  .tbl:not(.case) tr{border-bottom:1px solid var(--line);padding:12px 0 14px}
+  .tbl:not(.case) td{border:0;padding:0!important;white-space:normal}
+  .tbl:not(.case) td:first-child{font-weight:700;font-size:1.05em;margin-bottom:2px}
+  .tbl:not(.case) td[data-label]:not(:first-child)::before{content:attr(data-label);display:block;font-size:13.5px;font-weight:700;letter-spacing:.02em;color:var(--ink-3);margin-top:8px}
+  .tbl.case,.tbl.case tbody,.tbl.case tr,.tbl.case th,.tbl.case td{display:block;width:100%}
+  .tbl.case th{border:0!important;padding:12px 0 2px!important;color:var(--ink-3);font-size:13.5px}
+  .tbl.case td{border-top:0!important;border-bottom:1px solid var(--line);padding:0 0 12px!important}
+  .tbl.case tr:first-child th{border-top:2px solid var(--ink)!important}
+}
+@media (max-width:560px){.tbl{font-size:17px}.tbl.case td,.tbl:not(.case) td{line-height:1.7}}

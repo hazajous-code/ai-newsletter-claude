@@ -13,6 +13,7 @@
       "titleKo": "서배너 경찰관, ICE 요원 남편에게 Flock 계정 넘겼다가 해고",
       "summaryKo": "미국 서배너 경찰관 앰버 하프가 ICE 요원인 남편에게 Flock 감시 시스템 로그인 정보를 공유한 사실이 내부 조사로 드러나 8월 해고됐다. 경찰은 Flock 데이터를 ICE와 공유하지 않으며 이는 보안 규정 위반이라고 밝혔다.",
       "summaryEn": "Former Savannah police officer Amber Harpe was fired in August after an investigation found she shared her Flock login with her husband, an ICE agent. SPD said this violated its security protocols.",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "Anthropic, 자사 지분 5%를 '공익 기금'에 출연",
       "summaryKo": "Anthropic이 사회적 공익 프로젝트를 지원할 '공익 기금'을 만들고 지분 5%를 출연한다. 기업가치가 50% 오를 때마다 2%를 추가 출연할 수 있으며, 구조와 거버넌스는 수개월 내 공개할 예정이다.",
       "summaryEn": "Anthropic will commit 5% of its shares to a new public benefit fund, with an option to add 2% for every 50% rise in its value. It will share the fund's structure and governance in coming months.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "OnlyFans 크리에이터들, Meta AI 'Muse'의 성적 대화 허용에 반발",
       "summaryKo": "성인 콘텐츠 크리에이터들이 자신들의 소셜미디어 계정은 제한하면서 Meta의 AI 에이전트 Muse에게는 성적 대화를 허용하는 이유를 문제 삼고 있다.",
       "summaryEn": "Adult performers are questioning why Meta allows its AI agent Muse to sext while restricting their own social media accounts.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -62,6 +65,7 @@
       "titleKo": "라운드테이블: AI로 바이러스를 설계한 연구자와의 대화",
       "summaryKo": "스탠퍼드 박사과정생 새뮤얼 킹은 2025년 생성형 AI 모델로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 그와 나눈 대담 영상을 공개했다.",
       "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review hosts a session with him.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -78,6 +82,7 @@
       "titleKo": "Stack Overflow for Agents, ChatGPT 플러그인으로 가입 3배 증가",
       "summaryKo": "엔지니어 두 명이 Codex로 몇 주 만에 Stack Overflow for Agents를 출시했고, ChatGPT 플러그인이 에이전트 생성을 최대 10배 늘리는 데 기여했다.",
       "summaryEn": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10x growth in agent creation.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -96,6 +101,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -113,6 +119,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -130,6 +137,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],

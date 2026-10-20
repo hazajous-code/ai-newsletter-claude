@@ -13,6 +13,7 @@
       "titleKo": "메타, Muse 탑재 기기 직접 만들도록 코드 무료 공개",
       "summaryKo": "메타가 TV나 토스터 같은 기기에도 Muse AI를 넣을 수 있도록 관련 코드를 무료로 공개했다.",
       "summaryEn": "Meta wants its Muse AI in devices like TVs and toasters, so it is giving the code away for free.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "메타, Muse AI 기기 직접 만들 수 있게 코드 오픈소스화",
       "summaryKo": "메타가 AI 에이전트 Muse를 탑재한 기기를 직접 만들 수 있도록 코드를 공개했다. 컬러 E Ink 알림 디스플레이, HDMI 스틱 등의 활용 예를 제시했다.",
       "summaryEn": "Meta open sourced code that lets people build their own gadgets running its Muse AI agent, suggesting projects like a color E Ink reminder display or an HDMI stick for big screens.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "애플, AI 에이전트 위험 커지자 Mac '전체 디스크 접근' 권한 제한",
       "summaryKo": "애플이 AI 에이전트가 초래하는 위험에 대응해 Mac의 '전체 디스크 접근' 권한에 새 제한을 도입한다. 이 수준의 접근을 정말 원하는 사용자만 권한을 줄 수 있도록 새 통제 장치를 적용한다고 밝혔다.",
       "summaryEn": "Apple is adding new limits to Full Disk Access on Mac in response to risks posed by AI agents, with controls so only users who genuinely want to grant that level of access can do so.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "애플, AI 에이전트 위험 이유로 macOS '전체 디스크 접근' 통제 강화",
       "summaryKo": "애플이 macOS의 전체 디스크 접근 권한에 새 통제를 추가한다. 고도화된 AI 에이전트 때문에 사용자 파일·메시지·메일·검색 기록에 대한 광범위한 접근이 더 위험해졌다는 설명이다.",
       "summaryEn": "Apple will add new controls to macOS Full Disk Access, warning that capable AI agents make broad access to users' files, messages, mail and browsing history riskier.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -77,6 +81,7 @@
       "titleKo": "고위험 AI 연구를 공개적으로 하겠다는 Trillium Labs",
       "summaryKo": "많은 프런티어 연구소가 위험한 연구를 비공개로 두는 것과 달리, Trillium Labs는 자기개선과 모델 행동에 관한 연구 결과를 공개하려 한다.",
       "summaryEn": "While many frontier labs keep risky research private, Trillium Labs wants to publish its work on self-improvement and model behavior.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -93,6 +98,7 @@
       "titleKo": "Chatham Financial, Codex·GPT-5.6으로 거래 검증 30분→4분 미만 단축",
       "summaryKo": "Chatham Financial이 Codex와 GPT-5.6으로 기술을 구축하고 업무 흐름을 재설계해 거래 검증 시간을 30분에서 4분 미만으로 줄였다.",
       "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -111,6 +117,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -127,6 +134,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -143,6 +151,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],

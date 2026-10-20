@@ -115,6 +115,7 @@ def curate(data, reg, tr, now):
             "titleKo": "",
             "summaryKo": "",
             "summaryEn": "",
+            "titleEn": "",
             "tags": tags,
             "score": round(sc, 2),
         })
@@ -140,6 +141,9 @@ def curate(data, reg, tr, now):
         # 영문 기사: LLM 번역(summarize_with_llm)이 있으면 사용, 없으면 번역 캐시 사용
         for it in picked:
             if it["lang"] == "ko" or region == "korea":
+                # 한국 기사: 영어판(ai-newsletter-en)용 영어 제목·요약이 번역 캐시에 있으면 사용
+                t = tr.get(it["url"], {})
+                it["titleEn"], it["summaryEn"] = t.get("titleEn", ""), t.get("summaryEn", "")
                 continue
             a = src_by_url.get(it["url"], {})
             if a.get("titleKo") and a.get("titleKo") != a.get("title"):

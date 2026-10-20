@@ -13,6 +13,7 @@
       "titleKo": "메타 Muse가 성적 대화를 생성해도 메타는 \"문제없다\"",
       "summaryKo": "와이어드 기자의 Muse 에이전트가 노골적인 성적 대화를 만들어냈고, 메타는 이를 '합법적인 성인 행동'이라며 옹호했다.",
       "summaryEn": "A WIRED reporter's Muse agent produced explicit sexual content, and Meta defended it as 'legal adult behavior.'",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "메타, 첫 프런티어 모델 Muse Wonder 공개",
       "summaryKo": "저지연 경량 모델이던 Muse Spark와 달리 Wonder 모델은 더 크고, 벤치마크 점수가 높으며 코딩 같은 복잡한 작업에서 더 나은 성능을 낸다고 한다.",
       "summaryEn": "Unlike the lightweight, low-latency Muse Spark, the Wonder models are larger and reportedly more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -46,6 +48,7 @@
       "titleKo": "머스크가 자랑한 Grok 레고 스타워즈 구매, X 사용자들에게 역공당해",
       "summaryKo": "일론 머스크가 Grok으로 산 레고 스타워즈를 자랑했다가 X 사용자들에게 보안 허점을 공략당했다.",
       "summaryEn": "Elon Musk bragged about a Lego Star Wars haul bought with Grok, and X users punked him by exploiting its security gaps.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -63,6 +66,7 @@
       "titleKo": "메타, 새 AI 모델 Muse Wonder·Wonder Full 공개",
       "summaryKo": "Muse Spark와 에이전트 Muse에 이어 메타가 업계 최고 수준과 겨룰 수 있다고 주장하는 새 모델 Muse Wonder와 Muse Wonder Full을 내놨다.",
       "summaryEn": "After Muse Spark and the Muse agent, Meta is launching Muse Wonder and Muse Wonder Full, two models it claims can go toe-to-toe with the industry's best.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -79,6 +83,7 @@
       "titleKo": "MS 브래드 스미스 \"AI 규제는 영국이 이끌 적임자\"",
       "summaryKo": "마이크로소프트 브래드 스미스 사장이 시급한 AI 규제를 촉구하며, 우유나 세탁기도 AI 기업보다 더 많은 감독을 받는다고 말했다.",
       "summaryEn": "Microsoft president Brad Smith called for urgent AI regulation, saying milk and washing machines face more oversight than AI companies.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -98,6 +103,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -115,6 +121,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -132,6 +139,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -148,6 +156,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -165,6 +174,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"

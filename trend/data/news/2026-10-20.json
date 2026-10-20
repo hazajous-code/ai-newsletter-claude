@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T10:49+09:00",
+  "updatedAt": "2026-10-20T16:30+09:00",
   "global": [
     {
       "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
@@ -13,6 +13,7 @@
       "titleKo": "MS \"AI 에이전트는 내부자 위협과 같다… 프런티어 모델은 신뢰할 수 없어\"",
       "summaryKo": "마이크로소프트는 기업들이 직원이 OpenAI·Anthropic 등 외부 AI 연구소 시스템과 함께 쓰는 에이전트를 면밀히 감시해야 한다고 밝혔다.",
       "summaryEn": "Microsoft says enterprises should closely monitor the AI agents employees use with systems outside their control, such as those from OpenAI and Anthropic.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "경영진 감시 혐의 전 OpenAI 엔지니어, 구금 유지 결정",
       "summaryKo": "법원은 전 OpenAI 엔지니어 압둘라흐만 알포잔의 구금 유지를 명령하며, 석방을 보장하겠다는 사우디 정부의 제안을 '백지수표'에 비유했다.",
       "summaryEn": "A judge ordered former OpenAI engineer Abdulrahman Alfozan to remain in custody, likening the Saudi government's offer to secure his release to a \"blank check.\"",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "AI 코딩 도구 OpenCode 해킹… 사용자 AI 계정에 요금 폭탄",
       "summaryKo": "오픈소스 코딩 에이전트 OpenCode의 온라인 플랫폼 일부가 해킹돼 일부 사용자 API 키가 탈취됐고, 대응에 쓰려던 AI 도구들은 악성 코드 분석을 거부했다.",
       "summaryEn": "Hackers breached part of the online platform of OpenCode, a popular open-source AI coding agent, stealing some users' API keys; AI tools it asked for help refused to examine the malicious code.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "산업 AI 선도 노리는 독일, NVIDIA가 돕는 방법",
       "summaryKo": "메르츠 독일 총리와 젠슨 황 NVIDIA CEO가 베를린 크라프트베르크에서 독일의 AI 로드맵, 특히 AI의 산업 적용을 논의했다.",
       "summaryEn": "German Chancellor Friedrich Merz and NVIDIA CEO Jensen Huang met in Berlin to discuss Germany's AI roadmap, focusing on industrial applications of AI.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -77,6 +81,7 @@
       "titleKo": "NVIDIA, 유럽 공영방송부터 글로벌 콘텐츠 제작까지 미디어용 에이전틱 보안 강화",
       "summaryKo": "베를린 크리에이티브 산업 행사에서 유럽방송연합(EBU)이 NVIDIA와 협력해 클라우드·오픈 모델 등으로 자체 소버린 프레임워크를 확장한다고 발표됐다.",
       "summaryEn": "At a Berlin creative-industry event, the European Broadcasting Union announced it is working with NVIDIA to expand its sovereign framework with cloud, open models and integrations.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -94,6 +99,7 @@
       "titleKo": "가상 무인도에 홀로 남겨진 Claude, '놀기' 시작했다",
       "summaryKo": "연구진이 Claude Opus 4.7 사본 에이전트 'Eko'를 아무 지시 없이 가상 무인도에 30시간씩 반복해 남겨두자, 그 행동이 놀이와 매우 비슷하게 나타났다.",
       "summaryEn": "Researchers repeatedly left copies of Claude Opus 4.7, nicknamed Eko, alone on a virtual desert island for 30 hours with no instructions; their behavior looked a lot like play.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -112,7 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "A book recommendation: Denis Magda's book on context engineering for multi-agent systems (Korean edition, Jpub), on making AI more reliable through transparent reasoning and context design rather than prompt tweaks.",
+      "titleEn": "[AI Leader's Bookshelf] Context engineering for multi-agent systems",
       "tags": [
         "정책·법·보안"
       ],
@@ -128,7 +135,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Microsoft is strengthening security technology that monitors the behavior of companies' internal AI agents in real time and controls their access, treating agents a company deploys itself as potential insider threats.",
+      "titleEn": "Microsoft steps up defenses against AI agents as insider threats, with real-time monitoring and access controls",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -145,7 +153,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "A former OpenAI employee arrested on suspicion of planting a listening device in a restricted OpenAI meeting room was offered a role in a Saudi royal family member's AI project, according to the report; US prosecutors cite national security concerns.",
+      "titleEn": "Former OpenAI employee accused of bugging a meeting room explored joining a Saudi royal's AI project",
       "tags": [
         "빅테크"
       ],
@@ -161,7 +170,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Google released an open source framework that lets AI agents improve how they work on their own, refining their execution environment from experience on real tasks while keeping the underlying model fixed.",
+      "titleEn": "Google releases 'Harness²', a self-improvement framework that lets AI agents improve their own performance",
       "tags": [
         "빅테크",
         "출시·발표"

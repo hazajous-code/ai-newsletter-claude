@@ -13,6 +13,7 @@
       "titleKo": "이제 ChatGPT가 크롬 탭을 볼 수 있다",
       "summaryKo": "ChatGPT Atlas 브라우저는 사라졌지만, ChatGPT의 크롬 확장 프로그램이 업그레이드돼 이미 열려 있는 탭을 활용할 수 있게 됐다. ChatGPT 웹·데스크톱 앱에서 크롬을 태그하면 브라우저 탭 내용을 볼 수 있다.",
       "summaryEn": "OpenAI's ChatGPT Atlas browser is gone, but ChatGPT's Chrome extension can now use the tabs you already have open. Tag Chrome in ChatGPT's web or desktop app and it can view your browser tabs.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "메타 Muse의 뜻밖의 기능, 애플 HomeView의 아쉬움",
       "summaryKo": "와이어드 팟캐스트 'Uncanny Valley'가 메타 Muse의 예상 밖 기능, 최대 친AI 슈퍼팩의 불투명한 지출, AI를 아는 척하는 남성들의 경향을 다뤘다.",
       "summaryEn": "WIRED's Uncanny Valley podcast covers an unexpected Muse feature, shadowy spending by the largest pro-AI super PAC, and men's tendency to overstate how much they know about AI.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "트럼프, 백악관 복원 자랑하며 AI로 수정된 사진 게시",
       "summaryKo": "트럼프 대통령이 트루스소셜에 올린 백악관 보수 사진 중 기둥 비교 사진이 AI로 수정된 것으로 보인다. 여러 불일치가 있었고 구글 AI 탐지기도 'AI 생성·수정' 이미지로 표시했다.",
       "summaryEn": "One of the White House renovation photos Trump posted on Truth Social, comparing an old column with a 'restored' one, appears AI-modified. It shows discrepancies and was flagged by Google's AI detector.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "메타, 맥에서 돌아가는 오픈 웨이트 AI 모델 출시",
       "summaryKo": "메타가 애플과 손잡고 애플 실리콘에서 로컬로 실행되는 새 모델 'Muse Spark Open'을 내놨다.",
       "summaryEn": "Meta teamed up with Apple to launch Muse Spark Open, its newest model, which runs locally on Apple silicon.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -78,6 +82,7 @@
       "titleKo": "아마존 디바이스 총괄 파노스 파네이 \"AI 기기가 앱을 대신하는 미래\"",
       "summaryKo": "테크크런치 디스럽트에서 파노스 파네이는 명령을 기다리지 않고 배경에서 사용자의 필요를 먼저 알아채는 '앰비언트 AI 기기'의 미래를 설명했다.",
       "summaryEn": "At TechCrunch Disrupt, Amazon devices chief Panos Panay described ambient AI devices that work in the background, anticipating users' needs instead of waiting for commands.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -94,6 +99,7 @@
       "titleKo": "GPT-Rosalind, 대학 연구실에 제공",
       "summaryKo": "오픈AI가 자격을 갖춘 대학 연구실에 생명과학 연구용 GPT-Rosalind와 관련 도구를 지원하는 'Rosalind Academic Plan'을 내놨다.",
       "summaryEn": "OpenAI introduced the Rosalind Academic Plan, giving eligible academic labs sponsored access to GPT-Rosalind and tools for life sciences research.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -112,6 +118,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -129,6 +136,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "출시·발표"
       ],
@@ -145,6 +153,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],

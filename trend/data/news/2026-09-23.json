@@ -13,6 +13,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "titleEn": "",
       "tags": [
         "출시·발표"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "titleEn": "",
       "tags": [
         "출시·발표"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics ",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -77,6 +81,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -94,6 +99,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fi",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -113,6 +119,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -130,6 +137,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -147,6 +155,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -163,6 +172,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],

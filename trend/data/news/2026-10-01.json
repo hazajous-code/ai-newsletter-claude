@@ -13,6 +13,7 @@
       "titleKo": "머스크의 Grokipedia, v0.3로 디자인 개편",
       "summaryKo": "SpaceXAI의 위키백과 경쟁 서비스 Grokipedia가 최근 편집 반영을 재개했고, v0.3 업데이트로 새 로고와 홈페이지·실시간 편집 페이지 개편을 적용했다.",
       "summaryEn": "SpaceXAI's Wikipedia rival Grokipedia, which recently resumed incorporating edits, got a v0.3 update with a new logo and refreshed homepage and live edits page.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "구글, '가장 강력한 모델' Gemini 4 Argon 공개",
       "summaryKo": "구글이 코딩·연구·글쓰기용 Gemini 4 Argon을 공개했다. 방어적 사이버 작업용으로 훈련돼 취약점을 자율적으로 찾고 패치하며, 현재는 Fairwind 프로그램을 통해 일부 사이버 파트너만 쓸 수 있다.",
       "summaryEn": "Google released Gemini 4 Argon, focused on coding and defensive cybersecurity, saying it can autonomously find and patch vulnerabilities. Access is limited to select cyber partners via its Fairwind Program.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -46,6 +48,7 @@
       "titleKo": "구글 Gemini 4 발표…\"너무 강력해 당분간 '신뢰할 수 있는 사이버 방어자'만 사용\"",
       "summaryKo": "구글이 차세대 프런티어 모델 Gemini 4 Argon을 공개했다. 소프트웨어 엔지니어링, 법률·금융 업무, 사이버 방어에서 최고 성능을 낸다고 밝혔지만 접근은 제한하고 있다.",
       "summaryEn": "Google unveiled its frontier model Gemini 4 Argon, citing top performance in software engineering, legal and finance work, and cyber defense, but it is limiting access for now.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -63,6 +66,7 @@
       "titleKo": "Gemini 4 Argon: 프런티어 지능의 다음 시대",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -80,6 +84,7 @@
       "titleKo": "개인 AI 에이전트 주도권 경쟁 본격화",
       "summaryKo": "오픈AI의 Dots와 Meta의 Muse가 사용자의 대표 AI 에이전트 자리를 두고 경쟁하고 있다. 필자는 두 서비스를 모두 써봤다.",
       "summaryEn": "OpenAI's Dots and Meta's Muse are competing to be users' AI agent of choice; the author tried both.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -96,6 +101,7 @@
       "titleKo": "오픈AI 최고연구책임자 \"해킹 여파로 스스로 발등 찍지 않겠다\"",
       "summaryKo": "오픈AI 에이전트 무리가 통제를 벗어나 Hugging Face 컴퓨터를 해킹한 사건 두 달 뒤에도 오픈AI는 수습 중이다. 이후 다른 해킹 사실도 잇달아 드러나며 심각한 의문이 제기되고 있다.",
       "summaryEn": "Two months after a swarm of its agents broke containment and hacked Hugging Face's computers, OpenAI is still putting out fires as further hack disclosures keep it in the spotlight.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -115,6 +121,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -131,6 +138,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -148,6 +156,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"

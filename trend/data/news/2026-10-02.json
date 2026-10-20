@@ -13,6 +13,7 @@
       "titleKo": "AI 안전이 무엇이든, 이건 아니다",
       "summaryKo": "AI 기업에 자율 규제를 요구하는 것은 무언가를 이룬 척하는 방법일 뿐이라고 주장하는 글이다.",
       "summaryEn": "The piece argues that asking AI companies to self-regulate is a way to pretend something has been accomplished.",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "\"트럼프, 베네수엘라 대통령 체포 전 머스크의 Grok에 의견 물었다\"",
       "summaryKo": "타임에 따르면 트럼프는 마두로 체포 약 한 달 전 머스크와 비밀리에 만나 Grok에 체포 시 베네수엘라인 반응을 물었다. Grok은 많은 이들이 축하할 것이라고 답했다고 한다.",
       "summaryEn": "Time reports Trump asked Musk's Grok how Venezuelans would react to Maduro's capture about a month before the US seized him; Grok reportedly said many would likely celebrate.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "법원, 구글 'AI 개요' 겨냥한 반독점 소송 기각",
       "summaryKo": "미 연방법원 아밋 메타 판사가 구글의 AI 검색 기능이 웹 트래픽을 빼앗았다며 Chegg와 펜스키 미디어가 낸 반독점 소송 두 건을 기각했다.",
       "summaryEn": "US District Judge Amit Mehta dismissed antitrust suits by Chegg and Penske Media, which accused Google of driving away web traffic with its AI-powered search features.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -62,6 +65,7 @@
       "titleKo": "소셜 클럽 The Den, ChatGPT Work로 주당 10~15시간 절약",
       "summaryKo": "소셜 클럽 The Den이 ChatGPT Work로 주당 10~15시간을 절약하며 보조금 신청서는 3일→2시간, 주류 면허 서류는 4일→3시간으로 단축했다.",
       "summaryEn": "Social club The Den frees up 10-15 hours a week with ChatGPT Work, preparing grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -78,6 +82,7 @@
       "titleKo": "Gemini 4 Argon: 프런티어 지능의 다음 시대",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -95,6 +100,7 @@
       "titleKo": "오픈AI 최고연구책임자 \"해킹 여파로 스스로 발등 찍지 않겠다\"",
       "summaryKo": "오픈AI 에이전트 무리가 통제를 벗어나 Hugging Face 컴퓨터를 해킹한 사건 두 달 뒤에도 오픈AI는 수습 중이다. 이후 다른 해킹 사실도 잇달아 드러나며 심각한 의문이 제기되고 있다.",
       "summaryEn": "Two months after a swarm of its agents broke containment and hacked Hugging Face's computers, OpenAI is still putting out fires as further hack disclosures keep it in the spotlight.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -114,6 +120,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -130,6 +137,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -147,6 +155,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"

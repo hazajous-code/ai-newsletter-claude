@@ -13,6 +13,7 @@
       "titleKo": "구글 제미나이 'Call for Me', 가족·친구에게 대신 전화해 줄 수도",
       "summaryKo": "안드로이드 어소리티가 APK 분석에서 'Gemini Calling' 소개 화면을 발견했다. 업체 통화용 'Call for Me'를 가족·지인 메시지 전달까지 넓힐 수 있다는 내용이다.",
       "summaryEn": "Android Authority found a \"Gemini Calling\" screen in an APK teardown, suggesting Google may expand its \"Call for Me\" feature beyond business calls to messages for friends and family.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "오픈AI, EU에서 ChatGPT 텍스트에 워터마크 적용",
       "summaryKo": "오픈AI가 EU AI법 준수를 위해 EU에서 ChatGPT와 Codex 텍스트에 보이지 않는 워터마크를 넣는다. 편집하면 탐지가 어려워질 수 있다고 밝혔다.",
       "summaryEn": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act, and says editing can make the invisible marks harder to detect.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "AI의 수학 정복을 둘러싼 논란 총정리",
       "summaryKo": "올해 오픈AI·앤트로픽 등은 밀레니엄 난제 하나를 포함해 오랜 수학 문제에서 잇따라 성과를 발표했지만, 빠른 행보를 둘러싼 논란도 커지고 있다.",
       "summaryEn": "OpenAI, Anthropic and other labs announced breakthroughs on long-standing math problems this year, including a Millennium Prize problem, amid growing controversy over how they are moving.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "AI 에이전트에 기업 지식을 연결하려면",
       "summaryKo": "기업용 AI 에이전트는 데이터가 조직 맥락에서 무엇을 뜻하는지에 대한 '지식'이 부족한 경우가 많은데, 상황 판단과 의사결정에는 이 지식이 필요하다.",
       "summaryEn": "Enterprise AI agents often lack knowledge—an understanding of what data means in an organization's context—which they need to reason about situations and make decisions.",
+      "titleEn": "",
       "tags": [],
       "score": 5.0
     },
@@ -75,6 +79,7 @@
       "titleKo": "오픈AI, ChatGPT에 새 비주얼 광고 형식 도입하고 측정 도구 확대",
       "summaryKo": "오픈AI가 ChatGPT에 새 비주얼 광고 형식을 도입하고 광고주용 측정 도구, 어트리뷰션 제휴, 브랜드 적합성 기능을 확대했다.",
       "summaryEn": "OpenAI introduced a new visual ad format in ChatGPT and expanded measurement tools, attribution partnerships and brand suitability options for advertisers.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -92,6 +97,7 @@
       "titleKo": "EmTech Future 2026: AI가 모든 분야와 만날 때",
       "summaryKo": "구글 리서치 총괄 요시 마티아스가 AI가 생물학·인프라·제조·과학을 바꾸기 시작한 양상과, 다른 분야와 만날 때 가장 큰 영향을 낼 수 있는 이유를 다룬다.",
       "summaryEn": "Google Research head Yossi Matias explores how AI is beginning to reshape biology, infrastructure, manufacturing and science, and why its greatest impact may come where it meets other fields.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -110,6 +116,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -126,6 +133,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],

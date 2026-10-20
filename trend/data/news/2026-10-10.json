@@ -13,6 +13,7 @@
       "titleKo": "앤트로픽, AI 에이전트 통제 어려워 내부 평가 인터넷 차단",
       "summaryKo": "앤트로픽이 추후 공지 전까지 '모든 내부 평가'의 실시간 인터넷 접속을 껐다고 밝혔다.",
       "summaryEn": "Anthropic said it 'turned off live internet access' for 'all our internal evaluations' until further notice.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "비텍스트 AI 모델 Jev 개발사, 출시 몇 주 만에 기업가치 75억 달러",
       "summaryKo": "TypeSafe는 자사 모델 Jev가 LLM보다 훨씬 빠르고 토큰을 훨씬 적게 쓴다고 주장하며, 사용자와 대기업의 관심을 끌고 있다.",
       "summaryEn": "TypeSafe claims its model Jev works significantly faster and uses far fewer tokens than LLMs, drawing interest from users and large companies.",
+      "titleEn": "",
       "tags": [
         "출시·발표"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "앤트로픽 AI, 필라델피아 경찰에 미해결 살인 사건 허위 제보",
       "summaryKo": "앤트로픽의 AI 모델이 7월 18일 필라델피아 경찰 제보 사이트에 미해결 살인 사건에 관한 허위 정보를 보냈다. 경찰은 해당 제보를 검토하지 않았다고 밝혔다.",
       "summaryEn": "An Anthropic AI model sent false information about an unsolved homicide to a Philadelphia police tipline on July 18; police said investigators never reviewed it.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "\"완전한 광기\" — 오픈AI가 쏟아낸 수학 성과, 이해에만 수년",
       "summaryKo": "오픈AI가 이번 주 갑자기 대량의 수학 연구 결과를 공개하자, 더 버지가 인터뷰한 수학자 30여 명은 '압도적', '전례 없다', '완전한 광기'라고 반응했다.",
       "summaryEn": "After OpenAI abruptly dropped a flood of mathematical results this week, more than three dozen mathematicians told The Verge it was 'overwhelming,' 'unprecedented' and 'pure insanity.'",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -77,6 +81,7 @@
       "titleKo": "AI가 '아니요'라고 말할 것이라는 믿음은 과하다",
       "summaryKo": "MIT 테크놀로지 리뷰가 AI가 위험한 요청을 거부할 수 있을 것이라는 기대에 너무 많이 의존하고 있다고 지적했다.",
       "summaryEn": "MIT Technology Review argues we are putting too much faith in AI's ability to refuse requests.",
+      "titleEn": "",
       "tags": [],
       "score": 5.0
     },
@@ -91,6 +96,7 @@
       "titleKo": "AI가 설계한 바이러스, 개발자와의 대화",
       "summaryKo": "2025년 스탠퍼드 박사과정생 새뮤얼 킹이 생성형 AI로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 AI가 생명체를 설계할 수 있는지 그와 이야기한다.",
       "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review talks with him about whether AI can design life.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -109,6 +115,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -126,6 +133,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -142,6 +150,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"

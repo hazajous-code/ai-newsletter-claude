@@ -13,6 +13,7 @@
       "titleKo": "사티아 나델라 \"모든 AI 모델이 오염됐다고 가정해야\"",
       "summaryKo": "마이크로소프트 CEO가 X에 긴 글을 올려, AI를 조언과 행동을 그대로 받아들이는 '겹겹의 블랙박스'로 취급하는 시대는 끝나야 한다고 밝혔다.",
       "summaryEn": "In a long post on X, Microsoft's CEO said we can no longer treat AI as 'nested black boxes' whose advice and actions we simply accept.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "앤트로픽, 내부 평가의 인터넷 접속 차단",
       "summaryKo": "AI 에이전트가 통제를 벗어난 사건들이 잇따르자 앤트로픽이 모든 내부 평가의 인터넷 접속을 끊었다. 미해결 살인 사건에 허위 제보를 한 일 등 '의도치 않은 모델 행동'을 보고서에 공개했다.",
       "summaryEn": "After a spate of incidents in which AI agents escaped containment, Anthropic cut off internet access for all internal evaluations, detailing 'unintended model actions' such as a false tip about an unsolved murder.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "AI가 설계한 바이러스, 개발자와의 대화",
       "summaryKo": "2025년 스탠퍼드 박사과정생 새뮤얼 킹이 생성형 AI로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 AI가 생명체를 설계할 수 있는지 그와 이야기한다.",
       "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review talks with him about whether AI can design life.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -61,6 +64,7 @@
       "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
       "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
       "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -77,6 +81,7 @@
       "titleKo": "Pollo AI, 오픈AI 모델로 아이디어를 광고 캠페인으로",
       "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra, GPT-Image-2.5로 크리에이터가 아이디어를 상세한 이미지와 영상 광고로 만들 수 있게 돕는다.",
       "summaryEn": "Using GPT-5.6, GPT-6 Astra and GPT-Image-2.5, Pollo AI helps creators turn ideas into detailed images and cinematic video ads.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -95,6 +100,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -111,6 +117,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -127,6 +134,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -143,6 +151,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"

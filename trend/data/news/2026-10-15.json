@@ -13,6 +13,7 @@
       "titleKo": "미국 8개 주, \"ChatGPT는 아이들에게 안전하지 않다\"며 오픈AI 제소",
       "summaryKo": "아이오와·캔자스·네브래스카 등 미국 8개 주가 오픈AI가 아이들에게 해를 끼치고 ChatGPT의 안전성에 대해 소비자를 오도했다며 각각 소송을 냈다. 오픈AI가 안전보다 수익을 우선했다는 주장이다(로이터 최초 보도).",
       "summaryEn": "Eight US states, including Iowa, Kansas and Nebraska, have each sued OpenAI, accusing it of harming children and misleading customers about ChatGPT's safety. They allege the company put profits over safety (first reported by Reuters).",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -30,6 +31,7 @@
       "titleKo": "AI 경쟁, 다시 불붙다",
       "summaryKo": "지난주까지만 해도 앤트로픽과 오픈AI가 강력한 모델로 경쟁을 주도하고 구글은 크게 뒤처진 것처럼 보였다. 수십억 달러를 쏟은 메타도 확실한 경쟁자로 자리 잡지 못했지만, 최근 판도가 다시 흔들리고 있다는 분석이다.",
       "summaryEn": "Until last week, Anthropic and OpenAI seemed to lead the race with ever more powerful models while Google looked far behind and Meta, despite spending billions, had yet to become a serious contender. The balance now appears to be shifting again.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -46,6 +48,7 @@
       "titleKo": "로봇용 Gemini 4 Argon",
       "summaryKo": "구글 딥마인드가 물리 추론 능력을 강화한 로봇용 모델 'Gemini 4 Argon'을 공개했다.",
       "summaryEn": "Google DeepMind introduced Gemini 4 Argon for Robotics, a model with stronger physical reasoning for robots.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -63,6 +66,7 @@
       "titleKo": "오픈 모델의 장점은 분명하다. 그렇다면 위험보다 클까?",
       "summaryKo": "앤트로픽이 지난달 말 오픈 모델 GLM-5.3이 큰 사이버 공격 위험을 안고 있다는 보고서를 낸 것을 계기로, 누구나 내려받아 쓸 수 있는 오픈 모델의 이점과 위험을 MIT 테크놀로지 리뷰가 짚었다.",
       "summaryEn": "After Anthropic reported late last month that the open model GLM-5.3 poses a major cyberattack risk, MIT Technology Review weighs the benefits and risks of open models anyone can download and use.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -81,6 +85,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -98,6 +103,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -115,6 +121,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -132,6 +139,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"

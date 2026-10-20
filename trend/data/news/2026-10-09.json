@@ -13,6 +13,7 @@
       "titleKo": "AI가 설계한 바이러스, 개발자와의 대화",
       "summaryKo": "2025년 스탠퍼드 박사과정생 새뮤얼 킹이 생성형 AI로 미세 바이러스의 유전 설계도를 제안했다. MIT 테크놀로지 리뷰가 AI가 생명체를 설계할 수 있는지 그와 이야기한다.",
       "summaryEn": "In 2025, Stanford PhD student Samuel King used a generative AI model to propose genetic blueprints for microscopic viruses. MIT Technology Review talks with him about whether AI can design life.",
+      "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "앤트로픽, 오픈소스 프로젝트에 무료 AI 보안 점검 제공",
       "summaryKo": "앤트로픽이 신청한 오픈소스 프로젝트에 자사 최고 모델로 정기 보안 취약점 점검을 무료로 해주는 'OSS Scanner'를 내놨다.",
       "summaryEn": "Anthropic launched OSS Scanner, offering opted-in open-source projects periodic security scans by its strongest models at no cost.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -46,6 +48,7 @@
       "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
       "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
       "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -62,6 +65,7 @@
       "titleKo": "해고된 오픈AI 안전 연구원들, 비위 주장 반박하며 위축 효과 경고",
       "summaryKo": "해고된 오픈AI 안전 연구원 3명이 공개서한에서 민감 정보 취급 부주의 의혹을 반박하고, 자신들의 해고가 회사의 AI 안전 문화를 위축시킨다고 경고했다.",
       "summaryEn": "Three fired OpenAI safety researchers disputed claims they mishandled sensitive information, warning in an open letter that their dismissals chill the company's safety culture.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -79,6 +83,7 @@
       "titleKo": "메타의 새 AI 로고 디자이너, 쏟아진 비난",
       "summaryKo": "디자이너 제시카 히셰는 메타와 일하면 반발이 있을 줄 알았지만, 이렇게까지 거센 분노를 받을 줄은 몰랐다.",
       "summaryEn": "Designer Jessica Hische expected some backlash for working with Meta, but not how angry people would get.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -95,6 +100,7 @@
       "titleKo": "Pollo AI, 오픈AI 모델로 아이디어를 광고 캠페인으로",
       "summaryKo": "Pollo AI는 GPT-5.6, GPT-6 Astra, GPT-Image-2.5로 크리에이터가 아이디어를 상세한 이미지와 영상 광고로 만들 수 있게 돕는다.",
       "summaryEn": "Using GPT-5.6, GPT-6 Astra and GPT-Image-2.5, Pollo AI helps creators turn ideas into detailed images and cinematic video ads.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -113,6 +119,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"

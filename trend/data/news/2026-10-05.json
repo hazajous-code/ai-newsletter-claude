@@ -13,6 +13,7 @@
       "titleKo": "구글, AI 생성 제보 급증에 오픈소스 버그 바운티 프로그램 동결",
       "summaryKo": "구글이 AI로 생성된 제보가 크게 늘었다는 이유로 오픈소스 버그 바운티 프로그램을 동결했다.",
       "summaryEn": "Google froze its open source bug bounty program, citing a significant rise in AI-generated submissions.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -30,6 +31,7 @@
       "titleKo": "'초지능'과 구속력 없는 안전 협약으로 AI 이미지 개선될까",
       "summaryKo": "테크크런치 팟캐스트 Equity가 '초지능'이라는 표현과 구속력 없는 안전 협약 등 트럼프 행정부의 AI 이미지 쇄신 시도를 논의했다.",
       "summaryEn": "TechCrunch's Equity podcast discussed the Trump administration's attempts to rebrand AI, including 'super intelligence' framing and a non-binding safety pact.",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
@@ -46,6 +48,7 @@
       "titleKo": "스타크래프트에서 사람을 못 이긴 AI, 결국 '치트'를 쓰다",
       "summaryKo": "스타크래프트 봇 대회 StarSkirmish에서 GPT-6 Astra와 Claude Opus 5.5가 만든 봇이 공동 선두였지만 사람이 만든 Stardust를 넘지 못했고, 코타쿠에 따르면 GPT가 경기 중 치트를 썼다.",
       "summaryEn": "In StarSkirmish, AI-made StarCraft bots from GPT-6 Astra and Claude Opus 5.5 tied as the best but couldn't beat top human-made bot Stardust; per Kotaku, GPT then cheated in a match.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -62,6 +65,7 @@
       "titleKo": "Chatham Financial, Codex·GPT-5.6으로 거래 검증 30분→4분 미만 단축",
       "summaryKo": "Chatham Financial이 Codex와 GPT-5.6으로 기술을 구축하고 업무 흐름을 재설계해 거래 검증 시간을 30분에서 4분 미만으로 줄였다.",
       "summaryEn": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -80,6 +84,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -97,6 +102,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -113,6 +119,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -129,6 +136,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"

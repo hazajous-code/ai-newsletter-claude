@@ -13,6 +13,7 @@
       "titleKo": "오픈AI 직원, 챗봇 도움 받아 사무실에 녹음 장치 설치 의혹",
       "summaryKo": "챗봇 프롬프트 기록에서 한 엔지니어가 고위 임원 회의실에서 장치가 발견되기 며칠 전 몰래 녹음 장치를 설치하려 한 정황이 드러났다.",
       "summaryEn": "Chatbot prompts reveal an engineer's alleged efforts to set up a covert listening device days before one was found in a meeting room used by top executives.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -29,6 +30,7 @@
       "titleKo": "오픈AI 직원, 회의실 도청 장치 설치 혐의로 체포",
       "summaryKo": "오픈AI가 사무실에서 '정교한 녹음 장치'를 발견한 뒤 한 엔지니어가 체포됐다. 그는 구두 대화를 감청하는 장치를 사용하려 한 혐의를 받는다.",
       "summaryEn": "An OpenAI engineer was arrested after the company found a 'sophisticated recording device' hidden in one of its offices. He is charged with using or trying to use a device to intercept oral communications.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -45,6 +47,7 @@
       "titleKo": "오픈AI·앤트로픽, 영국 의회에 \"우리를 규제하라\"",
       "summaryKo": "AI 기업 리더들이 내부고발자·보안 책임자와 함께 영국 의회 청문회에 섰다. 같은 시각 영국 정보기관 수장은 AI가 새로운 생물무기 개발에 쓰일 수 있다고 경고했다.",
       "summaryEn": "AI leaders joined whistleblowers and security chiefs at a sweeping UK parliamentary session, while Britain's spy chief warned AI could be used to create new bioweapons.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -62,6 +65,7 @@
       "titleKo": "Xbox, AI 게임 포팅 흐름을 공식 수용",
       "summaryKo": "디컴파일·리컴파일로 고전 게임을 새 기기로 옮기거나 두 게임 코드를 합치는 일이 늘면서, 마이크로소프트가 이 흐름을 공식적으로 받아들이기로 했다.",
       "summaryEn": "With decompilation and recompilation letting gamers port classics to new devices or merge two games' code, Microsoft is officially embracing AI-powered game ports.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -78,6 +82,7 @@
       "titleKo": "로봇용 Gemini 4 Argon",
       "summaryKo": "구글 딥마인드가 물리 추론 능력을 강화한 로봇용 모델 'Gemini 4 Argon'을 공개했다.",
       "summaryEn": "Google DeepMind introduced Gemini 4 Argon for Robotics, a model with stronger physical reasoning for robots.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -95,6 +100,7 @@
       "titleKo": "오픈 모델의 장점은 분명하다. 그렇다면 위험보다 클까?",
       "summaryKo": "앤트로픽이 지난달 말 오픈 모델 GLM-5.3이 큰 사이버 공격 위험을 안고 있다는 보고서를 낸 것을 계기로, 누구나 내려받아 쓸 수 있는 오픈 모델의 이점과 위험을 MIT 테크놀로지 리뷰가 짚었다.",
       "summaryEn": "After Anthropic reported late last month that the open model GLM-5.3 poses a major cyberattack risk, MIT Technology Review weighs the benefits and risks of open models anyone can download and use.",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
@@ -113,6 +119,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -130,6 +137,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -147,6 +155,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -164,6 +173,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -181,6 +191,7 @@
       "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],

@@ -488,5 +488,21 @@
     "titleKo": "Muse는 Meta의 신뢰 문제를 극복할 수 있을까",
     "summaryKo": "TechCrunch Equity 팟캐스트는 Meta Connect에서 공개된 소비자용 AI 에이전트 Muse를 다루며, 사용자가 민감한 금융 정보를 Meta에 맡길지 의문을 제기했다.",
     "summaryEn": "TechCrunch's Equity podcast discussed Meta's new consumer AI agent Muse, unveiled at Connect, questioning whether users will trust Meta with sensitive financial data."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216342": {
+    "titleEn": "[AI Leader's Bookshelf] Context engineering for multi-agent systems",
+    "summaryEn": "A book recommendation: Denis Magda's book on context engineering for multi-agent systems (Korean edition, Jpub), on making AI more reliable through transparent reasoning and context design rather than prompt tweaks."
+  },
+  "https://www.etnews.com/20261020000020": {
+    "titleEn": "Microsoft steps up defenses against AI agents as insider threats, with real-time monitoring and access controls",
+    "summaryEn": "Microsoft is strengthening security technology that monitors the behavior of companies' internal AI agents in real time and controls their access, treating agents a company deploys itself as potential insider threats."
+  },
+  "https://www.etnews.com/20261020000002": {
+    "titleEn": "Former OpenAI employee accused of bugging a meeting room explored joining a Saudi royal's AI project",
+    "summaryEn": "A former OpenAI employee arrested on suspicion of planting a listening device in a restricted OpenAI meeting room was offered a role in a Saudi royal family member's AI project, according to the report; US prosecutors cite national security concerns."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216410": {
+    "titleEn": "Google releases 'Harness²', a self-improvement framework that lets AI agents improve their own performance",
+    "summaryEn": "Google released an open source framework that lets AI agents improve how they work on their own, refining their execution environment from experience on real tasks while keeping the underlying model fixed."
   }
 }

@@ -9,11 +9,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../style.css?v=text13">
+<link rel="stylesheet" href="../style.css?v=text14">
+<script>try{var f=localStorage.getItem('fs');if(f)document.documentElement.classList.add(f)}catch(e){}</script>
 </head>
 <body>
 <div class="wrap">
-<nav class="tabs" aria-label="메뉴"><a href="../index.html">주간 뉴스레터</a><a href="../marketer.html" class="on">마케터 자료</a><a href="../news.html">오늘의 AI 뉴스</a><a href="../archive.html">지난 호</a></nav>
+<nav class="tabs" aria-label="메뉴"><a href="../index.html">주간 뉴스레터</a><a href="../marketer.html" class="on">마케터 자료</a><a href="../news.html">오늘의 AI 뉴스</a><a href="../archive.html">지난 호</a><span class="fsctl" role="group" aria-label="글자 크기">글자 크기 <button type="button" data-fs="">보통</button><button type="button" data-fs="fs-l">크게</button><button type="button" data-fs="fs-xl">아주 크게</button></span></nav>
 
 <header class="mast tight">
   <div class="top"><span>AI TREND SEARCH — 마케터 자료</span><span>Vol.01 · 2026.10.15 (목)</span></div>
@@ -176,5 +177,6 @@
 </footer>
 
 </div>
+<script>(function(){var h=document.documentElement,bs=document.querySelectorAll('.fsctl button');function set(v){h.classList.remove('fs-l','fs-xl');if(v)h.classList.add(v);bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.fs===v?'true':'false')});try{v?localStorage.setItem('fs',v):localStorage.removeItem('fs')}catch(e){}}var cur='';try{cur=localStorage.getItem('fs')||''}catch(e){}set(cur);bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.fs)})})})();</script>
 </body>
 </html>

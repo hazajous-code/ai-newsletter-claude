@@ -210,3 +210,95 @@ section h3{margin-top:34px;padding-top:4px}
 @media (max-width:560px){
   :root{--rail:0px}
 }
+
+/* v5: 큰 글자·읽는 흐름 — 본문 19px, 회색 글자 진하게, 블록 이름표를 본문 위로(한 줄 흐름) */
+:root{--ink-2:#333333;--ink-3:#5c5c5c;--line:#dcdcdc;--fs:19px}
+html.fs-l{--fs:21px}
+html.fs-xl{--fs:23px}
+body{font-size:var(--fs);line-height:1.85;letter-spacing:0}
+.wrap{max-width:780px;padding:0 22px}
+p{margin:0 0 1.05em}
+b,strong{font-weight:700}
+/* masthead / summary */
+.mast .top{font-size:15px}
+.mast .sub{font-size:17px}
+.kw li{font-size:14.5px;padding:4px 13px}
+.tabs{font-size:16.5px}
+.tldr h2{font-size:15px}
+.tldr li{margin-bottom:10px}
+.tldr .jump{font-size:15.5px;gap:6px 16px}
+/* headings: 섹션 사이 여백을 넓혀 구간이 확실히 끊기게 */
+section{scroll-margin-top:16px}
+.label{font-size:14px}
+section h2{font-size:clamp(27px,5vw,35px);line-height:1.35;margin:0 0 22px}
+section h3{font-size:21px;line-height:1.45;margin:44px 0 12px}
+.lede{font-size:1.06em}
+.pull{font-size:24px}
+.muted{font-size:16px;color:var(--ink-3)}
+/* frame: 이름표를 본문 위에 두고 위→아래로 읽게 */
+.frame{display:block;padding:22px 0 20px}
+.frame .tag{display:inline-block;font-size:15px;padding:1px 0 1px 10px;margin:0 0 8px;line-height:1.4}
+.frame p{margin:0}
+.frame.judge{background:var(--soft);border-top:2px solid var(--ink);border-bottom:2px solid var(--ink);padding:20px 20px 20px;margin:6px 0 10px}
+.framed > .frame ~ :is(.stat-row,.tblwrap,p,.muted,ul,.alert,h3){margin-left:0}
+/* 숫자 박스 */
+.stat b{font-size:30px}
+.stat span{font-size:15.5px;line-height:1.55;margin-top:6px}
+.stat-row + .muted{margin-top:-4px}
+/* 표 */
+.tbl{font-size:17px;line-height:1.7}
+.tbl th{font-size:14.5px;color:var(--ink-2);letter-spacing:.02em}
+.tbl td{padding-top:12px;padding-bottom:12px}
+.tbl.case th{font-size:15.5px;width:170px}
+/* 기타 블록 */
+.briefs li,.roles p{font-size:18px}
+.alert .h,.action .h,.cta .h{font-size:14px}
+.alert ul{font-size:17.5px}
+.alert li{margin-bottom:6px}
+.action p{font-size:18px}
+.cta a{font-size:16.5px;padding:11px 18px}
+.badge{font-size:14px}
+.verdict span{font-size:15.5px}
+.verdict b{font-size:17px}
+.spec{font-size:17.5px}
+.qs li span{font-size:17px}
+.prompt{font-size:16.5px;line-height:1.75}
+.copy{font-size:15px;padding:6px 14px}
+.teamq{font-size:24px}
+.gloss{font-size:17px}
+.gloss .back{font-size:15px}
+.src{font-size:16px}
+.src li{margin-bottom:6px}
+footer{font-size:15px}
+.tag{font-size:13px}
+/* 오늘의 AI 뉴스 */
+.news-meta{font-size:15px}
+.news-region h2{font-size:27px}
+.news-region h2 small{font-size:15px}
+.news-list .t{font-size:19.5px}
+.news-list .s{font-size:17px}
+.news-list .m{font-size:14.5px}
+.news-list .orig{font-size:15px}
+.news-list .ko .kol{font-size:13.5px}
+.news-list .ko b{font-size:18px}
+.news-list .ko p{font-size:17px}
+.ntag{font-size:13px}
+.lang{font-size:12.5px}
+.datenav button,.datenav select{font-size:16px;padding:8px 14px}
+.todaylink{font-size:15px}
+/* 글자 크기 버튼 */
+.fsctl{display:flex;align-items:center;gap:6px;margin-left:auto;font-size:14.5px;color:var(--ink-2);padding:0 0 8px}
+.fsctl button{font-family:var(--sans);font-size:15px;font-weight:700;border:1px solid var(--line);background:#fff;color:var(--ink);padding:4px 11px;border-radius:4px;cursor:pointer;line-height:1.3}
+.fsctl button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+@media (max-width:560px){
+  :root{--fs:18px}
+  html.fs-l{--fs:20px}
+  html.fs-xl{--fs:22px}
+  .wrap{padding:0 18px}
+  .frame.judge{padding:16px}
+  .tbl{font-size:16px}
+  .fsctl{margin-left:0;width:100%;padding:8px 0}
+}
+.fsctl{align-self:center}
+.tabs a,.tabs a:first-child{padding:10px 0 9px;margin-right:24px}
+@media (max-width:560px){.tabs a,.tabs a:first-child{margin-right:20px}}

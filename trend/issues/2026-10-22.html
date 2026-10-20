@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Trend Search · Vol.02</title>
+<meta name="description" content="마케터를 위한 주간 AI 트렌드 — Vol.02: 고객이 쓰는 AI를 직접 써본 만큼만 고객의 의도가 보인다">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css?v=text14">
+<script>try{var f=localStorage.getItem('fs');if(f)document.documentElement.classList.add(f)}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+<nav class="tabs" aria-label="메뉴"><a href="../index.html" class="on">주간 뉴스레터</a><a href="../marketer.html">마케터 자료</a><a href="../news.html">오늘의 AI 뉴스</a><a href="../archive.html">지난 호</a><span class="fsctl" role="group" aria-label="글자 크기">글자 크기 <button type="button" data-fs="">보통</button><button type="button" data-fs="fs-l">크게</button><button type="button" data-fs="fs-xl">아주 크게</button></span></nav>
+
+<header class="mast tight">
+  <div class="top"><span>AI TREND SEARCH — 마케터를 위한 주간 AI 트렌드</span><span>Vol.02 · 2026.10.22 (목)</span></div>
+  <h1>고객은 AI로 묻는다.<br>우리는 <span>프리뷰</span>만 봤다.</h1>
+  <p class="sub">AI를 아는 정도가 사람마다 크게 갈라진 한 주. AI는 클라우드의 가상 컴퓨터와 내 폰의 칩 양쪽으로 퍼지고 있다. <b>고객이 쓰는 AI를 직접 써봐야 고객의 의도가 보인다.</b></p>
+  <ul class="kw" aria-label="이번 호 키워드">
+    <li class="f">AI 역량 격차</li><li>카파시</li><li class="f">VM 에이전트</li><li>샌드박스</li><li class="f">온디바이스 AI</li><li>하드와이어드 칩</li><li>에이전트 커머스</li><li>대화형 속성</li>
+  </ul>
+</header>
+
+<div class="tldr">
+  <h2>이번 호 3줄 요약</h2>
+  <ol>
+    <li><b>AI 역량 격차:</b> 카파시는 AI를 겪어본 정도가 60억 명 → 10~20억 명 → 2,000만 명 → 5,000명의 깔때기로 갈라졌다고 봤습니다. 마케팅팀 안에서도 같은 격차가 생깁니다.</li>
+    <li><b>VM 에이전트<sup class="fn"><a href="#g1" id="r1" title="AI 에이전트: 질문에 답만 하는 챗봇과 달리, 목표를 주면 스스로 단계를 나눠 앱을 쓰고 실제 작업까지 처리하는 AI.">1</a></sup>:</b> 에이전트는 따로 떼어 낸 가상 컴퓨터 안에서 몇 시간씩 일합니다. 그 에이전트가 고객 대신 우리 사이트에 들어오기 시작했고, 아마존은 메타 Muse를 막았습니다.</li>
+    <li><b>칩으로 내려오는 AI:</b> 폰 칩이 300억 파라미터<sup class="fn"><a href="#g2" id="r2" title="파라미터: AI 모델이 학습하며 조정한 숫자들. 개수가 많을수록 대체로 모델이 크고 똑똑하지만 더 많은 계산이 필요하다.">2</a></sup>급 모델을 돌리고, 모델을 아예 칩에 새기는 회사를 AMD가 인수하기로 했습니다. 고객의 메일과 알림은 기기 안의 AI가 먼저 읽고 요약합니다. 실무 적용은 <a href="2026-10-22-marketer.html">마케터 자료</a> 탭에서.</li>
+  </ol>
+  <p class="jump">바로가기 <a href="#s1">01 AI 역량 격차</a><a href="#s2">02 VM 에이전트</a><a href="#s3">03 칩 AI</a><a href="#s4">04 플랫폼</a><a href="2026-10-22-marketer.html">마케터 자료 →</a> <span class="muted">· 읽는 시간 약 10분</span></p>
+</div>
+
+<section aria-labelledby="hero-essay">
+  <p class="label">EDITOR'S NOTE</p>
+  <h2 id="hero-essay">고객이 쓰는 AI를, 우리는 얼마나 써봤나</h2>
+  <p class="lede">안드레 카파시는 10월 11일 X에 "외부 세계는 프리뷰만 봤다(The external world has seen the preview)"고 썼습니다. 대부분의 사람이 보는 AI는 무료 챗봇이고, 가장 앞선 시스템을 겪어본 사람은 극소수라는 뜻입니다.</p>
+  <p>마케터도 예외가 아닙니다. 검색 대신 챗봇에 묻고, 문구 초안을 받는 데서 멈춘 사람과, 에이전트에게 몇 시간짜리 일을 맡겨본 사람은 같은 뉴스를 보고도 다른 결론을 냅니다.</p>
+  <p>그사이 고객 쪽은 먼저 움직입니다. 고객의 에이전트가 가상 컴퓨터 안에서 우리 사이트를 열고, 고객의 폰이 우리가 보낸 메일을 먼저 요약합니다. 고객의 의도는 점점 AI를 거쳐 우리에게 옵니다. 편집부가 보기에, 그 의도를 읽으려면 고객이 쓰는 AI를 직접 써보는 수밖에 없습니다.</p>
+  <p class="pull">고객이 쓰는 AI를 직접 써본 만큼만, 고객의 의도가 보인다.</p>
+  <p class="muted">※ 검증된 사실이 아니라 이번 호의 편집 관점입니다.</p>
+</section>
+
+<!-- 01 TREND -->
+<section class="framed" aria-labelledby="s1">
+  <p class="label">01 · 핵심 트렌드</p>
+  <h2 id="s1">AI를 아는 정도가 네 단계로 갈라졌다</h2>
+
+  <div class="frame"><span class="tag">변화</span><p>앤트로픽<sup class="fn"><a href="#g3" id="r3" title="앤트로픽 (Anthropic): AI 모델 Claude를 만드는 미국 AI 회사. 이 뉴스레터를 만드는 데 쓰는 AI도 이 회사의 모델이다.">3</a></sup> 연구원이자 OpenAI 공동 창업자인 안드레 카파시는 10월 11일 X 게시물에서, 사람들이 AI를 겪어본 정도가 깔때기처럼 좁아지며 그 격차가 벌어지고 있다고 썼습니다.</p></div>
+
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>단계</th><th>규모(카파시 추정)</th><th>이들이 보는 AI</th></tr></thead>
+    <tbody>
+      <tr><td>거의 써본 적 없음</td><td>약 60억 명</td><td>LLM<sup class="fn"><a href="#g4" id="r4" title="LLM (거대 언어 모델): 방대한 글을 학습해 사람처럼 글을 이해하고 쓰는 AI. ChatGPT·Claude 같은 서비스의 엔진.">4</a></sup>을 거의 접하지 않음</td></tr>
+      <tr><td>무료 버전을 가볍게</td><td>10~20억 명</td><td>'더 나은 구글 검색'이나 글쓰기 보조</td></tr>
+      <tr><td>최신 모델로 실무</td><td>약 2,000만 명</td><td>수학·소프트웨어 전문가 중심. 몇 주~몇 달 걸리던 일을 처리</td></tr>
+      <tr><td>가장 앞선 내부 시스템</td><td>약 5,000명</td><td>수천 개의 에이전트가 몇 주씩 협업해 대형 소프트웨어 프로젝트를 진행</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="muted">※ 숫자는 조사 결과가 아니라 카파시의 대략적인 추정입니다.</p>
+
+  <div class="frame"><span class="tag">근거</span><p>카파시는 AI가 가장 빨리 느는 곳으로 <b>디지털이면서 결과를 검증할 수 있고 경제적 가치가 큰 영역</b>, 즉 코딩과 수학을 꼽았습니다. 동시에 "사람의 검토와 이해가 뒤처지기 시작했다"고 경고했습니다. 같은 주에 실제 예가 있었습니다. OpenAI는 10월 6일 공개 전 모델로 쓴 수학 원고 722편을 깃허브<sup class="fn"><a href="#g5" id="r5" title="깃허브: 개발자들이 코드를 올리고 공유하는 세계 최대 사이트.">5</a></sup>에 올렸는데, 이튿날 부호 오류 하나 때문에 원고 3편을 철회했습니다. AI가 결과를 내는 속도와 사람이 확인하는 속도의 차이가 그대로 드러났습니다.</p></div>
+
+  <div class="frame"><span class="tag">마케팅 영향</span><p>격차는 팀 안에도 있습니다. Supermetrics가 3월 공개한 조사(미국·영국·독일·호주·싱가포르의 브랜드·에이전시 마케터 435명)에서 <b>80%가 AI 도입 압박을 느낀다고 답했지만, 업무에 AI를 완전히 도입한 비율은 6%</b>였습니다. 압박은 대부분(89%) 경영진·이사회에서 왔습니다. 고객이 에이전트로 쇼핑을 시작하는데 팀이 무료 챗봇 단계에 머물러 있으면, 고객이 무엇을 하는지 상상하기 어렵습니다.</p></div>
+  <div class="frame"><span class="tag">한계</span><p>카파시는 5월부터 앤트로픽에서 일하고 있어, '내부 시스템'에 대한 묘사는 AI 회사 안의 시각입니다. 내부 시스템의 실제 성능은 외부에서 확인되지 않았습니다. Supermetrics는 마케팅 데이터 도구 회사로, 자사 고객층과 겹치는 표본일 수 있습니다.</p></div>
+  <div class="frame judge"><span class="tag a">판단</span><p><b>이번 주에 할 일.</b> 팀원 각자가 AI를 어느 단계까지 써봤는지 확인하고, 고객이 쓰는 AI 쇼핑·검색 기능을 팀이 함께 직접 써보는 시간을 잡으세요.</p></div>
+</section>
+
+<!-- 02 AGENT -->
+<section class="framed" aria-labelledby="s2">
+  <p class="label">02 · 에이전트</p>
+  <h2 id="s2">VM에서 돌아가는 에이전트 — AI에게 컴퓨터 한 대를 내주다</h2>
+
+  <div class="frame"><span class="tag">변화</span><p>챗봇은 대화창 안에서 답만 합니다. 요즘 에이전트는 따로 떼어 낸 <b>가상 머신<sup class="fn"><a href="#g6" id="r6" title="가상 머신 (VM): 실제 컴퓨터 안에 소프트웨어로 만든 또 하나의 컴퓨터. 그 안에서 일어난 일이 바깥 컴퓨터에 번지지 않게 분리할 수 있다.">6</a></sup></b>, 즉 클라우드 속 컴퓨터 한 대를 받아 그 안에서 웹사이트를 열고, 파일을 만들고, 몇 시간씩 일합니다. 비유하면 AI에게 사무실 PC 한 대를 따로 내준 것입니다.</p></div>
+
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>비교</th><th>챗봇</th><th>VM 에이전트</th></tr></thead>
+    <tbody>
+      <tr><td>격리</td><td>대화창 안에서 글로 답함</td><td>분리된 컴퓨터에서 실제로 작업. 실수해도 내 PC나 다른 사람 작업에 번지지 않음</td></tr>
+      <tr><td>지속성</td><td>대화가 끝나면 끝</td><td>작업 상태가 남아 몇 시간씩 이어서 일함</td></tr>
+      <tr><td>권한</td><td>글만 출력</td><td>클릭·로그인·결제까지 가능. 무엇을 허용하느냐가 핵심</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="frame"><span class="tag">근거</span><p>AWS는 6월 22일 'Lambda MicroVMs'를 내놨습니다. 사용자나 AI가 만든 코드를 사용자·작업마다 따로 띄운 <b>마이크로VM<sup class="fn"><a href="#g7" id="r7" title="마이크로VM: 필요한 기능만 남겨 아주 빨리 켜고 끌 수 있게 만든 작은 가상 머신. 사용자나 작업마다 하나씩 띄워 서로 분리하는 데 쓴다.">7</a></sup></b>에서 실행하고, 상태를 유지한 채 최대 8시간까지 멈췄다 이어서 돌릴 수 있습니다. 서울 리전<sup class="fn"><a href="#g8" id="r8" title="리전: 클라우드 회사가 서버를 모아 둔 지역 단위. 예: 도쿄 리전, 서울 리전.">8</a></sup>은 없고, 도쿄를 포함한 5개 리전에서 시작했습니다. 지난 호에서 다룬 메타 Muse도 사용자마다 전용 가상 머신(Muse Secure VM) 안에서 움직입니다.</p></div>
+
+  <div class="frame"><span class="tag">마케팅 영향</span><p>이 에이전트들이 고객 대신 쇼핑몰에 들어옵니다. 아마존은 9월 21일 메타 Muse의 접속을 막았습니다. 아마존은 Muse가 사전 통보나 허락 없이 들어왔고, 에이전트라는 사실을 밝히지 않으며, 고객의 로그인 정보를 저장하고 계정 데이터를 긁어 간다고 문제를 제기했습니다. 메타는 언론의 답변 요청에 응하지 않았습니다. 우리 사이트의 방문자가 사람인지 에이전트인지, 에이전트에게 무엇까지 허용할지가 마케팅의 문제가 됐습니다.</p></div>
+  <div class="frame"><span class="tag">한계</span><p>AWS 발표는 개발자용 실행 환경이며, 발표문에 'AI 에이전트'라는 표현은 쓰지 않았습니다(용도는 AI가 만든 코드 실행, 코딩 도우미 등). 아마존의 주장은 한쪽 입장이고, 아마존은 자사 쇼핑 비서를 키우는 경쟁자이기도 합니다.</p></div>
+  <div class="frame judge"><span class="tag a">판단</span><p><b>정해 둘 일.</b> 외부 AI 에이전트가 우리 사이트·몰에 들어와 상품을 보고 결제하는 것을 허용할지, 누가 결정하는지부터 정하세요. 실무 체크리스트는 <a href="2026-10-22-marketer.html">마케터 자료</a>에 있습니다.</p></div>
+</section>
+
+<!-- 03 CHIP -->
+<section class="framed" aria-labelledby="s3">
+  <p class="label">03 · 칩</p>
+  <h2 id="s3">AI가 칩으로 내려온다 — 기기 안의 AI와 칩에 새긴 AI</h2>
+
+  <div class="frame"><span class="tag">변화</span><p>'칩에서 돌아가는 AI'에는 두 갈래가 있습니다. 하나는 폰·노트북 안에서 AI를 돌리는 <b>온디바이스 AI<sup class="fn"><a href="#g9" id="r9" title="온디바이스 AI: 인터넷 너머의 서버가 아니라 폰·노트북 같은 기기 안에서 바로 돌아가는 AI.">9</a></sup></b>이고, 다른 하나는 AI 모델 하나를 아예 칩 회로에 새겨 넣는 <b>하드와이어드 칩</b>입니다. 둘 다 클라우드를 대체하기보다, 클라우드와 일을 나눠 맡는 쪽으로 가고 있습니다.</p></div>
+
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>갈래</th><th>최근 소식</th><th>의미</th></tr></thead>
+    <tbody>
+      <tr><td>온디바이스 AI</td><td>퀄컴이 9월 공개한 스냅드래곤 8 엘리트 Gen 6의 NPU<sup class="fn"><a href="#g10" id="r10" title="NPU: AI 계산을 빠르고 전기를 적게 쓰며 처리하도록 만든 전용 칩(또는 칩 속 영역). 최신 폰·노트북에 들어간다.">10</a></sup>는 MoE<sup class="fn"><a href="#g11" id="r11" title="MoE (전문가 혼합): 모델을 여러 &#x27;전문가&#x27; 부분으로 나눠, 질문마다 일부만 골라 쓰는 구조. 전체 크기는 커도 한 번에 쓰는 계산은 적다.">11</a></sup> 구조로 최대 300억 파라미터 모델을 기기 안에서 돌릴 수 있다고 밝힘</td><td>인터넷 연결 없이, 데이터를 밖으로 보내지 않고 폰이 직접 처리하는 일이 늘어남</td></tr>
+      <tr><td>하드와이어드 칩</td><td>캐나다 스타트업 Taalas가 2월 Llama 3.1 8B 모델을 통째로 새긴 칩 HC1을 공개. 초당 약 1.7만 토큰<sup class="fn"><a href="#g12" id="r12" title="토큰: AI가 글을 처리하는 단위(대략 단어 조각). 초당 처리 토큰 수는 AI가 답을 쓰는 속도를 뜻한다.">12</a></sup>을 처리한다고 주장. 다음 칩 HC2는 약 200억 파라미터 모델이 목표</td><td>정해진 모델 하나만 돌리는 대신 빠르고 전기를 덜 씀</td></tr>
+      <tr><td>업계 움직임</td><td>AMD가 8월 6일 Taalas 인수를 발표(금액 비공개, 규제 승인 후 완료). GPU<sup class="fn"><a href="#g13" id="r13" title="GPU: 원래 그래픽 처리용 칩. 계산을 한꺼번에 많이 하는 데 강해 지금은 AI 학습·실행의 주력 칩이다.">13</a></sup>가 질문(프롬프트)을 읽고 Taalas 칩이 답을 만들어 내는 분업을 구상</td><td>'GPU 대 전용 칩'이 아니라 둘을 섞는 하이브리드</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="frame"><span class="tag">마케팅 영향</span><p>기기 안의 AI는 이미 고객과 우리 사이에 서 있습니다. iOS 26의 메일 앱은 Apple Intelligence가 만든 요약을 기본으로 보여주고, 고객은 메일을 열지 않고 요약만 읽을 수 있습니다. 링크 추적 보호<sup class="fn"><a href="#g14" id="r14" title="링크 추적 보호: 애플 기기가 링크 주소에 붙은 추적용 꼬리표를 지워, 누가 어디서 클릭했는지 알아내기 어렵게 하는 기능.">14</a></sup>는 Safari·메일·메시지에서 URL의 추적 파라미터를 지웁니다. 우리가 쓴 미리보기 문구 대신 AI의 요약이 보이고, 클릭 기반 성과 측정도 어려워집니다. 메일 첫 문단에 고객이 알아야 할 핵심을 분명하게 쓰는 것이 더 중요해졌습니다.</p></div>
+  <div class="frame"><span class="tag">한계</span><p>Taalas의 속도·전력 수치는 모두 회사 주장이며 독립 검증되지 않았습니다. 하드와이어드 칩은 모델을 바꿀 수 없어, 새 모델이 나오면 칩을 새로 만들어야 합니다. 퀄컴의 300억 파라미터는 한 번에 일부만 쓰는 MoE 구조 기준이고, 실제 속도는 기기마다 다릅니다.</p></div>
+  <div class="frame judge"><span class="tag a">판단</span><p><b>점검할 일.</b> 최근 보낸 프로모션 메일을 아이폰 메일 앱에서 열어 AI 요약이 무엇이라고 말하는지 확인하고, 오픈율 대신 클릭·구매·답장 같은 지표로 성과를 보고 있는지 점검하세요.</p></div>
+</section>
+
+<!-- 04 PLATFORM -->
+<section aria-labelledby="s4">
+  <p class="label">04 · 플랫폼 업데이트</p>
+  <h2 id="s4">이번 주 확인할 운영 변경</h2>
+  <div class="alert">
+    <p class="h">플랫폼 업데이트 알림</p>
+    <ul>
+      <li><b>구글 Merchant Center<sup class="fn"><a href="#g15" id="r15" title="구글 Merchant Center: 쇼핑몰·브랜드가 구글 검색·쇼핑·광고에 상품 정보(상품 피드)를 올리고 관리하는 구글의 도구.">15</a></sup>:</b> AI가 상품을 이해하도록 돕는 '대화형 속성' 6종(질문과 답변, 설명서 링크, 연관 상품, 상품 그룹 제목, 변형 옵션, 인기 순위)의 서식 안내와 템플릿이 9월에 보강됐습니다. 선택 사항이며 기존 상품 승인 상태에는 영향이 없습니다. 활용법은 <a href="2026-10-22-marketer.html">마케터 자료</a> 참고.</li>
+      <li><b>iOS 26 메일·메시지:</b> AI 요약이 기본값이고, 링크 추적 보호가 URL 추적 파라미터를 지웁니다. 광고 클릭 식별자 등 링크 파라미터에 의존하는 성과 집계가 있다면 누락 여부를 확인하세요.</li>
+      <li><b>아마존:</b> 9월 21일부터 메타 Muse 등 허가받지 않은 AI 에이전트의 쇼핑을 차단하고 있습니다. 에이전트 경유 판매를 계획한다면 채널별 정책을 먼저 확인하세요.</li>
+    </ul>
+  </div>
+</section>
+
+<div class="cta">
+  <p class="h">마케터 자료 · Vol.02</p>
+  <p>이번 호 주제를 실무에 옮기는 키트 — <b>리테일러 5곳의 AI 에이전트 대응 사례 · 에이전트 대응 체크리스트 · 30분 실습(고객 문의로 Merchant Center 대화형 속성 초안 만들기)</b>.</p>
+  <a href="2026-10-22-marketer.html">마케터 자료 보기 →</a>
+</div>
+
+<!-- GLOSSARY -->
+<section aria-labelledby="sg">
+  <p class="label">GLOSSARY</p>
+  <h2 id="sg" style="font-size:22px">용어 풀이</h2>
+  <ol class="gloss">
+    <li id="g1"><b>AI 에이전트</b> 질문에 답만 하는 챗봇과 달리, 목표를 주면 스스로 단계를 나눠 앱을 쓰고 실제 작업까지 처리하는 AI. <a href="#r1" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g2"><b>파라미터</b> AI 모델이 학습하며 조정한 숫자들. 개수가 많을수록 대체로 모델이 크고 똑똑하지만 더 많은 계산이 필요하다. <a href="#r2" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g3"><b>앤트로픽 (Anthropic)</b> AI 모델 Claude를 만드는 미국 AI 회사. 이 뉴스레터를 만드는 데 쓰는 AI도 이 회사의 모델이다. <a href="#r3" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g4"><b>LLM (거대 언어 모델)</b> 방대한 글을 학습해 사람처럼 글을 이해하고 쓰는 AI. ChatGPT·Claude 같은 서비스의 엔진. <a href="#r4" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g5"><b>깃허브</b> 개발자들이 코드를 올리고 공유하는 세계 최대 사이트. <a href="#r5" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g6"><b>가상 머신 (VM)</b> 실제 컴퓨터 안에 소프트웨어로 만든 또 하나의 컴퓨터. 그 안에서 일어난 일이 바깥 컴퓨터에 번지지 않게 분리할 수 있다. <a href="#r6" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g7"><b>마이크로VM</b> 필요한 기능만 남겨 아주 빨리 켜고 끌 수 있게 만든 작은 가상 머신. 사용자나 작업마다 하나씩 띄워 서로 분리하는 데 쓴다. <a href="#r7" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g8"><b>리전</b> 클라우드 회사가 서버를 모아 둔 지역 단위. 예: 도쿄 리전, 서울 리전. <a href="#r8" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g9"><b>온디바이스 AI</b> 인터넷 너머의 서버가 아니라 폰·노트북 같은 기기 안에서 바로 돌아가는 AI. <a href="#r9" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g10"><b>NPU</b> AI 계산을 빠르고 전기를 적게 쓰며 처리하도록 만든 전용 칩(또는 칩 속 영역). 최신 폰·노트북에 들어간다. <a href="#r10" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g11"><b>MoE (전문가 혼합)</b> 모델을 여러 &#x27;전문가&#x27; 부분으로 나눠, 질문마다 일부만 골라 쓰는 구조. 전체 크기는 커도 한 번에 쓰는 계산은 적다. <a href="#r11" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g12"><b>토큰</b> AI가 글을 처리하는 단위(대략 단어 조각). 초당 처리 토큰 수는 AI가 답을 쓰는 속도를 뜻한다. <a href="#r12" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g13"><b>GPU</b> 원래 그래픽 처리용 칩. 계산을 한꺼번에 많이 하는 데 강해 지금은 AI 학습·실행의 주력 칩이다. <a href="#r13" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g14"><b>링크 추적 보호</b> 애플 기기가 링크 주소에 붙은 추적용 꼬리표를 지워, 누가 어디서 클릭했는지 알아내기 어렵게 하는 기능. <a href="#r14" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g15"><b>구글 Merchant Center</b> 쇼핑몰·브랜드가 구글 검색·쇼핑·광고에 상품 정보(상품 피드)를 올리고 관리하는 구글의 도구. <a href="#r15" class="back" aria-label="본문으로">↩</a></li>
+  </ol>
+</section>
+
+<!-- SOURCES -->
+<section aria-labelledby="s9" style="border-bottom:0">
+  <p class="label">SOURCES</p>
+  <h2 id="s9" style="font-size:22px">출처</h2>
+  <ol class="src">
+    <li><a href="https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/">Anthropic's Andrej Karpathy says "the external world has seen the preview" — The Decoder (10/12)</a></li>
+    <li><a href="https://www.benzinga.com/markets/tech/26/10/62292803/andrej-karpathy-warns-ai-capability-gap-is-widening-as-advanced-agents-tackle-massive-projects">Andrej Karpathy warns AI capability gap is widening — Benzinga (10/12)</a></li>
+    <li><a href="https://axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude">OpenAI co-founder Andrej Karpathy joins Anthropic — Axios (5/19)</a></li>
+    <li><a href="https://aiweekly.co/alerts/openai-uploads-722-ai-math-preprints-three-pulled-next-day">OpenAI uploads 722 AI math preprints; three pulled next day — AI Weekly (10/15)</a></li>
+    <li><a href="https://supermetrics.com/blog/marketing-data-report-2026">2026 Marketing Data Report — Supermetrics (3/6)</a></li>
+    <li><a href="https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms">AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code — AWS (6/22)</a></li>
+    <li><a href="https://about.fb.com/news/2026/09/introducing-muse">Introducing Muse — Meta (9/8)</a></li>
+    <li><a href="https://www.adweek.com/commerce/amazon-locks-out-metas-muse-in-agentic-shopping-standoff/">Amazon locks out Meta's Muse in agentic shopping standoff — Adweek (9/21)</a></li>
+    <li><a href="https://www.thestar.com.my/tech/tech-news/2026/09/22/amazon-blocks-metas-muse-ai-agent-from-its-retail-site">Amazon blocks Meta's Muse AI agent from its retail site — The Star (9/22)</a></li>
+    <li><a href="https://androidauthority.com/snapdragon-qualcomm-snapdragon-8-elite-gen-6-npu-3709726">Snapdragon 8 Elite Gen 6 NPU — Android Authority (9/10)</a></li>
+    <li><a href="https://www.vktr.com/ai-news/taalas-debuts-hard-wired-llama-chip-promising-10x-faster-ai-at-a-fraction-of-the-cost/">Taalas debuts hard-wired Llama chip — VKTR (2/23)</a></li>
+    <li><a href="https://siliconangle.com/?p=808891">AMD to acquire Taalas — SiliconANGLE (8/6)</a></li>
+    <li><a href="https://aiweekly.co/alerts/amd-acquires-taalas-startup-etching-ai-weights-into-silicon">AMD acquires Taalas, startup etching AI weights into silicon — AI Weekly (8/6)</a></li>
+    <li><a href="https://www.salesforce.com/blog/ios-android-marketing-updates/">New Rules of Engagement: A Marketer's Guide to iOS 26 and Android 16 Changes — Salesforce</a></li>
+    <li><a href="https://support.google.com/merchants/answer/17085370?hl=en">How to use conversational attributes — Google Merchant Center Help</a></li>
+    <li><a href="https://ppcnewsfeed.com/ppc-news/2026-09/merchant-center-expands-conversational-attribute-specs/">Merchant Center expands conversational attribute specs — PPC News Feed (9/16)</a></li>
+  </ol>
+</section>
+
+<footer>
+  <p>AI Trend Search는 <a href="../keywords.json">키워드 목록</a>을 기준으로 매주 목요일 자동 조사·발행됩니다. · <a href="../archive.html">지난 호 보기</a></p>
+  <p>보도 내용을 요약한 것이며, 수치는 각 출처의 보도·자체 주장 기준입니다.</p>
+</footer>
+
+</div>
+<script>(function(){var h=document.documentElement,bs=document.querySelectorAll('.fsctl button');function set(v){h.classList.remove('fs-l','fs-xl');if(v)h.classList.add(v);bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.fs===v?'true':'false')});try{v?localStorage.setItem('fs',v):localStorage.removeItem('fs')}catch(e){}}var cur='';try{cur=localStorage.getItem('fs')||''}catch(e){}set(cur);bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.fs)})})})();</script>
+</body>
+</html>

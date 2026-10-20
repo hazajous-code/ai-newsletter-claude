@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Trend Search · Vol.02 마케터 자료</title>
+<meta name="description" content="Vol.02 마케터 자료 — AI 에이전트 대응 사례·체크리스트·대화형 속성 실습">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css?v=text14">
+<script>try{var f=localStorage.getItem('fs');if(f)document.documentElement.classList.add(f)}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+<nav class="tabs" aria-label="메뉴"><a href="../index.html">주간 뉴스레터</a><a href="../marketer.html" class="on">마케터 자료</a><a href="../news.html">오늘의 AI 뉴스</a><a href="../archive.html">지난 호</a><span class="fsctl" role="group" aria-label="글자 크기">글자 크기 <button type="button" data-fs="">보통</button><button type="button" data-fs="fs-l">크게</button><button type="button" data-fs="fs-xl">아주 크게</button></span></nav>
+
+<header class="mast tight">
+  <div class="top"><span>AI TREND SEARCH — 마케터 자료</span><span>Vol.02 · 2026.10.22 (목)</span></div>
+  <h1 style="font-size:clamp(30px,6vw,46px)">AI 에이전트가 <span>고객 대신</span> 사러 온다</h1>
+  <p class="sub">이번 호 <a href="2026-10-22.html">주간 뉴스레터</a>의 주제를 업무로 옮기는 자료입니다. 리테일러들이 AI 에이전트<sup class="fn"><a href="#g1" id="r1" title="AI 에이전트: 질문에 답만 하는 챗봇과 달리, 목표를 주면 스스로 단계를 나눠 앱을 쓰고 실제 작업까지 처리하는 AI.">1</a></sup>를 어떻게 대하는지 보고, 체크리스트로 우리 상황을 판단한 뒤, 30분 실습으로 상품 피드<sup class="fn"><a href="#g2" id="r2" title="상품 피드: 상품 정보를 정해진 항목(제목·가격·재고 등)에 맞춰 정리해 쇼핑 채널에 보내는 데이터 파일.">2</a></sup>에 바로 넣을 초안을 만듭니다.</p>
+</header>
+
+<div class="tldr">
+  <h2>이번 주 키트</h2>
+  <ol>
+    <li><b>적용 사례:</b> 미국 리테일러들은 AI 에이전트에게 문을 여는 정도가 제각각입니다. 아마존은 막고, QVC는 열고, 월마트는 넘겨받습니다. 월마트는 ChatGPT 안 결제가 자사 사이트로 넘어오는 경우보다 전환율<sup class="fn"><a href="#g3" id="r3" title="전환율: 방문하거나 시도한 사람 중 실제로 구매까지 한 사람의 비율.">3</a></sup>이 약 3분의 1에 그쳤다고 밝혔습니다.</li>
+    <li><b>적용 판단:</b> 에이전트는 상품 피드와 상세 정보를 읽고 고릅니다. 구글 Merchant Center<sup class="fn"><a href="#g4" id="r4" title="구글 Merchant Center: 쇼핑몰·브랜드가 구글 검색·쇼핑·광고에 상품 정보(상품 피드)를 올리고 관리하는 구글의 도구.">4</a></sup>의 '대화형 속성'은 고객 질문에 대한 답을 피드에 직접 넣는 방법입니다.</li>
+    <li><b>이번 주 결과물:</b> 실제 고객 문의로 만든 '질문과 답변' 속성 초안 5쌍과, 보조 데이터 소스<sup class="fn"><a href="#g5" id="r5" title="보조 데이터 소스: Merchant Center에서 기존 상품 피드는 그대로 두고, 추가 항목만 따로 올려 덧붙이는 방법.">5</a></sup>에 넣을 표 1장.</li>
+  </ol>
+  <p class="jump">바로가기 <a href="#m1">01 적용 사례</a><a href="#m2">02 체크리스트</a><a href="#m3">03 TRY THIS</a> <span class="muted">· 실습 포함 약 40분</span></p>
+</div>
+
+<!-- 01 CASE -->
+<section aria-labelledby="m1">
+  <p class="label">01 · 적용 사례</p>
+  <h2 id="m1">리테일러들은 AI 에이전트에게 문을 얼마나 열까</h2>
+  <p class="badges"><span class="badge real">실제 사례</span><span class="badge">2026년 공개</span><span class="badge vendor">수치: 기업 발표·언론 보도 기준 · 독립 검증 아님</span></p>
+  <p class="lede">고객이 AI 에이전트에게 "이 조건에 맞는 걸 찾아서 사줘"라고 맡기기 시작하면서, 리테일러는 그 에이전트를 들일지, 어디까지 맡길지 정해야 했습니다. 10월 초 기준 미국 주요 리테일러의 선택은 크게 갈렸습니다.</p>
+
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>대응 방식</th><th>기업</th><th>내용과 이유</th></tr></thead>
+    <tbody>
+      <tr><td>막는다</td><td>아마존</td><td>9월 21일 메타 Muse 차단. 사전 통보·허락이 없었고, 에이전트임을 밝히지 않으며, 고객 로그인 정보를 다룬다는 이유. 자사 쇼핑 비서는 따로 키우는 중</td></tr>
+      <tr><td>연다</td><td>QVC·HSN</td><td>에이전트가 구매까지 완료하도록 허용. 상품 카탈로그<sup class="fn"><a href="#g6" id="r6" title="상품 카탈로그: 판매하는 상품의 이름·가격·재고·사양 등을 정리한 목록 데이터.">6</a></sup>를 OpenAI·구글에 제공</td></tr>
+      <tr><td>넘겨받는다</td><td>월마트</td><td>제미나이가 월마트 상품을 보여주고, 고객이 고르면 월마트의 쇼핑 비서 Sparky가 장바구니를 넘겨받음. 이후 과정은 월마트가 관리</td></tr>
+      <tr><td>조건부로 연다</td><td>태피스트리(코치·케이트 스페이드)</td><td>구글 AI 모드<sup class="fn"><a href="#g7" id="r7" title="구글 AI 모드: 구글 검색 안에서 AI와 대화하듯 묻고 답을 받는 검색 화면.">7</a></sup>·제미나이에서 구매 허용하되 주문마다 고객의 명시적 승인 필요. 자사 사이트에서는 에이전트 결제 불가. 사기·재고 사재기를 이유로 듦</td></tr>
+      <tr><td>열지 않는다</td><td>콜스</td><td>에이전트 채널에서 구매를 받지 않음</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="muted">※ PYMNTS(10/5) 보도 정리 기준. 각 기업의 정책은 바뀔 수 있습니다.</p>
+
+  <h3>월마트가 '채팅 안 결제'에서 물러난 이유</h3>
+  <div class="tblwrap">
+  <table class="tbl case">
+    <tbody>
+      <tr><th>무엇을 했나</th><td>2025년 11월부터 상품 약 20만 개를 OpenAI의 ChatGPT 안 결제(Instant Checkout)로 판매</td></tr>
+      <tr><th>결과</th><td>ChatGPT 안에서 끝낸 구매의 전환율이 월마트 사이트로 넘어가 구매한 경우의 <b>약 3분의 1</b>(2026년 3월, 월마트 제품·디자인 총괄 대니얼 댕커 발언, WIRED 보도 인용)</td></tr>
+      <tr><th>바꾼 방식</th><td>ChatGPT 안에 월마트의 Sparky를 넣고, 고객이 월마트에 로그인해 장바구니를 연동한 뒤 월마트 시스템에서 결제. 제미나이에도 같은 방식 적용</td></tr>
+      <tr><th>측정 조건</th><td>절대 전환율과 비교 방법은 공개되지 않음. OpenAI도 이후 채팅 안 결제를 줄이고 판매자가 결제를 맡는 앱 방식으로 옮기는 중</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h3>그래도 에이전트 경유 유입은 늘고 있다</h3>
+  <p>쇼피파이는 8월 2분기 실적 발표에서 AI를 거쳐 입점 매장에 들어온 트래픽과 주문이 전년 대비 3배가 됐다고 밝혔습니다. AI 채널 주문 중 신규 고객 비율은 다른 채널의 약 2배였고, AI 경유 구매의 75%가 상위 100개 카테고리 밖에서 나왔습니다. 다만 경영진도 전체 거래액에서 차지하는 비중은 아직 작다고 했습니다.</p>
+  <p>정리하면, <b>에이전트가 상품을 찾아 주는 단계는 늘고 있고, 결제를 어디서 끝낼지는 아직 정해지지 않았습니다.</b> 어느 쪽이든 에이전트가 먼저 읽는 것은 상품 피드와 상세 정보입니다.</p>
+
+  <h3>우리에게 적용한다면 — 대화형 속성</h3>
+  <p>구글은 5월 Google Marketing Live에서 Merchant Center의 '대화형 속성'을 발표했습니다. AI 모드 같은 AI 검색 화면에서 AI와 에이전트가 상품을 더 정확히 이해하도록 돕는 <b>선택 속성</b>이고, 넣어도 기존 상품의 승인 상태에는 영향이 없습니다. 이미 상품 설명에 있는 내용은 반복하지 않아도 됩니다.</p>
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>속성</th><th>무엇을 넣나</th><th>예시 (가상 · 드럼 세탁기)</th></tr></thead>
+    <tbody>
+      <tr><td>질문과 답변<br><span class="muted">question_and_answer</span></td><td>고객이 자주 묻는 질문과 답</td><td>"빌트인 설치가 되나요?":"폭 ○○cm 공간에 설치할 수 있습니다."</td></tr>
+      <tr><td>설명서 링크<br><span class="muted">document_link</span></td><td>사용 설명서 등 PDF 주소</td><td>제품 설명서 PDF 링크</td></tr>
+      <tr><td>연관 상품<br><span class="muted">related_product</span></td><td>액세서리·부품·함께 사는 상품</td><td>accessory:gtin:○○○ (받침대)</td></tr>
+      <tr><td>상품 그룹 제목<br><span class="muted">item_group_title</span></td><td>색상·용량이 다른 모델을 묶는 이름</td><td>○○ 드럼 세탁기 시리즈</td></tr>
+      <tr><td>변형 옵션<br><span class="muted">variant_option</span></td><td>모델끼리 다른 점</td><td>capacity:○○kg, color:white</td></tr>
+      <tr><td>인기 순위<br><span class="muted">popularity_rank</span></td><td>우리 상품 중 판매 순위(백분위)</td><td>95.5</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="muted">※ ○○는 실제 제품 사양으로 채우는 자리입니다. 서식은 구글 Merchant Center 고객센터 기준이며, 보조 데이터 소스로 넣는 방법이 권장됩니다.</p>
+
+  <div class="roles">
+    <p><b>실무자에게</b> 고객 문의에서 자주 나오는 질문을 '질문과 답변' 속성으로 옮기면, 상세페이지를 고치지 않고도 AI가 읽는 정보를 늘릴 수 있습니다(03 TRY THIS).</p>
+    <p><b>광고주에게</b> 에이전트 대응을 판단하려면 ① 주요 판매 채널의 에이전트 정책 ② 결제를 어디서 끝낼지(채널 안 / 자사 사이트) ③ 상품 피드에 고객 질문의 답이 들어 있는지를 먼저 확인하세요.</p>
+  </div>
+</section>
+
+<!-- 02 CHECKLIST -->
+<section aria-labelledby="m2">
+  <p class="label">02 · 체크리스트</p>
+  <h2 id="m2">AI 에이전트가 우리 상품을 읽고 살 수 있나</h2>
+  <p>주제: 고객 대신 움직이는 AI 에이전트에게 무엇을 허용하고, 무엇을 읽게 할지 정하기. 각 항목의 <b>완료 기준</b>을 채울 수 있는지 확인하세요.</p>
+  <div class="tblwrap">
+  <table class="tbl">
+    <thead><tr><th>확인할 것</th><th>완료 기준</th><th>권장 담당</th></tr></thead>
+    <tbody>
+      <tr><td>에이전트 정책</td><td>자사몰에 외부 AI 에이전트의 탐색·결제를 허용할지, 누가 결정하는지 문서로 정함</td><td>이커머스 책임자·보안</td></tr>
+      <tr><td>채널별 현황</td><td>판매 중인 채널(오픈마켓·리테일러·구글 쇼핑 등)의 에이전트 정책과 결제 방식을 표로 정리</td><td>커머스·영업</td></tr>
+      <tr><td>기본 피드 품질</td><td>가격·재고·배송비가 실제 판매 화면과 일치하고, 갱신 주기가 정해져 있음</td><td>피드 담당자</td></tr>
+      <tr><td>고객 질문의 답</td><td>대표 상품마다 고객 문의 기반 질문 5개의 답이 상세 설명 또는 '질문과 답변' 속성에 있음</td><td>콘텐츠·CS</td></tr>
+      <tr><td>근거 자료</td><td>설명서·사양서 PDF 링크가 살아 있고, 피드·상세의 모든 수치가 공식 사양과 일치</td><td>브랜드 담당자</td></tr>
+      <tr><td>정책 정보</td><td>배송·반품·설치 조건이 사람이 아니라 AI가 읽어도 오해 없도록 명확한 문장으로 공개돼 있음</td><td>CS·법무</td></tr>
+      <tr><td>측정</td><td>AI 검색·에이전트를 거친 유입과 주문을 다른 채널과 구분해 볼 방법과 담당을 정함</td><td>퍼포먼스·분석</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="verdict">
+    <span><b>시작 가능</b>7개 모두 완료</span>
+    <span><b>준비 후 진행</b>정책·피드 품질 중 미완료 → 담당자와 다음 행동 기록</span>
+    <span><b>이번에는 보류</b>판매 채널에 AI 쇼핑 기능이 없고 피드 운영도 하지 않음</span>
+  </div>
+</section>
+
+<!-- 03 TRY THIS -->
+<section aria-labelledby="m3">
+  <p class="label">03 · TRY THIS</p>
+  <h2 id="m3">30분 실습: 고객 문의로 '질문과 답변' 속성 초안 만들기</h2>
+  <dl class="spec">
+    <dt>목표</dt><dd>실제 고객 문의에서 자주 나오는 질문을 골라, Merchant Center '질문과 답변' 속성 서식에 맞춘 초안을 만든다</dd>
+    <dt>준비물</dt><dd>대표 상품 1개의 공식 사양서·현재 상세 설명, 개인정보를 뺀 고객 문의·후기 20~30건, 생성형 AI 대화 도구</dd>
+    <dt>시간 / 난이도</dt><dd>약 30분 · 초급</dd>
+    <dt>결과물</dt><dd>질문과 답변 5쌍(서식 적용) + 사양서로 답할 수 없는 '확인 필요' 질문 목록</dd>
+  </dl>
+  <ol class="steps">
+    <li><b>5분</b> 고객 문의·후기를 붙여 넣고, 아래 프롬프트로 자주 나오는 질문을 뽑는다</li>
+    <li><b>10분</b> 공식 사양서로 답할 수 있는 질문 5개를 골라 답변 초안을 만든다</li>
+    <li><b>10분</b> 답변의 모든 수치·조건을 사양서와 대조하고, 상세 설명에 이미 있는 내용은 뺀다</li>
+    <li><b>5분</b> 서식에 맞춰 정리하고, 피드 담당자에게 보조 데이터 소스 반영을 요청한다</li>
+  </ol>
+  <pre class="prompt" id="prompt1">목표: 고객 문의를 바탕으로 구글 Merchant Center '질문과 답변(question_and_answer)' 속성 초안을 만든다.
+
+입력:
+- 상품명·모델명: [입력]
+- 공식 사양서(확인된 사실): [입력]
+- 현재 상세 설명: [입력]
+- 고객 문의·후기(개인정보 삭제, 번호 포함): [입력]
+
+작업:
+1. 고객 문의에서 자주 나오는 질문을 빈도순으로 10개 뽑고, 각 질문의 근거가 된 문의 번호를 적어줘.
+2. 그중 공식 사양서만으로 답할 수 있는 질문 5개를 골라 답변을 써줘.
+3. 현재 상세 설명에 이미 답이 있는 질문은 '중복'으로 표시해줘.
+
+출력:
+- 표: 질문 | 근거 문의 번호 | 사양서로 답할 수 있는지 | 상세 설명과 중복 여부 | 답변 초안
+- 마지막 줄: 고른 5쌍을 "질문":"답변" 형식으로 쉼표로 이어 한 줄로 정리
+
+규칙:
+1. 공식 사양서에 없는 수치·효능·인증·호환 정보는 만들지 말고 '확인 필요'로 표시해.
+2. 질문은 고객이 실제로 쓴 표현을 살려.
+3. 답변은 짧고 사실만 쓰고, 과장 표현(최고, 완벽 등)은 쓰지 마.
+4. 확인된 사실과 네 추론을 구분해서 표시해.</pre>
+  <button class="copy" type="button" onclick="(function(b){try{navigator.clipboard.writeText(document.getElementById('prompt1').innerText);b.textContent='복사됨';setTimeout(function(){b.textContent='프롬프트 복사'},1500)}catch(e){}})(this)">프롬프트 복사</button>
+
+  <div class="action"><p class="h">완료 기준</p><p>질문 5쌍이 모두 실제 문의 번호와 연결되고, 답변의 모든 수치가 공식 사양서와 일치하며, 상세 설명과 겹치지 않는다.</p></div>
+  <div class="roles">
+    <p><b>실무자 결과물</b> 서식을 맞춘 '질문과 답변' 5쌍과 '확인 필요' 질문 목록</p>
+    <p><b>광고주 결과물</b> "고객이 실제로 묻는 질문 중 지금 상품 정보가 답하지 못하는 것"을 보여주는 1장 리포트</p>
+  </div>
+  <div class="frame judge"><span class="tag">다음 단계</span><p>보조 데이터 소스로 반영한 뒤, 같은 질문을 구글 AI 모드 등 AI 검색에 넣어 답변과 노출 변화를 2~4주 간격으로 기록하세요. '확인 필요' 질문은 상품 담당자에게 넘겨 사양서를 보완하는 근거로 씁니다.</p></div>
+
+  <h3 style="margin-top:36px">오늘 팀에 던질 질문</h3>
+  <p class="teamq">"고객의 AI 에이전트가 우리 몰에 들어온다면, 들여보낼까요? 들여보낸다면 무엇을 읽고 가게 할까요?"</p>
+  <p class="muted" style="margin-top:12px">※ 드럼 세탁기 예시와 실습 질문은 가상 예시입니다. 사례의 수치는 기업 발표와 언론 보도 기준입니다.</p>
+</section>
+
+<!-- GLOSSARY -->
+<section aria-labelledby="sg">
+  <p class="label">GLOSSARY</p>
+  <h2 id="sg" style="font-size:22px">용어 풀이</h2>
+  <ol class="gloss">
+    <li id="g1"><b>AI 에이전트</b> 질문에 답만 하는 챗봇과 달리, 목표를 주면 스스로 단계를 나눠 앱을 쓰고 실제 작업까지 처리하는 AI. <a href="#r1" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g2"><b>상품 피드</b> 상품 정보를 정해진 항목(제목·가격·재고 등)에 맞춰 정리해 쇼핑 채널에 보내는 데이터 파일. <a href="#r2" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g3"><b>전환율</b> 방문하거나 시도한 사람 중 실제로 구매까지 한 사람의 비율. <a href="#r3" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g4"><b>구글 Merchant Center</b> 쇼핑몰·브랜드가 구글 검색·쇼핑·광고에 상품 정보(상품 피드)를 올리고 관리하는 구글의 도구. <a href="#r4" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g5"><b>보조 데이터 소스</b> Merchant Center에서 기존 상품 피드는 그대로 두고, 추가 항목만 따로 올려 덧붙이는 방법. <a href="#r5" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g6"><b>상품 카탈로그</b> 판매하는 상품의 이름·가격·재고·사양 등을 정리한 목록 데이터. <a href="#r6" class="back" aria-label="본문으로">↩</a></li>
+    <li id="g7"><b>구글 AI 모드</b> 구글 검색 안에서 AI와 대화하듯 묻고 답을 받는 검색 화면. <a href="#r7" class="back" aria-label="본문으로">↩</a></li>
+  </ol>
+</section>
+
+<!-- SOURCES -->
+<section aria-labelledby="s9" style="border-bottom:0">
+  <p class="label">SOURCES</p>
+  <h2 id="s9" style="font-size:22px">출처</h2>
+  <ol class="src">
+    <li><a href="https://www.pymnts.com/news/retail/2026/ai-agents-knock-retailers-decide-how-wide-to-open-the-door/">AI Agents Knock. Retailers Decide How Wide to Open the Door — PYMNTS (10/5)</a></li>
+    <li><a href="https://www.adweek.com/commerce/amazon-locks-out-metas-muse-in-agentic-shopping-standoff/">Amazon locks out Meta's Muse in agentic shopping standoff — Adweek (9/21)</a></li>
+    <li><a href="https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071">Walmart: ChatGPT checkout converted worse than its website — Search Engine Land (3/19)</a></li>
+    <li><a href="https://martech.org/walmart-says-chatgpt-checkout-converted-3x-worse-than-its-own-website/">Walmart says ChatGPT checkout converted 3x worse than its own website — MarTech</a></li>
+    <li><a href="https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-q2-2026-210423114.html">Shopify Q2 2026 Earnings Call Highlights — Yahoo Finance (GuruFocus, 8/5)</a></li>
+    <li><a href="https://www.seroundtable.com/google-merchant-center-conversational-attributes-41370.html">Google Merchant Center Conversational Attributes — Search Engine Roundtable (5/26)</a></li>
+    <li><a href="https://support.google.com/merchants/answer/17085370?hl=en">How to use conversational attributes — Google Merchant Center Help</a></li>
+    <li><a href="https://searchengineland.com/google-expands-universal-commerce-protocol-and-launches-new-agentic-shopping-tools-478113">Google expands Universal Commerce Protocol and launches new agentic shopping tools — Search Engine Land (5/20)</a></li>
+  </ol>
+</section>
+
+<footer>
+  <p>AI Trend Search는 <a href="../keywords.json">키워드 목록</a>을 기준으로 매주 목요일 자동 조사·발행됩니다. · <a href="../archive.html">지난 호 보기</a></p>
+  <p>보도 내용을 요약한 것이며, 수치는 각 출처의 보도·자체 주장 기준입니다.</p>
+</footer>
+
+</div>
+<script>(function(){var h=document.documentElement,bs=document.querySelectorAll('.fsctl button');function set(v){h.classList.remove('fs-l','fs-xl');if(v)h.classList.add(v);bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.fs===v?'true':'false')});try{v?localStorage.setItem('fs',v):localStorage.removeItem('fs')}catch(e){}}var cur='';try{cur=localStorage.getItem('fs')||''}catch(e){}set(cur);bs.forEach(function(b){b.addEventListener('click',function(){set(b.dataset.fs)})})})();</script>
+</body>
+</html>

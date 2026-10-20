@@ -51,11 +51,14 @@ jobs:
       - name: Curate today's AI news (trend/news.html)
         run: python trend/curate_news.py
 
+      - name: Promote scheduled issue (trend/scheduled.json — 발행일 KST가 되면 메인 교체)
+        run: python trend/promote.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ trend/data/
+          git add data/ trend/data/ trend/index.html trend/marketer.html trend/archive.html trend/scheduled.json
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 생략"
           else

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T09:30+09:00",
+  "updatedAt": "2026-10-21T10:49+09:00",
   "global": [
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-20T23:01:23+00:00",
       "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "titleKo": "앤트로픽, '50명 이상 사망 위험' 있으면 모델 차단하는 AI 안전 법안 제안",
+      "summaryKo": "앤트로픽이 50명 이상이 숨질 수 있는 경우 모델을 차단할 수 있는 AI 안전 법안을 제안했다. 다만 판사 허가 없이는 연방 기관이 모델 출시를 막을 수 없도록 했다.",
+      "summaryEn": "Anthropic has proposed an AI safety bill that may block a model if 50 or more people could be killed. The policy also forbids federal agencies from blocking a model's release without a judge's permission.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-10-20T22:24:02+00:00",
       "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "titleKo": "허깅페이스 CEO \"넷플릭스 오픈AI 해킹 다큐, 사실과 달라\"",
+      "summaryKo": "넷플릭스 다큐멘터리 'AI Gone Rogue'에 출연한 허깅페이스 공동창업자 클렘 들랑그는 이 작품이 '완전한 파멸론'으로 흘렀고 정확하지 않다고 밝혔다.",
+      "summaryEn": "Hugging Face co-founder Clem Delangue, who is featured in Netflix's documentary \"AI Gone Rogue,\" says the film goes \"full doomer mode\" and isn't accurate.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -45,9 +45,9 @@
       "publishedAt": "2026-10-20T22:11:34+00:00",
       "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information ac",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,",
+      "titleKo": "더 개인화된 구글 제미나이, 자동차에 들어온다",
+      "summaryKo": "구글이 안드로이드 오토와 구글 내장 차량의 제미나이에 '퍼스널 인텔리전스'를 도입한다. 지메일·캘린더·지도·포토·유튜브·검색 정보를 활용해 운전 중 항공편 상태 등을 물어볼 수 있다.",
+      "summaryEn": "Google is bringing Personal Intelligence to Gemini in Android Auto and cars with Google built-in, letting it tap Gmail, Calendar, Maps, Photos, YouTube and Search, e.g. to check flight status while driving.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -62,9 +62,9 @@
       "publishedAt": "2026-10-20T15:07:43+00:00",
       "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "titleKo": "AI 에이전트가 인터넷 석학 메일링 리스트에 합류…'전체 답장' 소동 계속",
+      "summaryKo": "7,500명 규모의 인터넷 연구자 메일링 리스트에 AI 에이전트가 등장해 소동이 벌어졌다. 와이어드는 이 반응이 전문가들의 낡은 프라이버시 관념을 드러낸다고 지적했다.",
+      "summaryEn": "An AI agent's appearance on a 7,500-person mailing list of top internet researchers set off hysteria, which Wired says reveals that internet experts hold outdated notions of privacy.",
       "titleEn": "",
       "tags": [
         "마케팅 영향"
@@ -79,9 +79,9 @@
       "publishedAt": "2026-10-20T10:00:00+00:00",
       "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "titleKo": "프랜차이즈 점주, ChatGPT Work로 현금 정산 시간 94% 단축",
+      "summaryKo": "슐로츠키스·시나본 독립 가맹점주가 ChatGPT Work로 현금 정산 시간을 94%, 메뉴 가격 조정 시간을 95% 줄였다. 최대 10만 달러의 현금 흐름을 확보할 수 있는 워크플로도 만들었다.",
+      "summaryEn": "An independent Schlotzsky's and Cinnabon franchisee used ChatGPT Work to cut cash reconciliation time by 94% and menu repricing time by 95%, building a workflow that could free up $100K in cash flow.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "AI evaluation startup Vals AI released a new index measuring AI's scientific research ability. OpenAI's GPT-6 Astra ranked first overall, but results varied considerably by scientific field.",
+      "titleEn": "How Well Does AI Do Science? Vals AI's New Index Ranks Models Differently Than General Tasks",
       "tags": [
         "빅테크"
       ],
@@ -135,8 +135,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google added co-creation features to Slide Decks and Video Overviews in Gemini Notebook, letting users review and edit the structure before the AI generates the final presentation or video.",
+      "titleEn": "Google Revamps Gemini Notebook to Let Users Review Outlines Before Generating Slides and Videos",
       "tags": [
         "빅테크"
       ],

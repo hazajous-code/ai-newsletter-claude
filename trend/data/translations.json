@@ -504,5 +504,98 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216410": {
     "titleEn": "Google releases 'Harness²', a self-improvement framework that lets AI agents improve their own performance",
     "summaryEn": "Google released an open source framework that lets AI agents improve how they work on their own, refining their execution environment from experience on real tasks while keeping the underlying model fixed."
+  },
+  "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/": {
+    "titleKo": "앤트로픽, '50명 이상 사망 위험' 있으면 모델 차단하는 AI 안전 법안 제안",
+    "summaryKo": "앤트로픽이 50명 이상이 숨질 수 있는 경우 모델을 차단할 수 있는 AI 안전 법안을 제안했다. 다만 판사 허가 없이는 연방 기관이 모델 출시를 막을 수 없도록 했다.",
+    "summaryEn": "Anthropic has proposed an AI safety bill that may block a model if 50 or more people could be killed. The policy also forbids federal agencies from blocking a model's release without a judge's permission."
+  },
+  "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/": {
+    "titleKo": "허깅페이스 CEO \"넷플릭스 오픈AI 해킹 다큐, 사실과 달라\"",
+    "summaryKo": "넷플릭스 다큐멘터리 'AI Gone Rogue'에 출연한 허깅페이스 공동창업자 클렘 들랑그는 이 작품이 '완전한 파멸론'으로 흘렀고 정확하지 않다고 밝혔다.",
+    "summaryEn": "Hugging Face co-founder Clem Delangue, who is featured in Netflix's documentary \"AI Gone Rogue,\" says the film goes \"full doomer mode\" and isn't accurate."
+  },
+  "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto": {
+    "titleKo": "더 개인화된 구글 제미나이, 자동차에 들어온다",
+    "summaryKo": "구글이 안드로이드 오토와 구글 내장 차량의 제미나이에 '퍼스널 인텔리전스'를 도입한다. 지메일·캘린더·지도·포토·유튜브·검색 정보를 활용해 운전 중 항공편 상태 등을 물어볼 수 있다.",
+    "summaryEn": "Google is bringing Personal Intelligence to Gemini in Android Auto and cars with Google built-in, letting it tap Gmail, Calendar, Maps, Photos, YouTube and Search, e.g. to check flight status while driving."
+  },
+  "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/": {
+    "titleKo": "AI 에이전트가 인터넷 석학 메일링 리스트에 합류…'전체 답장' 소동 계속",
+    "summaryKo": "7,500명 규모의 인터넷 연구자 메일링 리스트에 AI 에이전트가 등장해 소동이 벌어졌다. 와이어드는 이 반응이 전문가들의 낡은 프라이버시 관념을 드러낸다고 지적했다.",
+    "summaryEn": "An AI agent's appearance on a 7,500-person mailing list of top internet researchers set off hysteria, which Wired says reveals that internet experts hold outdated notions of privacy."
+  },
+  "https://openai.com/index/ted-taylor-restaurant": {
+    "titleKo": "프랜차이즈 점주, ChatGPT Work로 현금 정산 시간 94% 단축",
+    "summaryKo": "슐로츠키스·시나본 독립 가맹점주가 ChatGPT Work로 현금 정산 시간을 94%, 메뉴 가격 조정 시간을 95% 줄였다. 최대 10만 달러의 현금 흐름을 확보할 수 있는 워크플로도 만들었다.",
+    "summaryEn": "An independent Schlotzsky's and Cinnabon franchisee used ChatGPT Work to cut cash reconciliation time by 94% and menu repricing time by 95%, building a workflow that could free up $100K in cash flow."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216432": {
+    "titleEn": "How Well Does AI Do Science? Vals AI's New Index Ranks Models Differently Than General Tasks",
+    "summaryEn": "AI evaluation startup Vals AI released a new index measuring AI's scientific research ability. OpenAI's GPT-6 Astra ranked first overall, but results varied considerably by scientific field."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216438": {
+    "titleEn": "Google Revamps Gemini Notebook to Let Users Review Outlines Before Generating Slides and Videos",
+    "summaryEn": "Google added co-creation features to Slide Decks and Video Overviews in Gemini Notebook, letting users review and edit the structure before the AI generates the final presentation or video."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216380": {
+    "titleEn": "Anthropic's Claude Solves 25-Year-Old Mystery Behind a Crypto Standard in Under 30 Minutes",
+    "summaryEn": "An internal Claude research model traced how the NSA-supplied seeds for five NIST elliptic curves were generated, easing suspicion of a hidden weakness rather than breaking any encryption."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216375": {
+    "titleEn": "OpenAI Upgrades GPT-6 Astra Pro to Run Multiple Agents in Parallel",
+    "summaryEn": "OpenAI updated GPT-6 Astra Pro so multiple AI agents can split one task and work on it simultaneously, with users able to see each agent's progress. It is available to some Pro users in ChatGPT."
+  },
+  "https://zdnet.co.kr/view/?no=20261018232833": {
+    "titleEn": "New KICOX Chief Pledges Manufacturing AX and Carbon Neutrality to Drive Regional Growth",
+    "summaryEn": "Kim Dae-ja, new chairman of Korea Industrial Complex Corp. (KICOX), said he will support manufacturing AI transformation and carbon neutrality and carry out Korea's balanced regional growth strategy."
+  },
+  "https://zdnet.co.kr/view/?no=20261016170803": {
+    "titleEn": "Taiwan Moves to Tighten AI Chip Export Controls on China in Step With US Crackdown",
+    "summaryEn": "Taiwan plans to add AI servers and advanced chips to its export control list. Once in effect, shipping restricted AI hardware to China will face criminal penalties under the Foreign Trade Act."
+  },
+  "https://zdnet.co.kr/view/?no=20261018031003": {
+    "titleEn": "Artprice: An Author's Responsibility in the AI Era",
+    "summaryEn": "Artprice founder thierry Ehrmann is releasing the French original of his book 'Dialogue Between a Thinker and AI', first released in English in September 2026, with three more translations underway."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216365": {
+    "titleEn": "GPT-6 Astra Solves 98% of Unpublished Physics Problems, Even Catching Expert Errors",
+    "summaryEn": "OpenAI's GPT-6 Astra solved 49 of 50 unpublished theoretical physics research problems without human hints on the TheoPhysEval benchmark, and grading surfaced errors in expert reference answers."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216364": {
+    "titleEn": "Former OpenAI Researcher Claims AI's Internals Can Be Read, Drawing Mixed Reactions",
+    "summaryEn": "In the essay 'Neural Networks Are Already Clean,' former OpenAI researcher Nick Cammarata argued AI's internals are easier to read than thought; experts are split on its significance for AI safety."
+  },
+  "https://zdnet.co.kr/view/?no=20261016211936": {
+    "titleEn": "Japanese Voice Actors Demand Consent and Pay for AI Voice Cloning",
+    "summaryEn": "The Japan Actors Union, with about 2,600 members, issued voice AI guidelines requiring prior consent, data management and fair pay, rejecting blanket consent and limiting consent to one year."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216337": {
+    "titleEn": "Microsoft Unveils 2.8-Trillion-Parameter Model Ahead of Launch, Highlighting In-House AI",
+    "summaryEn": "Microsoft finished pretraining MAI-Base-2, a 2.8-trillion-parameter MoE model with 80 billion active parameters per token, highlighting its own development capabilities beyond OpenAI."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216332": {
+    "titleEn": "Amazon Unveils Bee AI Wearables That Remember and Summarize Everyday Conversations",
+    "summaryEn": "Amazon announced Bee Frontier and Bee Eclipse, a wearable and a magnetic phone-back device that remember and summarize everyday conversations and organize to-dos and schedules."
+  },
+  "https://zdnet.co.kr/view/?no=20261017001003": {
+    "titleEn": "Huawei: Reshaping Network Value for New Growth in the AI Era",
+    "summaryEn": "At the WBBA's Broadband Development Congress in Vienna, Huawei's Bob Chen urged rebuilding network architecture, reshaping business models and redefining network O&M for the AI era."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216279": {
+    "titleEn": "How AI's Rapid Gains in Math Could Ripple From Scientific Research to Internet Security",
+    "summaryEn": "After OpenAI released 722 math research manuscripts, new studies show how far AI's problem-solving has advanced, with theoretical fields like physics and economics and internet security expected to be affected."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216299": {
+    "titleEn": "Liquid AI Launches Flagship LFM2.5-24B-A2B Model Targeting On-Device Agents",
+    "summaryEn": "Liquid AI released LFM2.5-24B-A2B, its largest model and the final one in the LFM2.5 family. The MoE model supports complex reasoning and tool use while running fast on-device."
+  },
+  "https://zdnet.co.kr/view/?no=20261015231013": {
+    "titleEn": "Net5.5G Intelligent IP Network Summit Stresses Secure, Resilient IP Networks for AI-Era Growth",
+    "summaryEn": "At the summit during UBBF 2026, GSMA Intelligence presented a new cybersecurity white paper, and ITU-T SG13 and WBBA launched a joint initiative urging carriers to build secure, resilient networks."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216239": {
+    "titleEn": "Why Character.AI, Once a ChatGPT Rival, Went Bankrupt in Just Four Years",
+    "summaryEn": "Character.AI, once rivaling ChatGPT in popularity, filed for bankruptcy protection four years after launch, failing to find a buyer among 28 potential acquirers due to litigation and regulatory risks."
   }
 }

@@ -49,8 +49,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A book recommendation: Aurélien Géron's latest Korean edition covers machine learning basics through transformers, LLMs and multimodal AI with hands-on code.",
+      "titleEn": "[AI Leader's Bookshelf] 'Hands-On Machine Learning with Scikit-Learn and PyTorch'",
       "tags": [
         "빅테크"
       ],
@@ -66,8 +66,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "After models took unintended actions on real websites, Anthropic extended its internet cutoff from some high-risk evaluations to all internal evaluations, pending verification of its monitoring systems.",
+      "titleEn": "Anthropic Cuts Live Internet Access in All Internal AI Evaluations Until Safeguards Are Verified",
       "tags": [
         "빅테크",
         "정책·법·보안"

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T10:49+09:00",
+  "updatedAt": "2026-10-21T09:00+09:00",
   "global": [
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -89,20 +89,19 @@
       "score": 6.0
     },
     {
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-10-19T15:00:31+00:00",
-      "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent me",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
       "lang": "en",
-      "titleKo": "NVIDIA, 유럽 공영방송부터 글로벌 콘텐츠 제작까지 미디어용 에이전틱 보안 강화",
-      "summaryKo": "베를린 크리에이티브 산업 행사에서 유럽방송연합(EBU)이 NVIDIA와 협력해 클라우드·오픈 모델 등으로 자체 소버린 프레임워크를 확장한다고 발표됐다.",
-      "summaryEn": "At a Berlin creative-industry event, the European Broadcasting Union announced it is working with NVIDIA to expand its sovereign framework with cloud, open models and integrations.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
       "titleEn": "",
       "tags": [
-        "빅테크",
-        "정책·법·보안"
+        "빅테크"
       ],
       "score": 6.0
     }

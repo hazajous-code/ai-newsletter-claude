@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T09:33+09:00",
+  "updatedAt": "2026-10-22T10:48+09:00",
   "global": [
     {
       "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-21T22:45:34+00:00",
       "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "titleKo": "메타, 새 주식 클래스 만들어 대규모 AI 투자 자금 마련 추진",
+      "summaryKo": "메타가 AI 모델·서비스 전반에 대한 대규모 투자 자금을 조달하기 위해 새로운 주식 전략을 계획하고 있다.",
+      "summaryEn": "Meta is planning a new stock strategy, including a newly created class of stock, to help fund its broad investments in AI models and services.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-21T13:00:00+00:00",
       "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "titleKo": "ChatGPT 광고, 26개국 추가 확대…누적 광고주 10만 곳 돌파",
+      "summaryKo": "ChatGPT 광고가 26개국으로 확대됐다. 지금까지 10만 곳 이상의 광고주가 이용했으며, 지역 업체부터 글로벌 브랜드까지 사용자가 구매를 탐색·비교·결정하는 순간에 도달할 수 있다.",
+      "summaryEn": "ChatGPT Ads has expanded to 26 more countries after over 100,000 advertisers used it, letting businesses reach people as they explore, compare and decide what to buy.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -45,9 +45,9 @@
       "publishedAt": "2026-10-21T12:00:00+00:00",
       "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "titleKo": "OpenAI 모델, 구글 클라우드에서도 쓴다",
+      "summaryKo": "OpenAI와 구글 클라우드가 프런티어 모델과 Codex 워크플로를 제미나이 Model Garden에 제공한다. 구글 클라우드 마켓플레이스를 통해 이용할 수 있다.",
+      "summaryEn": "OpenAI and Google Cloud are bringing OpenAI frontier models and Codex workflows to Gemini's Model Garden, available through Google Cloud Marketplace.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -62,9 +62,9 @@
       "publishedAt": "2026-10-21T10:50:37+00:00",
       "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports d",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Lin",
+      "titleKo": "엔비디아, GTC 베를린서 로컬 AI 하드웨어 라인업 공개…에이전트 시대 겨냥",
+      "summaryKo": "엔비디아가 GTC 베를린에서 PC용 RTX Spark, 개발자용 DGX Spark, 기업용 DGX Station 등 로컬 AI 하드웨어 전 라인업을 선보였다. DGX Station 윈도우 버전은 12월 출시된다.",
+      "summaryEn": "At GTC Berlin, NVIDIA showcased its local AI hardware: RTX Spark for agents on Windows PCs, DGX Spark for developers and DGX Station for enterprises, with a Windows DGX Station due in December.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -83,8 +83,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A book recommendation: Emmanuel Trummer's 'Just Use Postgres' shows how PostgreSQL can handle JSON, vector search and time-series workloads before teams add more databases to their stack.",
+      "titleEn": "[AI Leader's Bookshelf] 'Just Use Postgres'",
       "tags": [
         "빅테크"
       ],
@@ -100,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI introduced Locked Chats in ChatGPT, which remove sensitive conversations from regular chat history and search to prevent exposure when users share their screen or device.",
+      "titleEn": "OpenAI Adds 'Locked Chats' to ChatGPT to Hide Private Conversations",
       "tags": [
         "빅테크",
         "출시·발표"

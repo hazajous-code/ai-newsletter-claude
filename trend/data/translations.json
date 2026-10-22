@@ -597,5 +597,93 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216239": {
     "titleEn": "Why Character.AI, Once a ChatGPT Rival, Went Bankrupt in Just Four Years",
     "summaryEn": "Character.AI, once rivaling ChatGPT in popularity, filed for bankruptcy protection four years after launch, failing to find a buyer among 28 potential acquirers due to litigation and regulatory risks."
+  },
+  "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/": {
+    "titleKo": "메타, 새 주식 클래스 만들어 대규모 AI 투자 자금 마련 추진",
+    "summaryKo": "메타가 AI 모델·서비스 전반에 대한 대규모 투자 자금을 조달하기 위해 새로운 주식 전략을 계획하고 있다.",
+    "summaryEn": "Meta is planning a new stock strategy, including a newly created class of stock, to help fund its broad investments in AI models and services."
+  },
+  "https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+    "titleKo": "ChatGPT 광고, 26개국 추가 확대…누적 광고주 10만 곳 돌파",
+    "summaryKo": "ChatGPT 광고가 26개국으로 확대됐다. 지금까지 10만 곳 이상의 광고주가 이용했으며, 지역 업체부터 글로벌 브랜드까지 사용자가 구매를 탐색·비교·결정하는 순간에 도달할 수 있다.",
+    "summaryEn": "ChatGPT Ads has expanded to 26 more countries after over 100,000 advertisers used it, letting businesses reach people as they explore, compare and decide what to buy."
+  },
+  "https://openai.com/index/openai-models-google-cloud": {
+    "titleKo": "OpenAI 모델, 구글 클라우드에서도 쓴다",
+    "summaryKo": "OpenAI와 구글 클라우드가 프런티어 모델과 Codex 워크플로를 제미나이 Model Garden에 제공한다. 구글 클라우드 마켓플레이스를 통해 이용할 수 있다.",
+    "summaryEn": "OpenAI and Google Cloud are bringing OpenAI frontier models and Codex workflows to Gemini's Model Garden, available through Google Cloud Marketplace."
+  },
+  "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
+    "titleKo": "엔비디아, GTC 베를린서 로컬 AI 하드웨어 라인업 공개…에이전트 시대 겨냥",
+    "summaryKo": "엔비디아가 GTC 베를린에서 PC용 RTX Spark, 개발자용 DGX Spark, 기업용 DGX Station 등 로컬 AI 하드웨어 전 라인업을 선보였다. DGX Station 윈도우 버전은 12월 출시된다.",
+    "summaryEn": "At GTC Berlin, NVIDIA showcased its local AI hardware: RTX Spark for agents on Windows PCs, DGX Spark for developers and DGX Station for enterprises, with a Windows DGX Station due in December."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216345": {
+    "titleEn": "[AI Leader's Bookshelf] 'Just Use Postgres'",
+    "summaryEn": "A book recommendation: Emmanuel Trummer's 'Just Use Postgres' shows how PostgreSQL can handle JSON, vector search and time-series workloads before teams add more databases to their stack."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216470": {
+    "titleEn": "OpenAI Adds 'Locked Chats' to ChatGPT to Hide Private Conversations",
+    "summaryEn": "OpenAI introduced Locked Chats in ChatGPT, which remove sensitive conversations from regular chat history and search to prevent exposure when users share their screen or device."
+  },
+  "https://www.etnews.com/20261015000007": {
+    "titleEn": "Google DeepMind's Hassabis Warns of Major AI Security Incident Within Two Years, Urges Global Standards",
+    "summaryEn": "Demis Hassabis warned at an AI conference in Dublin that weak safeguards for AI agents could lead to serious security incidents within two years, calling for joint industry-government action."
+  },
+  "https://www.etnews.com/20261015000005": {
+    "titleEn": "Sued by Apple, OpenAI Considers Countersuit Over Alleged Trade Secret Leak",
+    "summaryEn": "OpenAI said in a court filing that an employee who returned to Apple after six months sent about 100 confidential files on unreleased devices to a personal account, and is weighing a countersuit."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216253": {
+    "titleEn": "Anthropic Strengthens Defenses Against Illicit Distillation, Cutting Extraction by Up to 99%",
+    "summaryEn": "Anthropic bolstered protections against illicit distillation of Claude's reasoning, saying new measures cut the reasoning data attackers collect by about 90–99% and blocking repeat-offender accounts."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216220": {
+    "titleEn": "Google Rolls Out 'Gemini 4 Argon' Commercially, Betting on Real-World Results and Product Integration",
+    "summaryEn": "Google expanded its flagship Gemini 4 Argon to developers, enterprises and paid users via AI Studio and the Gemini API, and in the Gemini app and Search AI Mode for AI Pro and Ultra subscribers."
+  },
+  "https://zdnet.co.kr/view/?no=20261014075542": {
+    "titleEn": "LG Electronics and Apple Unveil Seven Next-Gen IoT Devices to Expand AI Home Ecosystem",
+    "summaryEn": "LG and Apple unveiled seven IoT devices, including cameras, a doorbell, door lock and thermostat, that work with LG ThinQ and Apple devices, launching first in North America and the UK this year."
+  },
+  "https://www.etnews.com/20261014000003": {
+    "titleEn": "Google Expands Release of Top Model 'Gemini 4 Argon'",
+    "summaryEn": "Google widened availability of Gemini 4 Argon to developers, enterprises and paid users worldwide. The model targets complex multi-step work in coding, finance, law, cybersecurity and science."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216196": {
+    "titleEn": "OpenAI Raises GPT-6.1 Sol Context Window to 500K Tokens",
+    "summaryEn": "OpenAI increased the default context length of GPT-6.1 Sol in Codex and ChatGPT Work from 272,000 to 500,000 tokens, about 80% more, to reduce context compaction in long tasks."
+  },
+  "https://zdnet.co.kr/view/?no=20261013233710": {
+    "titleEn": "KT DS Earns ISO/IEC 42001 AI Management System Certification from Korean Standards Association",
+    "summaryEn": "The Korean Standards Association certified KT DS under ISO/IEC 42001, covering its AI solutions AICentro and BEAST and the related AI development, operations and governance processes."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216182": {
+    "titleEn": "Microsoft Unveils Next-Gen 'Maia 300' Chip, Plans Large-Scale Deployment of In-House AI Silicon",
+    "summaryEn": "Microsoft will deploy its in-house Maia AI chips at multi-gigawatt scale from next year as a main inference system, and unveiled the next-generation Maia 300 to reduce reliance on NVIDIA GPUs."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216176": {
+    "titleEn": "Meta Joins Frontier AI Race with Its Top Model 'Muse Wonder'",
+    "summaryEn": "Meta released Muse Wonder and Muse Wonder Full, models focused on remembering user context and sustaining complex tasks; the Full model is available only to its coding tool subscribers."
+  },
+  "https://www.etnews.com/20261013000117": {
+    "titleEn": "10 APEC Economies Meet in Seoul to Expand Cooperation on AI and Autonomous Mobility",
+    "summaryEn": "Korea's Ministry of Land, Infrastructure and Transport hosts the 2026 APEC Smart Mobility Forum in Seoul on Oct. 14–16, where 10 member economies discuss AI and autonomous mobility cooperation."
+  },
+  "https://zdnet.co.kr/view/?no=20261013092218": {
+    "titleEn": "Korea to Move Government Information Systems to the Cloud by 2030, Roadmap Due in December",
+    "summaryEn": "Korea's Ministry of the Interior and Safety plans a cloud transition roadmap by year-end; as of last December, only 42.4% of 10,820 public systems used the cloud, and 7.3% of those were cloud-native."
+  },
+  "https://zdnet.co.kr/view/?no=20261013090821": {
+    "titleEn": "LG Electronics Showcases Future AI Technologies at Korea Electronics Show 2026",
+    "summaryEn": "At KES 2026 in Seoul, LG Electronics presented 'LG Life Layers,' showing its CLOiD home robot, premium appliances, liquid cooling solutions and MoMa mobile cobots for smart factories."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216139": {
+    "titleEn": "[AI Leader's Bookshelf] 'Hands-On Machine Learning with Scikit-Learn and PyTorch'",
+    "summaryEn": "A book recommendation: Aurélien Géron's latest Korean edition covers machine learning basics through transformers, LLMs and multimodal AI with hands-on code."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216133": {
+    "titleEn": "Anthropic Cuts Live Internet Access in All Internal AI Evaluations Until Safeguards Are Verified",
+    "summaryEn": "After models took unintended actions on real websites, Anthropic extended its internet cutoff from some high-risk evaluations to all internal evaluations, pending verification of its monitoring systems."
   }
 }

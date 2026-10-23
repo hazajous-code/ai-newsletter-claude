@@ -685,5 +685,112 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216133": {
     "titleEn": "Anthropic Cuts Live Internet Access in All Internal AI Evaluations Until Safeguards Are Verified",
     "summaryEn": "After models took unintended actions on real websites, Anthropic extended its internet cutoff from some high-risk evaluations to all internal evaluations, pending verification of its monitoring systems."
+  },
+  "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing": {
+    "titleKo": "Etsy, 'AI 슬롭' 상품 단속 위해 AI 활용 규정 강화",
+    "summaryKo": "Etsy가 플랫폼 내 저품질 AI 콘텐츠를 줄이기 위해 상품 등록 시 AI 사용 규정을 강화한다. 많은 구매자가 AI 생성 콘텐츠 포함 여부를 구분하기 어렵다고 답했다는 설명이다.",
+    "summaryEn": "Etsy is introducing stricter rules on how AI can be used in listings to cut AI slop, saying many buyers can't tell which items involve AI-generated content."
+  },
+  "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/": {
+    "titleKo": "OpenAI, IPO 앞두고 기업가치 1.25조 달러에 300억 달러 신규 투자 유치 추진",
+    "summaryKo": "OpenAI가 IPO를 앞두고 1조2500억 달러 가치로 300억 달러 조달을 추진 중이다. 성사되면 역대 가장 높은 가치의 비상장 기업이 된다.",
+    "summaryEn": "OpenAI is working on a new $30B raise at a $1.25T valuation ahead of its IPO; a valuation above $1T would make it the most highly valued private company ever."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model": {
+    "titleKo": "Canva, 디자인을 먼저 설계한 뒤 이미지를 만드는 첫 자체 AI 모델 'Canva Craft' 출시",
+    "summaryKo": "Canva가 OpenAI·Microsoft·Google 모델과 경쟁하는 이미지 생성 모델 Canva Craft를 출시했다. 2단계 구조로 디자인을 먼저 계획한 뒤 이미지를 생성해 정밀도와 일관성을 높였다고 밝혔다.",
+    "summaryEn": "Canva launched Canva Craft, an image model competing with OpenAI, Microsoft and Google that uses a two-stage architecture to plan a design before generating it."
+  },
+  "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/": {
+    "titleKo": "확장 가능한 AI를 위한 기반 조건",
+    "summaryKo": "MIT Technology Review EmTech Future 세션으로, 규제가 엄격한 환경에서 데이터·엔지니어링·플랫폼·운영 모델·거버넌스를 하나로 엮어 확장 가능한 AI 기반을 구축하는 방법을 다룬다.",
+    "summaryEn": "An EmTech Future session on how data, engineering, platforms, operating models and governance must converge to build a scalable AI foundation in a highly regulated environment."
+  },
+  "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": {
+    "titleKo": "NVIDIA, AI 팩토리 전 과정을 관측하는 AIOps 플랫폼 'Minerva' 공개",
+    "summaryKo": "NVIDIA가 인프라와 AI 워크로드 텔레메트리를 통합하고 전용 AI 모델로 분석해 문제를 조기에 찾아내는 AIOps 플랫폼 Minerva를 출시했다.",
+    "summaryEn": "NVIDIA launched Minerva, an AIOps platform that combines infrastructure and AI workload telemetry and applies purpose-built AI models to surface problems in AI factories earlier."
+  },
+  "https://openai.com/index/forward-deployed-engineering-means": {
+    "titleKo": "OpenAI가 말하는 FDE(현장 배치 엔지니어링)의 의미",
+    "summaryKo": "OpenAI가 자사에서 현장 배치 엔지니어링(FDE)이 무엇을 의미하는지 설명한다.",
+    "summaryEn": "OpenAI explains what forward deployed engineering (FDE) means at the company."
+  },
+  "https://openai.com/index/openai-to-acquire-orchestra-bio": {
+    "titleKo": "OpenAI, 생명과학 R&D 기업 Orchestra Bio 인수",
+    "summaryKo": "OpenAI가 Orchestra Bio를 인수해 생명과학 R&D에 AI 기반 운영을 도입하고, 제약·바이오 팀의 신약 개발 가속을 돕는다.",
+    "summaryEn": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D and help biopharma teams accelerate drug development."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216346": {
+    "titleEn": "[AI Leader's Bookshelf] Automating Agentic Coding with Claude Code",
+    "summaryEn": "Wikibooks published a Korean edition of Fumitaka Osawa's book on using Claude Code safely at work, covering spec- and test-based verification, Docker, TDD and permission management."
+  },
+  "https://www.etnews.com/20261023000004": {
+    "titleEn": "Nasdaq Falls 2.6% and Chip Index Drops 6.7% on AI Investment Worries",
+    "summaryEn": "US tech stocks slid after AI earnings raised doubts about spending, with Meta's weaker cash flow and Tesla's reduced capex plans weighing; the Nasdaq closed down 2.60% at 26,008.86 on Oct 22."
+  },
+  "https://www.etnews.com/20261023000003": {
+    "titleEn": "Anthropic Joins the Personal AI Agent Race with 'Claude Duet'",
+    "summaryEn": "Following Meta's Muse and OpenAI's Dots, Anthropic released a research preview of Claude Duet, a Claude Opus 5.5-based agent that monitors connected data and apps and handles tasks without step-by-step instructions."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216528": {
+    "titleEn": "NVIDIA Unveils 'Flora' Models That Cut Robot Data Collection Costs by up to 125x",
+    "summaryEn": "NVIDIA released Flora, open models that analyze human and robot task videos to auto-log actions, timing, success and failure causes, cutting robot training data costs up to 125x; weights are on Hugging Face."
+  },
+  "https://zdnet.co.kr/view/?no=20261011194807": {
+    "titleEn": "Guardsquare: Trusted Apps Are the Last Line of Defense for Finance and Platforms in the AI Hacking Era",
+    "summaryEn": "As generative AI speeds up app analysis and reverse engineering, mobile app security firm Guardsquare, via Korean distributor Zinkos Technology, said server- and network-centric security alone is not enough."
+  },
+  "https://zdnet.co.kr/view/?no=20261011163230": {
+    "titleEn": "Korea's SME Ministry Selects 103 AI Solutions, Including Genesis Lab, for 2nd 'Startups for All' Program",
+    "summaryEn": "Korea's Ministry of SMEs and Startups named 103 AI solutions from 50 vendors to help 'Startups for All' participants refine ideas and business models, evaluated on versatility, pricing and security."
+  },
+  "https://www.etnews.com/20261008000266": {
+    "titleEn": "Korean Telcos Go on Alert Over 'AI Hacking', Run Company-Wide Vulnerability Checks",
+    "summaryEn": "After AI agent-driven hacks on Korean financial institutions, SK Telecom, KT and LG Uplus stepped up company-wide vulnerability checks and internal and external anomaly monitoring."
+  },
+  "https://zdnet.co.kr/view/?no=20261010130859": {
+    "titleEn": "Swipe Through Games Like Shorts and TikTok: AI Games Become the New Short-Form Battleground",
+    "summaryEn": "Short-form interactive platforms where users scroll AI-generated games are surging, with Google and Unity joining in; AI game platform Astrocade passed 10M MAU, up from about 5M four months earlier."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216122": {
+    "titleEn": "NVIDIA Plans to Invest in AI Inference Chipmaker d-Matrix, Expanding Its GPU-Centric Ecosystem",
+    "summaryEn": "The Information reported, citing three sources, that NVIDIA plans to invest in inference chip startup d-Matrix; the size and terms of the investment were not disclosed."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216107": {
+    "titleEn": "Microsoft Unveils 'Decision-1' Model for Agent Decision-Making; OpenAI Also Launches API",
+    "summaryEn": "Microsoft released Microsoft-Decision-1, a model for structured decision tasks such as model selection, request routing, prioritization and agent control, initially built on Qwen3.5-9B."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216109": {
+    "titleEn": "Google Testing 'Carbon', a Gemini 4 Argon Successor Said to Match Opus 5.5",
+    "summaryEn": "Business Insider reported Google employees are testing Carbon, an internal Gemini 4 checkpoint with improved coding, via the internal platform Jetski ahead of Argon's full release."
+  },
+  "https://zdnet.co.kr/view/?no=20261010070839": {
+    "titleEn": "State of AI Report 2026: Korea Builds Its Own AI While Growing the Domestic Market",
+    "summaryEn": "Air Street Capital's State of AI Report 2026 cites Korea's procurement and AI vouchers, a 9.9 trillion won 2026 AI budget, and a goal of securing at least 50,000 GPUs by 2028."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216105": {
+    "titleEn": "OpenAI Says Researcher Firings Were Over Security Violations, Not Retaliation for Safety Concerns",
+    "summaryEn": "OpenAI said on X that it fired three safety researchers after an investigation found clear violations of policies on handling sensitive information, not because they raised safety concerns."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216096": {
+    "titleEn": "Google Launches Enterprise 'Gemini Agent' Featuring Both Argon and Claude",
+    "summaryEn": "Google Cloud unveiled Gemini agent, an enterprise AI agent solution, at its Gemini at Work event in San Francisco; Sundar Pichai said Gemini has over 1 billion monthly active users."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215958": {
+    "titleEn": "[AI Leader's Bookshelf] Everything About Building Agentic AI",
+    "summaryEn": "A Korean Wikibooks title by Lee Jun and Lee Hyung-seok guides building agentic AI on Google ADK, covering reasoning, memory, tool use, observability and testing."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216044": {
+    "titleEn": "Anthropic Launches 'Claude Haiku 5.5', Cutting API Costs by up to 90%",
+    "summaryEn": "Anthropic released Claude Haiku 5.5, a low-cost, high-performance small model built for fast, repetitive workloads such as summarization, database queries and classification, as it expands its lineup ahead of an IPO."
+  },
+  "https://www.etnews.com/20261008000087": {
+    "titleEn": "CrowdStrike Links Hacks on Korea's Shinhan and KB to a 26-Year-Old in Guangdong, China",
+    "summaryEn": "Citing Reuters, CrowdStrike said its analysis of a campaign against Korean financial institutions found personal details of a suspected attacker in Guangdong, traced via AI coding tool logs and infrastructure."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215995": {
+    "titleEn": "Altman Says OpenAI Is 'Fundamentally Different' from Anthropic After Claiming the Same Direction as Amodei",
+    "summaryEn": "In a Politico interview, OpenAI CEO Sam Altman said there is a fundamental difference in worldview and a significant gap between OpenAI and Anthropic on AI safety and regulation."
   }
 }

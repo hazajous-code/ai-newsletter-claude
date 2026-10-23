@@ -85,8 +85,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A Korean Wikibooks title by Lee Jun and Lee Hyung-seok guides building agentic AI on Google ADK, covering reasoning, memory, tool use, observability and testing.",
+      "titleEn": "[AI Leader's Bookshelf] Everything About Building Agentic AI",
       "tags": [
         "빅테크"
       ],
@@ -102,8 +102,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic released Claude Haiku 5.5, a low-cost, high-performance small model built for fast, repetitive workloads such as summarization, database queries and classification, as it expands its lineup ahead of an IPO.",
+      "titleEn": "Anthropic Launches 'Claude Haiku 5.5', Cutting API Costs by up to 90%",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -120,8 +120,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Citing Reuters, CrowdStrike said its analysis of a campaign against Korean financial institutions found personal details of a suspected attacker in Guangdong, traced via AI coding tool logs and infrastructure.",
+      "titleEn": "CrowdStrike Links Hacks on Korea's Shinhan and KB to a 26-Year-Old in Guangdong, China",
       "tags": [
         "정책·법·보안"
       ],

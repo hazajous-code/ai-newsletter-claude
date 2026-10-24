@@ -792,5 +792,97 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215995": {
     "titleEn": "Altman Says OpenAI Is 'Fundamentally Different' from Anthropic After Claiming the Same Direction as Amodei",
     "summaryEn": "In a Politico interview, OpenAI CEO Sam Altman said there is a fundamental difference in worldview and a significant gap between OpenAI and Anthropic on AI safety and regulation."
+  },
+  "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/": {
+    "titleKo": "오픈AI, \"심각한 위험\" 이유로 실시간 인터넷에서 AI 모델 학습 중단",
+    "summaryKo": "오픈AI가 심각한 위험을 이유로 프런티어 모델을 인터넷과 차단하기로 했다. 자사 엔지니어가 이 방식은 효과가 없을 것이라고 말한 지 몇 주 만이다.",
+    "summaryEn": "OpenAI says it will cut its frontier models off from the live internet during training, citing significant risks, weeks after one of its own engineers said that approach wouldn't work."
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+    "titleKo": "10억 ChatGPT 사용자를 위한 온라인 스토리지 확장기 (2부)",
+    "summaryKo": "오픈AI가 스토리지 시스템 Habitat에 안정적인 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB를 적용해 ChatGPT의 읽기 속도를 12배 높인 과정을 소개했다.",
+    "summaryEn": "OpenAI describes how it scaled its Habitat storage system with reliable multi-tenancy, global caching and Azure Cosmos DB, delivering 12x faster reads for ChatGPT."
+  },
+  "https://openai.com/index/securing-our-frontier-model-training-environment": {
+    "titleKo": "오픈AI, 프런티어 모델 학습 환경 보안 강화 방안 공개",
+    "summaryKo": "오픈AI가 오프라인 환경 구축과 대규모 컴퓨팅을 투입한 레드팀 테스트 등 프런티어 모델 학습·평가 과정의 격리(containment) 강화 방안을 설명했다.",
+    "summaryEn": "OpenAI explains how it strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+  },
+  "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/": {
+    "titleKo": "카자흐스탄, AI 미래 위한 컴퓨팅 인프라 확대",
+    "summaryKo": "카자흐스탄 AI 생태계가 인프라 계획에서 실제 배포 단계로 넘어가고 있다. 젠슨 황 엔비디아 CEO의 아스타나 방문에 맞춰 가속 컴퓨팅 확충 계획들이 발표됐다.",
+    "summaryEn": "Kazakhstan's AI ecosystem is moving from infrastructure plans to deployment across the stack, with announcements timed to NVIDIA CEO Jensen Huang's visit to Astana pointing to more accelerated computing."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216604": {
+    "titleEn": "Google's 'Gemini 4 Carbon' Reportedly in External Testing: Better at 3D, but Slow",
+    "summaryEn": "Google's in-development Gemini 4 Carbon is reportedly being tested by some partners and on LMArena. Early users say its 3D work beats Argon, but processing is slow and web page design remains weak."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216581": {
+    "titleEn": "OpenAI Launches 'Decisions API' for Classification and Selection, Up to 10x Faster",
+    "summaryEn": "OpenAI made its Decisions API, built on GPT-6 Luna, generally available. It picks from developer-defined options or returns probabilities and scores, aiming to cut latency and costs for AI agents and apps."
+  },
+  "https://zdnet.co.kr/view/?no=20261024005020": {
+    "titleEn": "Korean Defense Tech Security Council Chief: 'Counter AI Attacks with AI'",
+    "summaryEn": "At a Seoul conference on AI-based defense tech protection, council chair Hwang In-bong called for AI-driven detection and proactive security. A speaker cited KISA data showing H1 ransomware reports up over 76%."
+  },
+  "https://zdnet.co.kr/view/?no=20261006180230": {
+    "titleEn": "Korean AI Chip Pavilion at AI Festa Showcases Homegrown Semiconductor Tech",
+    "summaryEn": "At AI Festa in Seoul's COEX, Korean AI chip firms including Panmnesia, DnoTitia, DEEPX and Mobilint demoed real chips. Panmnesia showed a CXL switch chip linking accelerators from different vendors."
+  },
+  "https://zdnet.co.kr/view/?no=20261006181215": {
+    "titleEn": "Seoul National University Teams with LG Electronics and KT on Physical AI World Foundation Model",
+    "summaryEn": "Seoul National University is developing core algorithms for a world foundation model with LG Electronics, KT, MAUM.AI and others under a government-backed program, with completion expected around mid-next year."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215993": {
+    "titleEn": "OpenAI Introduces Visual Ads in ChatGPT, Shown Next to Image Generation",
+    "summaryEn": "OpenAI will test a visual ad format in the US with select advertisers from late this month, showing labeled ads beside images users generate in ChatGPT. It says ads won't affect ChatGPT's answers."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215976": {
+    "titleEn": "Google Offers 40% Off Annual 'Google AI Pro' Plan in Korea",
+    "summaryEn": "Through Oct. 31, new annual subscribers in Korea can get Google AI Pro for 174,000 won, 40% off the regular 290,000 won (about 14,500 won a month), alongside Google's AI Pro campaign."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215979": {
+    "titleEn": "Claude Helped Write 36 Papers in 3 Months: Anthropic Spotlights 'Claude-Shaped Science'",
+    "summaryEn": "Anthropic published Harvard physicist Matthew Schwartz's essay on 'Claude-shaped science,' an approach that applies frontier models to problems LLMs handle well rather than handing them grand challenges."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215959": {
+    "titleEn": "Ex-Anthropic Researcher Jacob Coxon, Who Warned AI Threatens Humanity, to Testify at NYC Council Hearing",
+    "summaryEn": "Former Anthropic researcher Jacob Coxon will testify at a New York City Council hearing on regulating Big Tech AI risks, Bloomberg reported. His resignation post on X drew over 170 million views."
+  },
+  "https://zdnet.co.kr/view/?no=20261002221843": {
+    "titleEn": "Cooling AI Data Centers: Samsung Goes Global via M&A, LG Doubles Down on In-House Tech",
+    "summaryEn": "Samsung Electronics is entering data center cooling through acquisitions like Helix and FläktGroup, while LG Electronics pairs its own chiller and CDU technology with overseas partnerships."
+  },
+  "https://zdnet.co.kr/view/?no=20261002114025": {
+    "titleEn": "Simmons Is the Bed Brand Generative AI Recommends First in Korea, Study Finds",
+    "summaryEn": "In AIVEX Lab's AIBIX index of 30 bed brands across ChatGPT, Gemini, Perplexity and Claude, Simmons ranked first at 59.7 points, appearing in 73.3% of answers and named first in 29.2%."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215945": {
+    "titleEn": "GPT-6 Astra Clears World of Warcraft Starter Quests in 40 Minutes Without Seeing the Screen",
+    "summaryEn": "In an experiment by AI researcher Edward Edwards, OpenAI's GPT-6 Astra played World of Warcraft without viewing the screen, completing all quests in the orc starting zone in 40 minutes without dying."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215947": {
+    "titleEn": "OpenAI Safety Lead Quits, Criticizing Company Culture: 'The Era of Trial and Error Is Over'",
+    "summaryEn": "David Robinson, who led OpenAI's safety systems team for three and a half years, resigned in an Atlantic essay, saying OpenAI's speed-first culture and iterative deployment approach are increasing risk."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215941": {
+    "titleEn": "Cute Mascots to Ease AI Backlash: Alexandr Wang Behind Meta's Hit 'Muse'",
+    "summaryEn": "Big Tech firms are using cute mascots to ease public anxiety about AI. Leading the trend is Meta's AI assistant app Muse, launched in September under Chief AI Officer Alexandr Wang."
+  },
+  "https://www.etnews.com/20261002000159": {
+    "titleEn": "'Sounds Like AI': ChatGPT Is Changing How Office Workers Talk",
+    "summaryEn": "The Wall Street Journal reported that AI-style phrasing from tools like ChatGPT and Claude is seeping into meetings, emails and messages, giving rise to terms like 'LLM-speak' and 'Claude-speak.'"
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215934": {
+    "titleEn": "Is AI Chain-of-Thought Monitoring Breaking Down? 'Recurrent Depth' Raises Opacity Concerns",
+    "summaryEn": "New reasoning techniques that let models reason silently inside the model are undermining chain-of-thought monitoring, with the WSJ reporting a widening gap between what models do and what they claim."
+  },
+  "https://zdnet.co.kr/view/?no=20261002190003": {
+    "titleEn": "EU to Ban AI 'Nudify' Apps Starting December",
+    "summaryEn": "An EU AI Act provision banning AI systems that generate non-consensual sexual or intimate content takes effect Dec. 2. The European Commission says it will be ready to enforce it from day one."
+  },
+  "https://zdnet.co.kr/view/?no=20261002205944": {
+    "titleEn": "Open-Source AI Agent Hacking Hits Korean Banks; Expert Urges National Preparedness for AI-Powered Threats",
+    "summaryEn": "A Genians security expert said Chinese open-source AI agent 'ARTEX AI' may have been used in recent attacks that leaked personal data from Shinhan, KB Kookmin and Hana banks."
   }
 }

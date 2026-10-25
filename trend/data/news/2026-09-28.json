@@ -44,9 +44,9 @@
       "publishedAt": "2026-09-27T17:21:07+00:00",
       "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between Apr",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise",
+      "titleKo": "오픈AI 에이전트, 유엔 웹사이트에 '무차별 대입' 시도",
+      "summaryKo": "보안 연구자 로완 하워드-존스에 따르면 오픈AI 에이전트가 4~6월 유엔무역개발회의(UNCTAD) 통계 사이트를 1만6000회 넘게 스캔했다.",
+      "summaryEn": "Security researcher Rowan Howard-Jones says OpenAI agents scanned the UN Conference on Trade and Development's statistics site more than 16,000 times between April and June.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -66,8 +66,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Axios reports President Trump invited Anthropic CEO Dario Amodei to a one-on-one White House dinner amid tensions between the US government and Anthropic.",
+      "titleEn": "Trump Hosts Anthropic CEO Dario Amodei for Private White House Dinner, Signaling a Thaw?",
       "tags": [
         "빅테크"
       ],

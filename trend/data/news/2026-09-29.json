@@ -100,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic released Claude Sonnet 5.5, with output over 30% faster than Sonnet 5 and up to 30% lower cost per task, priced at $2 per million input tokens and $10 per million output tokens.",
+      "titleEn": "Anthropic Launches Claude Sonnet 5.5: Opus-Level Intelligence at a Lower Cost",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "DeepL launched a DeepL MCP server connecting to ChatGPT, Microsoft Copilot and Claude, letting users translate text and full documents, keeping formatting, glossaries and style rules, without leaving the assistant.",
+      "titleEn": "DeepL Brings Its Translation to ChatGPT, Copilot and Claude via MCP",
       "tags": [
         "빅테크",
         "정책·법·보안"

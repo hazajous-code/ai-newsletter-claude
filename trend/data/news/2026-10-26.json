@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T08:59+09:00",
+  "global": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-25T21:31:16+00:00",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-23T17:00:00+00:00",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "lang": "en",
+      "titleKo": "10억 ChatGPT 사용자를 위한 온라인 스토리지 확장기 (2부)",
+      "summaryKo": "오픈AI가 스토리지 시스템 Habitat에 안정적인 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB를 적용해 ChatGPT의 읽기 속도를 12배 높인 과정을 소개했다.",
+      "summaryEn": "OpenAI describes how it scaled its Habitat storage system with reliable multi-tenancy, global caching and Azure Cosmos DB, delivering 12x faster reads for ChatGPT.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "lang": "en",
+      "titleKo": "오픈AI, 프런티어 모델 학습 환경 보안 강화 방안 공개",
+      "summaryKo": "오픈AI가 오프라인 환경 구축과 대규모 컴퓨팅을 투입한 레드팀 테스트 등 프런티어 모델 학습·평가 과정의 격리(containment) 강화 방안을 설명했다.",
+      "summaryEn": "OpenAI explains how it strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-23T02:00:13+00:00",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications",
+      "lang": "en",
+      "titleKo": "카자흐스탄, AI 미래 위한 컴퓨팅 인프라 확대",
+      "summaryKo": "카자흐스탄 AI 생태계가 인프라 계획에서 실제 배포 단계로 넘어가고 있다. 젠슨 황 엔비디아 CEO의 아스타나 방문에 맞춰 가속 컴퓨팅 확충 계획들이 발표됐다.",
+      "summaryEn": "Kazakhstan's AI ecosystem is moving from infrastructure plans to deployment across the stack, with announcements timed to NVIDIA CEO Jensen Huang's visit to Astana pointing to more accelerated computing.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-25T19:33:16+00:00",
+      "summary": "구체적인 임무 없이 가상 섬에 놓인 AI 에이전트들이 스스로 농구와 볼링을 하고, 블록으로 조형물을 만드는 행동을 보였다. 이 과정에서 시뮬레이터 개발자도 몰랐던 물체 던지기 기술까지 발견했다. 연",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-25T17:10:30+00:00",
+      "summary": "아마존웹서비스(AWS)의 2026년과 2027년 컴퓨팅 용량이 사실상 모두 판매된 것으로 나타났다. AI 인프라 수요가 예상치를 웃돌며 급증함에 따라, 2028년 공급 물량까지 상당 부분 예약된 상",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "[보안 리딩기업] 프라이빗AI \"제로트러스트 시장 선도\"",
+      "url": "https://zdnet.co.kr/view/?no=20261025214440",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-25T12:44:40+00:00",
+      "summary": "[지디넷코리아]\"AI위협 통제는 우리가 국내 보안기업 중 최고라고 자부합니다.\"김영랑 프라이빗에이아이(프라이빗AI) 대표는 최근 지디넷코리아와 인터뷰에서 \"기술 중심 서비스 회사로 우뚝 서겠다\"며 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

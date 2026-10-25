@@ -1,23 +1,57 @@
 {
-  "date": "2026-10-24",
-  "updatedAt": "2026-10-24T10:48+09:00",
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T09:09+09:00",
   "global": [
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-23T23:05:49+00:00",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "publishedAt": "2026-10-24T19:00:00+00:00",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "lang": "en",
-      "titleKo": "오픈AI, \"심각한 위험\" 이유로 실시간 인터넷에서 AI 모델 학습 중단",
-      "summaryKo": "오픈AI가 심각한 위험을 이유로 프런티어 모델을 인터넷과 차단하기로 했다. 자사 엔지니어가 이 방식은 효과가 없을 것이라고 말한 지 몇 주 만이다.",
-      "summaryEn": "OpenAI says it will cut its frontier models off from the live internet during training, citing significant risks, weeks after one of its own engineers said that approach wouldn't work.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-24T18:32:21+00:00",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide",
+      "titleEn": "",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 6.5
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-24T12:00:00+00:00",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -34,7 +68,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Securing our frontier model training environment",
@@ -51,95 +85,63 @@
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "source": "NVIDIA Blog",
       "sourceId": "nvidia-blog",
-      "publishedAt": "2026-10-23T02:00:13+00:00",
-      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications",
+      "publishedAt": "2026-10-22T15:00:02+00:00",
+      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastr",
       "lang": "en",
-      "titleKo": "카자흐스탄, AI 미래 위한 컴퓨팅 인프라 확대",
-      "summaryKo": "카자흐스탄 AI 생태계가 인프라 계획에서 실제 배포 단계로 넘어가고 있다. 젠슨 황 엔비디아 CEO의 아스타나 방문에 맞춰 가속 컴퓨팅 확충 계획들이 발표됐다.",
-      "summaryEn": "Kazakhstan's AI ecosystem is moving from infrastructure plans to deployment across the stack, with announcements timed to NVIDIA CEO Jensen Huang's visit to Astana pointing to more accelerated computing.",
+      "titleKo": "NVIDIA, AI 팩토리 전 과정을 관측하는 AIOps 플랫폼 'Minerva' 공개",
+      "summaryKo": "NVIDIA가 인프라와 AI 워크로드 텔레메트리를 통합하고 전용 AI 모델로 분석해 문제를 조기에 찾아내는 AIOps 플랫폼 Minerva를 출시했다.",
+      "summaryEn": "NVIDIA launched Minerva, an AIOps platform that combines infrastructure and AI workload telemetry and applies purpose-built AI models to surface problems in AI factories earlier.",
       "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-10-22T18:48:04+00:00",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Tech",
-      "lang": "en",
-      "titleKo": "확장 가능한 AI를 위한 기반 조건",
-      "summaryKo": "MIT Technology Review EmTech Future 세션으로, 규제가 엄격한 환경에서 데이터·엔지니어링·플랫폼·운영 모델·거버넌스를 하나로 엮어 확장 가능한 AI 기반을 구축하는 방법을 다룬다.",
-      "summaryEn": "An EmTech Future session on how data, engineering, platforms, operating models and governance must converge to build a scalable AI foundation in a highly regulated environment.",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
-      ],
-      "score": 5.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216604",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-10-24T09:05:59+00:00",
-      "summary": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google's in-development Gemini 4 Carbon is reportedly being tested by some partners and on LMArena. Early users say its 3D work beats Argon, but processing is slow and web page design remains weak.",
-      "titleEn": "Google's 'Gemini 4 Carbon' Reportedly in External Testing: Better at 3D, but Slow",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216581",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-10-23T18:59:59+00:00",
-      "summary": "오픈AI가 입력 내용을 분류하거나 다음 행동을 선택하는 등 반복적인 판단을 빠르고 저렴하게 처리하는 '디시전스 API(Decisions API)'를 정식 출시했다. 개발자가 미리 정한 답변 범위 안",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI made its Decisions API, built on GPT-6 Luna, generally available. It picks from developer-defined options or returns probabilities and scores, aiming to cut latency and costs for AI agents and apps.",
-      "titleEn": "OpenAI Launches 'Decisions API' for Classification and Selection, Up to 10x Faster",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
-    },
+      "score": 6.0
+    }
+  ],
+  "korea": [
     {
-      "title": "황인봉 방산기술보호·보안협의회장 \"AI 공격엔 AI로 대응\"",
-      "url": "https://zdnet.co.kr/view/?no=20261024005020",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-23T15:59:18+00:00",
-      "summary": "[지디넷코리아]황인봉 방산기술보호·보안협의회장이 23일 \"AI를 이용한 공격에는 AI 기반의 지능형 탐지와 대응이 필요하다\"고 말했다. 또 \"사후 대응에서 벗어나 위협을 사전에 차단하는 능동적 보안",
+      "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-24T19:53:21+00:00",
+      "summary": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "At a Seoul conference on AI-based defense tech protection, council chair Hwang In-bong called for AI-driven detection and proactive security. A speaker cited KISA data showing H1 ransomware reports up over 76%.",
-      "titleEn": "Korean Defense Tech Security Council Chief: 'Counter AI Attacks with AI'",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
+        "빅테크",
         "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-24T19:13:05+00:00",
+      "summary": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
     }
   ]
 }

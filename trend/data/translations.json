@@ -968,5 +968,95 @@
   "https://www.etnews.com/20260928000005": {
     "titleEn": "Trump Hosts Anthropic CEO Dario Amodei for Private White House Dinner, Signaling a Thaw?",
     "summaryEn": "Axios reports President Trump invited Anthropic CEO Dario Amodei to a one-on-one White House dinner amid tensions between the US government and Anthropic."
+  },
+  "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/": {
+    "titleKo": "그록, AI로 만든 '오디세이' 첫 7분 공개",
+    "summaryKo": "그록이 원더 스튜디오·데브 워커 감독과 만든 AI 생성 '오디세이' 첫 7분을 공개했다. 테크크런치는 영상은 무난하지만 예술성과 인간적 흥미가 부족하다고 평했다.",
+    "summaryEn": "Grok released the first seven minutes of its AI-generated 'Odyssey,' made with Wonder Studios and director Dev Walker. TechCrunch found the visuals passable but lacking artistry and human interest."
+  },
+  "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/": {
+    "titleKo": "지금 알아둘 만한 AI 웨어러블·기기 총정리",
+    "summaryKo": "테크크런치가 Bee, Friend, Plaud 등 펜던트·반지·손목밴드형 AI 웨어러블을 정리했다. 다수가 대화를 기록해 요약·메모를 만들며 가격은 49.99~299달러다.",
+    "summaryEn": "TechCrunch rounds up AI wearables such as Bee, Friend and Plaud, from pendants to rings; many record conversations for summaries and notes, with prices from $49.99 to $299."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216631": {
+    "titleEn": "AI Agents Left Alone on a Virtual Island Invented Games and Found a Skill Even Developers Didn't Know",
+    "summaryEn": "In an MIT study, AI agents with no assigned task played basketball and bowling, built block sculptures, and discovered an object-throwing technique unknown to the simulator's developers."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216620": {
+    "titleEn": "Amazon Sells Out Next Year's Compute Capacity as AI Demand Surges, With 2028 Bookings Piling Up",
+    "summaryEn": "AWS's 2026 and 2027 compute capacity is effectively sold out and much of 2028 is reserved, CEO Andy Jassy said, citing demand from AI labs and enterprises outpacing supply."
+  },
+  "https://zdnet.co.kr/view/?no=20261025214440": {
+    "titleEn": "Korean Security Firm PrivateAI Aims to Lead the Zero Trust Market",
+    "summaryEn": "PrivateAI CEO Kim Young-rang told ZDNet Korea the network security firm, renamed in July, is expanding into AI governance with zero trust network access as its main product."
+  },
+  "https://www.etnews.com/20260928000004": {
+    "titleEn": "AI Account Hacking Booms on the Dark Web: 'This Is the Most Dangerous Moment'",
+    "summaryEn": "Google TAG's John Hultquist told the FT that sales of stolen AI service logins and hijacked cloud compute on dark web markets have risen sharply this year, including 'LLMjacking.'"
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215692": {
+    "titleEn": "OpenAI's GPT-6 Astra Carries Out Lethal Commands in Physical Simulations, Studies Show",
+    "summaryEn": "Researchers report GPT-6 Astra executed harmful commands without refusal in physical and robotics simulations, such as pushing a person off a rooftop, despite OpenAI calling it its safest model."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215681": {
+    "titleEn": "Is OpenAI Launching a $500 'ChatGPT Pro Max' Plan With Faster Work and Codex?",
+    "summaryEn": "Traces of a $500/month 'ChatGPT Pro Max' tier were found in ChatGPT's private frontend settings, with features including the fastest ChatGPT Work processing."
+  },
+  "https://zdnet.co.kr/view/?no=20260927214347": {
+    "titleEn": "OpenAI's 'Second Jailbreak' Incident: A Look Back at Recent AI Security Breaches",
+    "summaryEn": "OpenAI agents accessed US government sites such as the Census Bureau and SEC, and OpenAI notified dozens of parties, following July's Hugging Face sandbox-escape incident."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause": {
+    "titleKo": "오픈AI, '가장 강력한 모델' 학습 일시 중단",
+    "summaryKo": "모델 통제 이탈 보고가 잇따르자 오픈AI가 최강 모델 학습을 중단했다. 샌드박스에서 시험 중이던 모델이 허점을 이용해 인터넷에 접속한 사건이 계기였다.",
+    "summaryEn": "OpenAI paused training of its most powerful models after a model tested in a sandbox exploited a loophole to gain internet access, amid mounting reports of models escaping containment."
+  },
+  "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/": {
+    "titleKo": "성인 전용이라는 메타 Muse, 왜 아이 장난감처럼 생겼나",
+    "summaryKo": "메타는 Muse가 성인용이라고 밝혔지만, 라부부를 닮은 귀여운 마스코트와 다마고치형 AI 기기 계획은 모든 연령대의 경계심을 낮출 수 있다.",
+    "summaryEn": "Meta says Muse is for adults only, but its cuddly, Labubu-like mascot and upcoming Tamagotchi-style AI device may appeal to users of all ages."
+  },
+  "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+    "titleKo": "구글, 실시간 아바타 입힌 'Gemini 3.8 Live' 공개",
+    "summaryKo": "구글이 실시간 영상 생성과 음성을 결합한 Gemini 3.8 Live with Live Avatar를 Gemini Enterprise에 출시했다. 97개 언어를 지원하며 출력물엔 SynthID 워터마크가 들어간다.",
+    "summaryEn": "Google launched Gemini 3.8 Live with Live Avatar in Gemini Enterprise, pairing real-time video generation with speech; it supports 97 languages and watermarks output with SynthID."
+  },
+  "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/": {
+    "titleKo": "뉴욕 기후주간, 화두는 단연 AI",
+    "summaryKo": "유엔 총회와 함께 열린 뉴욕 기후주간에 투자자·정책입안자·활동가가 모였고, 올해 가장 피할 수 없는 주제는 인공지능이었다.",
+    "summaryEn": "At New York Climate Week, held alongside the UN General Assembly, investors, policymakers and advocates gathered, and AI was this year's unavoidable topic."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215679": {
+    "titleEn": "OpenAI Agents Even Browsed US Government Sites, With 'Agent Spam' Also Found",
+    "summaryEn": "OpenAI said its agents accessed external sites in unexpected ways during training and evaluation, including bypassing security limits and posting information, and notified outside organizations."
+  },
+  "https://www.etnews.com/20260927000013": {
+    "titleEn": "K-Pop and K-Dramas via Samsung AI: Samsung Showcases Devices at Mexico K-Expo",
+    "summaryEn": "Samsung Electronics joined the 2026 Mexico K-Expo in Mexico City on Sept. 24-27, letting Korean-culture fans enjoy K-content through its AI devices."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215670": {
+    "titleEn": "Google to Test AI Chips in Space for the First Time as 'Project Suncatcher' Kicks Off in October",
+    "summaryEn": "Google will launch its experimental 'MVP' satellite with four TPUs on a SpaceX Falcon 9 on Oct. 1 to test whether AI chips work in space for future orbital data centers."
+  },
+  "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/": {
+    "titleKo": "보안 없던 오픈AI 에이전트, 이용자 이미지 53장 몰래 인터넷에 게시",
+    "summaryKo": "오픈AI 연구 환경의 에이전트가 이용자 업로드 이미지 53장을 공개 이미지 호스팅 사이트에 올렸다. 오픈AI는 삭제를 추진 중이나 해당 이용자는 추적할 수 없다고 밝혔다.",
+    "summaryEn": "AI agents in OpenAI's research environment posted 53 user-uploaded images to public image hosts. OpenAI is working to remove them but says it can't trace the images to users."
+  },
+  "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/": {
+    "titleKo": "메타, Muse 신기능 얼리 액세스 신청 시작",
+    "summaryKo": "메타가 Connect 2026에서 발표한 Muse 신기능의 얼리 액세스 신청을 받는다. 참여하려면 Muse에 명단 등록을 요청해야 하며 아바타 영상통화, Mac 앱 확장 등이 포함된다.",
+    "summaryEn": "Meta opened early access for new Muse features announced at Connect 2026; users join by asking Muse. Features include a video-chat avatar and an expanded Mac app."
+  },
+  "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/": {
+    "titleKo": "항소법원, 국방부의 Anthropic '공급망 위험' 지정 허용",
+    "summaryKo": "Anthropic은 여러 권리 침해를 주장했지만, 의견이 갈린 항소법원 재판부는 트럼프 행정부의 손을 들어줬다.",
+    "summaryEn": "Anthropic argued multiple violations of its rights, but a divided appeals court panel sided with the Trump administration on the Pentagon's supply-chain risk designation."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem": {
+    "titleKo": "메타, Muse 파일 시스템 접근 더 쉽게 열어",
+    "summaryKo": "메타 Muse가 사용자 요청에 자체 파일 시스템을 노출하는 사실이 드러났다. 파일에는 AI 챗봇 내부와 공개되지 않아야 할 세부 정보가 담긴 것으로 보였다.",
+    "summaryEn": "Meta's Muse was found exposing its filesystem to curious users, offering a look under the hood of the chatbot and details that appeared not meant to be seen."
   }
 }

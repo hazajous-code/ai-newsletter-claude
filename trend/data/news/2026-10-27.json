@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T10:21+09:00",
+  "updatedAt": "2026-10-27T10:54+09:00",
   "global": [
     {
       "title": "OpenAI announces three big science discoveries and a new way to work with academics",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-26T23:34:58+00:00",
       "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three mor",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, a",
+      "titleKo": "OpenAI, 수학·컴퓨터과학·물리학 '주요 발견' 3건 발표…외부 전문가와 협업 방식 도입",
+      "summaryKo": "OpenAI가 수학·컴퓨터과학·물리학 분야 '주요' 발견 3건을 새로 발표했다. 이번에는 '셰퍼드'라 부르는 외부 전문가들이 결과 도출을 이끌었다.",
+      "summaryEn": "OpenAI announced three more \"major\" discoveries in math, computer science and physics, this time with external experts it calls \"shepherds\" guiding the results.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-10-26T22:40:37+00:00",
       "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "titleKo": "Grok, 자신이 만든 AI판 '오디세이'에 \"역사적으로 정확하지 않다\" 인정",
+      "summaryKo": "일론 머스크가 xAI 모델이 크리스토퍼 놀란의 신화 서사극을 능가할 것이라고 밝힌 지 몇 달 만에 Grok 스스로 패배를 인정했다.",
+      "summaryEn": "Months after Elon Musk said the xAI model would outclass Christopher Nolan's mythological epic, Grok itself admitted defeat.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -45,9 +45,9 @@
       "publishedAt": "2026-10-26T22:00:00+00:00",
       "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "titleKo": "Greptile, GPT-6 Astra로 코드 리뷰 넘어 버그 탐지까지 확장",
+      "summaryKo": "Greptile이 GPT-6 Astra로 사용자 워크플로를 테스트하고, Daybreak로 보안을 강화하며, Codex로 재작업을 줄이는 방법을 소개했다.",
+      "summaryEn": "Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "titleEn": "",
       "tags": [
         "출시·발표",
@@ -63,9 +63,9 @@
       "publishedAt": "2026-10-26T21:45:31+00:00",
       "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data cent",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i",
+      "titleKo": "Anthropic, AI 붐 뒷받침 위해 천연가스 의존…IPO 서류에 드러난 에너지 리스크",
+      "summaryKo": "상장을 준비 중인 Anthropic이 SEC에 제출한 S-1 서류에서 데이터센터가 천연가스에 점점 더 의존하고 있으며 전력 확보 경쟁이 치열하다고 밝혔다.",
+      "summaryEn": "In its S-1 filing with the SEC, Anthropic acknowledges data centers are increasingly reliant on natural gas and that competition for power and sites is intense.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -80,9 +80,9 @@
       "publishedAt": "2026-10-26T21:27:15+00:00",
       "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "titleKo": "Anthropic IPO 투자설명서에 핵심 수치가 대거 빠진 이유",
+      "summaryKo": "Anthropic의 S-1 서류는 수백 쪽 분량이지만 상당수 재무 세부 정보가 빠져 있다. 한 애널리스트는 \"Anthropic이 투자자에게 더 많은 정보를 제공해야 한다\"고 말했다.",
+      "summaryEn": "Anthropic's S-1 filing runs hundreds of pages but omits many financial details; one analyst told WIRED that \"Anthropic owes investors more information.\"",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -97,9 +97,9 @@
       "publishedAt": "2026-10-26T17:45:43+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculat",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
+      "titleKo": "진짜 Anthropic은 어떤 회사인가…IPO 투자설명서로 본 Anthropic",
+      "summaryKo": "Anthropic이 IPO 투자설명서를 제출했다. 335쪽 분량 중 약 100쪽이 위험 요인에 할애됐으며, 자사 기술에 대한 독자적 시각을 담고 있다.",
+      "summaryEn": "Anthropic has filed its IPO prospectus: a 335-page document, with about 100 pages on risks, laying out the company's view of its technology.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI released GPT-6.1 Terra for repetitive computer tasks like document processing and coding, with API pricing set at half of GPT-6.1 Sol.",
+      "titleEn": "OpenAI launches GPT-6.1 Terra with stronger automation at a lower price",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic's IPO filing devotes 94 pages to risks, including AI security incidents, data center opposition and chip supply dependence, and reveals a delayed next-gen model training run.",
+      "titleEn": "Anthropic's IPO filing discloses risks from security incidents to data center pushback",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -154,8 +154,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI said its AI produced new proofs for three long-standing problems in harmonic analysis, computational complexity and quantum field theory, to be reviewed by leading experts including a Nobel laureate.",
+      "titleEn": "OpenAI says its AI solved hard problems in math, CS and physics, with Nobel laureates verifying",
       "tags": [
         "빅테크"
       ],
@@ -171,8 +171,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI launched GPT-6.1 Terra, which understands images and screens and operates applications, raising performance while cutting usage cost in half to target enterprise automation.",
+      "titleEn": "OpenAI unveils cost-efficient GPT-6.1 Terra with stronger vision and computer use",
       "tags": [
         "빅테크",
         "출시·발표"

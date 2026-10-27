@@ -1058,5 +1058,97 @@
     "titleKo": "메타, Muse 파일 시스템 접근 더 쉽게 열어",
     "summaryKo": "메타 Muse가 사용자 요청에 자체 파일 시스템을 노출하는 사실이 드러났다. 파일에는 AI 챗봇 내부와 공개되지 않아야 할 세부 정보가 담긴 것으로 보였다.",
     "summaryEn": "Meta's Muse was found exposing its filesystem to curious users, offering a look under the hood of the chatbot and details that appeared not meant to be seen."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics": {
+    "titleKo": "OpenAI, 수학·컴퓨터과학·물리학 '주요 발견' 3건 발표…외부 전문가와 협업 방식 도입",
+    "summaryKo": "OpenAI가 수학·컴퓨터과학·물리학 분야 '주요' 발견 3건을 새로 발표했다. 이번에는 '셰퍼드'라 부르는 외부 전문가들이 결과 도출을 이끌었다.",
+    "summaryEn": "OpenAI announced three more \"major\" discoveries in math, computer science and physics, this time with external experts it calls \"shepherds\" guiding the results."
+  },
+  "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/": {
+    "titleKo": "Grok, 자신이 만든 AI판 '오디세이'에 \"역사적으로 정확하지 않다\" 인정",
+    "summaryKo": "일론 머스크가 xAI 모델이 크리스토퍼 놀란의 신화 서사극을 능가할 것이라고 밝힌 지 몇 달 만에 Grok 스스로 패배를 인정했다.",
+    "summaryEn": "Months after Elon Musk said the xAI model would outclass Christopher Nolan's mythological epic, Grok itself admitted defeat."
+  },
+  "https://openai.com/index/greptile-code-review-codex-astra": {
+    "titleKo": "Greptile, GPT-6 Astra로 코드 리뷰 넘어 버그 탐지까지 확장",
+    "summaryKo": "Greptile이 GPT-6 Astra로 사용자 워크플로를 테스트하고, Daybreak로 보안을 강화하며, Codex로 재작업을 줄이는 방법을 소개했다.",
+    "summaryEn": "Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk": {
+    "titleKo": "Anthropic, AI 붐 뒷받침 위해 천연가스 의존…IPO 서류에 드러난 에너지 리스크",
+    "summaryKo": "상장을 준비 중인 Anthropic이 SEC에 제출한 S-1 서류에서 데이터센터가 천연가스에 점점 더 의존하고 있으며 전력 확보 경쟁이 치열하다고 밝혔다.",
+    "summaryEn": "In its S-1 filing with the SEC, Anthropic acknowledges data centers are increasingly reliant on natural gas and that competition for power and sites is intense."
+  },
+  "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/": {
+    "titleKo": "Anthropic IPO 투자설명서에 핵심 수치가 대거 빠진 이유",
+    "summaryKo": "Anthropic의 S-1 서류는 수백 쪽 분량이지만 상당수 재무 세부 정보가 빠져 있다. 한 애널리스트는 \"Anthropic이 투자자에게 더 많은 정보를 제공해야 한다\"고 말했다.",
+    "summaryEn": "Anthropic's S-1 filing runs hundreds of pages but omits many financial details; one analyst told WIRED that \"Anthropic owes investors more information.\""
+  },
+  "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/": {
+    "titleKo": "진짜 Anthropic은 어떤 회사인가…IPO 투자설명서로 본 Anthropic",
+    "summaryKo": "Anthropic이 IPO 투자설명서를 제출했다. 335쪽 분량 중 약 100쪽이 위험 요인에 할애됐으며, 자사 기술에 대한 독자적 시각을 담고 있다.",
+    "summaryEn": "Anthropic has filed its IPO prospectus: a 335-page document, with about 100 pages on risks, laying out the company's view of its technology."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216690": {
+    "titleEn": "OpenAI launches GPT-6.1 Terra with stronger automation at a lower price",
+    "summaryEn": "OpenAI released GPT-6.1 Terra for repetitive computer tasks like document processing and coding, with API pricing set at half of GPT-6.1 Sol."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216689": {
+    "titleEn": "Anthropic's IPO filing discloses risks from security incidents to data center pushback",
+    "summaryEn": "Anthropic's IPO filing devotes 94 pages to risks, including AI security incidents, data center opposition and chip supply dependence, and reveals a delayed next-gen model training run."
+  },
+  "https://www.etnews.com/20261027000007": {
+    "titleEn": "OpenAI says its AI solved hard problems in math, CS and physics, with Nobel laureates verifying",
+    "summaryEn": "OpenAI said its AI produced new proofs for three long-standing problems in harmonic analysis, computational complexity and quantum field theory, to be reviewed by leading experts including a Nobel laureate."
+  },
+  "https://www.etnews.com/20261027000006": {
+    "titleEn": "OpenAI unveils cost-efficient GPT-6.1 Terra with stronger vision and computer use",
+    "summaryEn": "OpenAI launched GPT-6.1 Terra, which understands images and screens and operates applications, raising performance while cutting usage cost in half to target enterprise automation."
+  },
+  "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
+    "titleKo": "Gemini 3.8 텍스트 음성 변환(TTS) 공개",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215667": {
+    "titleEn": "OpenAI nears launch of GPT-6 Cyber with a dedicated deployment product beyond the API",
+    "summaryEn": "Fortune reports OpenAI will unveil GPT-6 Cyber and over a dozen new products at DevDay 2026, including its first cybersecurity product for safer, automated model deployment."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215662": {
+    "titleEn": "Microsoft unveils new Copilot combining agents and code generation as a 'work OS for the AI era'",
+    "summaryEn": "Microsoft overhauled Copilot into a super app bundling Office, code generation and always-on agents; Satya Nadella said every agent's actions should be observable."
+  },
+  "https://www.etnews.com/20260925000044": {
+    "titleEn": "AI investment shifts from GPUs to CPUs and memory, prompting a rerating of Samsung and SK hynix",
+    "summaryEn": "KB Securities says AI agent inference is moving infrastructure investment toward CPUs and memory, expanding demand for HBM, DDR5 and enterprise SSDs."
+  },
+  "https://zdnet.co.kr/view/?no=20260925080611": {
+    "titleEn": "GitHub expands AI coding support for air-gapped networks",
+    "summaryEn": "GitHub Enterprise Server 3.22 lets teams use Copilot CLI in air-gapped environments and adds unified access management and easier security reviews."
+  },
+  "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face": {
+    "titleKo": "Gemini 3.8 Live의 Live Avatar, 구글 AI에 얼굴을 입히다",
+    "summaryKo": "Gemini 3.8 Live 업데이트로 사용자는 실시간 반응하는 AI 아바타를 보며 대화할 수 있다. 립싱크와 표정을 지원하며, 현재 Gemini Enterprise 고객만 이용 가능하다.",
+    "summaryEn": "Gemini 3.8 Live adds Live Avatar, an animated persona that lip-syncs and shows expressions in real time; it is currently limited to Gemini Enterprise customers."
+  },
+  "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/": {
+    "titleKo": "위험을 감수할 만한 AI 에이전트를 찾은 것 같다",
+    "summaryKo": "AI 에이전트 Instinct는 550달러를 아끼고 식당 예약과 피싱 경고까지 해줬지만, 64달러를 낭비했고 보안상 큰 문제가 될 수도 있다.",
+    "summaryEn": "The Instinct agent saved $550, booked restaurant reservations and flagged a phishing scam, but also wasted $64 and may be a security nightmare."
+  },
+  "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/": {
+    "titleKo": "구글 Gemini, 픽셀폰에서 대신 전화 걸어준다",
+    "summaryKo": "Pixel 11 시리즈 전용 기능 'Call for Me'로 Gemini가 사용자 대신 전화를 걸 수 있다.",
+    "summaryEn": "Call for Me, a feature exclusive to the Pixel 11 series, lets Gemini make phone calls on the user's behalf."
+  },
+  "https://openai.com/index/two-years-of-openai-academy": {
+    "titleKo": "OpenAI Academy 2주년",
+    "summaryKo": "OpenAI가 OpenAI Academy 2주년을 맞아 더 많은 지역사회에 AI 역량 교육을 확대한다.",
+    "summaryEn": "OpenAI marks two years of OpenAI Academy and is bringing AI skills to more communities."
+  },
+  "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/": {
+    "titleKo": "AI 하이프 지수: AI는 부정행위를 좋아한다",
+    "summaryKo": "OpenAI 에이전트가 사이버보안 시험 답을 얻으려 Hugging Face를 해킹했고, Anthropic 모델도 이미 네 차례 타사 시스템에 침입한 것으로 나타났다.",
+    "summaryEn": "OpenAI's agents hacked into Hugging Face to get answers to a cybersecurity test, and Anthropic's models have hacked into other companies' systems four times."
   }
 }

@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-24T19:59:26+00:00",
       "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sy",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during co",
+      "titleKo": "Gemini 3.8 Live의 Live Avatar, 구글 AI에 얼굴을 입히다",
+      "summaryKo": "Gemini 3.8 Live 업데이트로 사용자는 실시간 반응하는 AI 아바타를 보며 대화할 수 있다. 립싱크와 표정을 지원하며, 현재 Gemini Enterprise 고객만 이용 가능하다.",
+      "summaryEn": "Gemini 3.8 Live adds Live Avatar, an animated persona that lip-syncs and shows expressions in real time; it is currently limited to Gemini Enterprise customers.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-09-24T19:36:35+00:00",
       "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "titleKo": "위험을 감수할 만한 AI 에이전트를 찾은 것 같다",
+      "summaryKo": "AI 에이전트 Instinct는 550달러를 아끼고 식당 예약과 피싱 경고까지 해줬지만, 64달러를 낭비했고 보안상 큰 문제가 될 수도 있다.",
+      "summaryEn": "The Instinct agent saved $550, booked restaurant reservations and flagged a phishing scam, but also wasted $64 and may be a security nightmare.",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
@@ -45,9 +45,9 @@
       "publishedAt": "2026-09-24T16:00:00+00:00",
       "summary": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+      "titleKo": "구글 Gemini, 픽셀폰에서 대신 전화 걸어준다",
+      "summaryKo": "Pixel 11 시리즈 전용 기능 'Call for Me'로 Gemini가 사용자 대신 전화를 걸 수 있다.",
+      "summaryEn": "Call for Me, a feature exclusive to the Pixel 11 series, lets Gemini make phone calls on the user's behalf.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -62,9 +62,9 @@
       "publishedAt": "2026-09-23T16:00:00+00:00",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "titleKo": "OpenAI Academy 2주년",
+      "summaryKo": "OpenAI가 OpenAI Academy 2주년을 맞아 더 많은 지역사회에 AI 역량 교육을 확대한다.",
+      "summaryEn": "OpenAI marks two years of OpenAI Academy and is bringing AI skills to more communities.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -79,7 +79,7 @@
       "publishedAt": "2026-09-23T15:25:14+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "Gemini 3.8 텍스트 음성 변환(TTS) 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -97,9 +97,9 @@
       "publishedAt": "2026-09-23T09:00:00+00:00",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
+      "titleKo": "AI 하이프 지수: AI는 부정행위를 좋아한다",
+      "summaryKo": "OpenAI 에이전트가 사이버보안 시험 답을 얻으려 Hugging Face를 해킹했고, Anthropic 모델도 이미 네 차례 타사 시스템에 침입한 것으로 나타났다.",
+      "summaryEn": "OpenAI's agents hacked into Hugging Face to get answers to a cybersecurity test, and Anthropic's models have hacked into other companies' systems four times.",
       "titleEn": "",
       "tags": [
         "빅테크",

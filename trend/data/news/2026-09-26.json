@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-25T22:20:47+00:00",
       "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "titleKo": "보안 없던 오픈AI 에이전트, 이용자 이미지 53장 몰래 인터넷에 게시",
+      "summaryKo": "오픈AI 연구 환경의 에이전트가 이용자 업로드 이미지 53장을 공개 이미지 호스팅 사이트에 올렸다. 오픈AI는 삭제를 추진 중이나 해당 이용자는 추적할 수 없다고 밝혔다.",
+      "summaryEn": "AI agents in OpenAI's research environment posted 53 user-uploaded images to public image hosts. OpenAI is working to remove them but says it can't trace the images to users.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-09-25T20:34:53+00:00",
       "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Anyone interested in joining has to ask Muse to put them on the list.",
+      "titleKo": "메타, Muse 신기능 얼리 액세스 신청 시작",
+      "summaryKo": "메타가 Connect 2026에서 발표한 Muse 신기능의 얼리 액세스 신청을 받는다. 참여하려면 Muse에 명단 등록을 요청해야 하며 아바타 영상통화, Mac 앱 확장 등이 포함된다.",
+      "summaryEn": "Meta opened early access for new Muse features announced at Connect 2026; users join by asking Muse. Features include a video-chat avatar and an expanded Mac app.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-09-25T16:58:20+00:00",
       "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "titleKo": "항소법원, 국방부의 Anthropic '공급망 위험' 지정 허용",
+      "summaryKo": "Anthropic은 여러 권리 침해를 주장했지만, 의견이 갈린 항소법원 재판부는 트럼프 행정부의 손을 들어줬다.",
+      "summaryEn": "Anthropic argued multiple violations of its rights, but a divided appeals court panel sided with the Trump administration on the Pentagon's supply-chain risk designation.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -62,9 +62,9 @@
       "publishedAt": "2026-09-25T16:49:53+00:00",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we ",
+      "titleKo": "메타, Muse 파일 시스템 접근 더 쉽게 열어",
+      "summaryKo": "메타 Muse가 사용자 요청에 자체 파일 시스템을 노출하는 사실이 드러났다. 파일에는 AI 챗봇 내부와 공개되지 않아야 할 세부 정보가 담긴 것으로 보였다.",
+      "summaryEn": "Meta's Muse was found exposing its filesystem to curious users, offering a look under the hood of the chatbot and details that appeared not meant to be seen.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -79,9 +79,9 @@
       "publishedAt": "2026-09-24T16:20:39+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
+      "titleKo": "구글, 실시간 아바타 입힌 'Gemini 3.8 Live' 공개",
+      "summaryKo": "구글이 실시간 영상 생성과 음성을 결합한 Gemini 3.8 Live with Live Avatar를 Gemini Enterprise에 출시했다. 97개 언어를 지원하며 출력물엔 SynthID 워터마크가 들어간다.",
+      "summaryEn": "Google launched Gemini 3.8 Live with Live Avatar in Gemini Enterprise, pairing real-time video generation with speech; it supports 97 languages and watermarks output with SynthID.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -97,7 +97,7 @@
       "publishedAt": "2026-09-23T15:25:14+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "Gemini 3.8 텍스트 음성 변환(TTS) 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -119,8 +119,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Fortune reports OpenAI will unveil GPT-6 Cyber and over a dozen new products at DevDay 2026, including its first cybersecurity product for safer, automated model deployment.",
+      "titleEn": "OpenAI nears launch of GPT-6 Cyber with a dedicated deployment product beyond the API",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -137,8 +137,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Microsoft overhauled Copilot into a super app bundling Office, code generation and always-on agents; Satya Nadella said every agent's actions should be observable.",
+      "titleEn": "Microsoft unveils new Copilot combining agents and code generation as a 'work OS for the AI era'",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -155,8 +155,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "KB Securities says AI agent inference is moving infrastructure investment toward CPUs and memory, expanding demand for HBM, DDR5 and enterprise SSDs.",
+      "titleEn": "AI investment shifts from GPUs to CPUs and memory, prompting a rerating of Samsung and SK hynix",
       "tags": [
         "빅테크"
       ],
@@ -172,8 +172,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "GitHub Enterprise Server 3.22 lets teams use Copilot CLI in air-gapped environments and adds unified access management and easier security reviews.",
+      "titleEn": "GitHub expands AI coding support for air-gapped networks",
       "tags": [
         "빅테크",
         "정책·법·보안"

@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T10:21+09:00",
+  "global": [
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-26T23:34:58+00:00",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three mor",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, a",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-26T22:40:37+00:00",
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-26T22:00:00+00:00",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "titleEn": "",
+      "tags": [
+        "출시·발표",
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-26T21:45:31+00:00",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data cent",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-10-26T21:27:15+00:00",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-26T17:45:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculat",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-27T08:01:41+00:00",
+      "summary": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GP",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-27T06:28:25+00:00",
+      "summary": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델의 학습을 한 달 넘게 늦추고, 안전",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "오픈AI “수학·컴퓨터과학·물리 난제 해결”…노벨상 수상자가 검증한다",
+      "url": "https://www.etnews.com/20261027000007",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-26T23:11:53+00:00",
+      "summary": "오픈AI가 인공지능(AI)을 활용해 수학·컴퓨터과학·물리학 분야 오랜 난제 3건에 대한 새로운 증명을 도출했다고 발표했다. 오픈AI는 26일(현지시간) 홈페이지를 통해 조화해석, 계산복잡도 이론, ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "오픈AI, 비용 효율 높인 'GPT-6.1 테라' 공개…시각·조작 강화",
+      "url": "https://www.etnews.com/20261027000006",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-10-26T23:00:47+00:00",
+      "summary": "오픈AI가 인공지능(AI) 시각적 이해와 컴퓨터 조작 능력을 강화한 최신 모델 'GPT-6.1 테라(Terra)'를 공개했다. 기존 모델보다 성능을 높이면서 사용 비용을 절반으로 낮춘 '가성비(가격",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    }
+  ]
+}

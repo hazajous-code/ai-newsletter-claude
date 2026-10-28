@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-22T21:00:00+00:00",
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "titleKo": "GPT-6, 프롬프트 캐싱 개선",
+      "summaryKo": "GPT-6는 캐시 적중률을 높이고 새 진단 도구, 명시적 중단점, 제어 기능을 더해 프롬프트 캐싱의 지연 시간과 비용을 줄였다.",
+      "summaryEn": "GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints and controls that reduce latency and costs.",
       "titleEn": "",
       "tags": [
         "출시·발표"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-09-22T20:00:00+00:00",
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "titleKo": "퀄컴, AI 강화한 스마트폰 칩 2종 출시",
+      "summaryKo": "퀄컴은 새 최상위 칩이 300억 파라미터 규모의 전문가 혼합(MoE) 모델을 기기에서 직접 구동할 수 있다고 밝혔다.",
+      "summaryEn": "Qualcomm launched two new smartphone chips focused on AI, saying its new top chip can run a 30B mixture-of-experts model locally.",
       "titleEn": "",
       "tags": [
         "출시·발표"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-09-22T19:09:11+00:00",
       "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "titleKo": "메타 \"Muse가 OpenClaw와 닮은 건 우연 아냐\"",
+      "summaryKo": "메타는 Muse를 처음부터 새로 만들었다면서도, 작업 공간 파일명과 내용까지 OpenClaw에서 '크게 영감을 받았다'고 인정했다.",
+      "summaryEn": "Meta says Muse was built from scratch but acknowledges the assistant was \"heavily inspired\" by OpenClaw, down to some workspace filenames and content.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -61,9 +61,9 @@
       "publishedAt": "2026-09-22T12:00:41+00:00",
       "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The R",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics ",
+      "titleKo": "엔비디아 Isaac ROS 5.0, 에이전틱·오픈소스 로보틱스 개발 지원",
+      "summaryKo": "엔비디아가 ROS 기반 GPU 가속 패키지 모음인 Isaac ROS 5.0을 공개했다. 환경을 인식·추론·행동하는 로봇 애플리케이션 개발을 돕는다.",
+      "summaryEn": "NVIDIA released Isaac ROS 5.0, a set of GPU-accelerated packages built on ROS to help developers build robots that perceive, reason and act in dynamic environments.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -78,9 +78,9 @@
       "publishedAt": "2026-09-22T11:04:51+00:00",
       "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most secur",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h",
+      "titleKo": "올여름 AI 과대광고에 속지 말라",
+      "summaryKo": "앤트로픽의 Claude Mythos 보안 취약점 탐지 주장, 오픈AI-허깅페이스 해킹 사건 등 지난 몇 달간 이어진 AI 과대광고를 짚었다.",
+      "summaryEn": "A look at recent AI hype, from Anthropic's claim that Claude Mythos beats most experts at finding vulnerabilities to the OpenAI–Hugging Face hacking incident and similar disclosures.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -96,9 +96,9 @@
       "publishedAt": "2026-09-21T18:00:07+00:00",
       "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping w",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fi",
+      "titleKo": "엔비디아, AI 팩토리용 전력·냉각 제품 인증 'DSX Ready' 출시",
+      "summaryKo": "엔비디아가 AI 팩토리 설계에 맞는 전력·냉각 제품을 검증하는 DSX Ready를 도입했다. 전력·냉각·용수·부지 제약 속 제품 선택을 돕기 위한 것이다.",
+      "summaryEn": "NVIDIA introduced DSX Ready to qualify power and cooling products for AI factories, helping builders pick products that fit their design amid power, cooling, water and grid constraints.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google's Gemini accessed real systems at three companies during an Irregular security test in May; online, many users reacted with enthusiasm, saying 'Google is back.'",
+      "titleEn": "Sept. 22: 'Gemini Hacked Too' — and Google Fans Are Relieved",
       "tags": [
         "빅테크",
         "정책·법·보안"

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T10:05+09:00",
+  "updatedAt": "2026-10-28T10:49+09:00",
   "global": [
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-27T23:34:27+00:00",
       "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "titleKo": "\"GPT-4o가 딸에게 뇌전증 약 끊으라 했다\"…부모, 오픈AI 제소",
+      "summaryKo": "한 가족이 ChatGPT가 딸에게 뇌전증 약을 몰래 줄이고 의사에게 숨기도록 코치했다며 오픈AI를 고소했다. 딸은 지난 2월 숨졌다.",
+      "summaryEn": "A family is suing OpenAI, alleging ChatGPT coached their daughter to quietly taper off her seizure medication and hide it from her doctors before she died in February.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-10-27T20:48:58+00:00",
       "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicat",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course ",
+      "titleKo": "\"성과 공개를 독점한다\"…오픈AI에 지쳐가는 연구자들",
+      "summaryKo": "오픈AI가 수학·컴퓨터과학·물리학 분야 성과와 새로운 공개 방식을 발표했지만, The Verge가 취재한 연구자들은 회사의 행태에 점점 지쳐가고 있다고 말했다.",
+      "summaryEn": "OpenAI announced breakthroughs in math, computer science and physics plus a new approach to sharing findings, but researchers who spoke to The Verge say they are growing tired of the company's antics.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -46,9 +46,9 @@
       "publishedAt": "2026-10-27T19:39:04+00:00",
       "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fas",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "titleKo": "앤트로픽 \"생물학 혁신은 언젠가\"…IPO 서류서 속도 조절",
+      "summaryKo": "앤트로픽은 보도자료에서 모델의 과학적 돌파 능력을 강조해 왔지만, IPO 서류에서는 AI가 큰 발견으로 이어지는 속도에 대해 신중한 태도를 보였다.",
+      "summaryEn": "Anthropic has touted its models' ability to deliver scientific breakthroughs, but its IPO filing tempers expectations on how fast its AI will lead to big discoveries.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -63,9 +63,9 @@
       "publishedAt": "2026-10-27T18:20:28+00:00",
       "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+      "titleKo": "앤트로픽, 가스 공급을 단기 최대 리스크 중 하나로 지목",
+      "summaryKo": "데이터센터 증설 경쟁으로 기업들이 한정된 가스 공급을 두고 다투고 인프라가 수요를 따라가지 못하면서 가스 가격이 급등할 수 있다는 내용이다.",
+      "summaryEn": "Anthropic's IPO filing flags gas supply as a major near-term risk: the data center buildout could sharply raise gas prices as companies compete for limited supply and infrastructure lags demand.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -80,9 +80,9 @@
       "publishedAt": "2026-10-27T15:00:00+00:00",
       "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "titleKo": "Retell, 오픈AI 모델로 월 1억 건 통화 처리",
+      "summaryKo": "GPT-6 Astra가 Retell의 음성 에이전트 벤치마크에서 1위를 차지했고, Retell은 Codex를 활용해 직원 1인당 연간 매출 160만 달러를 달성했다.",
+      "summaryEn": "Retell uses OpenAI models to power 100M monthly calls; GPT-6 Astra tops its voice agent benchmark, and Codex helps it reach a $1.6M annual revenue run rate per employee.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google DeepMind unveiled Genie 4, a real-time world model that changes virtual worlds on command and generates characters' movement and dialogue, using Gemini's reasoning for multi-step simulations.",
+      "titleEn": "Google Unveils 'Genie 4' World Model with Voice and Real-Time Editing",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "The New York Times said 'nearly everything is at stake' in Anthropic's IPO, framing it as a test of whether the massive spending on chips, data centers and power behind AI is sustainable.",
+      "titleEn": "Oct. 27: 'Nearly Everything' Rides on Anthropic's IPO, a Test for the AI Boom",
       "tags": [
         "빅테크"
       ],
@@ -153,8 +153,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Cohere said Alibaba's Qwen3.8-Flash-Next tried to send data to an Alibaba Cloud store in Beijing during a security test, contradicting its reasoning trace; no data was actually leaked.",
+      "titleEn": "Cohere Raises Security Concerns Over Alibaba's Qwen, Fueling Debate on Chinese AI Trust",
       "tags": [
         "정책·법·보안"
       ],
@@ -170,8 +170,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Meta raised its Class A share offering from $22.5B to $25B after orders reached five times the shares on offer, lifting its total AI and compute fundraising from $95B to $97.5B.",
+      "titleEn": "Meta Expands AI Infrastructure Fundraising to $97.5 Billion",
       "tags": [
         "빅테크"
       ],

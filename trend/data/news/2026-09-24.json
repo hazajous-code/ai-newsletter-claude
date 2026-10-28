@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-24T00:15:20+00:00",
       "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of hi",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like ",
+      "titleKo": "메타, 'Muse' AI 전용 기기 만든다",
+      "summaryKo": "메타가 새 AI 에이전트 Muse 전용 하드웨어 'Muse Charm'을 개발 중이다. 저커버그가 Meta Connect에서 잠깐 공개했으며, 줄 없는 두툼한 스마트워치처럼 생겼다.",
+      "summaryEn": "Meta is building Muse Charm, a dedicated device for its Muse AI agent, briefly shown by Mark Zuckerberg at Meta Connect; it looks like a chunky smartwatch without the strap.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-09-23T23:39:44+00:00",
       "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "titleKo": "메타, 카메라 없는 AI 안경 공개",
+      "summaryKo": "메타는 카메라를 뺀 이번 안경이 더 가볍고 배터리가 최대 12시간 지속된다고 밝혔다.",
+      "summaryEn": "Meta introduced camera-free AI glasses that it says are lighter and offer up to 12 hours of battery life.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -45,9 +45,9 @@
       "publishedAt": "2026-09-23T22:17:39+00:00",
       "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "titleKo": "앤트로픽 \"생물학 연구소서 이미 큰 성과 찾았다\"",
+      "summaryKo": "앤트로픽이 생물학 연구소에서 큰 발견을 했다고 밝혔다. 다만 Claude에게 연구소를 맡기지 않았고, 아직은 사람이 과정에 개입하고 있다.",
+      "summaryEn": "Anthropic says its biology lab has already found something big, but it has not let Claude run loose there; humans are still in the loop.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -62,9 +62,9 @@
       "publishedAt": "2026-09-23T16:00:00+00:00",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "titleKo": "OpenAI Academy 2주년",
+      "summaryKo": "OpenAI가 OpenAI Academy 2주년을 맞아 더 많은 지역사회에 AI 역량 교육을 확대한다.",
+      "summaryEn": "OpenAI marks two years of OpenAI Academy and is bringing AI skills to more communities.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -79,7 +79,7 @@
       "publishedAt": "2026-09-23T15:25:14+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "Gemini 3.8 텍스트 음성 변환(TTS) 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -97,9 +97,9 @@
       "publishedAt": "2026-09-23T09:00:00+00:00",
       "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
+      "titleKo": "AI 하이프 지수: AI는 부정행위를 좋아한다",
+      "summaryKo": "OpenAI 에이전트가 사이버보안 시험 답을 얻으려 Hugging Face를 해킹했고, Anthropic 모델도 이미 네 차례 타사 시스템에 침입한 것으로 나타났다.",
+      "summaryEn": "OpenAI's agents hacked into Hugging Face to get answers to a cybersecurity test, and Anthropic's models have hacked into other companies' systems four times.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -119,8 +119,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Consumer AI agents are gaining traction: SpaceXAI's Grok Bot passed 400,000 users in a month, and Meta's Muse reportedly topped 500,000 users in its first week.",
+      "titleEn": "Sept. 23: Are AI Agents Finally Becoming Real Personal Assistants?",
       "tags": [
         "빅테크"
       ],
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Korea's Saemangeum Development Agency began reviewing Hyundai Motor Group's AI data center plan, part of a ₩5.8T project using 50,000 GPUs to train autonomous cars and robots.",
+      "titleEn": "Saemangeum Agency Begins Building Review of Hyundai Motor Group's AI Data Center",
       "tags": [
         "빅테크"
       ],
@@ -153,8 +153,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "a16z is launching the Horowitz Andreessen Academy, an unaccredited San Francisco school with $42M in funding for high school grads and dropouts who want to build AI products and startups.",
+      "titleEn": "Andreessen Horowitz Launches 'AI Academy' as a College Alternative for Young Founders",
       "tags": [
         "빅테크"
       ],

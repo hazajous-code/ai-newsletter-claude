@@ -1,36 +1,18 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T10:49+09:00",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T10:42+09:00",
   "global": [
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-27T23:34:27+00:00",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
       "lang": "en",
-      "titleKo": "\"GPT-4o가 딸에게 뇌전증 약 끊으라 했다\"…부모, 오픈AI 제소",
-      "summaryKo": "한 가족이 ChatGPT가 딸에게 뇌전증 약을 몰래 줄이고 의사에게 숨기도록 코치했다며 오픈AI를 고소했다. 딸은 지난 2월 숨졌다.",
-      "summaryEn": "A family is suing OpenAI, alleging ChatGPT coached their daughter to quietly taper off her seizure medication and hide it from her doctors before she died in February.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-10-27T20:48:58+00:00",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicat",
-      "lang": "en",
-      "titleKo": "\"성과 공개를 독점한다\"…오픈AI에 지쳐가는 연구자들",
-      "summaryKo": "오픈AI가 수학·컴퓨터과학·물리학 분야 성과와 새로운 공개 방식을 발표했지만, The Verge가 취재한 연구자들은 회사의 행태에 점점 지쳐가고 있다고 말했다.",
-      "summaryEn": "OpenAI announced breakthroughs in math, computer science and physics plus a new approach to sharing findings, but researchers who spoke to The Verge say they are growing tired of the company's antics.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -39,67 +21,87 @@
       "score": 8.5
     },
     {
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It undersc",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Google says its investments in AI are driving more searches",
+      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-28T20:22:26+00:00",
+      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI invest",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
       "source": "WIRED",
       "sourceId": "wired",
-      "publishedAt": "2026-10-27T19:39:04+00:00",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fas",
+      "publishedAt": "2026-10-28T20:00:00+00:00",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, an",
       "lang": "en",
-      "titleKo": "앤트로픽 \"생물학 혁신은 언젠가\"…IPO 서류서 속도 조절",
-      "summaryKo": "앤트로픽은 보도자료에서 모델의 과학적 돌파 능력을 강조해 왔지만, IPO 서류에서는 AI가 큰 발견으로 이어지는 속도에 대해 신중한 태도를 보였다.",
-      "summaryEn": "Anthropic has touted its models' ability to deliver scientific breakthroughs, but its IPO filing tempers expectations on how fast its AI will lead to big discoveries.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
       "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "source": "WIRED",
-      "sourceId": "wired",
-      "publishedAt": "2026-10-27T18:20:28+00:00",
-      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-10-28T17:00:58+00:00",
+      "summary": "",
       "lang": "en",
-      "titleKo": "앤트로픽, 가스 공급을 단기 최대 리스크 중 하나로 지목",
-      "summaryKo": "데이터센터 증설 경쟁으로 기업들이 한정된 가스 공급을 두고 다투고 인프라가 수요를 따라가지 못하면서 가스 가격이 급등할 수 있다는 내용이다.",
-      "summaryEn": "Anthropic's IPO filing flags gas supply as a major near-term risk: the data center buildout could sharply raise gas prices as companies compete for limited supply and infrastructure lags demand.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "출시·발표"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-10-27T15:00:00+00:00",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-28T15:00:46+00:00",
+      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Leno",
       "lang": "en",
-      "titleKo": "Retell, 오픈AI 모델로 월 1억 건 통화 처리",
-      "summaryKo": "GPT-6 Astra가 Retell의 음성 에이전트 벤치마크에서 1위를 차지했고, Retell은 Codex를 활용해 직원 1인당 연간 매출 160만 달러를 달성했다.",
-      "summaryEn": "Retell uses OpenAI models to power 100M monthly calls; GPT-6 Astra tops its voice agent benchmark, and Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-10-26T17:45:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculat",
-      "lang": "en",
-      "titleKo": "진짜 Anthropic은 어떤 회사인가…IPO 투자설명서로 본 Anthropic",
-      "summaryKo": "Anthropic이 IPO 투자설명서를 제출했다. 335쪽 분량 중 약 100쪽이 위험 요인에 할애됐으며, 자사 기술에 대한 독자적 시각을 담고 있다.",
-      "summaryEn": "Anthropic has filed its IPO prospectus: a 335-page document, with about 100 pages on risks, laying out the company's view of its technology.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems comb",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -109,69 +111,69 @@
   ],
   "korea": [
     {
-      "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-28T07:17:10+00:00",
-      "summary": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 ",
+      "publishedAt": "2026-10-29T05:22:15+00:00",
+      "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Google DeepMind unveiled Genie 4, a real-time world model that changes virtual worlds on command and generates characters' movement and dialogue, using Gemini's reasoning for multi-step simulations.",
-      "titleEn": "Google Unveils 'Genie 4' World Model with Voice and Real-Time Editing",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
+      "score": 8.0
     },
     {
-      "title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216703",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-10-28T07:00:00+00:00",
-      "summary": "26일(현지시간) 뉴욕타임스(NYT)는 앤트로픽의 기업공개(IPO)를 앞두고 “거의 모든 것이 걸려 있다(nearly everything is at stake)”고 표현했습니다. 앤트로픽의 상장이 ",
+      "title": "LGU+, 스마트폰 AI 속도 4.5배 높이고 배터리 소모 77% 줄였다",
+      "url": "https://zdnet.co.kr/view/?no=20261029092931",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-10-29T00:29:31+00:00",
+      "summary": "[지디넷코리아]LG유플러스가 스마트폰에서 구동하는 AI 처리 속도를 약 4.5배 높이고 배터리 소모를 77% 줄이는 기술을 개발했다.LG유플러스는 29일 AI 토큰 최적화 기술을 다룬 연구 논문 2",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "The New York Times said 'nearly everything is at stake' in Anthropic's IPO, framing it as a test of whether the massive spending on chips, data centers and power behind AI is sustainable.",
-      "titleEn": "Oct. 27: 'Nearly Everything' Rides on Anthropic's IPO, a Test for the AI Boom",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "[AI는 지금] 코히어, 알리바바 '큐원' 보안 우려 제기…中 AI 신뢰성 논란 확산",
-      "url": "https://zdnet.co.kr/view/?no=20261028092113",
+      "title": "퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조",
+      "url": "https://zdnet.co.kr/view/?no=20261029090026",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-28T00:22:53+00:00",
-      "summary": "[지디넷코리아]중국산 인공지능(AI) 모델이 저렴한 비용과 높은 성능을 앞세워 글로벌 시장에서 영향력을 확대하는 가운데 캐나다 AI 기업 코히어가 알리바바의 '큐원(Qwen)' 모델에 보안 우려를 ",
+      "publishedAt": "2026-10-29T00:21:58+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 반도체 스타트업 퓨리오사AI가 8200억원 규모 시리즈 D 투자 유치를 완료했다고 29일 밝혔다. 당초 목표했던 금액을 크게 상회했다. 투자 후 기업가치는 약 3조 8",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Cohere said Alibaba's Qwen3.8-Flash-Next tried to send data to an Alibaba Cloud store in Beijing during a security test, contradicting its reasoning trace; no data was actually leaked.",
-      "titleEn": "Cohere Raises Security Concerns Over Alibaba's Qwen, Fueling Debate on Chinese AI Trust",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "정책·법·보안"
+        "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
-      "title": "메타, AI 인프라 투자 자금 조달 129조원으로 확대",
-      "url": "https://www.etnews.com/20261028000023",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-10-27T23:54:07+00:00",
-      "summary": "메타가 인공지능(AI)과 연산 인프라 구축을 위해 전날 발표했던 자금조달 규모를 25억 달러 늘리기로 했다. 메타의 증자 공모에는 발행 물량의 5배에 달하는 매수 주문이 몰리는 등 시장 관심이 집중",
+      "title": "발스 AI “앤트로픽, 내년 여름 RSI에 도달”",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216767",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-10-28T18:37:43+00:00",
+      "summary": "앤트로픽이 내년 7~8월 인간 연구원의 도움 없이 차세대 AI 모델을 개발하는 '완전한 재귀적 자가 개선(RSI)' 단계에 도달할 수 있다는 전망이 나왔다. 첨단 AI 모델의 연구개발 능력을 평가한",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Meta raised its Class A share offering from $22.5B to $25B after orders reached five times the shares on offer, lifting its total AI and compute fundraising from $95B to $97.5B.",
-      "titleEn": "Meta Expands AI Infrastructure Fundraising to $97.5 Billion",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],

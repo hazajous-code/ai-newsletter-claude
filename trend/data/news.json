@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T10:42+09:00",
+  "updatedAt": "2026-10-29T10:53+09:00",
   "global": [
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-28T21:48:37+00:00",
       "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "titleKo": "구글, 핵심 광고 성장 둔화 속 AI 검색 광고 전 세계로 확대",
+      "summaryKo": "구글이 AI 검색 광고를 전 세계로 확대한다고 밝혔다. 발표는 매출이 전년 대비 25% 늘어난 1,276억 달러를 기록한 알파벳 3분기 실적 발표와 함께 나왔다.",
+      "summaryEn": "Google is expanding AI Search ads globally. The news came alongside Alphabet's Q3 earnings, with revenue up 25% year over year to $127.6 billion.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-10-28T21:34:30+00:00",
       "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It undersc",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of th",
+      "titleKo": "마이크로소프트, 오픈AI에서 분기 매출 100억 달러 올려",
+      "summaryKo": "마이크로소프트는 9월 30일 마감 분기에 수익 배분을 포함한 오픈AI와의 상업적 계약에서 100억 달러 매출을 냈다고 밝혔다. 양사 파트너십의 막대한 재무적 의존도를 보여준다.",
+      "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -45,9 +45,9 @@
       "publishedAt": "2026-10-28T20:22:26+00:00",
       "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI invest",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, inc",
+      "titleKo": "구글 \"AI 투자가 검색량 증가 이끌고 있다\"",
+      "summaryKo": "알파벳은 2026년 3분기 실적에서 AI 투자가 상업용 쿼리를 포함한 전체 검색량 증가를 이끌고 있다고 밝혔다. 순다르 피차이 CEO는 전년 대비 쿼리 증가율이 사상 최고 수준이라고 말했다.",
+      "summaryEn": "Alphabet said in its Q3 2026 earnings that AI investments are driving Search query growth, including commercial queries, with CEO Sundar Pichai citing record year-over-year query growth.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -63,9 +63,9 @@
       "publishedAt": "2026-10-28T20:00:00+00:00",
       "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, an",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+      "titleKo": "대규모 유출로 미 국토안보부 직원 4만 1천 명 정보 노출…위장 ICE 요원도 포함",
+      "summaryKo": "유출 자료에는 ICE·CBP 시설 위치, 직원 휴대전화 번호, 감청 프로그램·팔란티어 소프트웨어·xAI 그록 챗봇과 연관된 그룹의 구성원 정보가 담겼다.",
+      "summaryEn": "Leaked records on 41,000 DHS workers include ICE and CBP facility locations, workers' phone numbers, and members of groups tied to wiretap programs, Palantir software and xAI's Grok.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -81,7 +81,7 @@
       "publishedAt": "2026-10-28T17:00:58+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글 딥마인드, 차세대 프런티어 모델 '제미나이 4 카본' 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -99,9 +99,9 @@
       "publishedAt": "2026-10-28T15:00:46+00:00",
       "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Leno",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems comb",
+      "titleKo": "엔비디아 RTX 스파크 윈도우 노트북, 새 모델·에이전트 도구·게임 지원 추가",
+      "summaryKo": "블랙웰 RTX GPU와 그레이스 CPU를 하나의 슈퍼칩에 결합하고 최대 128GB 통합 메모리를 갖춘 RTX 스파크 노트북이 ASUS·델·HP·레노버·마이크로소프트·MSI에서 출시됐다.",
+      "summaryEn": "NVIDIA RTX Spark laptops, pairing a Blackwell RTX GPU and Grace CPU in one superchip with up to 128GB unified memory, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -120,8 +120,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google DeepMind's Gemini 4 Carbon topped Artificial Analysis rankings ahead of Claude Opus 5.5 and GPT-6 Astra, with major gains in cybersecurity and long-running autonomous tasks.",
+      "titleEn": "Google Retakes Top AI Benchmark Spot After a Year With Gemini 4 Carbon",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -138,8 +138,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "LG Uplus said two papers on AI token optimization were accepted to a NeurIPS 2026 on-device workshop; its call-service sLM ran about 4.5x faster with ~77% less battery drain.",
+      "titleEn": "LG Uplus Speeds Up On-Device Smartphone AI 4.5x While Cutting Battery Use 77%",
       "tags": [
         "빅테크"
       ],
@@ -155,8 +155,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "FuriosaAI closed an ₩820 billion Series D, well above target, led by Korea's National Growth Fund (₩370B); funds will expand global commercialization of its RNGD AI chip.",
+      "titleEn": "Korean AI Chipmaker FuriosaAI Raises ₩820B Series D at ₩3.8T Valuation",
       "tags": [
         "빅테크"
       ],
@@ -172,8 +172,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Vals AI CEO Rayan Krishnan said on Joe Lonsdale's podcast that Anthropic could reach full recursive self-improvement, developing models without human researchers, around July–August 2027.",
+      "titleEn": "Vals AI CEO: Anthropic Could Reach Full Recursive Self-Improvement by Next Summer",
       "tags": [
         "빅테크"
       ],

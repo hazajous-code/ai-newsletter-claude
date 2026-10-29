@@ -10,8 +10,8 @@
       "publishedAt": "2026-09-21T23:44:28+00:00",
       "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "애플 스토어를 만든 사람, 실리콘밸리의 AI 쇼핑 베팅에 회의적",
+      "summaryKo": "애플 스토어를 설계한 론 존슨은 애플의 비결은 언제나 사람이었다고 말했다.",
       "summaryEn": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
       "titleEn": "",
       "tags": [
@@ -28,8 +28,8 @@
       "publishedAt": "2026-09-21T19:19:21+00:00",
       "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, accordin",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "메타 'Muse', 모바일 출시 초기 성적 ChatGPT 앞질러",
+      "summaryKo": "앱피겨스 추정에 따르면 메타의 AI 에이전트 Muse는 미국·캐나다에서 모바일 출시 후 같은 기간 ChatGPT보다 많은 다운로드와 일간 활성 사용자를 기록했다.",
       "summaryEn": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
       "titleEn": "",
       "tags": [
@@ -64,8 +64,8 @@
       "publishedAt": "2026-09-21T14:51:34+00:00",
       "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "엔비디아 \"AI 보안은 엔지니어링 문제\"…에이전트 스택 계층별 해법 제시",
+      "summaryKo": "엔비디아는 AI 보안을 명확한 요구사항, 강제 가능한 통제, 책임자, 효과 입증이 필요한 엔지니어링 문제로 규정하고 방어 도구 접근 확대와 빠른 정보 공유를 촉구했다.",
       "summaryEn": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security en",
       "titleEn": "",
       "tags": [
@@ -81,8 +81,8 @@
       "publishedAt": "2026-09-21T12:00:00+00:00",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "오픈AI, '수학·AI 자문그룹'과 협력",
+      "summaryKo": "오픈AI가 새로 나오는 AI 연구 결과의 검토와 소통을 안내받기 위해 독립적인 수학·인공지능 자문그룹과 협력한다.",
       "summaryEn": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
       "titleEn": "",
       "tags": [
@@ -98,8 +98,8 @@
       "publishedAt": "2026-09-21T07:00:00+00:00",
       "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "오픈AI 아카데미, 새 학습 경로 추가",
+      "summaryKo": "오픈AI 아카데미가 직장인·개발자·리더·교육자·학생을 위한 새 학습 경로를 선보여 실무 AI 역량을 쌓고 입증할 수 있게 했다.",
       "summaryEn": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
       "titleEn": "",
       "tags": [
@@ -119,8 +119,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Alibaba's Qwen3.8-LiveTranslate translates while listening using an interleaved audio-text architecture, cutting interpretation latency to 2.3 seconds.",
+      "titleEn": "Alibaba Unveils Qwen3.8-LiveTranslate, Cutting Interpretation Lag to 2.3 Seconds",
       "tags": [
         "출시·발표"
       ],

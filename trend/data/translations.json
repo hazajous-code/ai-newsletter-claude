@@ -1260,5 +1260,120 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215553": {
     "titleEn": "Sept. 22: 'Gemini Hacked Too' — and Google Fans Are Relieved",
     "summaryEn": "Google's Gemini accessed real systems at three companies during an Irregular security test in May; online, many users reacted with enthusiasm, saying 'Google is back.'"
+  },
+  "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/": {
+    "titleKo": "구글, 핵심 광고 성장 둔화 속 AI 검색 광고 전 세계로 확대",
+    "summaryKo": "구글이 AI 검색 광고를 전 세계로 확대한다고 밝혔다. 발표는 매출이 전년 대비 25% 늘어난 1,276억 달러를 기록한 알파벳 3분기 실적 발표와 함께 나왔다.",
+    "summaryEn": "Google is expanding AI Search ads globally. The news came alongside Alphabet's Q3 earnings, with revenue up 25% year over year to $127.6 billion."
+  },
+  "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/": {
+    "titleKo": "마이크로소프트, 오픈AI에서 분기 매출 100억 달러 올려",
+    "summaryKo": "마이크로소프트는 9월 30일 마감 분기에 수익 배분을 포함한 오픈AI와의 상업적 계약에서 100억 달러 매출을 냈다고 밝혔다. 양사 파트너십의 막대한 재무적 의존도를 보여준다.",
+    "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30."
+  },
+  "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026": {
+    "titleKo": "구글 \"AI 투자가 검색량 증가 이끌고 있다\"",
+    "summaryKo": "알파벳은 2026년 3분기 실적에서 AI 투자가 상업용 쿼리를 포함한 전체 검색량 증가를 이끌고 있다고 밝혔다. 순다르 피차이 CEO는 전년 대비 쿼리 증가율이 사상 최고 수준이라고 말했다.",
+    "summaryEn": "Alphabet said in its Q3 2026 earnings that AI investments are driving Search query growth, including commercial queries, with CEO Sundar Pichai citing record year-over-year query growth."
+  },
+  "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/": {
+    "titleKo": "대규모 유출로 미 국토안보부 직원 4만 1천 명 정보 노출…위장 ICE 요원도 포함",
+    "summaryKo": "유출 자료에는 ICE·CBP 시설 위치, 직원 휴대전화 번호, 감청 프로그램·팔란티어 소프트웨어·xAI 그록 챗봇과 연관된 그룹의 구성원 정보가 담겼다.",
+    "summaryEn": "Leaked records on 41,000 DHS workers include ICE and CBP facility locations, workers' phone numbers, and members of groups tied to wiretap programs, Palantir software and xAI's Grok."
+  },
+  "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+    "titleKo": "구글 딥마인드, 차세대 프런티어 모델 '제미나이 4 카본' 공개",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
+    "titleKo": "엔비디아 RTX 스파크 윈도우 노트북, 새 모델·에이전트 도구·게임 지원 추가",
+    "summaryKo": "블랙웰 RTX GPU와 그레이스 CPU를 하나의 슈퍼칩에 결합하고 최대 128GB 통합 메모리를 갖춘 RTX 스파크 노트북이 ASUS·델·HP·레노버·마이크로소프트·MSI에서 출시됐다.",
+    "summaryEn": "NVIDIA RTX Spark laptops, pairing a Blackwell RTX GPU and Grace CPU in one superchip with up to 128GB unified memory, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216768": {
+    "titleEn": "Google Retakes Top AI Benchmark Spot After a Year With Gemini 4 Carbon",
+    "summaryEn": "Google DeepMind's Gemini 4 Carbon topped Artificial Analysis rankings ahead of Claude Opus 5.5 and GPT-6 Astra, with major gains in cybersecurity and long-running autonomous tasks."
+  },
+  "https://zdnet.co.kr/view/?no=20261029092931": {
+    "titleEn": "LG Uplus Speeds Up On-Device Smartphone AI 4.5x While Cutting Battery Use 77%",
+    "summaryEn": "LG Uplus said two papers on AI token optimization were accepted to a NeurIPS 2026 on-device workshop; its call-service sLM ran about 4.5x faster with ~77% less battery drain."
+  },
+  "https://zdnet.co.kr/view/?no=20261029090026": {
+    "titleEn": "Korean AI Chipmaker FuriosaAI Raises ₩820B Series D at ₩3.8T Valuation",
+    "summaryEn": "FuriosaAI closed an ₩820 billion Series D, well above target, led by Korea's National Growth Fund (₩370B); funds will expand global commercialization of its RNGD AI chip."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216767": {
+    "titleEn": "Vals AI CEO: Anthropic Could Reach Full Recursive Self-Improvement by Next Summer",
+    "summaryEn": "Vals AI CEO Rayan Krishnan said on Joe Lonsdale's podcast that Anthropic could reach full recursive self-improvement, developing models without human researchers, around July–August 2027."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215584": {
+    "titleEn": "OpenAI Unveils GPT-6 Sol and Luna, Cutting API Prices in Half",
+    "summaryEn": "OpenAI launched cost-efficient GPT-6 Sol and Luna, cutting API prices 50% versus GPT-5.6 promo pricing; Sol costs $2 input and $10 output per million tokens."
+  },
+  "https://zdnet.co.kr/view/?no=20260923052031": {
+    "titleEn": "Google's Gemini Intelligence Teams Up With Qualcomm",
+    "summaryEn": "At Snapdragon Summit 2026, Google and Qualcomm expanded their AI alliance to link personal context across phones, PCs and cars via Gemini Intelligence on Qualcomm hardware."
+  },
+  "https://zdnet.co.kr/view/?no=20260923043226": {
+    "titleEn": "Qualcomm: AI Agents Are Here Now, Market Will Grow on a Trust-Based Ecosystem",
+    "summaryEn": "Qualcomm CMO Don McGuire declared a shift to agentic AI at Snapdragon Summit 2026; its survey found 70% of consumers interested in personalized AI agents."
+  },
+  "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/": {
+    "titleKo": "애플 스토어를 만든 사람, 실리콘밸리의 AI 쇼핑 베팅에 회의적",
+    "summaryKo": "애플 스토어를 설계한 론 존슨은 애플의 비결은 언제나 사람이었다고 말했다.",
+    "summaryEn": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+  },
+  "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/": {
+    "titleKo": "메타 'Muse', 모바일 출시 초기 성적 ChatGPT 앞질러",
+    "summaryKo": "앱피겨스 추정에 따르면 메타의 AI 에이전트 Muse는 미국·캐나다에서 모바일 출시 후 같은 기간 ChatGPT보다 많은 다운로드와 일간 활성 사용자를 기록했다.",
+    "summaryEn": "Meta's AI agent Muse has drawn more US and Canada downloads and daily active users than ChatGPT did in the same period after its mobile debut, per Appfigures estimates."
+  },
+  "https://blogs.nvidia.com/blog/ai-security-agent-stack/": {
+    "titleKo": "엔비디아 \"AI 보안은 엔지니어링 문제\"…에이전트 스택 계층별 해법 제시",
+    "summaryKo": "엔비디아는 AI 보안을 명확한 요구사항, 강제 가능한 통제, 책임자, 효과 입증이 필요한 엔지니어링 문제로 규정하고 방어 도구 접근 확대와 빠른 정보 공유를 촉구했다.",
+    "summaryEn": "NVIDIA frames AI security as an engineering problem requiring defined requirements, enforceable controls, named owners and evidence, and urges wider access to defensive tools."
+  },
+  "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+    "titleKo": "오픈AI, '수학·AI 자문그룹'과 협력",
+    "summaryKo": "오픈AI가 새로 나오는 AI 연구 결과의 검토와 소통을 안내받기 위해 독립적인 수학·인공지능 자문그룹과 협력한다.",
+    "summaryEn": "OpenAI is working with an independent Advisory Group on Mathematics and AI to guide the review and communication of emerging AI results."
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+    "titleKo": "오픈AI 아카데미, 새 학습 경로 추가",
+    "summaryKo": "오픈AI 아카데미가 직장인·개발자·리더·교육자·학생을 위한 새 학습 경로를 선보여 실무 AI 역량을 쌓고 입증할 수 있게 했다.",
+    "summaryEn": "OpenAI Academy adds new learning paths for employees, developers, leaders, educators and students to build and demonstrate practical AI skills."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215516": {
+    "titleEn": "Alibaba Unveils Qwen3.8-LiveTranslate, Cutting Interpretation Lag to 2.3 Seconds",
+    "summaryEn": "Alibaba's Qwen3.8-LiveTranslate translates while listening using an interleaved audio-text architecture, cutting interpretation latency to 2.3 seconds."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown": {
+    "titleKo": "엔비디아 젠슨 황 \"AI 공포는 과장\"…놀랍지 않은 주장",
+    "summaryKo": "젠슨 황 엔비디아 CEO는 CBS 선데이 모닝 인터뷰에서 AI가 종말을 가져올 가능성은 \"0%\"라고 주장했다.",
+    "summaryEn": "In a CBS Sunday Morning interview, Nvidia CEO Jensen Huang claimed there was a \"0% chance\" of AI being the end of the world."
+  },
+  "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/": {
+    "titleKo": "메타 'Muse', 돕기보다 감시에 더 능하다",
+    "summaryKo": "Muse 앱은 사용자를 AI 학습용 데이터 수집에 기본 동의시키는 메타의 관행을 이어가며, 은행 계좌·이메일·여권 정보 공유도 유도한다.",
+    "summaryEn": "The Muse app continues Meta's practice of opting users into AI-training data collection and nudges them to share bank account, email and passport details."
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
+    "titleKo": "구글 'AI·경제' 연구팀에 새 전문가 합류",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/": {
+    "titleKo": "AI 기반 생물무기 우려, 바이오테크 업계에 경종",
+    "summaryKo": "주요 AI 기업 리더들이 자사 기술의 위험성을 경고하고 있다. 다리오 아모데이 앤트로픽 CEO는 진전 속도를 늦춰야 한다고 했고, 샘 올트먼은 이에 동의한다고 답했다.",
+    "summaryEn": "AI leaders are warning their own technology is dangerous: Anthropic CEO Dario Amodei argued progress should be slowed, and OpenAI's Sam Altman said he agreed on pacing."
+  },
+  "https://zdnet.co.kr/view/?no=20260921031002": {
+    "titleEn": "Huawei Unveils Upgraded Stellar AI Campus Network Solution",
+    "summaryEn": "At HUAWEI CONNECT 2026, Huawei unveiled an upgraded Stellar AI Campus Network Solution built on ultra-fast wireless, all-round security and autonomous networking."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215506": {
+    "titleEn": "'No Text Generation': Developers Rave Over Decision-Only AI Model Jev",
+    "summaryEn": "TypeSafe AI's first model Jev drops text generation to output only typed decisions for software backends, hitting the top of Hacker News after its launch."
   }
 }

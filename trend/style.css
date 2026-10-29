@@ -322,3 +322,8 @@ footer{font-size:15px}
   .tbl.case tr:first-child th{border-top:2px solid var(--ink)!important}
 }
 @media (max-width:560px){.tbl{font-size:17px}.tbl.case td,.tbl:not(.case) td{line-height:1.7}}
+
+/* first-visit bar (first-visit.js) */
+.firstbar{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;margin:16px 0 0;padding:12px 16px;background:var(--accent-soft);border-left:4px solid var(--accent);font-size:16px}
+.firstbar a{font-weight:700;color:var(--accent);text-decoration:none;white-space:nowrap}
+.firstbar a:hover{text-decoration:underline}

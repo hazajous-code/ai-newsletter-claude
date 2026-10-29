@@ -19,6 +19,7 @@ KST = dt.timezone(dt.timedelta(hours=9))
 
 def to_root(html: str, iid: str) -> str:
     html = html.replace('href="../', 'href="')
+    html = html.replace('src="../', 'src="')
     html = html.replace(f'href="{iid}-marketer.html"', 'href="marketer.html"')
     html = html.replace(f'href="{iid}.html"', 'href="index.html"')
     return html

@@ -52,3 +52,8 @@
 - 미리 만든 호는 `issues/<YYYY-MM-DD>.html`·`issues/<YYYY-MM-DD>-marketer.html`로 먼저 올리고, `scheduled.json`에 `{"id","date","title","promoted": false}`로 등록한다. 발행 전에는 지난 호 목록에 노출되지 않고 사본 주소로만 미리 볼 수 있다.
 - 발행일(KST) 아침 `daily.yml`이 `python trend/promote.py`를 실행해 메인(index.html·marketer.html)을 교체하고 지난 호 목록에 한 줄 추가한다. 화요일 주간 발행 작업도 먼저 이 스크립트를 실행하며, 그날 예약 호가 있으면 새 호를 쓰지 않고 사실 재확인만 한다.
 - 예약 호의 사본 링크 규칙: 공용 페이지는 `../`, 두 사본끼리는 서로를 가리킨다. promote.py가 메인용 링크로 바꾼다.
+
+## 첫 방문 안내 (2026-10-29 추가)
+- 모든 페이지 `<head>`에 `first-visit.js`를 넣는다(메인·탭 페이지는 `first-visit.js`, `issues/` 사본은 `../first-visit.js`). 새 호를 만들 때도 직전 호의 head를 그대로 따른다.
+- 이 브라우저에서 사이트를 처음 열고 그 첫 페이지가 메인이면 Vol.01(`issues/2026-10-15.html?from=first`)로 이동하고, 상단에 '최신 호 보기 →' 띠를 보여준다. 다른 페이지를 먼저 본 사람은 이동하지 않는다.
+- promote.py는 사본의 `../` 링크와 스크립트 경로를 메인용으로 바꾼다.

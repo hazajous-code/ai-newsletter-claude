@@ -1,36 +1,18 @@
 {
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T10:53+09:00",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T10:44+09:00",
   "global": [
     {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-10-28T21:48:37+00:00",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-29T22:19:32+00:00",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other webs",
       "lang": "en",
-      "titleKo": "구글, 핵심 광고 성장 둔화 속 AI 검색 광고 전 세계로 확대",
-      "summaryKo": "구글이 AI 검색 광고를 전 세계로 확대한다고 밝혔다. 발표는 매출이 전년 대비 25% 늘어난 1,276억 달러를 기록한 알파벳 3분기 실적 발표와 함께 나왔다.",
-      "summaryEn": "Google is expanding AI Search ads globally. The news came alongside Alphabet's Q3 earnings, with revenue up 25% year over year to $127.6 billion.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "마케팅 영향"
-      ],
-      "score": 8.5
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-10-28T21:34:30+00:00",
-      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It undersc",
-      "lang": "en",
-      "titleKo": "마이크로소프트, 오픈AI에서 분기 매출 100억 달러 올려",
-      "summaryKo": "마이크로소프트는 9월 30일 마감 분기에 수익 배분을 포함한 오픈AI와의 상업적 계약에서 100억 달러 매출을 냈다고 밝혔다. 양사 파트너십의 막대한 재무적 의존도를 보여준다.",
-      "summaryEn": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnin",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -38,40 +20,73 @@
       "score": 6.0
     },
     {
-      "title": "Google says its investments in AI are driving more searches",
-      "url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-10-28T20:22:26+00:00",
-      "summary": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI invest",
-      "lang": "en",
-      "titleKo": "구글 \"AI 투자가 검색량 증가 이끌고 있다\"",
-      "summaryKo": "알파벳은 2026년 3분기 실적에서 AI 투자가 상업용 쿼리를 포함한 전체 검색량 증가를 이끌고 있다고 밝혔다. 순다르 피차이 CEO는 전년 대비 쿼리 증가율이 사상 최고 수준이라고 말했다.",
-      "summaryEn": "Alphabet said in its Q3 2026 earnings that AI investments are driving Search query growth, including commercial queries, with CEO Sundar Pichai citing record year-over-year query growth.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "마케팅 영향"
-      ],
-      "score": 8.5
-    },
-    {
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "source": "WIRED",
       "sourceId": "wired",
-      "publishedAt": "2026-10-28T20:00:00+00:00",
-      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, an",
+      "publishedAt": "2026-10-29T18:39:43+00:00",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
       "lang": "en",
-      "titleKo": "대규모 유출로 미 국토안보부 직원 4만 1천 명 정보 노출…위장 ICE 요원도 포함",
-      "summaryKo": "유출 자료에는 ICE·CBP 시설 위치, 직원 휴대전화 번호, 감청 프로그램·팔란티어 소프트웨어·xAI 그록 챗봇과 연관된 그룹의 구성원 정보가 담겼다.",
-      "summaryEn": "Leaked records on 41,000 DHS workers include ICE and CBP facility locations, workers' phone numbers, and members of groups tied to wiretap programs, Palantir software and xAI's Grok.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-29T16:00:35+00:00",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developer",
+      "lang": "en",
+      "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
+      "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
+      "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-29T10:11:12+00:00",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 8.0
     },
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
@@ -89,39 +104,22 @@
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
-    },
-    {
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-10-28T15:00:46+00:00",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Leno",
-      "lang": "en",
-      "titleKo": "엔비디아 RTX 스파크 윈도우 노트북, 새 모델·에이전트 도구·게임 지원 추가",
-      "summaryKo": "블랙웰 RTX GPU와 그레이스 CPU를 하나의 슈퍼칩에 결합하고 최대 128GB 통합 메모리를 갖춘 RTX 스파크 노트북이 ASUS·델·HP·레노버·마이크로소프트·MSI에서 출시됐다.",
-      "summaryEn": "NVIDIA RTX Spark laptops, pairing a Blackwell RTX GPU and Grace CPU in one superchip with up to 128GB unified memory, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
       "score": 6.0
     }
   ],
   "korea": [
     {
-      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+      "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216824",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-29T05:22:15+00:00",
-      "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼",
+      "publishedAt": "2026-10-30T07:21:59+00:00",
+      "summary": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Google DeepMind's Gemini 4 Carbon topped Artificial Analysis rankings ahead of Claude Opus 5.5 and GPT-6 Astra, with major gains in cybersecurity and long-running autonomous tasks.",
-      "titleEn": "Google Retakes Top AI Benchmark Spot After a Year With Gemini 4 Carbon",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -129,51 +127,17 @@
       "score": 8.0
     },
     {
-      "title": "LGU+, 스마트폰 AI 속도 4.5배 높이고 배터리 소모 77% 줄였다",
-      "url": "https://zdnet.co.kr/view/?no=20261029092931",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-29T00:29:31+00:00",
-      "summary": "[지디넷코리아]LG유플러스가 스마트폰에서 구동하는 AI 처리 속도를 약 4.5배 높이고 배터리 소모를 77% 줄이는 기술을 개발했다.LG유플러스는 29일 AI 토큰 최적화 기술을 다룬 연구 논문 2",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "LG Uplus said two papers on AI token optimization were accepted to a NeurIPS 2026 on-device workshop; its call-service sLM ran about 4.5x faster with ~77% less battery drain.",
-      "titleEn": "LG Uplus Speeds Up On-Device Smartphone AI 4.5x While Cutting Battery Use 77%",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조",
-      "url": "https://zdnet.co.kr/view/?no=20261029090026",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-29T00:21:58+00:00",
-      "summary": "[지디넷코리아]인공지능(AI) 반도체 스타트업 퓨리오사AI가 8200억원 규모 시리즈 D 투자 유치를 완료했다고 29일 밝혔다. 당초 목표했던 금액을 크게 상회했다. 투자 후 기업가치는 약 3조 8",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "FuriosaAI closed an ₩820 billion Series D, well above target, led by Korea's National Growth Fund (₩370B); funds will expand global commercialization of its RNGD AI chip.",
-      "titleEn": "Korean AI Chipmaker FuriosaAI Raises ₩820B Series D at ₩3.8T Valuation",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "발스 AI “앤트로픽, 내년 여름 RSI에 도달”",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216767",
+      "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-28T18:37:43+00:00",
-      "summary": "앤트로픽이 내년 7~8월 인간 연구원의 도움 없이 차세대 AI 모델을 개발하는 '완전한 재귀적 자가 개선(RSI)' 단계에 도달할 수 있다는 전망이 나왔다. 첨단 AI 모델의 연구개발 능력을 평가한",
+      "publishedAt": "2026-10-30T06:52:24+00:00",
+      "summary": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Vals AI CEO Rayan Krishnan said on Joe Lonsdale's podcast that Anthropic could reach full recursive self-improvement, developing models without human researchers, around July–August 2027.",
-      "titleEn": "Vals AI CEO: Anthropic Could Reach Full Recursive Self-Improvement by Next Summer",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],

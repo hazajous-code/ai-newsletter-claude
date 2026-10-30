@@ -10,9 +10,9 @@
       "publishedAt": "2026-09-18T23:13:31+00:00",
       "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "titleKo": "앤트로픽, 생물학 실험 수행하는 연구실 운영",
+      "summaryKo": "AI 업계 리더들은 AI가 질병 치료의 열쇠라고 약속해 왔고, 앤트로픽 연구진은 AI가 인류를 위협할 수 있다고 경고해 왔다.",
+      "summaryEn": "AI leaders have promised AI is key to curing human disease, while Anthropic researchers have warned AI might kill us all.",
       "tags": [
         "빅테크"
       ],
@@ -26,9 +26,9 @@
       "publishedAt": "2026-09-18T21:07:24+00:00",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was startin",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, charact",
+      "titleKo": "오픈AI·MS, 웹을 망가뜨릴 '파멸의 고리' 알고 있었다",
+      "summaryKo": "뉴욕타임스 소송에서 공개된 법원 문서에 따르면 두 회사 내부 문서는 웹을 해칠 '파멸의 고리'를 경고했고, 학습용 데이터 수집을 '인류 역사상 최대의 노동 절도'로 표현했다.",
+      "summaryEn": "Unsealed documents in the New York Times' suit show OpenAI and Microsoft's own files warned of a web-damaging \"doom loop\" and called data scraping for training the \"largest theft of labor in human history.\"",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -75,9 +75,9 @@
       "publishedAt": "2026-09-16T13:00:33+00:00",
       "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch",
+      "titleKo": "에메랄드 AI·구글·엔비디아, 전력 유연형 AI 데이터센터 연합 출범",
+      "summaryKo": "에메랄드 AI, 구글, 엔비디아가 전력 사용을 동적으로 관리하는 데이터센터를 추진하는 'AI 에너지 관리 연합(AEMA)'을 출범했다.",
+      "summaryEn": "Emerald AI, Google and NVIDIA launched the AI Energy Management Alliance (AEMA), a coalition advancing data centers that can dynamically manage their electricity use.",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -92,9 +92,9 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "titleKo": "오픈AI, AI 기반 광고 새로 짠다",
+      "summaryKo": "오픈AI가 스폰서 에이전트, 마케터용 도구, 허브스팟·쇼피파이 연동 등 AI 기반 광고 경험을 공개했다.",
+      "summaryEn": "OpenAI introduced AI-powered advertising experiences, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -113,12 +113,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Three Hacktron AI researchers used Anthropic's Claude to break into an OpenAI employee's account and reach private code repositories, WSJ reported, via a flaw in forum host Discourse's image handling.",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 7.0,
+      "titleEn": "OpenAI Breached Using Anthropic's Claude, Exposing Core Code Repositories"
     },
     {
       "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
@@ -130,11 +131,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "TrendForce expects TSMC's CoWoS-L 2.5D packaging to stay the mainstream AI chip packaging tech through at least 2028, with Intel's EMIB-T still trailing in maturity and yield.",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 6.0,
+      "titleEn": "TSMC Expected to Dominate AI Chip Packaging Through 2028"
     },
     {
       "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",

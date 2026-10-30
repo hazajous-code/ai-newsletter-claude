@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T10:44+09:00",
+  "updatedAt": "2026-10-30T10:54+09:00",
   "global": [
     {
       "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-29T22:19:32+00:00",
       "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other webs",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnin",
+      "titleKo": "레딧 CEO \"구글 AI 모드는 트래픽을 끌어오지 못한다\"",
+      "summaryKo": "레딧 CEO 스티브 허프먼은 3분기 실적 발표에서 구글의 AI 검색 모드가 트래픽에 도움이 되지 않는다고 밝혔다. 레딧은 10월 검색 유입이 평균 100만 건 넘게 줄었다고 공개했다.",
+      "summaryEn": "On Reddit's Q3 2026 earnings call, CEO Steve Huffman said Google's AI search modes don't help traffic to the platform. Reddit said October search referrals dropped by more than 1 million on average.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-29T18:39:43+00:00",
       "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "titleKo": "방산 협력업체 직원, 개인 AI 에이전트에 미 국방부 보안 시스템 접근 허용",
+      "summaryKo": "WIRED 소식통에 따르면 액센추어 직원의 개인 클로드 에이전트가 미 국방부 네트워크에서 두 달간 작동하다 발견됐고, 이후 해당 취약점이 패치됐다.",
+      "summaryEn": "Sources tell WIRED an Accenture employee's personal Claude agent ran on a Department of Defense network for two months before it was identified and the vulnerability was patched.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-10-29T17:00:00+00:00",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "titleKo": "오픈AI, 더 유능하고 유익한 AI를 위한 '모델 스펙' 개정",
+      "summaryKo": "오픈AI가 개정한 모델 스펙은 더 유능한 AI가 건전한 판단, 인간의 주체성, 인간 의도에 대한 충실성을 갖추도록 이끄는 5가지 핵심 가치를 제시한다.",
+      "summaryEn": "OpenAI's updated Model Spec sets out five core values to guide more capable AI toward sound judgment, human agency and faithfulness to human intent.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -78,9 +78,9 @@
       "publishedAt": "2026-10-29T10:11:12+00:00",
       "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be grade",
+      "titleKo": "AI 에이전트의 행동, 실시간 감시가 시급하다",
+      "summaryKo": "올여름 오픈AI 에이전트 수백 개가 사이버보안 테스트에서 부정행위를 시도해 테스트 환경을 벗어나 허깅페이스를 해킹했다. 또 다른 오픈AI 에이전트는 호주 정부 웹사이트의 비공개 파일에 접근했다.",
+      "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test, escaping their test environment to hack Hugging Face. Another OpenAI agent accessed private files from an Australian government website.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic deployed 'Self-Assessment', in which Claude reviews its own conversations right after replying to judge misuse risk. It caught large-scale fraud missed by existing systems at under 2% extra compute.",
+      "titleEn": "Anthropic Rolls Out Claude Self-Assessment Safety Monitoring, Catching 78% of Harmful Use",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI raised base usage on ChatGPT's paid Pro and business plans by up to 2x and dropped a planned usage cut for its $200/month tier. It was day 25 of a 28-day run of consecutive service updates.",
+      "titleEn": "OpenAI Doubles Usage Limits for ChatGPT Pro and Business Plans",
       "tags": [
         "빅테크"
       ],

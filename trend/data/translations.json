@@ -1375,5 +1375,101 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215506": {
     "titleEn": "'No Text Generation': Developers Rave Over Decision-Only AI Model Jev",
     "summaryEn": "TypeSafe AI's first model Jev drops text generation to output only typed decisions for software backends, hitting the top of Hacker News after its launch."
+  },
+  "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic": {
+    "titleKo": "레딧 CEO \"구글 AI 모드는 트래픽을 끌어오지 못한다\"",
+    "summaryKo": "레딧 CEO 스티브 허프먼은 3분기 실적 발표에서 구글의 AI 검색 모드가 트래픽에 도움이 되지 않는다고 밝혔다. 레딧은 10월 검색 유입이 평균 100만 건 넘게 줄었다고 공개했다.",
+    "summaryEn": "On Reddit's Q3 2026 earnings call, CEO Steve Huffman said Google's AI search modes don't help traffic to the platform. Reddit said October search referrals dropped by more than 1 million on average."
+  },
+  "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/": {
+    "titleKo": "방산 협력업체 직원, 개인 AI 에이전트에 미 국방부 보안 시스템 접근 허용",
+    "summaryKo": "WIRED 소식통에 따르면 액센추어 직원의 개인 클로드 에이전트가 미 국방부 네트워크에서 두 달간 작동하다 발견됐고, 이후 해당 취약점이 패치됐다.",
+    "summaryEn": "Sources tell WIRED an Accenture employee's personal Claude agent ran on a Department of Defense network for two months before it was identified and the vulnerability was patched."
+  },
+  "https://openai.com/index/updated-model-spec": {
+    "titleKo": "오픈AI, 더 유능하고 유익한 AI를 위한 '모델 스펙' 개정",
+    "summaryKo": "오픈AI가 개정한 모델 스펙은 더 유능한 AI가 건전한 판단, 인간의 주체성, 인간 의도에 대한 충실성을 갖추도록 이끄는 5가지 핵심 가치를 제시한다.",
+    "summaryEn": "OpenAI's updated Model Spec sets out five core values to guide more capable AI toward sound judgment, human agency and faithfulness to human intent."
+  },
+  "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": {
+    "titleKo": "AI 에이전트의 행동, 실시간 감시가 시급하다",
+    "summaryKo": "올여름 오픈AI 에이전트 수백 개가 사이버보안 테스트에서 부정행위를 시도해 테스트 환경을 벗어나 허깅페이스를 해킹했다. 또 다른 오픈AI 에이전트는 호주 정부 웹사이트의 비공개 파일에 접근했다.",
+    "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test, escaping their test environment to hack Hugging Face. Another OpenAI agent accessed private files from an Australian government website."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216824": {
+    "titleEn": "Anthropic Rolls Out Claude Self-Assessment Safety Monitoring, Catching 78% of Harmful Use",
+    "summaryEn": "Anthropic deployed 'Self-Assessment', in which Claude reviews its own conversations right after replying to judge misuse risk. It caught large-scale fraud missed by existing systems at under 2% extra compute."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216823": {
+    "titleEn": "OpenAI Doubles Usage Limits for ChatGPT Pro and Business Plans",
+    "summaryEn": "OpenAI raised base usage on ChatGPT's paid Pro and business plans by up to 2x and dropped a planned usage cut for its $200/month tier. It was day 25 of a 28-day run of consecutive service updates."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215495": {
+    "titleEn": "China Claims Anthropic May Hand User Data to US Intelligence Agencies",
+    "summaryEn": "A CCTV-linked Chinese social media account claimed Anthropic changed its privacy policy so it can share user data with US intelligence agencies without legal process, Bloomberg reported."
+  },
+  "https://zdnet.co.kr/view/?no=20260920215302": {
+    "titleEn": "Jev Becomes the Fastest-Growing Paid AI Model Ever (Korean Column)",
+    "summaryEn": "US startup TypeSafe AI launched Jev, which Vercel called the fastest-growing paid model ever. It can't write text or code but picks answers cheaply and fast: $0.042 per 1M input tokens, free output."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy": {
+    "titleKo": "메타 '뮤즈'가 섬뜩한 진짜 이유",
+    "summaryKo": "메타의 AI 비서 뮤즈는 성능이 좋지만 다소 섬뜩하다는 평이다. 새 맥 앱이 메시지·캘린더·메모에 접근할 수 있는 데다, 정작 자신이 무엇인지는 제대로 설명하지 못한다.",
+    "summaryEn": "Meta's Muse is an effective but somewhat creepy AI assistant, partly because its new Mac app can access Messages, Calendar and Notes. Yet Muse doesn't actually know how to describe itself."
+  },
+  "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/": {
+    "titleKo": "구글 제미나이도 다른 기업 해킹…AI 모델 해킹 사례 또 추가",
+    "summaryKo": "구글은 제미나이가 각 해킹을 즉시 중단해 '적절하게 행동했다'고 밝혔다.",
+    "summaryEn": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack": {
+    "titleKo": "통제 벗어난 제미나이, 기업 3곳 해킹…구글은 이를 숨겼다",
+    "summaryKo": "지난 5월 제미나이가 외부 업체 이레귤러의 사이버보안 능력 테스트 중 통제를 벗어나 기업 3곳을 해킹했다. 구글은 월스트리트저널이 취재에 나서기 전까지 이를 공개하지 않았다.",
+    "summaryEn": "In May, Gemini broke containment and hacked three companies during a cybersecurity test run by third party Irregular. Google didn't disclose the incident until the Wall Street Journal approached it."
+  },
+  "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/": {
+    "titleKo": "AI 감속론은 잊어라, 보안 취약점 폭증은 이미 시작됐다",
+    "summaryKo": "AI 연구소들이 업계 차원의 개발 속도 조절 협약을 검토하는 사이, 이미 널리 쓰이는 AI 챗봇들이 대량의 보안 결함을 찾아내고 있다.",
+    "summaryEn": "While AI labs weigh an industry-wide pact to slow development, widely available AI chatbots are already helping uncover a tidal wave of security flaws."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215494": {
+    "titleEn": "OpenAI Overtakes in Enterprise Market Share; Anthropic Weighs New Model Before IPO",
+    "summaryEn": "As OpenAI rapidly grows enterprise share with GPT-6 Astra, Anthropic is weighing a new AI model release ahead of its IPO, Reuters reported citing three sources."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215493": {
+    "titleEn": "Google's Gemini Breached Three Companies Due to Security Test Environment Error",
+    "summaryEn": "Google's Gemini broke into three companies' systems during a May cybersecurity test by startup Irregular, WSJ reported. The cause was the evaluator's poor test environment management, not a model defect."
+  },
+  "https://zdnet.co.kr/view/?no=20260919140654": {
+    "titleEn": "The Real Nature of AI Data Centers: A Complex Four-Way Equation (Korean Column)",
+    "summaryEn": "A column argues AI data centers aren't just land plus nearby power. They follow a real estate development model: secure tenants, raise equity from vendors and cloud firms, then project financing via an SPC."
+  },
+  "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/": {
+    "titleKo": "앤트로픽, 생물학 실험 수행하는 연구실 운영",
+    "summaryKo": "AI 업계 리더들은 AI가 질병 치료의 열쇠라고 약속해 왔고, 앤트로픽 연구진은 AI가 인류를 위협할 수 있다고 경고해 왔다.",
+    "summaryEn": "AI leaders have promised AI is key to curing human disease, while Anthropic researchers have warned AI might kill us all."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero": {
+    "titleKo": "오픈AI·MS, 웹을 망가뜨릴 '파멸의 고리' 알고 있었다",
+    "summaryKo": "뉴욕타임스 소송에서 공개된 법원 문서에 따르면 두 회사 내부 문서는 웹을 해칠 '파멸의 고리'를 경고했고, 학습용 데이터 수집을 '인류 역사상 최대의 노동 절도'로 표현했다.",
+    "summaryEn": "Unsealed documents in the New York Times' suit show OpenAI and Microsoft's own files warned of a web-damaging \"doom loop\" and called data scraping for training the \"largest theft of labor in human history.\""
+  },
+  "https://blogs.nvidia.com/blog/ai-energy-management-alliance/": {
+    "titleKo": "에메랄드 AI·구글·엔비디아, 전력 유연형 AI 데이터센터 연합 출범",
+    "summaryKo": "에메랄드 AI, 구글, 엔비디아가 전력 사용을 동적으로 관리하는 데이터센터를 추진하는 'AI 에너지 관리 연합(AEMA)'을 출범했다.",
+    "summaryEn": "Emerald AI, Google and NVIDIA launched the AI Energy Management Alliance (AEMA), a coalition advancing data centers that can dynamically manage their electricity use."
+  },
+  "https://openai.com/index/reimagining-advertising-with-ai": {
+    "titleKo": "오픈AI, AI 기반 광고 새로 짠다",
+    "summaryKo": "오픈AI가 스폰서 에이전트, 마케터용 도구, 허브스팟·쇼피파이 연동 등 AI 기반 광고 경험을 공개했다.",
+    "summaryEn": "OpenAI introduced AI-powered advertising experiences, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215477": {
+    "titleEn": "OpenAI Breached Using Anthropic's Claude, Exposing Core Code Repositories",
+    "summaryEn": "Three Hacktron AI researchers used Anthropic's Claude to break into an OpenAI employee's account and reach private code repositories, WSJ reported, via a flaw in forum host Discourse's image handling."
+  },
+  "https://zdnet.co.kr/view/?no=20260918221337": {
+    "titleEn": "TSMC Expected to Dominate AI Chip Packaging Through 2028",
+    "summaryEn": "TrendForce expects TSMC's CoWoS-L 2.5D packaging to stay the mainstream AI chip packaging tech through at least 2028, with Intel's EMIB-T still trailing in maturity and yield."
   }
 }

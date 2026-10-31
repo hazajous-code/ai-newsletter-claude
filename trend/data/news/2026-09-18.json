@@ -10,8 +10,8 @@
       "publishedAt": "2026-09-17T23:21:17+00:00",
       "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "구글 딥마인드, AGI 논의 넓힐 연구소 출범",
+      "summaryKo": "구글 딥마인드가 AGI를 둘러싼 큰 질문들을 공개적으로 논의하기 위한 연구소를 출범했다.",
       "summaryEn": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
       "tags": [
         "빅테크",
@@ -27,8 +27,8 @@
       "publishedAt": "2026-09-17T22:20:21+00:00",
       "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "AI 종말 시나리오는 이런 모습일 수 있다",
+      "summaryKo": "WIRED 팟캐스트 'Uncanny Valley'가 세 가지 AI 종말 시나리오와 AI 안전, AI에 반대하는 의외의 초당적 연대를 다뤘다.",
       "summaryEn": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
       "tags": [
         "정책·법·보안"
@@ -43,8 +43,8 @@
       "publishedAt": "2026-09-17T18:58:05+00:00",
       "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Sim",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "Claude Code, 클라우드서 여러 AI 에이전트 관리하는 'Projects' 개편 출시",
+      "summaryKo": "개편된 Claude Code 프로젝트 기능은 공유 메모리·목표·파일 라이브러리 아래 여러 에이전트를 실행하며, '코디네이터'가 병렬 작업 스레드를 지휘한다.",
       "summaryEn": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage group",
       "tags": [
         "빅테크",
@@ -94,7 +94,7 @@
       "publishedAt": "2026-09-15T17:05:57+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글, 'Gemini 3.8 Live'와 '3.8 Live Extended Thinking' 공개",
       "summaryKo": "",
       "summaryEn": "",
       "tags": [
@@ -115,12 +115,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Korean security firm AIM Intelligence launched PASC, a nonprofit open consortium on physical AI safety; about 30 researchers, including experts from Google, Microsoft, Oracle and LG Electronics, are taking part.",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 7.0,
+      "titleEn": "AIM Intelligence Launches PASC, a Global Consortium for Physical AI Safety Research"
     },
     {
       "title": "구글, 수학 특화 AI '딥씽크 V3 매스매티카' 내부 테스트 정황 포착",
@@ -132,11 +133,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "According to TestingCatalog, backend details and reasoning screenshots of Google's unreleased model 'DeepThink V3 Mathematica,' specialized in advanced math and deep reasoning, have leaked.",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 6.0,
+      "titleEn": "Leak Suggests Google Is Internally Testing Math-Focused 'DeepThink V3 Mathematica'"
     }
   ]
 }

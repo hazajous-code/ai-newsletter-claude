@@ -43,7 +43,7 @@
       "publishedAt": "2026-09-18T14:00:00+00:00",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글 'AI·경제' 연구팀에 새 전문가 합류",
       "summaryKo": "",
       "summaryEn": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
       "tags": [
@@ -59,8 +59,8 @@
       "publishedAt": "2026-09-18T09:00:00+00:00",
       "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei arg",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "AI 기반 생물무기 우려, 바이오테크 업계에 경종",
+      "summaryKo": "주요 AI 기업 리더들이 자사 기술의 위험성을 경고하고 있다. 다리오 아모데이 앤트로픽 CEO는 진전 속도를 늦춰야 한다고 했고, 샘 올트먼은 이에 동의한다고 답했다.",
       "summaryEn": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress",
       "tags": [
         "빅테크"
@@ -148,12 +148,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Stanford professor Andrew Ng told Bloomberg TV that framing AI as an extinction threat is closer to science fiction, saying Big Tech has used doom warnings for hype and favorable regulation.",
       "tags": [
         "마케팅 영향",
         "정책·법·보안"
       ],
-      "score": 7.5
+      "score": 7.5,
+      "titleEn": "Andrew Ng Calls AI Extinction Threat 'Sci-Fi,' Slams Fear Marketing"
     }
   ]
 }

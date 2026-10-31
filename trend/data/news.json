@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T10:31+09:00",
+  "updatedAt": "2026-10-31T10:54+09:00",
   "global": [
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-31T01:20:05+00:00",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "titleKo": "엔비디아, Nscale 웨스트버지니아 AI 데이터센터 대출 보증 검토",
+      "summaryKo": "AI 투자에 대한 투자자 불안이 커지는 가운데, 칩 공급사인 엔비디아가 Nscale의 데이터센터 대출에 공동 보증을 서는 방안을 검토하고 있다.",
+      "summaryEn": "Nvidia is weighing whether to cosign the loan for Nscale's AI data center in West Virginia, as investors grow nervous about AI spending.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-30T21:52:03+00:00",
       "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding i",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its busin",
+      "titleKo": "FT \"앤트로픽, IPO 후 신용평가사서 '정크' 상위 등급 받을 듯\"",
+      "summaryKo": "블랙스톤은 앤트로픽이 IPO 후 높은 정크 등급을 받을 것으로 전망했다. 이 경우 막대한 지출을 뒷받침할 자금 조달이 더 어렵고 비싸질 수 있다.",
+      "summaryEn": "Blackstone forecasts that Anthropic will get a high junk credit rating after its IPO, per the FT, which would make raising money to fund its massive spending harder and costlier.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-10-30T21:19:26+00:00",
       "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "titleKo": "한 계약업체의 Claude 에이전트는 어떻게 미 국방부에 들어갔나",
+      "summaryKo": "WIRED 팟캐스트 'Uncanny Valley'가 계약업체의 Claude 에이전트가 미 국방부에 들어간 경위와 함께 앤트로픽의 IPO 신청 등을 다뤘다.",
+      "summaryEn": "WIRED's Uncanny Valley podcast covers how a contractor's Claude agent got into the Pentagon, along with Anthropic's IPO filing.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -61,9 +61,9 @@
       "publishedAt": "2026-10-30T20:26:10+00:00",
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engin",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can ap",
+      "titleKo": "오픈AI·구글·MS·앤트로픽, AI 스크래핑 거부 새 표준 도입",
+      "summaryKo": "주요 AI 기업들이 퍼블리셔가 AI 학습용 스크래핑을 거부할 수 있는 공통 표준을 채택한다. 회사별로 따로 설정하지 않고 '정책 토큰' 하나로 여러 AI 기업에 적용된다.",
+      "summaryEn": "OpenAI, Google, Microsoft and Anthropic will adopt a new standard letting publishers opt out of AI scraping, applying a shared \"policy token\" across companies instead of setting preferences individually.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -79,9 +79,9 @@
       "publishedAt": "2026-10-30T15:00:10+00:00",
       "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence too",
+      "titleKo": "에이전트 AI, 외계 신호 탐색에 합류",
+      "summaryKo": "엔비디아는 외계 지적 생명체 탐사(SETI)가 AI로 큰 진전을 이뤘으며, 사람이 만든 AI 에이전트가 신호를 탐지하는 방식으로 점점 옮겨가고 있다고 소개했다.",
+      "summaryEn": "Nvidia says the search for extraterrestrial intelligence has taken a major leap forward with AI, increasingly relying on human-built AI agents to listen for signals.",
       "titleEn": "",
       "tags": [
         "마케팅 영향"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google's AI search has weighed on its core ad business because AI search ads earn less than traditional search; combined with soaring AI infrastructure costs, Alphabet's market cap has fallen by over $500 billion.",
+      "titleEn": "AI Search Squeezes Google's Ad Margins, Wiping $500B Off Alphabet's Market Value",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Ahead of its IPO, Anthropic is expanding enterprise AI with finance and legal offerings, including Claude for Financial Advisors, plus team-level output and spending reports and shared budget controls.",
+      "titleEn": "Ahead of IPO, Anthropic Doubles Down on Enterprise With Performance and Cost Management Tools",
       "tags": [
         "빅테크",
         "정책·법·보안"

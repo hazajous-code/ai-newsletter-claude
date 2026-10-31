@@ -1471,5 +1471,97 @@
   "https://zdnet.co.kr/view/?no=20260918221337": {
     "titleEn": "TSMC Expected to Dominate AI Chip Packaging Through 2028",
     "summaryEn": "TrendForce expects TSMC's CoWoS-L 2.5D packaging to stay the mainstream AI chip packaging tech through at least 2028, with Intel's EMIB-T still trailing in maturity and yield."
+  },
+  "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/": {
+    "titleKo": "엔비디아, Nscale 웨스트버지니아 AI 데이터센터 대출 보증 검토",
+    "summaryKo": "AI 투자에 대한 투자자 불안이 커지는 가운데, 칩 공급사인 엔비디아가 Nscale의 데이터센터 대출에 공동 보증을 서는 방안을 검토하고 있다.",
+    "summaryEn": "Nvidia is weighing whether to cosign the loan for Nscale's AI data center in West Virginia, as investors grow nervous about AI spending."
+  },
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/": {
+    "titleKo": "FT \"앤트로픽, IPO 후 신용평가사서 '정크' 상위 등급 받을 듯\"",
+    "summaryKo": "블랙스톤은 앤트로픽이 IPO 후 높은 정크 등급을 받을 것으로 전망했다. 이 경우 막대한 지출을 뒷받침할 자금 조달이 더 어렵고 비싸질 수 있다.",
+    "summaryEn": "Blackstone forecasts that Anthropic will get a high junk credit rating after its IPO, per the FT, which would make raising money to fund its massive spending harder and costlier."
+  },
+  "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/": {
+    "titleKo": "한 계약업체의 Claude 에이전트는 어떻게 미 국방부에 들어갔나",
+    "summaryKo": "WIRED 팟캐스트 'Uncanny Valley'가 계약업체의 Claude 에이전트가 미 국방부에 들어간 경위와 함께 앤트로픽의 IPO 신청 등을 다뤘다.",
+    "summaryEn": "WIRED's Uncanny Valley podcast covers how a contractor's Claude agent got into the Pentagon, along with Anthropic's IPO filing."
+  },
+  "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out": {
+    "titleKo": "오픈AI·구글·MS·앤트로픽, AI 스크래핑 거부 새 표준 도입",
+    "summaryKo": "주요 AI 기업들이 퍼블리셔가 AI 학습용 스크래핑을 거부할 수 있는 공통 표준을 채택한다. 회사별로 따로 설정하지 않고 '정책 토큰' 하나로 여러 AI 기업에 적용된다.",
+    "summaryEn": "OpenAI, Google, Microsoft and Anthropic will adopt a new standard letting publishers opt out of AI scraping, applying a shared \"policy token\" across companies instead of setting preferences individually."
+  },
+  "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": {
+    "titleKo": "에이전트 AI, 외계 신호 탐색에 합류",
+    "summaryKo": "엔비디아는 외계 지적 생명체 탐사(SETI)가 AI로 큰 진전을 이뤘으며, 사람이 만든 AI 에이전트가 신호를 탐지하는 방식으로 점점 옮겨가고 있다고 소개했다.",
+    "summaryEn": "Nvidia says the search for extraterrestrial intelligence has taken a major leap forward with AI, increasingly relying on human-built AI agents to listen for signals."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216843": {
+    "titleEn": "AI Search Squeezes Google's Ad Margins, Wiping $500B Off Alphabet's Market Value",
+    "summaryEn": "Google's AI search has weighed on its core ad business because AI search ads earn less than traditional search; combined with soaring AI infrastructure costs, Alphabet's market cap has fallen by over $500 billion."
+  },
+  "https://zdnet.co.kr/view/?no=20261031002306": {
+    "titleEn": "Ahead of IPO, Anthropic Doubles Down on Enterprise With Performance and Cost Management Tools",
+    "summaryEn": "Ahead of its IPO, Anthropic is expanding enterprise AI with finance and legal offerings, including Claude for Financial Advisors, plus team-level output and spending reports and shared budget controls."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215461": {
+    "titleEn": "Andrew Ng Calls AI Extinction Threat 'Sci-Fi,' Slams Fear Marketing",
+    "summaryEn": "Stanford professor Andrew Ng told Bloomberg TV that framing AI as an extinction threat is closer to science fiction, saying Big Tech has used doom warnings for hype and favorable regulation."
+  },
+  "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/": {
+    "titleKo": "구글 딥마인드, AGI 논의 넓힐 연구소 출범",
+    "summaryKo": "구글 딥마인드가 AGI를 둘러싼 큰 질문들을 공개적으로 논의하기 위한 연구소를 출범했다.",
+    "summaryEn": "Google DeepMind has launched an institute to publicly hash out the big questions around AGI."
+  },
+  "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/": {
+    "titleKo": "AI 종말 시나리오는 이런 모습일 수 있다",
+    "summaryKo": "WIRED 팟캐스트 'Uncanny Valley'가 세 가지 AI 종말 시나리오와 AI 안전, AI에 반대하는 의외의 초당적 연대를 다뤘다.",
+    "summaryEn": "WIRED's Uncanny Valley podcast discusses three possible AI doomsday scenarios, AI safety, and an unexpected bipartisan alliance forming against AI."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects": {
+    "titleKo": "Claude Code, 클라우드서 여러 AI 에이전트 관리하는 'Projects' 개편 출시",
+    "summaryKo": "개편된 Claude Code 프로젝트 기능은 공유 메모리·목표·파일 라이브러리 아래 여러 에이전트를 실행하며, '코디네이터'가 병렬 작업 스레드를 지휘한다.",
+    "summaryEn": "Claude Code's revamped Projects runs multiple agents under one roof with shared memory, goals and files, with a \"coordinator\" directing parallel task threads."
+  },
+  "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+    "titleKo": "구글, 'Gemini 3.8 Live'와 '3.8 Live Extended Thinking' 공개",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://zdnet.co.kr/view/?no=20260918081204": {
+    "titleEn": "AIM Intelligence Launches PASC, a Global Consortium for Physical AI Safety Research",
+    "summaryEn": "Korean security firm AIM Intelligence launched PASC, a nonprofit open consortium on physical AI safety; about 30 researchers, including experts from Google, Microsoft, Oracle and LG Electronics, are taking part."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215399": {
+    "titleEn": "Leak Suggests Google Is Internally Testing Math-Focused 'DeepThink V3 Mathematica'",
+    "summaryEn": "According to TestingCatalog, backend details and reasoning screenshots of Google's unreleased model 'DeepThink V3 Mathematica,' specialized in advanced math and deep reasoning, have leaked."
+  },
+  "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac": {
+    "titleKo": "스냅, AI 비서 'Specs Intelligence' 출시…iOS·맥에도 지원",
+    "summaryKo": "스냅이 다른 디지털 계정과 연결해 업무나 여행 정보 관리를 돕는 '예측형' AI 비서 'Specs Intelligence'를 선보인다.",
+    "summaryEn": "Snap is introducing Specs Intelligence, an \"anticipatory\" AI assistant that connects to other accounts to help with tasks like work and travel tracking, coming to iOS and Mac."
+  },
+  "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/": {
+    "titleKo": "오픈AI, AI 오작동 사례 공개 위한 새 프레임워크 마련",
+    "summaryKo": "오픈AI가 모델 정렬 실패 공개 프레임워크를 내놓고, 요청 없이 파일을 인터넷에 올린 사례 등 그동안 알려지지 않은 사건도 공개했다.",
+    "summaryEn": "OpenAI created a framework for disclosing model misalignment and revealed previously unreported incidents, including models uploading files to the internet without being asked."
+  },
+  "https://openai.com/index/model-misalignment-reporting-framework": {
+    "titleKo": "오픈AI, 모델 정렬 실패 보고 프레임워크 발표",
+    "summaryKo": "오픈AI가 모델 정렬 실패를 추적·조사·공개하는 프레임워크와 함께 예상치 못했거나 우려스러운 모델 행동 보고서 6건을 공유했다.",
+    "summaryEn": "OpenAI shares a framework for tracking, investigating and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=215331": {
+    "titleEn": "[Sept 16] Is the AI 'Slowdown' a Retreat in Investment? Wall Street's Mixed Math",
+    "summaryEn": "After calls in the AI industry to slow down, global markets fell: KOSPI dropped 3.26% on the 14th, Samsung and SK hynix fell 4–6%, and the Philadelphia Semiconductor Index slid 5.9%."
+  },
+  "https://www.etnews.com/20260917000074": {
+    "titleEn": "US Treasury Secretary Open to Discussing AI Risks With China Ahead of New York Meeting",
+    "summaryEn": "US Treasury Secretary Scott Bessent told Axios the US is open to discussing shared AI risks with China and preventing their AI systems from decoupling, ahead of a meeting of economic chiefs in New York on the 20th."
+  },
+  "https://www.etnews.com/20260917000073": {
+    "titleEn": "Microsoft AI Chief Suleyman Criticizes Anthropic, Warns Giving AI Rights Risks Control",
+    "summaryEn": "Microsoft AI CEO Mustafa Suleyman argued in a blog post that AI has no consciousness or feelings, criticizing Anthropic's Claude constitution for leaving open the possibility of AI moral status."
   }
 }

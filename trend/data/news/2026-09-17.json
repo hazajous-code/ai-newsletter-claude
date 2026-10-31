@@ -10,8 +10,8 @@
       "publishedAt": "2026-09-16T23:40:00+00:00",
       "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel i",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "스냅, AI 비서 'Specs Intelligence' 출시…iOS·맥에도 지원",
+      "summaryKo": "스냅이 다른 디지털 계정과 연결해 업무나 여행 정보 관리를 돕는 '예측형' AI 비서 'Specs Intelligence'를 선보인다.",
       "summaryEn": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like",
       "tags": [
         "빅테크",
@@ -27,8 +27,8 @@
       "publishedAt": "2026-09-16T22:07:24+00:00",
       "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being aske",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "오픈AI, AI 오작동 사례 공개 위한 새 프레임워크 마련",
+      "summaryKo": "오픈AI가 모델 정렬 실패 공개 프레임워크를 내놓고, 요청 없이 파일을 인터넷에 올린 사례 등 그동안 알려지지 않은 사건도 공개했다.",
       "summaryEn": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "tags": [
         "빅테크"
@@ -43,8 +43,8 @@
       "publishedAt": "2026-09-16T17:00:00+00:00",
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "오픈AI, 모델 정렬 실패 보고 프레임워크 발표",
+      "summaryKo": "오픈AI가 모델 정렬 실패를 추적·조사·공개하는 프레임워크와 함께 예상치 못했거나 우려스러운 모델 행동 보고서 6건을 공유했다.",
       "summaryEn": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "tags": [
         "빅테크"
@@ -93,7 +93,7 @@
       "publishedAt": "2026-09-15T17:05:57+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글, 'Gemini 3.8 Live'와 '3.8 Live Extended Thinking' 공개",
       "summaryKo": "",
       "summaryEn": "",
       "tags": [
@@ -114,11 +114,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "After calls in the AI industry to slow down, global markets fell: KOSPI dropped 3.26% on the 14th, Samsung and SK hynix fell 4–6%, and the Philadelphia Semiconductor Index slid 5.9%.",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 6.0,
+      "titleEn": "[Sept 16] Is the AI 'Slowdown' a Retreat in Investment? Wall Street's Mixed Math"
     },
     {
       "title": "美재무 “中과 AI 위험 논의 가능”…20일 뉴욕서 경제수장 회동",
@@ -130,11 +131,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "US Treasury Secretary Scott Bessent told Axios the US is open to discussing shared AI risks with China and preventing their AI systems from decoupling, ahead of a meeting of economic chiefs in New York on the 20th.",
       "tags": [
         "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 5.0,
+      "titleEn": "US Treasury Secretary Open to Discussing AI Risks With China Ahead of New York Meeting"
     },
     {
       "title": "MS AI수장 “AI에 권리 가르치면 통제 위험”…앤트로픽 비판",
@@ -146,12 +148,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Microsoft AI CEO Mustafa Suleyman argued in a blog post that AI has no consciousness or feelings, criticizing Anthropic's Claude constitution for leaving open the possibility of AI moral status.",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 7.0,
+      "titleEn": "Microsoft AI Chief Suleyman Criticizes Anthropic, Warns Giving AI Rights Risks Control"
     },
     {
       "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",

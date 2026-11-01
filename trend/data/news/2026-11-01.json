@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T09:50+09:00",
+  "updatedAt": "2026-11-01T10:53+09:00",
   "global": [
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-10-31T21:41:00+00:00",
       "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "titleKo": "애플 CEO \"AI를 위한 AI는 내놓지 않겠다\"",
+      "summaryKo": "애플의 새 CEO가 AI 경쟁 구도에서 애플이 현재 취하고 있는 입장을 옹호했다.",
+      "summaryEn": "Apple's new CEO defended the company's current position in the AI landscape, saying Apple doesn't want to ship AI for AI's sake.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-10-31T16:12:55+00:00",
       "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "titleKo": "OpenAI, 신규 투자 라운드 목표액 낮춘 듯",
+      "summaryKo": "OpenAI의 최신 투자 라운드가 기대에 미치지 못하는 것으로 보이며, 보도에 따르면 회사가 목표 조달액을 낮췄다.",
+      "summaryEn": "OpenAI's latest funding round doesn't seem to be living up to expectations, and the company has reportedly lowered its funding target.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -44,9 +44,9 @@
       "publishedAt": "2026-10-31T16:05:00+00:00",
       "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w",
+      "titleKo": "메타보다 먼저 'AI 다마고치'를 직접 만들어 봤다",
+      "summaryKo": "메타가 연말 시즌 다마고치처럼 들고 다니는 AI 기기 'Muse Charm'을 판매하려 하자, 필자는 이를 사는 대신 직접 비슷한 기기를 만들었다.",
+      "summaryEn": "Meta wants to sell a Muse Charm this holiday season so users can carry its AI helper around like a Tamagotchi; the author instead built a homemade version.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -78,8 +78,8 @@
       "publishedAt": "2026-10-30T09:30:00+00:00",
       "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "OpenAI, 웹사이트의 AI 학습 허용 여부 표시 쉽게 한다",
+      "summaryKo": "OpenAI는 웹사이트 운영자가 참여 AI 기업들에 학습 데이터 활용 선호를 전달할 수 있도록 공용 robots.txt 신호를 준수하기로 했다.",
       "summaryEn": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
       "titleEn": "",
       "tags": [
@@ -117,8 +117,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "S&P Global Ratings cut Meta's outlook from stable to negative while keeping its AA- rating, warning of a possible downgrade within two years as AI infrastructure spending turns cash flow negative.",
+      "titleEn": "S&P Warns of Possible Meta Credit Downgrade as AI Spending Hits Cash Flow",
       "tags": [
         "빅테크",
         "마케팅 영향"

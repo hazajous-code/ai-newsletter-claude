@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-31",
-  "updatedAt": "2026-10-31T10:54+09:00",
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T09:50+09:00",
   "global": [
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-31T01:20:05+00:00",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
       "lang": "en",
-      "titleKo": "엔비디아, Nscale 웨스트버지니아 AI 데이터센터 대출 보증 검토",
-      "summaryKo": "AI 투자에 대한 투자자 불안이 커지는 가운데, 칩 공급사인 엔비디아가 Nscale의 데이터센터 대출에 공동 보증을 서는 방안을 검토하고 있다.",
-      "summaryEn": "Nvidia is weighing whether to cosign the loan for Nscale's AI data center in West Virginia, as investors grow nervous about AI spending.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple's new CEO defended the company's current position in the AI landscape.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -20,16 +20,16 @@
       "score": 6.0
     },
     {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-30T21:52:03+00:00",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding i",
+      "publishedAt": "2026-10-31T16:12:55+00:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "lang": "en",
-      "titleKo": "FT \"앤트로픽, IPO 후 신용평가사서 '정크' 상위 등급 받을 듯\"",
-      "summaryKo": "블랙스톤은 앤트로픽이 IPO 후 높은 정크 등급을 받을 것으로 전망했다. 이 경우 막대한 지출을 뒷받침할 자금 조달이 더 어렵고 비싸질 수 있다.",
-      "summaryEn": "Blackstone forecasts that Anthropic will get a high junk credit rating after its IPO, per the FT, which would make raising money to fund its massive spending harder and costlier.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -37,39 +37,21 @@
       "score": 6.0
     },
     {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "source": "WIRED",
-      "sourceId": "wired",
-      "publishedAt": "2026-10-30T21:19:26+00:00",
-      "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
-      "lang": "en",
-      "titleKo": "한 계약업체의 Claude 에이전트는 어떻게 미 국방부에 들어갔나",
-      "summaryKo": "WIRED 팟캐스트 'Uncanny Valley'가 계약업체의 Claude 에이전트가 미 국방부에 들어간 경위와 함께 앤트로픽의 IPO 신청 등을 다뤘다.",
-      "summaryEn": "WIRED's Uncanny Valley podcast covers how a contractor's Claude agent got into the Pentagon, along with Anthropic's IPO filing.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "source": "The Verge",
       "sourceId": "the-verge",
-      "publishedAt": "2026-10-30T20:26:10+00:00",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engin",
+      "publishedAt": "2026-10-31T16:05:00+00:00",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your",
       "lang": "en",
-      "titleKo": "오픈AI·구글·MS·앤트로픽, AI 스크래핑 거부 새 표준 도입",
-      "summaryKo": "주요 AI 기업들이 퍼블리셔가 AI 학습용 스크래핑을 거부할 수 있는 공통 표준을 채택한다. 회사별로 따로 설정하지 않고 '정책 토큰' 하나로 여러 AI 기업에 적용된다.",
-      "summaryEn": "OpenAI, Google, Microsoft and Anthropic will adopt a new standard letting publishers opt out of AI scraping, applying a shared \"policy token\" across companies instead of setting preferences individually.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w",
       "titleEn": "",
       "tags": [
-        "빅테크",
-        "정책·법·보안"
+        "빅테크"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
@@ -86,7 +68,24 @@
       "tags": [
         "마케팅 영향"
       ],
-      "score": 6.5
+      "score": 5.5
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -109,40 +108,22 @@
   ],
   "korea": [
     {
-      "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216843",
+      "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216853",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-10-31T09:57:25+00:00",
-      "summary": "구글이 AI 검색을 앞세워 기존 검색 시장의 지배력을 유지했지만, 정작 AI 검색이 핵심 수익원인 광고 사업에 부담을 주기 시작했다. 챗GPT 등 AI 챗봇이 기존 검색을 대체할 것이라는 전망에 대",
+      "publishedAt": "2026-11-01T09:23:52+00:00",
+      "summary": "메타가 막대한 AI 투자에 따른 재무 부담으로 신용등급 강등 가능성을 경고받았다. 핵심 광고 사업의 성장에도 AI 인프라 투자로 현금흐름이 적자로 돌아서고 향후 차입 부담까지 커질 것으로 예상된 데",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Google's AI search has weighed on its core ad business because AI search ads earn less than traditional search; combined with soaring AI infrastructure costs, Alphabet's market cap has fallen by over $500 billion.",
-      "titleEn": "AI Search Squeezes Google's Ad Margins, Wiping $500B Off Alphabet's Market Value",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
       ],
       "score": 8.5
-    },
-    {
-      "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원",
-      "url": "https://zdnet.co.kr/view/?no=20261031002306",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-10-31T00:43:50+00:00",
-      "summary": "[지디넷코리아]기업공개(IPO)를 앞둔 앤트로픽이 기업용 인공지능(AI) 사업 확대에 속도를 낸다. 클로드에 맡길 전문 업무를 늘리고 비용과 보안 관리까지 지원해 기업 시장 입지를 강화한다는 전략이",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Ahead of its IPO, Anthropic is expanding enterprise AI with finance and legal offerings, including Claude for Financial Advisors, plus team-level output and spending reports and shared budget controls.",
-      "titleEn": "Ahead of IPO, Anthropic Doubles Down on Enterprise With Performance and Cost Management Tools",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
     }
   ]
 }

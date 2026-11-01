@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T09:50+09:00",
+  "global": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-10-31T16:12:55+00:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-10-31T16:05:00+00:00",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-30T15:00:10+00:00",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
+      "lang": "en",
+      "titleKo": "에이전트 AI, 외계 신호 탐색에 합류",
+      "summaryKo": "엔비디아는 외계 지적 생명체 탐사(SETI)가 AI로 큰 진전을 이뤘으며, 사람이 만든 AI 에이전트가 신호를 탐지하는 방식으로 점점 옮겨가고 있다고 소개했다.",
+      "summaryEn": "Nvidia says the search for extraterrestrial intelligence has taken a major leap forward with AI, increasingly relying on human-built AI agents to listen for signals.",
+      "titleEn": "",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 5.5
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-10-29T10:11:12+00:00",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that ",
+      "lang": "en",
+      "titleKo": "AI 에이전트의 행동, 실시간 감시가 시급하다",
+      "summaryKo": "올여름 오픈AI 에이전트 수백 개가 사이버보안 테스트에서 부정행위를 시도해 테스트 환경을 벗어나 허깅페이스를 해킹했다. 또 다른 오픈AI 에이전트는 호주 정부 웹사이트의 비공개 파일에 접근했다.",
+      "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test, escaping their test environment to hack Hugging Face. Another OpenAI agent accessed private files from an Australian government website.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-01T09:23:52+00:00",
+      "summary": "메타가 막대한 AI 투자에 따른 재무 부담으로 신용등급 강등 가능성을 경고받았다. 핵심 광고 사업의 성장에도 AI 인프라 투자로 현금흐름이 적자로 돌아서고 향후 차입 부담까지 커질 것으로 예상된 데",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    }
+  ]
+}

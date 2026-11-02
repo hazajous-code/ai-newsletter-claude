@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T10:24+09:00",
+  "global": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Data centers are deeply unpopular. But what if we called them something else?",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-10-30T15:00:10+00:00",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
+      "lang": "en",
+      "titleKo": "에이전트 AI, 외계 신호 탐색에 합류",
+      "summaryKo": "엔비디아는 외계 지적 생명체 탐사(SETI)가 AI로 큰 진전을 이뤘으며, 사람이 만든 AI 에이전트가 신호를 탐지하는 방식으로 점점 옮겨가고 있다고 소개했다.",
+      "summaryEn": "Nvidia says the search for extraterrestrial intelligence has taken a major leap forward with AI, increasingly relying on human-built AI agents to listen for signals.",
+      "titleEn": "",
+      "tags": [
+        "마케팅 영향"
+      ],
+      "score": 5.5
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "lang": "en",
+      "titleKo": "OpenAI, 웹사이트의 AI 학습 허용 여부 표시 쉽게 한다",
+      "summaryKo": "OpenAI는 웹사이트 운영자가 참여 AI 기업들에 학습 데이터 활용 선호를 전달할 수 있도록 공용 robots.txt 신호를 준수하기로 했다.",
+      "summaryEn": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-01T20:11:03+00:00",
+      "summary": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-01T16:26:45+00:00",
+      "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "AI 시대 개인정보 미래는…\"수집·제공 체계 '처리'로 묶자\"",
+      "url": "https://zdnet.co.kr/view/?no=20261101160224",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-01T08:08:46+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 시대에 개인정보 활용 동의 중심 체계라는 한계를 극복하기 위해서는 법적 근거와 보호조치를 손질해야 한다는 의견이 쏟아졌다. 수집, 제공을 따로 규율하는 체계를 하나로 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    }
+  ]
+}

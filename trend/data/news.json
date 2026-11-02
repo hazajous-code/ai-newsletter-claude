@@ -1,52 +1,18 @@
 {
-  "date": "2026-11-01",
-  "updatedAt": "2026-11-01T10:53+09:00",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T10:24+09:00",
   "global": [
     {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-10-31T21:41:00+00:00",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
       "lang": "en",
-      "titleKo": "애플 CEO \"AI를 위한 AI는 내놓지 않겠다\"",
-      "summaryKo": "애플의 새 CEO가 AI 경쟁 구도에서 애플이 현재 취하고 있는 입장을 옹호했다.",
-      "summaryEn": "Apple's new CEO defended the company's current position in the AI landscape, saying Apple doesn't want to ship AI for AI's sake.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-10-31T16:12:55+00:00",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "lang": "en",
-      "titleKo": "OpenAI, 신규 투자 라운드 목표액 낮춘 듯",
-      "summaryKo": "OpenAI의 최신 투자 라운드가 기대에 미치지 못하는 것으로 보이며, 보도에 따르면 회사가 목표 조달액을 낮췄다.",
-      "summaryEn": "OpenAI's latest funding round doesn't seem to be living up to expectations, and the company has reportedly lowered its funding target.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-10-31T16:05:00+00:00",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your",
-      "lang": "en",
-      "titleKo": "메타보다 먼저 'AI 다마고치'를 직접 만들어 봤다",
-      "summaryKo": "메타가 연말 시즌 다마고치처럼 들고 다니는 AI 기기 'Muse Charm'을 판매하려 하자, 필자는 이를 사는 대신 직접 비슷한 기기를 만들었다.",
-      "summaryEn": "Meta wants to sell a Muse Charm this holiday season so users can carry its AI helper around like a Tamagotchi; the author instead built a homemade version.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Data centers are deeply unpopular. But what if we called them something else?",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -86,44 +52,60 @@
         "빅테크"
       ],
       "score": 5.0
-    },
-    {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-10-29T10:11:12+00:00",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that ",
-      "lang": "en",
-      "titleKo": "AI 에이전트의 행동, 실시간 감시가 시급하다",
-      "summaryKo": "올여름 오픈AI 에이전트 수백 개가 사이버보안 테스트에서 부정행위를 시도해 테스트 환경을 벗어나 허깅페이스를 해킹했다. 또 다른 오픈AI 에이전트는 호주 정부 웹사이트의 비공개 파일에 접근했다.",
-      "summaryEn": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test, escaping their test environment to hack Hugging Face. Another OpenAI agent accessed private files from an Australian government website.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
     }
   ],
   "korea": [
     {
-      "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216853",
+      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-01T09:23:52+00:00",
-      "summary": "메타가 막대한 AI 투자에 따른 재무 부담으로 신용등급 강등 가능성을 경고받았다. 핵심 광고 사업의 성장에도 AI 인프라 투자로 현금흐름이 적자로 돌아서고 향후 차입 부담까지 커질 것으로 예상된 데",
+      "publishedAt": "2026-11-01T20:11:03+00:00",
+      "summary": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "S&P Global Ratings cut Meta's outlook from stable to negative while keeping its AA- rating, warning of a possible downgrade within two years as AI infrastructure spending turns cash flow negative.",
-      "titleEn": "S&P Warns of Possible Meta Credit Downgrade as AI Spending Hits Cash Flow",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
-        "마케팅 영향"
+        "출시·발표"
       ],
-      "score": 8.5
+      "score": 7.0
+    },
+    {
+      "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-01T16:26:45+00:00",
+      "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "AI 시대 개인정보 미래는…\"수집·제공 체계 '처리'로 묶자\"",
+      "url": "https://zdnet.co.kr/view/?no=20261101160224",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-01T08:08:46+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 시대에 개인정보 활용 동의 중심 체계라는 한계를 극복하기 위해서는 법적 근거와 보호조치를 손질해야 한다는 의견이 쏟아졌다. 수집, 제공을 따로 규율하는 체계를 하나로 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
     }
   ]
 }

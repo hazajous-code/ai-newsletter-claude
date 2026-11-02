@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T10:24+09:00",
+  "updatedAt": "2026-11-02T10:48+09:00",
   "global": [
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-01T21:55:23+00:00",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Data centers are deeply unpopular. But what if we called them something else?",
+      "titleKo": "OpenAI, 데이터센터를 'AI 컴퓨트 캠퍼스'로 부르는 방안 검토",
+      "summaryKo": "OpenAI 크리스 리헤인 최고글로벌업무책임자가 Axios에 미 중간선거 이후 홍보 계획의 하나로 데이터센터를 'AI 컴퓨트 캠퍼스'로 바꿔 부르는 방안 등을 밝혔다.",
+      "summaryEn": "OpenAI global affairs chief Chris Lehane told Axios that its post-midterm PR plans include AI 'speed limits' and rebranding data centers as 'AI compute campuses.'",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -65,8 +65,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "DeepSeek's harness team published a technical paper on WeChat and released a 'DSH Super Agent' that manages multiple coding tasks, about six months after forming the team. It is still a research prototype.",
+      "titleEn": "DeepSeek Unveils Coding 'Super Agent' to Chase Claude Code and Codex",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -83,8 +83,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google added hundreds of free textbooks from publishers such as OpenStax, Open Textbook Library and S Chand Publishing to Gemini Notebook for US and India users, so students needn't upload materials.",
+      "titleEn": "Google Adds Hundreds of Free Textbooks to Gemini Notebook",
       "tags": [
         "빅테크"
       ],
@@ -100,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "At a forum hosted by Korea's Interior Ministry and privacy regulator PIPC, panelists proposed merging data collection and provision rules and broadening 'legitimate interest' as a legal basis.",
+      "titleEn": "Korean Experts Urge Unifying Data 'Collection' and 'Provision' Rules Under 'Processing' for the AI Era",
       "tags": [
         "정책·법·보안"
       ],

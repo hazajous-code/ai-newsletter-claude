@@ -1591,5 +1591,22 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215363": {
     "titleEn": "Korean Startup NumbersAI's Tabular Model 'Causilo' Tops TabArena Leaderboard",
     "summaryEn": "NumbersAI said its tabular foundation model Causilo ranked first in TabArena's overall, classification and regression Elo rankings across 51 datasets, beating Google Research's TabFM and Amazon's Mitra-v2."
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/": {
+    "titleKo": "OpenAI, 데이터센터를 'AI 컴퓨트 캠퍼스'로 부르는 방안 검토",
+    "summaryKo": "OpenAI 크리스 리헤인 최고글로벌업무책임자가 Axios에 미 중간선거 이후 홍보 계획의 하나로 데이터센터를 'AI 컴퓨트 캠퍼스'로 바꿔 부르는 방안 등을 밝혔다.",
+    "summaryEn": "OpenAI global affairs chief Chris Lehane told Axios that its post-midterm PR plans include AI 'speed limits' and rebranding data centers as 'AI compute campuses.'"
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216865": {
+    "titleEn": "DeepSeek Unveils Coding 'Super Agent' to Chase Claude Code and Codex",
+    "summaryEn": "DeepSeek's harness team published a technical paper on WeChat and released a 'DSH Super Agent' that manages multiple coding tasks, about six months after forming the team. It is still a research prototype."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216863": {
+    "titleEn": "Google Adds Hundreds of Free Textbooks to Gemini Notebook",
+    "summaryEn": "Google added hundreds of free textbooks from publishers such as OpenStax, Open Textbook Library and S Chand Publishing to Gemini Notebook for US and India users, so students needn't upload materials."
+  },
+  "https://zdnet.co.kr/view/?no=20261101160224": {
+    "titleEn": "Korean Experts Urge Unifying Data 'Collection' and 'Provision' Rules Under 'Processing' for the AI Era",
+    "summaryEn": "At a forum hosted by Korea's Interior Ministry and privacy regulator PIPC, panelists proposed merging data collection and provision rules and broadening 'legitimate interest' as a legal basis."
   }
 }

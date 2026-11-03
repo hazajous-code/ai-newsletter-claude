@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-02",
-  "updatedAt": "2026-11-02T10:48+09:00",
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T12:25+09:00",
   "global": [
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-01T21:55:23+00:00",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "publishedAt": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "lang": "en",
-      "titleKo": "OpenAI, 데이터센터를 'AI 컴퓨트 캠퍼스'로 부르는 방안 검토",
-      "summaryKo": "OpenAI 크리스 리헤인 최고글로벌업무책임자가 Axios에 미 중간선거 이후 홍보 계획의 하나로 데이터센터를 'AI 컴퓨트 캠퍼스'로 바꿔 부르는 방안 등을 밝혔다.",
-      "summaryEn": "OpenAI global affairs chief Chris Lehane told Axios that its post-midterm PR plans include AI 'speed limits' and rebranding data centers as 'AI compute campuses.'",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -20,53 +20,69 @@
       "score": 6.0
     },
     {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-10-30T15:00:10+00:00",
-      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this",
-      "lang": "en",
-      "titleKo": "에이전트 AI, 외계 신호 탐색에 합류",
-      "summaryKo": "엔비디아는 외계 지적 생명체 탐사(SETI)가 AI로 큰 진전을 이뤘으며, 사람이 만든 AI 에이전트가 신호를 탐지하는 방식으로 점점 옮겨가고 있다고 소개했다.",
-      "summaryEn": "Nvidia says the search for extraterrestrial intelligence has taken a major leap forward with AI, increasingly relying on human-built AI agents to listen for signals.",
-      "titleEn": "",
-      "tags": [
-        "마케팅 영향"
-      ],
-      "score": 5.5
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI Blog",
       "sourceId": "openai-blog",
-      "publishedAt": "2026-10-30T09:30:00+00:00",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "lang": "en",
-      "titleKo": "OpenAI, 웹사이트의 AI 학습 허용 여부 표시 쉽게 한다",
-      "summaryKo": "OpenAI는 웹사이트 운영자가 참여 AI 기업들에 학습 데이터 활용 선호를 전달할 수 있도록 공용 robots.txt 신호를 준수하기로 했다.",
-      "summaryEn": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "정책·법·보안"
       ],
+      "score": 7.0
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-02T17:45:00+00:00",
+      "summary": "Animated carousel of images from AI posts in October",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Animated carousel of images from AI posts in October",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promi",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
+      "titleEn": "",
+      "tags": [],
       "score": 5.0
     }
   ],
   "korea": [
     {
-      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+      "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-01T20:11:03+00:00",
-      "summary": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도",
+      "publishedAt": "2026-11-03T11:55:04+00:00",
+      "summary": "오픈AI가 아랍에미리트(UAE)의 에너지·정부·투자 분야에 AI 에이전트를 도입하는 등 4건의 협약을 체결했다. 석유회사의 유전 개발과 생산·판매를 연결하는 AI를 제공하고, 정부에는 규정을 분석해",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "DeepSeek's harness team published a technical paper on WeChat and released a 'DSH Super Agent' that manages multiple coding tasks, about six months after forming the team. It is still a research prototype.",
-      "titleEn": "DeepSeek Unveils Coding 'Super Agent' to Chase Claude Code and Codex",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -74,36 +90,37 @@
       "score": 7.0
     },
     {
-      "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+      "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216931",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-01T16:26:45+00:00",
-      "summary": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 ",
+      "publishedAt": "2026-11-03T11:09:58+00:00",
+      "summary": "업스테이지의 자체 개발 대형언어모델(LLM)이 범정부 행정망에서 사용할 수 있는 AI 모델 대열에 가세했다. 이로써 공직사회에서 업무시 선택할 수 있는 LLM 선택의 폭이 더 넓어졌다.업스테이지(대",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Google added hundreds of free textbooks from publishers such as OpenStax, Open Textbook Library and S Chand Publishing to Gemini Notebook for US and India users, so students needn't upload materials.",
-      "titleEn": "Google Adds Hundreds of Free Textbooks to Gemini Notebook",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "출시·발표"
       ],
-      "score": 6.0
+      "score": 8.0
     },
     {
-      "title": "AI 시대 개인정보 미래는…\"수집·제공 체계 '처리'로 묶자\"",
-      "url": "https://zdnet.co.kr/view/?no=20261101160224",
+      "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
+      "url": "https://zdnet.co.kr/view/?no=20261103112145",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-01T08:08:46+00:00",
-      "summary": "[지디넷코리아]인공지능(AI) 시대에 개인정보 활용 동의 중심 체계라는 한계를 극복하기 위해서는 법적 근거와 보호조치를 손질해야 한다는 의견이 쏟아졌다. 수집, 제공을 따로 규율하는 체계를 하나로 ",
+      "publishedAt": "2026-11-03T02:21:45+00:00",
+      "summary": "[지디넷코리아]풀필먼트 서비스 '품고'를 운영하는 두핸즈가 물류 처리량 증가를 바탕으로 피지컬 인공지능(AI) 기술 개발에 속도를 낸다. 물류 현장에서 축적한 데이터를 로봇 학습에 활용해 반복적인 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "At a forum hosted by Korea's Interior Ministry and privacy regulator PIPC, panelists proposed merging data collection and provision rules and broadening 'legitimate interest' as a legal basis.",
-      "titleEn": "Korean Experts Urge Unifying Data 'Collection' and 'Provision' Rules Under 'Processing' for the AI Era",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "정책·법·보안"
+        "출시·발표"
       ],
       "score": 5.0
     }

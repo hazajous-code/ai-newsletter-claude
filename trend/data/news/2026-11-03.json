@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T12:25+09:00",
+  "global": [
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-03T01:49:52+00:00",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-02T17:45:00+00:00",
+      "summary": "Animated carousel of images from AI posts in October",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Animated carousel of images from AI posts in October",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promi",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
+      "titleEn": "",
+      "tags": [],
+      "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-03T11:55:04+00:00",
+      "summary": "오픈AI가 아랍에미리트(UAE)의 에너지·정부·투자 분야에 AI 에이전트를 도입하는 등 4건의 협약을 체결했다. 석유회사의 유전 개발과 생산·판매를 연결하는 AI를 제공하고, 정부에는 규정을 분석해",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216931",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-03T11:09:58+00:00",
+      "summary": "업스테이지의 자체 개발 대형언어모델(LLM)이 범정부 행정망에서 사용할 수 있는 AI 모델 대열에 가세했다. 이로써 공직사회에서 업무시 선택할 수 있는 LLM 선택의 폭이 더 넓어졌다.업스테이지(대",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
+      "url": "https://zdnet.co.kr/view/?no=20261103112145",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-03T02:21:45+00:00",
+      "summary": "[지디넷코리아]풀필먼트 서비스 '품고'를 운영하는 두핸즈가 물류 처리량 증가를 바탕으로 피지컬 인공지능(AI) 기술 개발에 속도를 낸다. 물류 현장에서 축적한 데이터를 로봇 학습에 활용해 반복적인 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    }
+  ]
+}

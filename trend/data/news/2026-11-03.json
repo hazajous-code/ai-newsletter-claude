@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-03T12:25+09:00",
+  "updatedAt": "2026-11-04T10:54+09:00",
   "global": [
     {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
@@ -10,14 +10,14 @@
       "publishedAt": "2026-11-03T01:49:52+00:00",
       "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "titleKo": "애플, 서드파티 AI 앱으로 매출 확대 노리나",
+      "summaryKo": "애플이 월요일 밤 실적 발표에서 서드파티 '기회'를 통해 매출을 늘릴 수 있는 방안을 시사했다.",
+      "summaryEn": "Apple hinted during its Monday night earnings call at ways it could spur revenue through third-party \"opportunities\" involving AI apps.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Preparing our next security sprint to harden OpenAI",
@@ -27,47 +27,15 @@
       "publishedAt": "2026-11-02T18:00:00+00:00",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "titleKo": "오픈AI, 자사 보안 강화 위한 차기 '보안 스프린트' 준비",
+      "summaryKo": "오픈AI가 Cathedral Systems와 함께 AI를 활용해 자사 방어 체계를 점검·강화하는 차기 내부 보안 스프린트를 준비 중이다.",
+      "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems, using AI to test and strengthen its own defenses.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "sourceId": "google-ai-blog",
-      "publishedAt": "2026-11-02T17:45:00+00:00",
-      "summary": "Animated carousel of images from AI posts in October",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Animated carousel of images from AI posts in October",
-      "titleEn": "",
-      "tags": [
-        "출시·발표"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-02T17:00:00+00:00",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promi",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow",
-      "titleEn": "",
-      "tags": [],
-      "score": 5.0
+      "score": 6.0
     }
   ],
   "korea": [
@@ -81,8 +49,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Announced at ADIPEC in Abu Dhabi, the deals include AI linking an oil company's field development, production and sales, and a regulation-analysis system to support UAE government administrative work.",
+      "titleEn": "OpenAI Signs Four Deals to Deploy AI Agents Across UAE Energy, Government and Investment",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -99,8 +67,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Upstage launched Solar Pro 4 on the government-wide AI common platform run by Korea's interior and science ministries, joining Samsung SDS FabriX and Naver Cloud's CLOVA Studio as LLM options for public officials.",
+      "titleEn": "Upstage's Solar Pro 4 Joins Korea's Government-Wide AI Platform, Expanding Civil Servants' Model Choices",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -117,8 +85,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Dohands said Jan–Sep shipment volume rose 60.3% YoY and revenue 57%; it is using warehouse data to train robots, starting with packing, while building its own robot-control AI on external hardware.",
+      "titleEn": "Korean Fulfillment Firm Dohands Speeds Up Physical AI as 'Poomgo' Volume Grows 60%",
       "tags": [
         "출시·발표"
       ],

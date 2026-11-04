@@ -1608,5 +1608,37 @@
   "https://zdnet.co.kr/view/?no=20261101160224": {
     "titleEn": "Korean Experts Urge Unifying Data 'Collection' and 'Provision' Rules Under 'Processing' for the AI Era",
     "summaryEn": "At a forum hosted by Korea's Interior Ministry and privacy regulator PIPC, panelists proposed merging data collection and provision rules and broadening 'legitimate interest' as a legal basis."
+  },
+  "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/": {
+    "titleKo": "애플, 서드파티 AI 앱으로 매출 확대 노리나",
+    "summaryKo": "애플이 월요일 밤 실적 발표에서 서드파티 '기회'를 통해 매출을 늘릴 수 있는 방안을 시사했다.",
+    "summaryEn": "Apple hinted during its Monday night earnings call at ways it could spur revenue through third-party \"opportunities\" involving AI apps."
+  },
+  "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+    "titleKo": "오픈AI, 자사 보안 강화 위한 차기 '보안 스프린트' 준비",
+    "summaryKo": "오픈AI가 Cathedral Systems와 함께 AI를 활용해 자사 방어 체계를 점검·강화하는 차기 내부 보안 스프린트를 준비 중이다.",
+    "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems, using AI to test and strengthen its own defenses."
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": {
+    "titleKo": "구글, 2026년 10월 AI 발표 총정리",
+    "summaryKo": "구글이 2026년 10월 한 달간 발표한 AI 관련 소식을 한데 모아 정리했다.",
+    "summaryEn": "Google rounds up the AI news it announced during October 2026."
+  },
+  "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/": {
+    "titleKo": "에이전틱 분석, 인사이트 품질을 어떻게 끌어올릴까",
+    "summaryKo": "생성형 AI로 기업 분석의 문턱이 낮아졌고 에이전틱 AI는 워크플로 자동화까지 약속하지만, 에이전트가 내놓는 인사이트의 품질이 문제로 지적된다.",
+    "summaryEn": "Generative AI made enterprise analytics accessible and agentic AI promises to automate whole workflows, but the quality of insights agents currently generate remains a problem."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216939": {
+    "titleEn": "OpenAI Signs Four Deals to Deploy AI Agents Across UAE Energy, Government and Investment",
+    "summaryEn": "Announced at ADIPEC in Abu Dhabi, the deals include AI linking an oil company's field development, production and sales, and a regulation-analysis system to support UAE government administrative work."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216931": {
+    "titleEn": "Upstage's Solar Pro 4 Joins Korea's Government-Wide AI Platform, Expanding Civil Servants' Model Choices",
+    "summaryEn": "Upstage launched Solar Pro 4 on the government-wide AI common platform run by Korea's interior and science ministries, joining Samsung SDS FabriX and Naver Cloud's CLOVA Studio as LLM options for public officials."
+  },
+  "https://zdnet.co.kr/view/?no=20261103112145": {
+    "titleEn": "Korean Fulfillment Firm Dohands Speeds Up Physical AI as 'Poomgo' Volume Grows 60%",
+    "summaryEn": "Dohands said Jan–Sep shipment volume rose 60.3% YoY and revenue 57%; it is using warehouse data to train robots, starting with packing, while building its own robot-control AI on external hardware."
   }
 }

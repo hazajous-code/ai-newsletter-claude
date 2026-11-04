@@ -1,96 +1,197 @@
 {
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-04T10:54+09:00",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T11:03+09:00",
   "global": [
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-03T01:49:52+00:00",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "publishedAt": "2026-11-03T22:41:03+00:00",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "lang": "en",
-      "titleKo": "애플, 서드파티 AI 앱으로 매출 확대 노리나",
-      "summaryKo": "애플이 월요일 밤 실적 발표에서 서드파티 '기회'를 통해 매출을 늘릴 수 있는 방안을 시사했다.",
-      "summaryEn": "Apple hinted during its Monday night earnings call at ways it could spur revenue through third-party \"opportunities\" involving AI apps.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-03T21:43:08+00:00",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-03T17:01:49+00:00",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-03T10:43:41+00:00",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become mor",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-03T00:00:00+00:00",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 5.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "LG AI 엑사원, 저작권 검증비 1000분의 1로…빅테크·로펌 시장 노린다",
+      "url": "https://www.etnews.com/20261104000114",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-04T01:06:01+00:00",
+      "summary": "LG AI연구원이 AI 학습 데이터의 법적 리스크를 자동으로 가려내는 에이전트로 해외 컴플라이언스 시장 공략에 나선다. AI 저작권 분쟁이 기업 법적 부담으로 커지는 가운데, 검증 비용을 대폭 낮춘",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "lang": "en",
-      "titleKo": "오픈AI, 자사 보안 강화 위한 차기 '보안 스프린트' 준비",
-      "summaryKo": "오픈AI가 Cathedral Systems와 함께 AI를 활용해 자사 방어 체계를 점검·강화하는 차기 내부 보안 스프린트를 준비 중이다.",
-      "summaryEn": "OpenAI is preparing its next internal security sprint with Cathedral Systems, using AI to test and strengthen its own defenses.",
+      "title": "정부, 국민AI추진단에 민간 전문가 19명 추가 채용",
+      "url": "https://zdnet.co.kr/view/?no=20261104072133",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-03T22:21:33+00:00",
+      "summary": "[지디넷코리아]정부가 대국민 인공지능(AI) 서비스 개발에 속도를 내기 위해 민간 전문가를 추가 채용한다.과학기술정보통신부는 국민AI서비스혁신추진단에서 AI 서비스 개발을 담당할 전문임기제 공무원 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 6.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216939",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-03T11:55:04+00:00",
-      "summary": "오픈AI가 아랍에미리트(UAE)의 에너지·정부·투자 분야에 AI 에이전트를 도입하는 등 4건의 협약을 체결했다. 석유회사의 유전 개발과 생산·판매를 연결하는 AI를 제공하고, 정부에는 규정을 분석해",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Announced at ADIPEC in Abu Dhabi, the deals include AI linking an oil company's field development, production and sales, and a regulation-analysis system to support UAE government administrative work.",
-      "titleEn": "OpenAI Signs Four Deals to Deploy AI Agents Across UAE Energy, Government and Investment",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
       "score": 7.0
     },
     {
-      "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216931",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-03T11:09:58+00:00",
-      "summary": "업스테이지의 자체 개발 대형언어모델(LLM)이 범정부 행정망에서 사용할 수 있는 AI 모델 대열에 가세했다. 이로써 공직사회에서 업무시 선택할 수 있는 LLM 선택의 폭이 더 넓어졌다.업스테이지(대",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Upstage launched Solar Pro 4 on the government-wide AI common platform run by Korea's interior and science ministries, joining Samsung SDS FabriX and Naver Cloud's CLOVA Studio as LLM options for public officials.",
-      "titleEn": "Upstage's Solar Pro 4 Joins Korea's Government-Wide AI Platform, Expanding Civil Servants' Model Choices",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
-      "url": "https://zdnet.co.kr/view/?no=20261103112145",
+      "title": "[ZD SW 투데이] 미소정보기술, 의료AX·기기 산업화",
+      "url": "https://zdnet.co.kr/view/?no=20261103182430",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-03T02:21:45+00:00",
-      "summary": "[지디넷코리아]풀필먼트 서비스 '품고'를 운영하는 두핸즈가 물류 처리량 증가를 바탕으로 피지컬 인공지능(AI) 기술 개발에 속도를 낸다. 물류 현장에서 축적한 데이터를 로봇 학습에 활용해 반복적인 ",
+      "publishedAt": "2026-11-03T22:20:01+00:00",
+      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Dohands said Jan–Sep shipment volume rose 60.3% YoY and revenue 57%; it is using warehouse data to train robots, starting with packing, while building its own robot-control AI on external hardware.",
-      "titleEn": "Korean Fulfillment Firm Dohands Speeds Up Physical AI as 'Poomgo' Volume Grows 60%",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "출시·발표"
+        "정책·법·보안"
       ],
       "score": 5.0
+    },
+    {
+      "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-03T18:04:42+00:00",
+      "summary": "일론 머스크 CEO가 AI 에이전트 '그록 봇(Grok Bot)'의 운영 비용이 매출에 비해 지나치게 높다며 이용자 사용량 제한을 정당화했다. 최근 일부 이용자의 주간 사용 한도가 예상보다 빠르게 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-03T17:52:30+00:00",
+      "summary": "안드레이 카르파시 오픈AI 공동 창립자가 유튜브의 자극적인 썸네일과 반복적인 추천 콘텐츠에 불만을 느껴 AI를 활용한 대안 서비스 '해커튜브(HackerTube)'를 개발했다. 해커뉴스(Hacker",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     }
   ]
 }

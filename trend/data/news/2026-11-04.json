@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T11:03+09:00",
+  "updatedAt": "2026-11-05T10:48+09:00",
   "global": [
     {
       "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -10,29 +10,12 @@
       "publishedAt": "2026-11-03T22:41:03+00:00",
       "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "titleKo": "Anthropic, AI 모델의 '신원'을 증명하는 시스템 개발 중",
+      "summaryKo": "FlashProve라는 이 시스템은 AI 응답이 실제로 자신이 주장하는 모델에서 나온 것인지 누구나 확인할 수 있게 해준다.",
+      "summaryEn": "Anthropic is developing FlashProve, a system that would let anyone verify that an AI response really came from the model it claims to be from.",
       "titleEn": "",
       "tags": [
         "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-11-03T21:43:08+00:00",
-      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
       ],
       "score": 5.0
     },
@@ -44,14 +27,14 @@
       "publishedAt": "2026-11-03T17:01:49+00:00",
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "titleKo": "Google Antigravity로 구현한 에이전트 기반 화학정보학",
+      "summaryKo": "Google Antigravity와 화학정보학 스킬(Cheminformatics Skills)로 신약 개발 워크플로를 가속하고, 화합물을 검색하며, 새로운 강직화 거대고리 분자를 제안하는 방법을 소개한다.",
+      "summaryEn": "Google DeepMind shows how Google Antigravity and its Cheminformatics Skills speed up drug discovery workflows, search compounds and propose novel rigidified macrocycles.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "How “reverse game theory” could keep AI agents in check",
@@ -61,14 +44,14 @@
       "publishedAt": "2026-11-03T10:43:41+00:00",
       "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become mor",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+      "titleKo": "'역게임이론'으로 AI 에이전트를 통제할 수 있을까",
+      "summaryKo": "'역게임이론(메커니즘 디자인)'은 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 강력한 AI를 통제하려는 새로운 접근법이다.",
+      "summaryEn": "A new approach called “reverse game theory” aims to control powerful AI models by designing systems that give them incentives to stick to the rules.",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Heimstaden is changing residential real estate management with AI",
@@ -78,14 +61,14 @@
       "publishedAt": "2026-11-03T08:00:00+00:00",
       "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "titleKo": "Heimstaden, AI로 주거용 부동산 관리를 바꾸다",
+      "summaryKo": "유럽 주거 부동산 기업 Heimstaden이 ChatGPT Enterprise와 Codex를 활용해 부동산 관리 업무를 혁신하고 비용을 절감하며 직원 역량을 높이고 있다.",
+      "summaryEn": "Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs and empower employees across Europe.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
@@ -95,8 +78,8 @@
       "publishedAt": "2026-11-03T00:00:00+00:00",
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
+      "titleKo": "OpenAI, 질 헤이즐베이커를 최고대외협력책임자(CCAO)로 영입",
+      "summaryKo": "질 헤이즐베이커가 OpenAI의 최고대외협력책임자로 합류해 회사의 글로벌 커뮤니케이션과 기업 포지셔닝을 이끈다.",
       "summaryEn": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "titleEn": "",
       "tags": [
@@ -107,6 +90,40 @@
   ],
   "korea": [
     {
+      "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-04T09:00:00+00:00",
+      "summary": "원하는 대로 튜닝하는 나만의 sLLM오지영 | 길벗2026년 7월 7일추천이유저자는 sLLM의 구축부터 배포까지 전 과정을 실습으로 안내하며, 개발자가 직접 맞춤형 AI를 만들고 운영하는 엔지니어로",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A book by Oh Ji-young (Gilbut) walks developers through building and deploying a small LLM hands-on; a cited survey of 749 Korean AI/IT staff found 53.3% named security and data leaks as a top generative AI concern.",
+      "titleEn": "[AI Leader's Bookshelf] Build your own custom-tuned small LLM (sLLM)",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-04T07:00:00+00:00",
+      "summary": "최첨단 AI 모델들이 실제 기업의 전문 업무를 재현한 평가에서 최고 12%에 그쳤습니다. 기존 벤치마크가 실제 업무의 복잡성과 전문가의 판단 과정을 충분히 반영하지 못한다는 지적과 함께, AI가 기",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "SemiAnalysis released GDPx, an AI agent benchmark recreating professional work in fields such as chip design, cybersecurity, biology, finance, law and software development; frontier models scored at most 12%.",
+      "titleEn": "Top AI models score just 12% on new real-work benchmark GDPx",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
       "title": "LG AI 엑사원, 저작권 검증비 1000분의 1로…빅테크·로펌 시장 노린다",
       "url": "https://www.etnews.com/20261104000114",
       "source": "전자신문",
@@ -116,13 +133,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "LG AI Research is taking EXAONE Nexus, an agent that automatically flags legal risks in AI training data, to overseas compliance markets after it won an award at Korea's ICOTEC 2026 copyright tech conference.",
+      "titleEn": "LG AI Research's EXAONE Nexus cuts copyright-vetting costs to 1/1000, targeting Big Tech and law firms",
       "tags": [
         "빅테크",
         "마케팅 영향"
       ],
-      "score": 8.5
+      "score": 7.5
     },
     {
       "title": "정부, 국민AI추진단에 민간 전문가 19명 추가 채용",
@@ -134,62 +151,11 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Korea's Ministry of Science and ICT is recruiting 19 more fixed-term specialists across seven areas, including planning, development, infrastructure and security, to build public AI services such as AI agents.",
+      "titleEn": "Korean government hires 19 more private-sector experts for its National AI Service task force",
       "tags": [
         "빅테크",
         "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "[ZD SW 투데이] 미소정보기술, 의료AX·기기 산업화",
-      "url": "https://zdnet.co.kr/view/?no=20261103182430",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-03T22:20:01+00:00",
-      "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한눈에 볼 수 있는 'ZD SW 투데이'를 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-03T18:04:42+00:00",
-      "summary": "일론 머스크 CEO가 AI 에이전트 '그록 봇(Grok Bot)'의 운영 비용이 매출에 비해 지나치게 높다며 이용자 사용량 제한을 정당화했다. 최근 일부 이용자의 주간 사용 한도가 예상보다 빠르게 ",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-03T17:52:30+00:00",
-      "summary": "안드레이 카르파시 오픈AI 공동 창립자가 유튜브의 자극적인 썸네일과 반복적인 추천 콘텐츠에 불만을 느껴 AI를 활용한 대안 서비스 '해커튜브(HackerTube)'를 개발했다. 해커뉴스(Hacker",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
       ],
       "score": 6.0
     }

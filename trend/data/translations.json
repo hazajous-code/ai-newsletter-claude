@@ -1640,5 +1640,63 @@
   "https://zdnet.co.kr/view/?no=20261103112145": {
     "titleEn": "Korean Fulfillment Firm Dohands Speeds Up Physical AI as 'Poomgo' Volume Grows 60%",
     "summaryEn": "Dohands said Jan–Sep shipment volume rose 60.3% YoY and revenue 57%; it is using warehouse data to train robots, starting with packing, while building its own robot-control AI on external hardware."
+  },
+  "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/": {
+    "titleKo": "Anthropic, AI 모델의 '신원'을 증명하는 시스템 개발 중",
+    "summaryKo": "FlashProve라는 이 시스템은 AI 응답이 실제로 자신이 주장하는 모델에서 나온 것인지 누구나 확인할 수 있게 해준다.",
+    "summaryEn": "Anthropic is developing FlashProve, a system that would let anyone verify that an AI response really came from the model it claims to be from."
+  },
+  "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/": {
+    "titleKo": "AI발 사이버보안 붐 속 테드 슐라인의 Ballistic Ventures, 신규 펀드 4억 9천만 달러 조성 추진",
+    "summaryKo": "사이버보안 전문 VC Ballistic Ventures가 신규 플래그십 펀드 3억 6천만 달러와 별도 투자 펀드 1억 3천만 달러 조성에 나섰다.",
+    "summaryEn": "Cybersecurity-focused Ballistic Ventures is seeking $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+    "titleKo": "Google Antigravity로 구현한 에이전트 기반 화학정보학",
+    "summaryKo": "Google Antigravity와 화학정보학 스킬(Cheminformatics Skills)로 신약 개발 워크플로를 가속하고, 화합물을 검색하며, 새로운 강직화 거대고리 분자를 제안하는 방법을 소개한다.",
+    "summaryEn": "Google DeepMind shows how Google Antigravity and its Cheminformatics Skills speed up drug discovery workflows, search compounds and propose novel rigidified macrocycles."
+  },
+  "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/": {
+    "titleKo": "'역게임이론'으로 AI 에이전트를 통제할 수 있을까",
+    "summaryKo": "'역게임이론(메커니즘 디자인)'은 AI 모델이 규칙을 지키도록 유인하는 시스템을 설계해 강력한 AI를 통제하려는 새로운 접근법이다.",
+    "summaryEn": "A new approach called “reverse game theory” aims to control powerful AI models by designing systems that give them incentives to stick to the rules."
+  },
+  "https://openai.com/index/heimstaden": {
+    "titleKo": "Heimstaden, AI로 주거용 부동산 관리를 바꾸다",
+    "summaryKo": "유럽 주거 부동산 기업 Heimstaden이 ChatGPT Enterprise와 Codex를 활용해 부동산 관리 업무를 혁신하고 비용을 절감하며 직원 역량을 높이고 있다.",
+    "summaryEn": "Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs and empower employees across Europe."
+  },
+  "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+    "titleKo": "OpenAI, 질 헤이즐베이커를 최고대외협력책임자(CCAO)로 영입",
+    "summaryKo": "질 헤이즐베이커가 OpenAI의 최고대외협력책임자로 합류해 회사의 글로벌 커뮤니케이션과 기업 포지셔닝을 이끈다.",
+    "summaryEn": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+  },
+  "https://www.etnews.com/20261104000114": {
+    "titleEn": "LG AI Research's EXAONE Nexus cuts copyright-vetting costs to 1/1000, targeting Big Tech and law firms",
+    "summaryEn": "LG AI Research is taking EXAONE Nexus, an agent that automatically flags legal risks in AI training data, to overseas compliance markets after it won an award at Korea's ICOTEC 2026 copyright tech conference."
+  },
+  "https://zdnet.co.kr/view/?no=20261104072133": {
+    "titleEn": "Korean government hires 19 more private-sector experts for its National AI Service task force",
+    "summaryEn": "Korea's Ministry of Science and ICT is recruiting 19 more fixed-term specialists across seven areas, including planning, development, infrastructure and security, to build public AI services such as AI agents."
+  },
+  "https://zdnet.co.kr/view/?no=20261103182430": {
+    "titleEn": "Miso Info Tech partners to commercialize medical AI and medical devices in Korea",
+    "summaryEn": "Miso Info Tech signed an MOU with Yonsei University's Wonju medical center and the Wonju Medical Industry Techno Valley to support medical AI products from validation and clinical trials to approval and market entry."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216942": {
+    "titleEn": "Musk says Grok Bot is too costly to run, defends AI agent usage limits",
+    "summaryEn": "Elon Musk said on X that the cost of providing the Grok Bot AI agent was unsustainably high relative to revenue, explaining why users' weekly usage limits were running out faster than usual."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216956": {
+    "titleEn": "Fed up with YouTube recommendations, Karpathy builds an AI alternative in two hours",
+    "summaryEn": "Andrej Karpathy built HackerTube, picking 6,454 videos by analyzing 43 million Hacker News comments, and said he built it in about two hours using Anthropic's Claude Opus 5.5."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216788": {
+    "titleEn": "[AI Leader's Bookshelf] Build your own custom-tuned small LLM (sLLM)",
+    "summaryEn": "A book by Oh Ji-young (Gilbut) walks developers through building and deploying a small LLM hands-on; a cited survey of 749 Korean AI/IT staff found 53.3% named security and data leaks as a top generative AI concern."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=216936": {
+    "titleEn": "Top AI models score just 12% on new real-work benchmark GDPx",
+    "summaryEn": "SemiAnalysis released GDPx, an AI agent benchmark recreating professional work in fields such as chip design, cybersecurity, biology, finance, law and software development; frontier models scored at most 12%."
   }
 }

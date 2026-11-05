@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-04T10:54+09:00",
+  "updatedAt": "2026-11-03T09:00+09:00",
   "global": [
     {
       "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
@@ -17,7 +17,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Preparing our next security sprint to harden OpenAI",
@@ -35,7 +35,39 @@
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 7.0
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-02T17:45:00+00:00",
+      "summary": "Animated carousel of images from AI posts in October",
+      "lang": "en",
+      "titleKo": "구글, 2026년 10월 AI 발표 총정리",
+      "summaryKo": "구글이 2026년 10월 한 달간 발표한 AI 관련 소식을 한데 모아 정리했다.",
+      "summaryEn": "Google rounds up the AI news it announced during October 2026.",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promi",
+      "lang": "en",
+      "titleKo": "에이전틱 분석, 인사이트 품질을 어떻게 끌어올릴까",
+      "summaryKo": "생성형 AI로 기업 분석의 문턱이 낮아졌고 에이전틱 AI는 워크플로 자동화까지 약속하지만, 에이전트가 내놓는 인사이트의 품질이 문제로 지적된다.",
+      "summaryEn": "Generative AI made enterprise analytics accessible and agentic AI promises to automate whole workflows, but the quality of insights agents currently generate remains a problem.",
+      "titleEn": "",
+      "tags": [],
+      "score": 5.0
     }
   ],
   "korea": [

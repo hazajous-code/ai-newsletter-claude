@@ -1698,5 +1698,29 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216936": {
     "titleEn": "Top AI models score just 12% on new real-work benchmark GDPx",
     "summaryEn": "SemiAnalysis released GDPx, an AI agent benchmark recreating professional work in fields such as chip design, cybersecurity, biology, finance, law and software development; frontier models scored at most 12%."
+  },
+  "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/": {
+    "titleKo": "애플, 사내 AI 사용 예산 감축 나선 듯",
+    "summaryKo": "애플이 엔지니어링 팀의 AI 사용에 쓰는 지출을 크게 줄이고 있는 것으로 전해졌다.",
+    "summaryEn": "Apple is reportedly cutting back significantly on how much it spends on AI for its engineering teams."
+  },
+  "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/": {
+    "titleKo": "최대 친AI 슈퍼팩 네트워크, 중간선거에선 별 영향 못 미쳐",
+    "summaryKo": "실리콘밸리 억만장자들이 후원하고 1억 달러 자금과 강경한 AI 규제 반대 기조를 내세운 'Leading the Future'가 화요일 선거에서 이렇다 할 성과를 내지 못했다.",
+    "summaryEn": "Leading the Future, backed by Silicon Valley billionaires with a $100 million war chest and a hard line against AI regulation, had little impact in Tuesday's midterm elections."
+  },
+  "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/": {
+    "titleKo": "AI 데이터센터 건설의 새 중심지 텍사스, 그 지위가 흔들린다",
+    "summaryKo": "미국에서 가장 빠르게 성장하는 데이터센터 시장인 텍사스가, 민주당이 상원·주지사 선거에서 승리한 '블루 웨이브'로 빅테크 AI 인프라 거점 지위를 위협받을 수 있다.",
+    "summaryEn": "Texas, the fastest-growing US data center market and hub of Big Tech's largest AI buildouts, may lose that position after Democrats won its US Senate and governor races."
+  },
+  "https://openai.com/index/openai-to-acquire-pierre": {
+    "titleKo": "OpenAI, Pierre Computer Company 인수…Codex 코딩 도구 강화",
+    "summaryKo": "OpenAI가 Pierre Computer Company를 인수해 코드 작성·이해·리뷰를 돕는 Codex의 도구를 확장한다.",
+    "summaryEn": "OpenAI will acquire Pierre Computer Company to expand Codex's tools for building, understanding and reviewing code."
+  },
+  "https://zdnet.co.kr/view/?no=20261105093209": {
+    "titleEn": "LG Shares AI-Driven Safety Innovations From 16 Affiliates at Magok Conference",
+    "summaryEn": "LG held its SHEC safety conference at LG Science Park in Seoul's Magok, where 16 affiliates shared 21 safety innovation cases, 15 of them AI-based, including LG Electronics' AI-linked monitoring of 4,226 CCTVs."
   }
 }

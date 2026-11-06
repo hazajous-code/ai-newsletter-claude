@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T11:06+09:00",
+  "updatedAt": "2026-11-06T10:48+09:00",
   "global": [
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -10,45 +10,13 @@
       "publishedAt": "2026-11-05T01:26:22+00:00",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "titleKo": "애플, 사내 AI 사용 예산 감축 나선 듯",
+      "summaryKo": "애플이 엔지니어링 팀의 AI 사용에 쓰는 지출을 크게 줄이고 있는 것으로 전해졌다.",
+      "summaryEn": "Apple is reportedly cutting back significantly on how much it spends on AI for its engineering teams.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "source": "WIRED",
-      "sourceId": "wired",
-      "publishedAt": "2026-11-04T20:41:29+00:00",
-      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add ",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-04T18:50:55+00:00",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopar",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th",
-      "titleEn": "",
-      "tags": [],
       "score": 5.0
     },
     {
@@ -59,14 +27,14 @@
       "publishedAt": "2026-11-04T14:30:00+00:00",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "titleKo": "OpenAI, Pierre Computer Company 인수…Codex 코딩 도구 강화",
+      "summaryKo": "OpenAI가 Pierre Computer Company를 인수해 코드 작성·이해·리뷰를 돕는 Codex의 도구를 확장한다.",
+      "summaryEn": "OpenAI will acquire Pierre Computer Company to expand Codex's tools for building, understanding and reviewing code.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Agentic cheminformatics with Google Antigravity",
@@ -97,13 +65,13 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "LG held its SHEC safety conference at LG Science Park in Seoul's Magok, where 16 affiliates shared 21 safety innovation cases, 15 of them AI-based, including LG Electronics' AI-linked monitoring of 4,226 CCTVs.",
+      "titleEn": "LG Shares AI-Driven Safety Innovations From 16 Affiliates at Magok Conference",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 6.0
     }
   ]
 }

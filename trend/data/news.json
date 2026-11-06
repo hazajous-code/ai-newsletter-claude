@@ -1,77 +1,149 @@
 {
-  "date": "2026-11-05",
-  "updatedAt": "2026-11-06T10:48+09:00",
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T11:06+09:00",
   "global": [
     {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-11-05T01:26:22+00:00",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-06T00:37:56+00:00",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it ",
       "lang": "en",
-      "titleKo": "애플, 사내 AI 사용 예산 감축 나선 듯",
-      "summaryKo": "애플이 엔지니어링 팀의 AI 사용에 쓰는 지출을 크게 줄이고 있는 것으로 전해졌다.",
-      "summaryEn": "Apple is reportedly cutting back significantly on how much it spends on AI for its engineering teams.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-04T14:30:00+00:00",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "lang": "en",
-      "titleKo": "OpenAI, Pierre Computer Company 인수…Codex 코딩 도구 강화",
-      "summaryKo": "OpenAI가 Pierre Computer Company를 인수해 코드 작성·이해·리뷰를 돕는 Codex의 도구를 확장한다.",
-      "summaryEn": "OpenAI will acquire Pierre Computer Company to expand Codex's tools for building, understanding and reviewing code.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-03T17:01:49+00:00",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "lang": "en",
-      "titleKo": "Google Antigravity로 구현한 에이전트 기반 화학정보학",
-      "summaryKo": "Google Antigravity와 화학정보학 스킬(Cheminformatics Skills)로 신약 개발 워크플로를 가속하고, 화합물을 검색하며, 새로운 강직화 거대고리 분자를 제안하는 방법을 소개한다.",
-      "summaryEn": "Google DeepMind shows how Google Antigravity and its Cheminformatics Skills speed up drug discovery workflows, search compounds and propose novel rigidified macrocycles.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "LG, 마곡서 16개 계열사 AI 안전혁신사례 공유",
-      "url": "https://zdnet.co.kr/view/?no=20261105093209",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-05T01:00:03+00:00",
-      "summary": "[지디넷코리아]LG는 4~5일 서울 마곡 LG사이언스파크에서 안전보건환경 콘퍼런스 'LG 쉬크'(SHEC:Safety Health Environment Conference)를 개최했다고 밝혔다. L",
-      "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "LG held its SHEC safety conference at LG Science Park in Seoul's Magok, where 16 affiliates shared 21 safety innovation cases, 15 of them AI-based, including LG Electronics' AI-linked monitoring of 4,226 CCTVs.",
-      "titleEn": "LG Shares AI-Driven Safety Innovations From 16 Affiliates at Magok Conference",
+      "summaryEn": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-05T22:26:50+00:00",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, w",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-05T21:37:18+00:00",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-05T19:48:28+00:00",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-05T17:05:16+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-05T09:00:00+00:00",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 7.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-06T06:05:26+00:00",
+      "summary": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-05T18:18:08+00:00",
+      "summary": "앤트로픽이 이용자가 받은 답변을 약속된 AI 모델이 생성했는지 수학적으로 검증하는 오픈소스 기술을 공개했다. 모델 가중치를 노출하지 않고도 서비스 업체의 모델 바꿔치기나 응답 조작을 확인할 수 있다",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
     }
   ]
 }

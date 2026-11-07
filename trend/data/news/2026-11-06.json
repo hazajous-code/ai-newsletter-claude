@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T11:06+09:00",
+  "updatedAt": "2026-11-06T09:00+09:00",
   "global": [
     {
       "title": "OpenAI is stepping back from NDAs for data center projects",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-06T00:37:56+00:00",
       "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that",
+      "titleKo": "오픈AI, 데이터센터 사업에서 비밀유지계약(NDA) 사용 중단",
+      "summaryKo": "중간선거에서 유권자들이 데이터센터 확장에 반대 목소리를 낸 뒤, 오픈AI가 데이터센터 지역사회에 대한 새 약속을 발표했다. 공직자와 NDA를 맺지 않겠다는 내용이 포함됐다.",
+      "summaryEn": "After midterm voters opposed data center expansion, OpenAI announced new commitments to host communities, including not using non-disclosure agreements with public officials.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-11-05T22:26:50+00:00",
       "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, w",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
+      "titleKo": "퍼플렉시티, 업무용 AI 에이전트 'Teammates' 출시",
+      "summaryKo": "퍼플렉시티가 오픈AI·앤트로픽에 맞서 상시 작동하는 업무용 에이전트 Teammates를 내놨다. 워크스페이스에서 여러 역할을 맡고, 기존 퍼플렉시티 도구의 프로젝트·스킬·메모리를 가져온다.",
+      "summaryEn": "Perplexity launched Teammates, always-on work agents that take multiple roles in a workspace, pull projects, skills and memory from existing Perplexity tools, and integrate with Perplexity Computer.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -45,9 +45,9 @@
       "publishedAt": "2026-11-05T21:37:18+00:00",
       "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "titleKo": "챗봇 광고 시대 개막…통하는 것과 안 통하는 것",
+      "summaryKo": "앤트로픽이 Claude에 광고를 넣지 않겠다는 약속을 지키는 가운데, 나머지 AI 챗봇 업계는 사용자 반감을 사지 않으면서 광고주를 잡으려 경쟁하고 있다.",
+      "summaryEn": "While Anthropic keeps its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win advertisers without antagonizing users.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -63,26 +63,9 @@
       "publishedAt": "2026-11-05T19:48:28+00:00",
       "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-05T17:05:16+00:00",
-      "summary": "",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "",
+      "titleKo": "메타, 미국 사용자 대상 Muse AI 아바타와 영상통화 기능 출시",
+      "summaryKo": "메타의 AI 에이전트 Muse가 맞춤형 애니메이션 아바타로 통화를 받을 수 있게 됐다. Muse를 구현하는 다마고치 형태의 웨어러블 출시를 앞두고 나온 기능이다.",
+      "summaryEn": "Meta's AI agent Muse can now take video calls as a customizable animated avatar for US users, ahead of a Tamagotchi-like wearable designed to bring Muse to life.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -97,15 +80,33 @@
       "publishedAt": "2026-11-05T09:00:00+00:00",
       "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "titleKo": "오픈AI, 보안 특화 모델 'GPT-6 Cyber' 공개",
+      "summaryKo": "오픈AI가 악용 가능한 취약점을 찾고 수정안을 개발하는 사이버보안 모델 GPT-6 Cyber를 공개했다. 승인된 범위 안에서만 동작하도록 훈련됐다.",
+      "summaryEn": "OpenAI introduced GPT-6 Cyber, a cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
       "score": 7.0
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-05T02:00:00+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure deve",
+      "lang": "en",
+      "titleKo": "오픈AI, 책임 있는 AI 인프라를 위한 새 기준 제시",
+      "summaryKo": "오픈AI가 지역 자원 보호, 일자리 창출, 책임 있는 AI 인프라 개발을 위한 'National Community Compact'와 'Compute Campus Policy Blueprint'를 발표했다.",
+      "summaryEn": "OpenAI introduced its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs and guide responsible AI infrastructure development.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 6.5
     }
   ],
   "korea": [
@@ -119,8 +120,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI's security-focused GPT-6 Cyber developed 948 working Linux exploits and found 81 new high-severity Firefox bugs; it is available via API and Codex to approved security experts and firms.",
+      "titleEn": "OpenAI Launches GPT-6 Cyber, Boosting Exploit Success Rate by 51%",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -137,8 +138,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic released FlashProve, an open-source zkSNARK-based system that mathematically verifies a response came from the promised model without exposing weights, detecting model swaps or tampering.",
+      "titleEn": "Anthropic Unveils FlashProve to Verify Which AI Model Generated a Response, Built Largely by Claude",
       "tags": [
         "빅테크",
         "출시·발표"

@@ -1722,5 +1722,86 @@
   "https://zdnet.co.kr/view/?no=20261105093209": {
     "titleEn": "LG Shares AI-Driven Safety Innovations From 16 Affiliates at Magok Conference",
     "summaryEn": "LG held its SHEC safety conference at LG Science Park in Seoul's Magok, where 16 affiliates shared 21 safety innovation cases, 15 of them AI-based, including LG Electronics' AI-linked monitoring of 4,226 CCTVs."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
+    "titleKo": "오픈AI 기업가치 1.25조 달러…경쟁사 앤트로픽은 IPO 임박",
+    "summaryKo": "블룸버그에 따르면 오픈AI가 새 투자 라운드에서 110억 달러를 추가 유치하며 기업가치 1.25조 달러를 인정받았다. 3월 8,520억 달러 가치로 1,220억 달러를 조달한 지 얼마 안 돼서다.",
+    "summaryEn": "OpenAI is valued at $1.25 trillion after raising another $11 billion in a new round, per Bloomberg, months after raising $122 billion in March at an $852 billion valuation."
+  },
+  "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy": {
+    "titleKo": "\"중국 정보기관, AI 기업 임원 포섭해 젠슨 황 감시\" 보도",
+    "summaryKo": "뉴욕타임스에 따르면 중국 국가안전부가 Megaspeed 임원 앨리스 황을 포섭해 엔비디아 CEO 젠슨 황을 감시하게 했다. 미국 AI 칩 정보를 캐고 최첨단 칩의 중국 공급을 밀도록 영향력을 행사하려 했다는 것이다.",
+    "summaryEn": "China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, seeking information on US AI chips and influence over China's access to them, per The New York Times."
+  },
+  "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": {
+    "titleKo": "오픈AI, 기업가치 1.25조 달러에 110억 달러 추가 유치 보도",
+    "summaryKo": "오픈AI가 아직 마감되지 않은 투자 라운드에서 110억 달러를 추가로 유치한 것으로 알려졌다. 라운드는 몇 주 안에 마감될 예정이다.",
+    "summaryEn": "OpenAI has reportedly raised an additional $11 billion in a funding round that has not yet closed but is expected to in the coming weeks."
+  },
+  "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": {
+    "titleKo": "메타, Muse 에이전트와 협업하는 새 기능 'Spaces' 공개",
+    "summaryKo": "메타의 Muse 에이전트에 새 기능과 연동이 계속 추가되는 가운데, Spaces는 AI 도우미와 상호작용하는 새로운 방식을 내세운다.",
+    "summaryEn": "Meta's Muse agents continue to gain features and integrations, and the new Spaces offers a new way to interact with the AI helpers."
+  },
+  "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+    "titleKo": "오픈AI, AI 에이전트의 실험실 과학 역량 측정하는 벤치마크 공개",
+    "summaryKo": "오픈AI가 AI 에이전트가 원시 실험 데이터를 해석하고 일상적인 웻랩 과학 업무를 얼마나 잘 처리하는지 측정하는 100개 과제 벤치마크 BioBasicsBench를 공개했다.",
+    "summaryEn": "OpenAI introduced BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+  },
+  "https://openai.com/index/introducing-gpt-6-cyber": {
+    "titleKo": "오픈AI, 보안 특화 모델 'GPT-6 Cyber' 공개",
+    "summaryKo": "오픈AI가 악용 가능한 취약점을 찾고 수정안을 개발하는 사이버보안 모델 GPT-6 Cyber를 공개했다. 승인된 범위 안에서만 동작하도록 훈련됐다.",
+    "summaryEn": "OpenAI introduced GPT-6 Cyber, a cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217119": {
+    "titleEn": "OpenAI CFO: Data Center Investment Will Continue Regardless of Midterm Results",
+    "summaryEn": "OpenAI CFO Sarah Friar told CNBC the company will keep expanding AI infrastructure and building community ties, despite Democrats opposed to data center construction winning big in the US midterms."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217120": {
+    "titleEn": "Microsoft Winds Down Oracle AI Server Leases as Older GPUs Fall Short",
+    "summaryEn": "Microsoft is phasing out and not renewing AI compute leases with Oracle because older Nvidia GPUs no longer meet its specs, Bloomberg reported; Oracle shares fell about 3% intraday."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda": {
+    "titleKo": "오픈AI, 데이터센터 사업에서 비밀유지계약(NDA) 사용 중단",
+    "summaryKo": "중간선거에서 유권자들이 데이터센터 확장에 반대 목소리를 낸 뒤, 오픈AI가 데이터센터 지역사회에 대한 새 약속을 발표했다. 공직자와 NDA를 맺지 않겠다는 내용이 포함됐다.",
+    "summaryEn": "After midterm voters opposed data center expansion, OpenAI announced new commitments to host communities, including not using non-disclosure agreements with public officials."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work": {
+    "titleKo": "퍼플렉시티, 업무용 AI 에이전트 'Teammates' 출시",
+    "summaryKo": "퍼플렉시티가 오픈AI·앤트로픽에 맞서 상시 작동하는 업무용 에이전트 Teammates를 내놨다. 워크스페이스에서 여러 역할을 맡고, 기존 퍼플렉시티 도구의 프로젝트·스킬·메모리를 가져온다.",
+    "summaryEn": "Perplexity launched Teammates, always-on work agents that take multiple roles in a workspace, pull projects, skills and memory from existing Perplexity tools, and integrate with Perplexity Computer."
+  },
+  "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/": {
+    "titleKo": "챗봇 광고 시대 개막…통하는 것과 안 통하는 것",
+    "summaryKo": "앤트로픽이 Claude에 광고를 넣지 않겠다는 약속을 지키는 가운데, 나머지 AI 챗봇 업계는 사용자 반감을 사지 않으면서 광고주를 잡으려 경쟁하고 있다.",
+    "summaryEn": "While Anthropic keeps its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win advertisers without antagonizing users."
+  },
+  "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/": {
+    "titleKo": "메타, 미국 사용자 대상 Muse AI 아바타와 영상통화 기능 출시",
+    "summaryKo": "메타의 AI 에이전트 Muse가 맞춤형 애니메이션 아바타로 통화를 받을 수 있게 됐다. Muse를 구현하는 다마고치 형태의 웨어러블 출시를 앞두고 나온 기능이다.",
+    "summaryEn": "Meta's AI agent Muse can now take video calls as a customizable animated avatar for US users, ahead of a Tamagotchi-like wearable designed to bring Muse to life."
+  },
+  "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+    "titleKo": "Gemini Omni 1.2 Flash: 더 빠르고 저렴해지고 더 긴 클립 지원",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217074": {
+    "titleEn": "OpenAI Launches GPT-6 Cyber, Boosting Exploit Success Rate by 51%",
+    "summaryEn": "OpenAI's security-focused GPT-6 Cyber developed 948 working Linux exploits and found 81 new high-severity Firefox bugs; it is available via API and Codex to approved security experts and firms."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217043": {
+    "titleEn": "Anthropic Unveils FlashProve to Verify Which AI Model Generated a Response, Built Largely by Claude",
+    "summaryEn": "Anthropic released FlashProve, an open-source zkSNARK-based system that mathematically verifies a response came from the promised model without exposing weights, detecting model swaps or tampering."
+  },
+  "https://openai.com/index/devrev-enterprise-self-service": {
+    "titleKo": "DevRev, GPT-6.1 Sol로 자율형 셀프서비스 구현",
+    "summaryKo": "DevRev가 GPT-6.1 Sol로 Computer와 Operator를 구동해 엔터프라이즈 서비스에서 추론 능력·속도·비용의 균형을 맞추고 있다.",
+    "summaryEn": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed and cost for enterprise service."
+  },
+  "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+    "titleKo": "오픈AI, 책임 있는 AI 인프라를 위한 새 기준 제시",
+    "summaryKo": "오픈AI가 지역 자원 보호, 일자리 창출, 책임 있는 AI 인프라 개발을 위한 'National Community Compact'와 'Compute Campus Policy Blueprint'를 발표했다.",
+    "summaryEn": "OpenAI introduced its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs and guide responsible AI infrastructure development."
   }
 }

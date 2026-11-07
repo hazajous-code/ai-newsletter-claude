@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-06T10:48+09:00",
+  "updatedAt": "2026-11-05T09:00+09:00",
   "global": [
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -17,6 +17,38 @@
       "tags": [
         "빅테크"
       ],
+      "score": 6.0
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-04T20:41:29+00:00",
+      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add ",
+      "lang": "en",
+      "titleKo": "최대 친AI 슈퍼팩 네트워크, 중간선거에선 별 영향 못 미쳐",
+      "summaryKo": "실리콘밸리 억만장자들이 후원하고 1억 달러 자금과 강경한 AI 규제 반대 기조를 내세운 'Leading the Future'가 화요일 선거에서 이렇다 할 성과를 내지 못했다.",
+      "summaryEn": "Leading the Future, backed by Silicon Valley billionaires with a $100 million war chest and a hard line against AI regulation, had little impact in Tuesday's midterm elections.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-04T18:50:55+00:00",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopar",
+      "lang": "en",
+      "titleKo": "AI 데이터센터 건설의 새 중심지 텍사스, 그 지위가 흔들린다",
+      "summaryKo": "미국에서 가장 빠르게 성장하는 데이터센터 시장인 텍사스가, 민주당이 상원·주지사 선거에서 승리한 '블루 웨이브'로 빅테크 AI 인프라 거점 지위를 위협받을 수 있다.",
+      "summaryEn": "Texas, the fastest-growing US data center market and hub of Big Tech's largest AI buildouts, may lose that position after Democrats won its US Senate and governor races.",
+      "titleEn": "",
+      "tags": [],
       "score": 5.0
     },
     {
@@ -33,6 +65,23 @@
       "titleEn": "",
       "tags": [
         "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "lang": "en",
+      "titleKo": "DevRev, GPT-6.1 Sol로 자율형 셀프서비스 구현",
+      "summaryKo": "DevRev가 GPT-6.1 Sol로 Computer와 Operator를 구동해 엔터프라이즈 서비스에서 추론 능력·속도·비용의 균형을 맞추고 있다.",
+      "summaryEn": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed and cost for enterprise service.",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
       ],
       "score": 5.0
     },
@@ -71,7 +120,7 @@
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 7.0
     }
   ]
 }

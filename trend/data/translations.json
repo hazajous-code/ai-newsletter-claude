@@ -1803,5 +1803,18 @@
     "titleKo": "오픈AI, 책임 있는 AI 인프라를 위한 새 기준 제시",
     "summaryKo": "오픈AI가 지역 자원 보호, 일자리 창출, 책임 있는 AI 인프라 개발을 위한 'National Community Compact'와 'Compute Campus Policy Blueprint'를 발표했다.",
     "summaryEn": "OpenAI introduced its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs and guide responsible AI infrastructure development."
+  },
+  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": {
+    "titleKo": "NYT Cooking AI 어시스턴트 써보니: 평일 저녁 치킨은 살렸지만 케이크는 망칠 뻔",
+    "summaryKo": "The Verge 기자가 평일 저녁 메뉴 고민을 덜려고 NYT Cooking의 AI 어시스턴트를 직접 써봤다. 치킨 요리에는 도움이 됐지만 케이크는 망칠 뻔했다.",
+    "summaryEn": "A Verge reviewer tried NYT Cooking's AI assistant to solve nightly dinner decisions; it helped save a weeknight chicken dish but nearly ruined a cake."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217140": {
+    "titleEn": "OpenAI Releases Image 2.6 Prompting Guide: Separate What to Change From What to Keep",
+    "summaryEn": "OpenAI published an official prompting guide for Image 2.6 (GPT-Image-2.6 in the API), advising users to specify purpose, composition and style, and to clearly mark what to change vs. keep when editing images."
+  },
+  "https://zdnet.co.kr/view/?no=20261108080355": {
+    "titleEn": "Chinese Shoppers Use AI-Faked Defect Photos for Refunds as E-Commerce Platforms Fight Back With AI",
+    "summaryEn": "In China, buyers are using generative AI to fake damage in product photos to claim refund-only returns; Alibaba's Taobao and Tmall have added AI tools to help sellers detect manipulated images."
   }
 }

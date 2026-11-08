@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T10:14+09:00",
+  "updatedAt": "2026-11-08T10:53+09:00",
   "global": [
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-07T15:50:00+00:00",
       "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Y",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this ",
+      "titleKo": "NYT Cooking AI 어시스턴트 써보니: 평일 저녁 치킨은 살렸지만 케이크는 망칠 뻔",
+      "summaryKo": "The Verge 기자가 평일 저녁 메뉴 고민을 덜려고 NYT Cooking의 AI 어시스턴트를 직접 써봤다. 치킨 요리에는 도움이 됐지만 케이크는 망칠 뻔했다.",
+      "summaryEn": "A Verge reviewer tried NYT Cooking's AI assistant to solve nightly dinner decisions; it helped save a weeknight chicken dish but nearly ruined a cake.",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
@@ -100,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI published an official prompting guide for Image 2.6 (GPT-Image-2.6 in the API), advising users to specify purpose, composition and style, and to clearly mark what to change vs. keep when editing images.",
+      "titleEn": "OpenAI Releases Image 2.6 Prompting Guide: Separate What to Change From What to Keep",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "In China, buyers are using generative AI to fake damage in product photos to claim refund-only returns; Alibaba's Taobao and Tmall have added AI tools to help sellers detect manipulated images.",
+      "titleEn": "Chinese Shoppers Use AI-Faked Defect Photos for Refunds as E-Commerce Platforms Fight Back With AI",
       "tags": [
         "마케팅 영향"
       ],

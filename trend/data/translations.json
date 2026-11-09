@@ -1816,5 +1816,30 @@
   "https://zdnet.co.kr/view/?no=20261108080355": {
     "titleEn": "Chinese Shoppers Use AI-Faked Defect Photos for Refunds as E-Commerce Platforms Fight Back With AI",
     "summaryEn": "In China, buyers are using generative AI to fake damage in product photos to claim refund-only returns; Alibaba's Taobao and Tmall have added AI tools to help sellers detect manipulated images."
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic": {
+    "titleKo": "애플, Siri 에이전트화 서두른다",
+    "summaryKo": "블룸버그 마크 거먼에 따르면 존 터너스 CEO가 크레이그 페더리기에게 OpenAI·메타와 경쟁할 강력한 AI 에이전트를 위해 Siri 로드맵 가속을 압박하고 있다.",
+    "summaryEn": "Bloomberg's Mark Gurman reports CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and deliver an AI agent that can rival OpenAI's Dots and Meta's Muse."
+  },
+  "https://zdnet.co.kr/view/?no=20261109093318": {
+    "titleEn": "LG AI Research opens K-EXAONE 2.5 API for free, with 70%+ performance gain",
+    "summaryEn": "LG AI Research announced at NVIDIA AI Day Seoul 2026 a free API for K-EXAONE 2.5, which improves 70%+ over its August model and nears DeepSeek and GLM on agentic AI benchmarks."
+  },
+  "https://zdnet.co.kr/view/?no=20261109095743": {
+    "titleEn": "Korean lawmakers to discuss legal liability and safety standards for agentic and physical AI",
+    "summaryEn": "Rep. Lee Joo-hee will host an AI law and policy seminar in Seoul on Nov 16 on legal liability and safety for agentic and physical AI, and regulatory issues after Korea's AI Basic Act took effect."
+  },
+  "https://www.etnews.com/20261109000006": {
+    "titleEn": "Anthropic secures $3.4B in gas generators to power its own data centers",
+    "summaryEn": "Per the Financial Times, Anthropic invested $3.4 billion to acquire gas power generation equipment, securing electricity for its AI data centers directly rather than relying on utilities."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217147": {
+    "titleEn": "How scientists use AI: Anthropic finds data analysis tops, hypothesis generation just 4%",
+    "summaryEn": "Anthropic's report analyzing 207,049 science sessions on Claude and Claude Code found AI is used mostly for data analysis and writing, while hypothesis generation accounts for only about 4%."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217145": {
+    "titleEn": "Anthropic uses Claude to reveal first 3D structure in a 40-year protein mystery",
+    "summaryEn": "Anthropic's biology team used Claude to discover a new form of the vault particle and map its 3D structure, building the first model in 34 hours versus the usual several weeks."
   }
 }

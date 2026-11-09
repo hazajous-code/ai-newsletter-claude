@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T10:33+09:00",
+  "updatedAt": "2026-11-09T10:47+09:00",
   "global": [
     {
       "title": "Apple is racing to make Siri more agentic",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-08T19:18:19+00:00",
       "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with Op",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
+      "titleKo": "애플, Siri 에이전트화 서두른다",
+      "summaryKo": "블룸버그 마크 거먼에 따르면 존 터너스 CEO가 크레이그 페더리기에게 OpenAI·메타와 경쟁할 강력한 AI 에이전트를 위해 Siri 로드맵 가속을 압박하고 있다.",
+      "summaryEn": "Bloomberg's Mark Gurman reports CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and deliver an AI agent that can rival OpenAI's Dots and Meta's Muse.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -31,8 +31,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "LG AI Research announced at NVIDIA AI Day Seoul 2026 a free API for K-EXAONE 2.5, which improves 70%+ over its August model and nears DeepSeek and GLM on agentic AI benchmarks.",
+      "titleEn": "LG AI Research opens K-EXAONE 2.5 API for free, with 70%+ performance gain",
       "tags": [
         "빅테크"
       ],
@@ -48,8 +48,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Rep. Lee Joo-hee will host an AI law and policy seminar in Seoul on Nov 16 on legal liability and safety for agentic and physical AI, and regulatory issues after Korea's AI Basic Act took effect.",
+      "titleEn": "Korean lawmakers to discuss legal liability and safety standards for agentic and physical AI",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -66,8 +66,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Per the Financial Times, Anthropic invested $3.4 billion to acquire gas power generation equipment, securing electricity for its AI data centers directly rather than relying on utilities.",
+      "titleEn": "Anthropic secures $3.4B in gas generators to power its own data centers",
       "tags": [
         "빅테크"
       ],
@@ -83,8 +83,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic's report analyzing 207,049 science sessions on Claude and Claude Code found AI is used mostly for data analysis and writing, while hypothesis generation accounts for only about 4%.",
+      "titleEn": "How scientists use AI: Anthropic finds data analysis tops, hypothesis generation just 4%",
       "tags": [
         "빅테크"
       ],
@@ -100,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic's biology team used Claude to discover a new form of the vault particle and map its 3D structure, building the first model in 34 hours versus the usual several weeks.",
+      "titleEn": "Anthropic uses Claude to reveal first 3D structure in a 40-year protein mystery",
       "tags": [
         "빅테크"
       ],

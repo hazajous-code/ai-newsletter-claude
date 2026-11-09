@@ -1,0 +1,111 @@
+{
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T10:33+09:00",
+  "global": [
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-08T19:18:19+00:00",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with Op",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "LG AI연구원, 'K-엑사원 2.5' 무료 개방…성능 70%↑",
+      "url": "https://zdnet.co.kr/view/?no=20261109093318",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-09T01:00:02+00:00",
+      "summary": "[지디넷코리아]LG AI연구원이 독자 인공지능(AI) 모델 'K-엑사원' 성능을 8주 만에 70% 이상 끌어올리고 개선된 모델을 누구나 활용할 수 있도록 무료 개방한다.LG AI연구원은 9일 서울 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "에이전틱·피지컬 AI 확산에 법적책임 안전 기준 논의",
+      "url": "https://zdnet.co.kr/view/?no=20261109095743",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-09T00:57:43+00:00",
+      "summary": "[지디넷코리아]에이전틱 AI와 피지컬 AI 확산에 따른 법적 책임과 안전 기준을 논의하는 자리가 마련된다. 인공지능기본법 시행 이후 기업이 직면한 규제 현안과 제도 개선 방안도 다룬다.이주희 더불어",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보",
+      "url": "https://www.etnews.com/20261109000006",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-08T21:54:31+00:00",
+      "summary": "앤트로픽이 인공지능(AI) 데이터센터의 안정적인 전력 확보를 위해 가스 발전설비를 직접 사들였다. 전력 공급업체에 의존하는 대신 발전설비를 선제적으로 확보해 전력 수급 불확실성을 줄이겠다는 전략이다",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-08T18:14:24+00:00",
+      "summary": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-08T12:08:58+00:00",
+      "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ]
+}

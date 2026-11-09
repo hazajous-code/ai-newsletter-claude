@@ -1,129 +1,111 @@
 {
-  "date": "2026-11-08",
-  "updatedAt": "2026-11-08T10:53+09:00",
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T10:33+09:00",
   "global": [
     {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
       "source": "The Verge",
       "sourceId": "the-verge",
-      "publishedAt": "2026-11-07T15:50:00+00:00",
-      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Y",
+      "publishedAt": "2026-11-08T19:18:19+00:00",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with Op",
       "lang": "en",
-      "titleKo": "NYT Cooking AI 어시스턴트 써보니: 평일 저녁 치킨은 살렸지만 케이크는 망칠 뻔",
-      "summaryKo": "The Verge 기자가 평일 저녁 메뉴 고민을 덜려고 NYT Cooking의 AI 어시스턴트를 직접 써봤다. 치킨 요리에는 도움이 됐지만 케이크는 망칠 뻔했다.",
-      "summaryEn": "A Verge reviewer tried NYT Cooking's AI assistant to solve nightly dinner decisions; it helped save a weeknight chicken dish but nearly ruined a cake.",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-06T00:00:00+00:00",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "lang": "en",
-      "titleKo": "오픈AI, AI 에이전트의 실험실 과학 역량 측정하는 벤치마크 공개",
-      "summaryKo": "오픈AI가 AI 에이전트가 원시 실험 데이터를 해석하고 일상적인 웻랩 과학 업무를 얼마나 잘 처리하는지 측정하는 100개 과제 벤치마크 BioBasicsBench를 공개했다.",
-      "summaryEn": "OpenAI introduced BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-05T17:05:16+00:00",
-      "summary": "",
-      "lang": "en",
-      "titleKo": "Gemini Omni 1.2 Flash: 더 빠르고 저렴해지고 더 긴 클립 지원",
+      "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has de",
       "titleEn": "",
       "tags": [
         "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-05T17:00:35+00:00",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developer",
-      "lang": "en",
-      "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
-      "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
-      "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-05T09:00:00+00:00",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "lang": "en",
-      "titleKo": "오픈AI, 보안 특화 모델 'GPT-6 Cyber' 공개",
-      "summaryKo": "오픈AI가 악용 가능한 취약점을 찾고 수정안을 개발하는 사이버보안 모델 GPT-6 Cyber를 공개했다. 승인된 범위 안에서만 동작하도록 훈련됐다.",
-      "summaryEn": "OpenAI introduced GPT-6 Cyber, a cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
       ],
       "score": 6.0
     }
   ],
   "korea": [
     {
-      "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-08T09:51:29+00:00",
-      "summary": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI published an official prompting guide for Image 2.6 (GPT-Image-2.6 in the API), advising users to specify purpose, composition and style, and to clearly mark what to change vs. keep when editing images.",
-      "titleEn": "OpenAI Releases Image 2.6 Prompting Guide: Separate What to Change From What to Keep",
-      "tags": [
-        "빅테크",
-        "마케팅 영향"
-      ],
-      "score": 9.5
-    },
-    {
-      "title": "중국서 AI로 불량품 사진 만들어 환불...쇼핑몰도 AI로 맞대응",
-      "url": "https://zdnet.co.kr/view/?no=20261108080355",
+      "title": "LG AI연구원, 'K-엑사원 2.5' 무료 개방…성능 70%↑",
+      "url": "https://zdnet.co.kr/view/?no=20261109093318",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-07T23:03:55+00:00",
-      "summary": "[지디넷코리아]중국 온라인 쇼핑몰에서 생성형 AI를 이용해 멀쩡한 상품을 불량품처럼 조작한 뒤 환불을 요구하는 사례가 잇따르고 있다.이와 함께 소비자가 AI로 가짜 증거 사진을 만들자 전자상거래 플",
+      "publishedAt": "2026-11-09T01:00:02+00:00",
+      "summary": "[지디넷코리아]LG AI연구원이 독자 인공지능(AI) 모델 'K-엑사원' 성능을 8주 만에 70% 이상 끌어올리고 개선된 모델을 누구나 활용할 수 있도록 무료 개방한다.LG AI연구원은 9일 서울 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "In China, buyers are using generative AI to fake damage in product photos to claim refund-only returns; Alibaba's Taobao and Tmall have added AI tools to help sellers detect manipulated images.",
-      "titleEn": "Chinese Shoppers Use AI-Faked Defect Photos for Refunds as E-Commerce Platforms Fight Back With AI",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "마케팅 영향"
+        "빅테크"
       ],
-      "score": 6.5
+      "score": 6.0
+    },
+    {
+      "title": "에이전틱·피지컬 AI 확산에 법적책임 안전 기준 논의",
+      "url": "https://zdnet.co.kr/view/?no=20261109095743",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-09T00:57:43+00:00",
+      "summary": "[지디넷코리아]에이전틱 AI와 피지컬 AI 확산에 따른 법적 책임과 안전 기준을 논의하는 자리가 마련된다. 인공지능기본법 시행 이후 기업이 직면한 규제 현안과 제도 개선 방안도 다룬다.이주희 더불어",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보",
+      "url": "https://www.etnews.com/20261109000006",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-08T21:54:31+00:00",
+      "summary": "앤트로픽이 인공지능(AI) 데이터센터의 안정적인 전력 확보를 위해 가스 발전설비를 직접 사들였다. 전력 공급업체에 의존하는 대신 발전설비를 선제적으로 확보해 전력 수급 불확실성을 줄이겠다는 전략이다",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-08T18:14:24+00:00",
+      "summary": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-08T12:08:58+00:00",
+      "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     }
   ]
 }

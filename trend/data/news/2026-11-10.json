@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T13:03+09:00",
+  "global": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-10T01:27:12+00:00",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-10T00:18:19+00:00",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at ris",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-09T17:05:43+00:00",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speak",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco ",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 9.5
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-09T05:00:40+00:00",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applyin",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to ever",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217203",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-10T11:40:29+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 CEO와 관련한 의혹을 연방수사국(FBI)이 조사하고 있다고 밝혔다. 황 CEO가 중국 정보기관과 연계된 것으로 의심받는 여성과 부적절한 관계를 맺었다",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217204",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-10T11:24:59+00:00",
+      "summary": "AI 반도체 전문 딥엑스(대표 김녹원)가 삼성전자 2나노 공정 기반 차세대 생성 AI 반도체 ‘DX-M2’의 칩 설계를 마치고 내년 하반기 양산공급을 위한 채비에 나섰다.딥엑스는 이달 초 DX-M2",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "\"日 아사히도 택했다\"…시스코, 기업 네트워크 혁신으로 AI 주도권 노려",
+      "url": "https://zdnet.co.kr/view/?no=20261110115359",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-10T02:55:35+00:00",
+      "summary": "[지디넷코리아][멜버른(호주)=장유미 기자] 시스코가 인공지능(AI) 에이전트 확산에 맞춰 기업 네트워크와 보안 인프라 혁신에 속도를 낸다. AI가 사람을 대신해 24시간 업무를 수행하면서 데이터 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "국방 AI 힘주는 기업들…군 인재 확보 속도전",
+      "url": "https://zdnet.co.kr/view/?no=20261110113136",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-10T02:53:06+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업이 국방 시장 공략을 위해 군 출신 인재 확보에 나섰다. 군에서 쌓은 작전·정보 분석 경험을 AI 개발과 사업 전략에 접목해 현장 도입에 속도를 내겠다는 구상이다.",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    }
+  ]
+}

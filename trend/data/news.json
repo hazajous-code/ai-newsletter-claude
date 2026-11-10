@@ -1,18 +1,104 @@
 {
-  "date": "2026-11-09",
-  "updatedAt": "2026-11-09T10:47+09:00",
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T13:03+09:00",
   "global": [
     {
-      "title": "Apple is racing to make Siri more agentic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-08T19:18:19+00:00",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with Op",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-10T01:27:12+00:00",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "lang": "en",
-      "titleKo": "애플, Siri 에이전트화 서두른다",
-      "summaryKo": "블룸버그 마크 거먼에 따르면 존 터너스 CEO가 크레이그 페더리기에게 OpenAI·메타와 경쟁할 강력한 AI 에이전트를 위해 Siri 로드맵 가속을 압박하고 있다.",
-      "summaryEn": "Bloomberg's Mark Gurman reports CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's roadmap and deliver an AI agent that can rival OpenAI's Dots and Meta's Muse.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-10T00:18:19+00:00",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at ris",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-09T17:05:43+00:00",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speak",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco ",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 9.5
+    },
+    {
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-09T05:00:40+00:00",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applyin",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to ever",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -22,34 +108,51 @@
   ],
   "korea": [
     {
-      "title": "LG AI연구원, 'K-엑사원 2.5' 무료 개방…성능 70%↑",
-      "url": "https://zdnet.co.kr/view/?no=20261109093318",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-09T01:00:02+00:00",
-      "summary": "[지디넷코리아]LG AI연구원이 독자 인공지능(AI) 모델 'K-엑사원' 성능을 8주 만에 70% 이상 끌어올리고 개선된 모델을 누구나 활용할 수 있도록 무료 개방한다.LG AI연구원은 9일 서울 ",
+      "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217203",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-10T11:40:29+00:00",
+      "summary": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 CEO와 관련한 의혹을 연방수사국(FBI)이 조사하고 있다고 밝혔다. 황 CEO가 중국 정보기관과 연계된 것으로 의심받는 여성과 부적절한 관계를 맺었다",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "LG AI Research announced at NVIDIA AI Day Seoul 2026 a free API for K-EXAONE 2.5, which improves 70%+ over its August model and nears DeepSeek and GLM on agentic AI benchmarks.",
-      "titleEn": "LG AI Research opens K-EXAONE 2.5 API for free, with 70%+ performance gain",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "에이전틱·피지컬 AI 확산에 법적책임 안전 기준 논의",
-      "url": "https://zdnet.co.kr/view/?no=20261109095743",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-09T00:57:43+00:00",
-      "summary": "[지디넷코리아]에이전틱 AI와 피지컬 AI 확산에 따른 법적 책임과 안전 기준을 논의하는 자리가 마련된다. 인공지능기본법 시행 이후 기업이 직면한 규제 현안과 제도 개선 방안도 다룬다.이주희 더불어",
+      "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217204",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-10T11:24:59+00:00",
+      "summary": "AI 반도체 전문 딥엑스(대표 김녹원)가 삼성전자 2나노 공정 기반 차세대 생성 AI 반도체 ‘DX-M2’의 칩 설계를 마치고 내년 하반기 양산공급을 위한 채비에 나섰다.딥엑스는 이달 초 DX-M2",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Rep. Lee Joo-hee will host an AI law and policy seminar in Seoul on Nov 16 on legal liability and safety for agentic and physical AI, and regulatory issues after Korea's AI Basic Act took effect.",
-      "titleEn": "Korean lawmakers to discuss legal liability and safety standards for agentic and physical AI",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "\"日 아사히도 택했다\"…시스코, 기업 네트워크 혁신으로 AI 주도권 노려",
+      "url": "https://zdnet.co.kr/view/?no=20261110115359",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-10T02:55:35+00:00",
+      "summary": "[지디넷코리아][멜버른(호주)=장유미 기자] 시스코가 인공지능(AI) 에이전트 확산에 맞춰 기업 네트워크와 보안 인프라 혁신에 속도를 낸다. AI가 사람을 대신해 24시간 업무를 수행하면서 데이터 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -57,55 +160,22 @@
       "score": 7.0
     },
     {
-      "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보",
-      "url": "https://www.etnews.com/20261109000006",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-11-08T21:54:31+00:00",
-      "summary": "앤트로픽이 인공지능(AI) 데이터센터의 안정적인 전력 확보를 위해 가스 발전설비를 직접 사들였다. 전력 공급업체에 의존하는 대신 발전설비를 선제적으로 확보해 전력 수급 불확실성을 줄이겠다는 전략이다",
+      "title": "국방 AI 힘주는 기업들…군 인재 확보 속도전",
+      "url": "https://zdnet.co.kr/view/?no=20261110113136",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-10T02:53:06+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업이 국방 시장 공략을 위해 군 출신 인재 확보에 나섰다. 군에서 쌓은 작전·정보 분석 경험을 AI 개발과 사업 전략에 접목해 현장 도입에 속도를 내겠다는 구상이다.",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Per the Financial Times, Anthropic invested $3.4 billion to acquire gas power generation equipment, securing electricity for its AI data centers directly rather than relying on utilities.",
-      "titleEn": "Anthropic secures $3.4B in gas generators to power its own data centers",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "정책·법·보안"
       ],
-      "score": 6.0
-    },
-    {
-      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-08T18:14:24+00:00",
-      "summary": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Anthropic's report analyzing 207,049 science sessions on Claude and Claude Code found AI is used mostly for data analysis and writing, while hypothesis generation accounts for only about 4%.",
-      "titleEn": "How scientists use AI: Anthropic finds data analysis tops, hypothesis generation just 4%",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-08T12:08:58+00:00",
-      "summary": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Anthropic's biology team used Claude to discover a new form of the vault particle and map its 3D structure, building the first model in 34 hours versus the usual several weeks.",
-      "titleEn": "Anthropic uses Claude to reveal first 3D structure in a 40-year protein mystery",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
+      "score": 7.0
     }
   ]
 }

@@ -1841,5 +1841,51 @@
   "https://www.aitimes.com/news/articleView.html?idxno=217145": {
     "titleEn": "Anthropic uses Claude to reveal first 3D structure in a 40-year protein mystery",
     "summaryEn": "Anthropic's biology team used Claude to discover a new form of the vault particle and map its 3D structure, building the first model in 34 hours versus the usual several weeks."
+  },
+  "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/": {
+    "titleKo": "Anthropic, IPO 추진 본격화 보도",
+    "summaryKo": "월스트리트저널에 따르면 Anthropic은 이번 주 기업공개(IPO) 공모가 산정을 위한 기업가치 범위를 정할 예정이다.",
+    "summaryEn": "Anthropic is expected to set its valuation range for its IPO this week, according to The Wall Street Journal."
+  },
+  "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/": {
+    "titleKo": "젠슨 황 스캔들에 흔들리는 AI 업계",
+    "summaryKo": "막대한 자금력과 핵심 칩으로 AI 업계에 큰 영향력을 행사해 온 엔비디아 CEO 젠슨 황이, 중국 스파이로 의심받는 인물과의 혼외 관계 의혹으로 입지가 흔들릴 위기에 놓였다.",
+    "summaryEn": "Nvidia CEO Jensen Huang, whose funding and sought-after chips gave him outsized sway over AI, faces risk to that position over an extramarital affair with a suspected Chinese spy."
+  },
+  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+    "titleKo": "ChatGPT Enterprise, AWS 마켓플레이스 입점",
+    "summaryKo": "ChatGPT Enterprise를 AWS 마켓플레이스에서 구매할 수 있게 돼, 기업들이 기존 AWS 구매·결제 체계를 통해 도입 절차를 간소화할 수 있다.",
+    "summaryEn": "ChatGPT Enterprise is now available through AWS Marketplace, letting organizations simplify procurement via their existing AWS purchasing and billing relationships."
+  },
+  "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": {
+    "titleKo": "펠로시 후임 스콧 위너, 연방 차원 AI 규제 나선다",
+    "summaryKo": "캘리포니아 주 상원의원으로 첨단 AI 위험 억제 법안을 발의한 스콧 위너가 낸시 펠로시의 샌프란시스코 하원 의석을 차지하며 연방 AI 정책에서 핵심 역할을 할 가능성이 커졌다.",
+    "summaryEn": "Scott Wiener, who authored AI-risk legislation as a California state senator, won Nancy Pelosi's former San Francisco House seat and could play a key role in shaping federal AI policy."
+  },
+  "https://openai.com/index/control-room": {
+    "titleKo": "OpenAI '컨트롤 룸': 연구 인프라 전반의 모델 작업을 추적하고 즉시 중단하는 시스템",
+    "summaryKo": "OpenAI는 연구 인프라 전반의 모델 작업을 추적하고, 안전·보안 문제가 생기면 신속히 중단할 수 있는 중앙 시스템 '컨트롤 룸'을 소개했다.",
+    "summaryEn": "OpenAI describes Control Room, a central system that tracks model workloads across its research infrastructure and can rapidly stop them when safety or security concerns arise."
+  },
+  "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": {
+    "titleKo": "NVIDIA와 함께 산업 전반으로 확산되는 한국 피지컬 AI",
+    "summaryKo": "NVIDIA는 제조·엔지니어링 강점을 지닌 한국의 피지컬 AI 생태계를 지원하고 있으며, 국내 주요 기업들은 반도체 제조부터 로보틱스, 자율주행까지 가속 컴퓨팅·AI·시뮬레이션을 적용하고 있다.",
+    "summaryEn": "NVIDIA is helping advance Korea's physical AI ecosystem, with industry leaders applying accelerated computing, AI and simulation from semiconductor manufacturing to robotics and autonomous vehicles."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217203": {
+    "titleEn": "Trump Says FBI Is Looking Into Jensen Huang Matter as Nvidia CEO Skips Major AI Events",
+    "summaryEn": "Trump said the FBI is examining allegations involving Nvidia CEO Jensen Huang's relationship with a woman suspected of ties to Chinese intelligence; Huang is skipping several major AI industry events."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217204": {
+    "titleEn": "Korean Chipmaker DEEPX Completes Design of Ultra-Low-Power AI Chip DX-M2, Targets Mass Production in H2 2027",
+    "summaryEn": "DEEPX completed mask tape-out of its DX-M2 generative AI chip on Samsung's 2nm process, plans first silicon in March and customer samples in Q2, with mass-production supply slated to begin in Q4."
+  },
+  "https://zdnet.co.kr/view/?no=20261110115359": {
+    "titleEn": "Cisco Bets on Enterprise Network Overhaul to Lead in AI, Citing Japan's Asahi as an Adopter",
+    "summaryEn": "At Cisco Live APJC 2026 in Melbourne, Cisco said AI agents will drive up enterprise traffic and security threats, and is pushing integrated network and security infrastructure to win business customers."
+  },
+  "https://zdnet.co.kr/view/?no=20261110113136": {
+    "titleEn": "Korean AI Firms Race to Hire Military Talent to Win Defense Contracts",
+    "summaryEn": "Korean AI companies including MakinaRocks, Naver and satellite-imagery firm SIA are recruiting former military officers and analysts to apply operational and intelligence experience to defense AI."
   }
 }

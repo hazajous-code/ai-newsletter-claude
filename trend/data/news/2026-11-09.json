@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T10:47+09:00",
+  "updatedAt": "2026-11-09T09:00+09:00",
   "global": [
     {
       "title": "Apple is racing to make Siri more agentic",
@@ -18,6 +18,23 @@
         "빅테크"
       ],
       "score": 6.0
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "lang": "en",
+      "titleKo": "오픈AI, AI 에이전트의 실험실 과학 역량 측정하는 벤치마크 공개",
+      "summaryKo": "오픈AI가 AI 에이전트가 원시 실험 데이터를 해석하고 일상적인 웻랩 과학 업무를 얼마나 잘 처리하는지 측정하는 100개 과제 벤치마크 BioBasicsBench를 공개했다.",
+      "summaryEn": "OpenAI introduced BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
     }
   ],
   "korea": [

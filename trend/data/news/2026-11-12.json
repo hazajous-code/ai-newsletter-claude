@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T11:49+09:00",
+  "global": [
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-11T21:54:21+00:00",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-11T18:00:00+00:00",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-10T19:00:00+00:00",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-10T16:03:47+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-09T19:51:47+00:00",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "코어위브 25% 급등에 AI 기술주 동반 반등…엔비디아도 상승 전환",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-12T08:25:05+00:00",
+      "summary": "부채 부담과 AI 투자 거품 논란으로 급락했던 미국 AI 기술주가 코어위브의 실적 발표를 계기로 일제히 반등했다. 코어위브가 예상보다 높은 매출 성장과 자금 조달 대책을 제시하면서 시장의 불안이 누",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "[11월11일] 앤트로픽이 월가에 진짜 하고 싶었던 말…42분 영상에 담긴 5가지 투자 논리",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217257",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "summary": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는 기업가치를 인정받아야 하는 이유를 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "솔트룩스, 국가기록 검색에 AI 입힌다…맥락까지 파악",
+      "url": "https://zdnet.co.kr/view/?no=20261112112011",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-12T02:21:50+00:00",
+      "summary": "[지디넷코리아]솔트룩스가 인공지능(AI)을 활용해 검색어뿐 아니라 기록 맥락까지 파악하는 국가기록원 지능형 검색 기술 개발에 나섰다.솔트룩스는 국가기록원 'AI 기반 지능형 기록정보 검색 솔루션 개",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "마케팅 영향",
+        "정책·법·보안"
+      ],
+      "score": 7.5
+    }
+  ]
+}

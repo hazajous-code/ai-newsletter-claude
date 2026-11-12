@@ -1,69 +1,18 @@
 {
-  "date": "2026-11-10",
-  "updatedAt": "2026-11-11T10:47+09:00",
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T11:49+09:00",
   "global": [
     {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-11-10T01:27:12+00:00",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-11T21:54:21+00:00",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people ",
       "lang": "en",
-      "titleKo": "Anthropic, IPO 추진 본격화 보도",
-      "summaryKo": "월스트리트저널에 따르면 Anthropic은 이번 주 기업공개(IPO) 공모가 산정을 위한 기업가치 범위를 정할 예정이다.",
-      "summaryEn": "Anthropic is expected to set its valuation range for its IPO this week, according to The Wall Street Journal.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "source": "WIRED",
-      "sourceId": "wired",
-      "publishedAt": "2026-11-10T00:18:19+00:00",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at ris",
-      "lang": "en",
-      "titleKo": "젠슨 황 스캔들에 흔들리는 AI 업계",
-      "summaryKo": "막대한 자금력과 핵심 칩으로 AI 업계에 큰 영향력을 행사해 온 엔비디아 CEO 젠슨 황이, 중국 스파이로 의심받는 인물과의 혼외 관계 의혹으로 입지가 흔들릴 위기에 놓였다.",
-      "summaryEn": "Nvidia CEO Jensen Huang, whose funding and sought-after chips gave him outsized sway over AI, faces risk to that position over an extramarital affair with a suspected Chinese spy.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-09T19:00:00+00:00",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "lang": "en",
-      "titleKo": "ChatGPT Enterprise, AWS 마켓플레이스 입점",
-      "summaryKo": "ChatGPT Enterprise를 AWS 마켓플레이스에서 구매할 수 있게 돼, 기업들이 기존 AWS 구매·결제 체계를 통해 도입 절차를 간소화할 수 있다.",
-      "summaryEn": "ChatGPT Enterprise is now available through AWS Marketplace, letting organizations simplify procurement via their existing AWS purchasing and billing relationships.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-09T17:05:43+00:00",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speak",
-      "lang": "en",
-      "titleKo": "펠로시 후임 스콧 위너, 연방 차원 AI 규제 나선다",
-      "summaryKo": "캘리포니아 주 상원의원으로 첨단 AI 위험 억제 법안을 발의한 스콧 위너가 낸시 펠로시의 샌프란시스코 하원 의석을 차지하며 연방 AI 정책에서 핵심 역할을 할 가능성이 커졌다.",
-      "summaryEn": "Scott Wiener, who authored AI-risk legislation as a California state senator, won Nancy Pelosi's former San Francisco House seat and could play a key role in shaping federal AI policy.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
@@ -71,88 +20,123 @@
       "score": 5.0
     },
     {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-09T13:00:00+00:00",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-11T18:00:00+00:00",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "lang": "en",
-      "titleKo": "OpenAI '컨트롤 룸': 연구 인프라 전반의 모델 작업을 추적하고 즉시 중단하는 시스템",
-      "summaryKo": "OpenAI는 연구 인프라 전반의 모델 작업을 추적하고, 안전·보안 문제가 생기면 신속히 중단할 수 있는 중앙 시스템 '컨트롤 룸'을 소개했다.",
-      "summaryEn": "OpenAI describes Control Room, a central system that tracks model workloads across its research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "titleEn": "",
       "tags": [
-        "빅테크",
-        "마케팅 영향"
+        "빅테크"
       ],
-      "score": 8.5
+      "score": 6.0
     },
     {
-      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-09T05:00:40+00:00",
-      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applyin",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "lang": "en",
-      "titleKo": "NVIDIA와 함께 산업 전반으로 확산되는 한국 피지컬 AI",
-      "summaryKo": "NVIDIA는 제조·엔지니어링 강점을 지닌 한국의 피지컬 AI 생태계를 지원하고 있으며, 국내 주요 기업들은 반도체 제조부터 로보틱스, 자율주행까지 가속 컴퓨팅·AI·시뮬레이션을 적용하고 있다.",
-      "summaryEn": "NVIDIA is helping advance Korea's physical AI ecosystem, with industry leaders applying accelerated computing, AI and simulation from semiconductor manufacturing to robotics and autonomous vehicles.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-10T19:00:00+00:00",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 5.0
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-10T16:03:47+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-09T19:51:47+00:00",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 6.0
     }
   ],
   "korea": [
     {
-      "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217203",
+      "title": "코어위브 25% 급등에 AI 기술주 동반 반등…엔비디아도 상승 전환",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-10T11:40:29+00:00",
-      "summary": "도널드 트럼프 미국 대통령이 젠슨 황 엔비디아 CEO와 관련한 의혹을 연방수사국(FBI)이 조사하고 있다고 밝혔다. 황 CEO가 중국 정보기관과 연계된 것으로 의심받는 여성과 부적절한 관계를 맺었다",
+      "publishedAt": "2026-11-12T08:25:05+00:00",
+      "summary": "부채 부담과 AI 투자 거품 논란으로 급락했던 미국 AI 기술주가 코어위브의 실적 발표를 계기로 일제히 반등했다. 코어위브가 예상보다 높은 매출 성장과 자금 조달 대책을 제시하면서 시장의 불안이 누",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Trump said the FBI is examining allegations involving Nvidia CEO Jensen Huang's relationship with a woman suspected of ties to Chinese intelligence; Huang is skipping several major AI industry events.",
-      "titleEn": "Trump Says FBI Is Looking Into Jensen Huang Matter as Nvidia CEO Skips Major AI Events",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217204",
+      "title": "[11월11일] 앤트로픽이 월가에 진짜 하고 싶었던 말…42분 영상에 담긴 5가지 투자 논리",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217257",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-10T11:24:59+00:00",
-      "summary": "AI 반도체 전문 딥엑스(대표 김녹원)가 삼성전자 2나노 공정 기반 차세대 생성 AI 반도체 ‘DX-M2’의 칩 설계를 마치고 내년 하반기 양산공급을 위한 채비에 나섰다.딥엑스는 이달 초 DX-M2",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "summary": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는 기업가치를 인정받아야 하는 이유를 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "DEEPX completed mask tape-out of its DX-M2 generative AI chip on Samsung's 2nm process, plans first silicon in March and customer samples in Q2, with mass-production supply slated to begin in Q4.",
-      "titleEn": "Korean Chipmaker DEEPX Completes Design of Ultra-Low-Power AI Chip DX-M2, Targets Mass Production in H2 2027",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "\"日 아사히도 택했다\"…시스코, 기업 네트워크 혁신으로 AI 주도권 노려",
-      "url": "https://zdnet.co.kr/view/?no=20261110115359",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-10T02:55:35+00:00",
-      "summary": "[지디넷코리아][멜버른(호주)=장유미 기자] 시스코가 인공지능(AI) 에이전트 확산에 맞춰 기업 네트워크와 보안 인프라 혁신에 속도를 낸다. AI가 사람을 대신해 24시간 업무를 수행하면서 데이터 ",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "At Cisco Live APJC 2026 in Melbourne, Cisco said AI agents will drive up enterprise traffic and security threats, and is pushing integrated network and security infrastructure to win business customers.",
-      "titleEn": "Cisco Bets on Enterprise Network Overhaul to Lead in AI, Citing Japan's Asahi as an Adopter",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -160,22 +144,22 @@
       "score": 7.0
     },
     {
-      "title": "국방 AI 힘주는 기업들…군 인재 확보 속도전",
-      "url": "https://zdnet.co.kr/view/?no=20261110113136",
+      "title": "솔트룩스, 국가기록 검색에 AI 입힌다…맥락까지 파악",
+      "url": "https://zdnet.co.kr/view/?no=20261112112011",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-10T02:53:06+00:00",
-      "summary": "[지디넷코리아]인공지능(AI) 기업이 국방 시장 공략을 위해 군 출신 인재 확보에 나섰다. 군에서 쌓은 작전·정보 분석 경험을 AI 개발과 사업 전략에 접목해 현장 도입에 속도를 내겠다는 구상이다.",
+      "publishedAt": "2026-11-12T02:21:50+00:00",
+      "summary": "[지디넷코리아]솔트룩스가 인공지능(AI)을 활용해 검색어뿐 아니라 기록 맥락까지 파악하는 국가기록원 지능형 검색 기술 개발에 나섰다.솔트룩스는 국가기록원 'AI 기반 지능형 기록정보 검색 솔루션 개",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Korean AI companies including MakinaRocks, Naver and satellite-imagery firm SIA are recruiting former military officers and analysts to apply operational and intelligence experience to defense AI.",
-      "titleEn": "Korean AI Firms Race to Hire Military Talent to Win Defense Contracts",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크",
+        "마케팅 영향",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 7.5
     }
   ]
 }

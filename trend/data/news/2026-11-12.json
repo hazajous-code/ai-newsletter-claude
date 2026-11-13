@@ -1,24 +1,7 @@
 {
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T11:49+09:00",
+  "updatedAt": "2026-11-13T10:53+09:00",
   "global": [
-    {
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-11T21:54:21+00:00",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people ",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wa",
-      "titleEn": "",
-      "tags": [
-        "정책·법·보안"
-      ],
-      "score": 5.0
-    },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -27,31 +10,14 @@
       "publishedAt": "2026-11-11T18:00:00+00:00",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "titleKo": "구글, 빠르고 보정된 멀티모달 판단 'Gemini Decisions API' 공개",
+      "summaryKo": "구글이 자사 모델 Gemini Decision 기반으로 빠르고 보정된 멀티모달 의사결정을 제공하는 Gemini Decisions API를 공개했다.",
+      "summaryEn": "Google introduced the Gemini Decisions API, powered by its Gemini Decision model, for fast, calibrated multimodal decisions.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-11T08:00:00+00:00",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Gemini Intelligence: New features, on more devices",
@@ -61,7 +27,7 @@
       "publishedAt": "2026-11-10T19:00:00+00:00",
       "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "Gemini Intelligence, 11월 새 기능 추가하고 지원 기기 확대",
       "summaryKo": "",
       "summaryEn": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
       "titleEn": "",
@@ -78,7 +44,7 @@
       "publishedAt": "2026-11-10T16:03:47+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글 딥마인드, 'Gemini 4 Carbon' 출시",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -89,20 +55,37 @@
       "score": 6.0
     },
     {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-09T19:51:47+00:00",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-10T16:00:03+00:00",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only gr",
       "lang": "en",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "summaryEn": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its ",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-10T10:00:00+00:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "titleEn": "",
       "tags": [
         "빅테크",
-        "정책·법·보안"
+        "출시·발표"
       ],
       "score": 6.0
     }
@@ -118,8 +101,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "US AI stocks rebounded after CoreWeave's Q3 results showed stronger-than-expected revenue growth and funding plans; CoreWeave rose 24.7%, Nebius 15.4%, and Nvidia shares turned higher.",
+      "titleEn": "CoreWeave Jumps 25%, Lifting AI Tech Stocks as Nvidia Turns Higher",
       "tags": [
         "빅테크"
       ],
@@ -135,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Ahead of its IPO, Anthropic began its investor roadshow on Nov 10 and released a 42-minute video in which CEO Dario Amodei and executives argue for a valuation above $1 trillion.",
+      "titleEn": "What Anthropic Really Wants Wall Street to Hear: 5 Investment Pitches in Its 42-Minute IPO Video",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -153,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Saltlux is developing an AI search service for the National Archives of Korea that answers natural-language questions with source records, using its LUXIA model, ontology and AI agents.",
+      "titleEn": "Saltlux Brings Context-Aware AI Search to Korea's National Archives",
       "tags": [
         "마케팅 영향",
         "정책·법·보안"

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-11T10:47+09:00",
+  "updatedAt": "2026-11-10T09:00+09:00",
   "global": [
     {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -17,7 +17,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
@@ -34,7 +34,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -51,7 +51,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -68,7 +68,7 @@
       "tags": [
         "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
@@ -86,7 +86,7 @@
         "빅테크",
         "마케팅 영향"
       ],
-      "score": 8.5
+      "score": 9.5
     },
     {
       "title": "Korea Advances Physical AI Across Industries With NVIDIA",
@@ -103,7 +103,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     }
   ],
   "korea": [

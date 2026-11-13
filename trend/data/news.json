@@ -1,7 +1,60 @@
 {
-  "date": "2026-11-12",
-  "updatedAt": "2026-11-13T10:53+09:00",
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T11:31+09:00",
   "global": [
+    {
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-12T22:22:28+00:00",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-12T18:00:50+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -37,25 +90,7 @@
       "score": 5.0
     },
     {
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-10T16:03:47+00:00",
-      "summary": "",
-      "lang": "en",
-      "titleKo": "구글 딥마인드, 'Gemini 4 Carbon' 출시",
-      "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
       "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "source": "NVIDIA Blog",
       "sourceId": "nvidia-blog",
@@ -70,79 +105,43 @@
         "빅테크"
       ],
       "score": 5.0
-    },
+    }
+  ],
+  "korea": [
     {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-10T10:00:00+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "lang": "en",
+      "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217352",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-13T07:58:49+00:00",
+      "summary": "구글이 빠른 처리 속도와 AI 에이전트 작업에 특화된 '제미나이 4 하이드로젠(Gemini 4 Hydrogen)'을 출시했다. 기존 경량 모델보다 작업 완료 속도가 2.5배 빨라졌으며, 외부 종합 ",
+      "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 6.0
-    }
-  ],
-  "korea": [
+      "score": 7.0
+    },
     {
-      "title": "코어위브 25% 급등에 AI 기술주 동반 반등…엔비디아도 상승 전환",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
+      "title": "[11월12일] \"2027년 AI 지능 폭발\"…빅테크 이어 외부 연구진도 잇따라 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217310",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-12T08:25:05+00:00",
-      "summary": "부채 부담과 AI 투자 거품 논란으로 급락했던 미국 AI 기술주가 코어위브의 실적 발표를 계기로 일제히 반등했다. 코어위브가 예상보다 높은 매출 성장과 자금 조달 대책을 제시하면서 시장의 불안이 누",
+      "publishedAt": "2026-11-13T07:00:00+00:00",
+      "summary": "2027년이 AI 발전의 중대한 전환점이 될 것이라는 전망이 이어지고 있습니다. 올봄부터 오픈AI와 앤트로픽 내부에서 제기됐던 급격한 기술 발전에 대한 경고가 하반기에는 외부 평가기관의 분석으로 이",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "US AI stocks rebounded after CoreWeave's Q3 results showed stronger-than-expected revenue growth and funding plans; CoreWeave rose 24.7%, Nebius 15.4%, and Nvidia shares turned higher.",
-      "titleEn": "CoreWeave Jumps 25%, Lifting AI Tech Stocks as Nvidia Turns Higher",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
-    },
-    {
-      "title": "[11월11일] 앤트로픽이 월가에 진짜 하고 싶었던 말…42분 영상에 담긴 5가지 투자 논리",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217257",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-12T07:00:00+00:00",
-      "summary": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는 기업가치를 인정받아야 하는 이유를 ",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Ahead of its IPO, Anthropic began its investor roadshow on Nov 10 and released a 42-minute video in which CEO Dario Amodei and executives argue for a valuation above $1 trillion.",
-      "titleEn": "What Anthropic Really Wants Wall Street to Hear: 5 Investment Pitches in Its 42-Minute IPO Video",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "솔트룩스, 국가기록 검색에 AI 입힌다…맥락까지 파악",
-      "url": "https://zdnet.co.kr/view/?no=20261112112011",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-12T02:21:50+00:00",
-      "summary": "[지디넷코리아]솔트룩스가 인공지능(AI)을 활용해 검색어뿐 아니라 기록 맥락까지 파악하는 국가기록원 지능형 검색 기술 개발에 나섰다.솔트룩스는 국가기록원 'AI 기반 지능형 기록정보 검색 솔루션 개",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Saltlux is developing an AI search service for the National Archives of Korea that answers natural-language questions with source records, using its LUXIA model, ontology and AI agents.",
-      "titleEn": "Saltlux Brings Context-Aware AI Search to Korea's National Archives",
-      "tags": [
-        "마케팅 영향",
-        "정책·법·보안"
-      ],
-      "score": 7.5
     }
   ]
 }

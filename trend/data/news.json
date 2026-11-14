@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T11:31+09:00",
+  "updatedAt": "2026-11-13T09:00+09:00",
   "global": [
     {
       "title": "Muse can now place calls to US businesses — if you pay",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-12T22:22:28+00:00",
       "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "titleKo": "Muse, 미국 업체에 AI가 직접 전화 거는 기능 출시…유료 제공",
+      "summaryKo": "Muse의 AI가 이제 미국 업체에 발신 전화를 걸 수 있게 됐지만, 이 기능은 무료가 아니다.",
+      "summaryEn": "Muse's AI can now place outbound calls to U.S. businesses, but the feature is not free.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,7 +27,7 @@
       "publishedAt": "2026-11-12T18:00:50+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글 딥마인드, 'Gemini 4 Hydrogen' 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -45,15 +45,15 @@
       "publishedAt": "2026-11-12T00:00:00+00:00",
       "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "titleKo": "OpenAI, AI와 아동 안전 연구에 200만 달러 지원",
+      "summaryKo": "OpenAI가 AI와 아동 안전 연구에 200만 달러를 투입한다. 청소년에게 미치는 위험과 기회를 측정할 공동 도구 개발을 지원한다.",
+      "summaryEn": "OpenAI commits $2 million to research on AI and children's safety, supporting shared tools to measure risks and opportunities for young people.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "마케팅 영향"
       ],
-      "score": 8.5
+      "score": 9.5
     },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -97,9 +97,9 @@
       "publishedAt": "2026-11-10T16:00:03+00:00",
       "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only gr",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its ",
+      "titleKo": "엔비디아, OpenShell 기여와 신규 AI 인프라로 오픈소스 행보 확대",
+      "summaryKo": "엔비디아가 KubeCon + CloudNativeCon에서 오픈소스 기여를 강화했다. AI 팩토리 운영의 기반이 된 Kubernetes의 늘어나는 수요에 대응하기 위해서다.",
+      "summaryEn": "At KubeCon + CloudNativeCon, NVIDIA deepened its open source commitment to help meet growing demands on Kubernetes, which manages applications across AI factories.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google released Gemini 4 Hydrogen, built for speed and AI agent tasks, finishing tasks 2.5x faster than its prior lightweight model and topping Gemini 4 Argon in external benchmarks.",
+      "titleEn": "Google Launches Gemini 4 Hydrogen, Outperforming Its Higher-Tier Argon Model",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "AI Futures Project, known for its 'AI 2027' scenario, released a new analysis on Nov 10 projecting that AI surpassing top human researchers is likely to emerge in 2027.",
+      "titleEn": "[Nov 12] 'AI Intelligence Explosion in 2027': Outside Researchers Echo Big Tech Forecasts",
       "tags": [
         "빅테크"
       ],

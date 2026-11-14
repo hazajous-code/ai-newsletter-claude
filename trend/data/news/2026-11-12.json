@@ -1,7 +1,24 @@
 {
   "date": "2026-11-12",
-  "updatedAt": "2026-11-13T10:53+09:00",
+  "updatedAt": "2026-11-12T09:00+09:00",
   "global": [
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-11T21:54:21+00:00",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people ",
+      "lang": "en",
+      "titleKo": "유나이티드항공, AI 에이전트 통한 항공권 예약 막는다",
+      "summaryKo": "유나이티드항공이 개인정보와 규제 우려를 이유로 개인용 AI 비서의 항공권 예약을 허용하지 않겠다고 밝혔다. 아직 AI 에이전트로 예약하려는 이용자는 많지 않다고 덧붙였다.",
+      "summaryEn": "United says it won't let personal AI assistants book tickets, citing privacy and regulatory concerns. It adds that few people have tried using AI agents to book flights so far.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
+    },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -17,7 +34,24 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "lang": "en",
+      "titleKo": "OpenAI, 퇴역·전역 예정 군인에 ChatGPT Plus 1년 무료 제공",
+      "summaryKo": "2만 명 넘는 퇴역 군인과 전역 예정 장병이 ChatGPT Plus 1년 무료 이용권을 받았다. OpenAI는 이들이 민간 취업 준비에 ChatGPT를 어떻게 쓰는지 소개했다.",
+      "summaryEn": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus, which OpenAI says they use to prepare for civilian careers.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     },
     {
       "title": "Gemini Intelligence: New features, on more devices",
@@ -55,37 +89,20 @@
       "score": 6.0
     },
     {
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-10T16:00:03+00:00",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only gr",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-09T19:51:47+00:00",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its ",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-10T10:00:00+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "titleKo": "Gemini Robotics 2.5, 실제 환경 로봇 손재주 끌어올린다",
+      "summaryKo": "구글 딥마인드가 가장 뛰어난 시각-언어-행동(VLA) 모델 Gemini Robotics 2.5를 공개했다. 로봇의 손재주와 신뢰성, 안전성을 높였다고 밝혔다.",
+      "summaryEn": "Google DeepMind unveiled Gemini Robotics 2.5, its most capable vision-language-action model, which it says improves robot dexterity, reliability and safety.",
       "titleEn": "",
       "tags": [
         "빅테크",
-        "출시·발표"
+        "정책·법·보안"
       ],
       "score": 6.0
     }

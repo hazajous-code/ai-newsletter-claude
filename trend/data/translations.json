@@ -1929,5 +1929,38 @@
   "https://zdnet.co.kr/view/?no=20261112112011": {
     "titleEn": "Saltlux Brings Context-Aware AI Search to Korea's National Archives",
     "summaryEn": "Saltlux is developing an AI search service for the National Archives of Korea that answers natural-language questions with source records, using its LUXIA model, ontology and AI agents."
+  },
+  "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/": {
+    "titleKo": "Muse, 미국 업체에 AI가 직접 전화 거는 기능 출시…유료 제공",
+    "summaryKo": "Muse의 AI가 이제 미국 업체에 발신 전화를 걸 수 있게 됐지만, 이 기능은 무료가 아니다.",
+    "summaryEn": "Muse's AI can now place outbound calls to U.S. businesses, but the feature is not free."
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+    "titleKo": "구글 딥마인드, 'Gemini 4 Hydrogen' 공개",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://openai.com/index/children-first-declaration": {
+    "titleKo": "OpenAI, AI와 아동 안전 연구에 200만 달러 지원",
+    "summaryKo": "OpenAI가 AI와 아동 안전 연구에 200만 달러를 투입한다. 청소년에게 미치는 위험과 기회를 측정할 공동 도구 개발을 지원한다.",
+    "summaryEn": "OpenAI commits $2 million to research on AI and children's safety, supporting shared tools to measure risks and opportunities for young people."
+  },
+  "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
+    "titleKo": "엔비디아, OpenShell 기여와 신규 AI 인프라로 오픈소스 행보 확대",
+    "summaryKo": "엔비디아가 KubeCon + CloudNativeCon에서 오픈소스 기여를 강화했다. AI 팩토리 운영의 기반이 된 Kubernetes의 늘어나는 수요에 대응하기 위해서다.",
+    "summaryEn": "At KubeCon + CloudNativeCon, NVIDIA deepened its open source commitment to help meet growing demands on Kubernetes, which manages applications across AI factories."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217352": {
+    "titleEn": "Google Launches Gemini 4 Hydrogen, Outperforming Its Higher-Tier Argon Model",
+    "summaryEn": "Google released Gemini 4 Hydrogen, built for speed and AI agent tasks, finishing tasks 2.5x faster than its prior lightweight model and topping Gemini 4 Argon in external benchmarks."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217310": {
+    "titleEn": "[Nov 12] 'AI Intelligence Explosion in 2027': Outside Researchers Echo Big Tech Forecasts",
+    "summaryEn": "AI Futures Project, known for its 'AI 2027' scenario, released a new analysis on Nov 10 projecting that AI surpassing top human researchers is likely to emerge in 2027."
+  },
+  "https://openai.com/index/introducing-businesses-chatgpt": {
+    "titleKo": "OpenAI, ChatGPT에 비즈니스 관리 기능 'Businesses' 도입",
+    "summaryKo": "기업이 ChatGPT에서 자사 정보를 관리하고, 노출 현황에 대한 인사이트를 얻어 관심을 실제 행동으로 연결할 수 있다.",
+    "summaryEn": "Businesses can manage their information in ChatGPT, get insights into how they show up, and turn interest into action."
   }
 }

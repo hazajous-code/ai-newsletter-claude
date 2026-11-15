@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T10:36+09:00",
+  "updatedAt": "2026-11-15T10:48+09:00",
   "global": [
     {
       "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-14T15:00:00+00:00",
       "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our s",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known fi",
+      "titleKo": "샘 올트먼 해임에 나섰던 전 오픈AI 이사 헬렌 토너 \"여전히 AI CEO들을 믿을 수 없다\"",
+      "summaryKo": "더버지가 조지타운대 CSET 사무총장이자 AI 안전·정책 분야 인사인 헬렌 토너를 인터뷰했다. 'AI in real life' 시리즈 두 번째 편으로, 그는 오픈AI 이사회에서 샘 올트먼 해임에 참여한 인물로 알려져 있다.",
+      "summaryEn": "The Verge interviews Helen Toner, executive director of Georgetown's CSET and the former OpenAI board member who fired Sam Altman, in part two of its AI in real life series.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-11-13T15:00:00+00:00",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "titleKo": "오픈AI, 에이전트 결제용 'ChatGPT Wallet' 공개",
+      "summaryKo": "오픈AI가 ChatGPT Work·Codex·dots의 에이전트가 사용자 승인과 기존 카드 보호 장치를 거쳐 구매를 완료할 수 있게 하는 보안 결제 기능 ChatGPT Wallet을 선보였다.",
+      "summaryEn": "OpenAI introduced ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex and dots to complete purchases with user approval and existing card protections.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -46,9 +46,9 @@
       "publishedAt": "2026-11-13T08:00:00+00:00",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "titleKo": "Shield, 오픈AI로 IT 기술자의 레거시 포털 업무를 에이전트에 넘기다",
+      "summaryKo": "Shield는 오픈AI 기반 'Forge' 에이전트가 레거시 포털 시스템을 대신 조작하게 해, IT 기술자들이 판단이 필요한 문제에 집중할 수 있도록 돕고 있다.",
+      "summaryEn": "Shield uses OpenAI to let IT technicians hand off work in legacy portals; its Forge agents navigate those systems so technicians can focus on issues that need their judgment.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -85,8 +85,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Per Reuters, Amazon is pursuing a 'World Product Graph' that combines brand data and data from other retail sites, including products it doesn't sell, so shoppers and outside AI agents turn to Amazon.",
+      "titleEn": "Amazon Reportedly Building a Global Product Graph to Keep Its Edge in AI Shopping",
       "tags": [
         "빅테크",
         "마케팅 영향"

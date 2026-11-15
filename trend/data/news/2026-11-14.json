@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T11:05+09:00",
+  "updatedAt": "2026-11-14T09:00+09:00",
   "global": [
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-13T22:43:00+00:00",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "titleKo": "\"젠슨 황 퇴진으로 AI 스타트업 투자에 큰 구멍\"…VC·창업자들 우려",
+      "summaryKo": "엔비디아는 젠슨 황 체제에서 AI 스타트업에 수백억 달러를 투자해왔다. 그가 물러나면서 창업자와 VC들은 투자 규모 축소와 기업가치 하락에 대비하고 있다.",
+      "summaryEn": "Nvidia poured tens of billions into AI startups under Jensen Huang. With him gone, founders and VCs are bracing for smaller checks and lower valuations.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-11-13T15:00:00+00:00",
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "titleKo": "오픈AI, 에이전트 결제용 'ChatGPT Wallet' 공개",
+      "summaryKo": "오픈AI가 ChatGPT Work·Codex·dots의 에이전트가 사용자 승인과 기존 카드 보호 장치를 거쳐 구매를 완료할 수 있게 하는 보안 결제 기능 ChatGPT Wallet을 선보였다.",
+      "summaryEn": "OpenAI introduced ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex and dots to complete purchases with user approval and existing card protections.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -45,9 +45,9 @@
       "publishedAt": "2026-11-13T08:00:00+00:00",
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "titleKo": "Shield, 오픈AI로 IT 기술자의 레거시 포털 업무를 에이전트에 넘기다",
+      "summaryKo": "Shield는 오픈AI 기반 'Forge' 에이전트가 레거시 포털 시스템을 대신 조작하게 해, IT 기술자들이 판단이 필요한 문제에 집중할 수 있도록 돕고 있다.",
+      "summaryEn": "Shield uses OpenAI to let IT technicians hand off work in legacy portals; its Forge agents navigate those systems so technicians can focus on issues that need their judgment.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -101,8 +101,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Bloomberg reports some banks are rejecting or limiting Anthropic IPO orders from mainland Chinese and Hong Kong institutional investors, citing US export rules such as ITAR.",
+      "titleEn": "Chinese and Hong Kong Investors Shut Out of Anthropic IPO Allocations Amid US Security Rules",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -119,8 +119,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Built with American Express, Mastercard and Visa, ChatGPT Wallet lets agents buy and pay for items via biometric approval without exposing card numbers; it starts with US ChatGPT Pro users 18+.",
+      "titleEn": "OpenAI Launches ChatGPT Wallet, Letting AI Agents Pay on Users' Behalf",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -137,8 +137,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Citing Gizmodo, ZDNet Korea reports smart glasses are adding health features: Meta offers nutrition tracking, and Alibaba's Qwen N1 Pro measures skin temperature, blood oxygen and heart rate.",
+      "titleEn": "Health Tracking Emerges as the Next Battleground for AI Smart Glasses",
       "tags": [
         "빅테크"
       ],
@@ -154,8 +154,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "After Huang's exit, Nvidia named CFO Colette Kress interim CEO and began a search; reports say decisions were concentrated in Huang, with about 60 executives reporting directly to him.",
+      "titleEn": "Why Nvidia Never Had a No. 2 Behind Jensen Huang",
       "tags": [
         "빅테크"
       ],
@@ -171,8 +171,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Pre-orders for the 'Intelligent Eyewear' collection opened in Korea and the US, and key models sold out within hours; reservations for a public demo event in New York are also fully booked.",
+      "titleEn": "Samsung, Google and Gentle Monster AI Glasses Sell Out First Pre-Order Batch",
       "tags": [
         "빅테크"
       ],

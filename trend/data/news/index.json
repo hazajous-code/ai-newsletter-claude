@@ -1,6 +1,11 @@
 {
   "dates": [
     {
+      "date": "2026-11-16",
+      "global": 6,
+      "korea": 2
+    },
+    {
       "date": "2026-11-15",
       "global": 4,
       "korea": 1

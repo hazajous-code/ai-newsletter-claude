@@ -1,24 +1,92 @@
 {
-  "date": "2026-11-15",
-  "updatedAt": "2026-11-15T10:48+09:00",
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T10:41+09:00",
   "global": [
     {
-      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-14T15:00:00+00:00",
-      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our s",
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-16T01:30:00+00:00",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
       "lang": "en",
-      "titleKo": "샘 올트먼 해임에 나섰던 전 오픈AI 이사 헬렌 토너 \"여전히 AI CEO들을 믿을 수 없다\"",
-      "summaryKo": "더버지가 조지타운대 CSET 사무총장이자 AI 안전·정책 분야 인사인 헬렌 토너를 인터뷰했다. 'AI in real life' 시리즈 두 번째 편으로, 그는 오픈AI 이사회에서 샘 올트먼 해임에 참여한 인물로 알려져 있다.",
-      "summaryEn": "The Verge interviews Helen Toner, executive director of Georgetown's CSET and the former OpenAI board member who fired Sam Altman, in part two of its AI in real life series.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Apple's new app for a study will answer everyday medical questions",
       "titleEn": "",
       "tags": [
         "빅테크",
-        "정책·법·보안"
+        "출시·발표"
       ],
       "score": 7.0
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-16T00:00:28+00:00",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing phys",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, De",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-15T21:56:35+00:00",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-15T19:15:43+00:00",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chip",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-15T12:00:00+00:00",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
+      "score": 5.0
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -37,61 +105,42 @@
         "출시·발표"
       ],
       "score": 6.0
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "lang": "en",
-      "titleKo": "Shield, 오픈AI로 IT 기술자의 레거시 포털 업무를 에이전트에 넘기다",
-      "summaryKo": "Shield는 오픈AI 기반 'Forge' 에이전트가 레거시 포털 시스템을 대신 조작하게 해, IT 기술자들이 판단이 필요한 문제에 집중할 수 있도록 돕고 있다.",
-      "summaryEn": "Shield uses OpenAI to let IT technicians hand off work in legacy portals; its Forge agents navigate those systems so technicians can focus on issues that need their judgment.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-12T18:00:50+00:00",
-      "summary": "",
-      "lang": "en",
-      "titleKo": "구글 딥마인드, 'Gemini 4 Hydrogen' 공개",
-      "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 6.0
     }
   ],
   "korea": [
     {
-      "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+      "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-14T19:19:23+00:00",
-      "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도",
+      "publishedAt": "2026-11-16T09:00:00+00:00",
+      "summary": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Per Reuters, Amazon is pursuing a 'World Product Graph' that combines brand data and data from other retail sites, including products it doesn't sell, so shoppers and outside AI agents turn to Amazon.",
-      "titleEn": "Amazon Reportedly Building a Global Product Graph to Keep Its Edge in AI Shopping",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크",
         "마케팅 영향"
       ],
-      "score": 8.5
+      "score": 6.5
+    },
+    {
+      "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-15T17:00:00+00:00",
+      "summary": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     }
   ]
 }

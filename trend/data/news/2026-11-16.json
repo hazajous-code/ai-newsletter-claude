@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T10:41+09:00",
+  "updatedAt": "2026-11-16T10:53+09:00",
   "global": [
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-16T01:30:00+00:00",
       "summary": "Apple's new app for a study will answer everyday medical questions",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Apple's new app for a study will answer everyday medical questions",
+      "titleKo": "애플, AI의 건강 활용 방식 연구할 새 앱 출시",
+      "summaryKo": "애플이 연구용 새 앱을 내놨으며, 이 앱은 일상적인 의료 질문에 답한다.",
+      "summaryEn": "Apple has launched a new app for a study that will answer everyday medical questions.",
       "titleEn": "",
       "tags": [
         "빅테크",
@@ -28,9 +28,9 @@
       "publishedAt": "2026-11-16T00:00:28+00:00",
       "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing phys",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, De",
+      "titleKo": "엔비디아 'AI 데이 서울', 국내 업계 리더·스타트업·개발자 한자리에",
+      "summaryKo": "코엑스에서 이틀간 열린 AI 데이 서울에 2,000명 이상이 참석해 피지컬 AI와 AI 에이전트를 논의했다. 엔비디아 디푸 탈라 부사장은 한국이 '체급 이상의 성과'를 내고 있다고 평가했다.",
+      "summaryEn": "AI Day Seoul drew 2,000+ attendees to COEX over two days, focused on physical AI and AI agents. NVIDIA VP Deepu Talla said Korea is \"punching above its weight.\"",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -45,9 +45,9 @@
       "publishedAt": "2026-11-15T21:56:35+00:00",
       "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "titleKo": "젠슨 황의 악재는 AI 업계 전체의 악재일까",
+      "summaryKo": "엔비디아가 곧 젠슨 황이고 경제의 상당 부분이 엔비디아에 기대고 있다는 시각에서, 그의 악재가 AI 업계에 미칠 영향을 짚는다.",
+      "summaryEn": "The piece asks whether trouble for Jensen Huang spells trouble for AI, noting that \"Jensen is Nvidia\" and much of the economy is riding on Nvidia.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -62,9 +62,9 @@
       "publishedAt": "2026-11-15T19:15:43+00:00",
       "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chip",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced supp",
+      "titleKo": "엔비디아 스파이 스캔들 이후 美 의회, AI 칩 수출 규제 강화 추진",
+      "summaryKo": "젠슨 황 전 엔비디아 CEO와 중국 스파이 의혹 사건 이후 미 의회가 여야 모두 AI 칩 수출 규제 강화 법안을 지지하고, 황 등 엔비디아 경영진의 의회 증언을 요구하고 있다.",
+      "summaryEn": "After the scandal involving former Nvidia CEO Jensen Huang and a suspected Chinese spy, both parties in Congress back tighter AI chip export rules and want Nvidia leaders to testify.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -79,9 +79,9 @@
       "publishedAt": "2026-11-15T12:00:00+00:00",
       "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "titleKo": "분위기 깨는 AI DJ",
+      "summaryKo": "유튜브 뮤직과 스포티파이가 AI 진행자에게 플레이리스트 큐레이션을 맡기려 하지만, 어색한 멘트와 엉터리 곡 정보가 오히려 감상을 망친다는 비평이다.",
+      "summaryEn": "YouTube Music and Spotify want synthetic hosts to curate playlists, but their awkward banter and bogus song trivia ruin the listening experience.",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
@@ -118,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A book by Jeong Sang-hyeok (Wikibooks) explains how developers can supervise and validate AI agent-generated batch code using Spring Batch principles, addressing dev vs. production data-size gaps.",
+      "titleEn": "[AI Leader's Bookshelf] Batch Engineering with AI Agents and Spring Batch",
       "tags": [
         "마케팅 영향"
       ],
@@ -135,8 +135,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "The Plato's AI meeting service Tiro passed $3M in ARR two years after launch, is used by major enterprises and financial institutions, and processes 170,000 hours of audio a month.",
+      "titleEn": "Korean Startup The Plato Moves Beyond AI Meeting Notes to Knowledge Management, Hits $3M ARR",
       "tags": [
         "빅테크"
       ],

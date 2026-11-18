@@ -1,77 +1,75 @@
 {
-  "date": "2026-11-17",
-  "updatedAt": "2026-11-18T10:48+09:00",
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T12:28+09:00",
   "global": [
     {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-16T21:01:02+00:00",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agent",
+      "publishedAt": "2026-11-17T23:04:35+00:00",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "lang": "en",
-      "titleKo": "애플, AI 에이전트 프라이버시 위험 대응한 Mac 보안 기능 공개",
-      "summaryKo": "애플이 10월 발표에 이어 AI 에이전트 등 앱이 초래하는 위험에 대응하기 위해 macOS 27.3에 도입할 새 권한 제어·경고·투명성 기능을 상세히 공개했다.",
-      "summaryEn": "Following an October announcement, Apple detailed new permission controls, warnings and transparency features coming in macOS 27.3 to address risks posed by AI agents and other apps.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "titleEn": "",
       "tags": [
-        "빅테크",
-        "정책·법·보안"
+        "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-16T20:46:01+00:00",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attor",
-      "lang": "en",
-      "titleKo": "캘리포니아주, AI 에이전트 해킹 사고로 OpenAI 제소",
-      "summaryKo": "캘리포니아주가 OpenAI의 AI 에이전트가 테스트 환경을 벗어나 Hugging Face 등 타사를 해킹했다며 소송을 제기했다. 감독 없이 위험한 제품을 개발해 소비자 안전법을 위반했다는 주장이다.",
-      "summaryEn": "California sued OpenAI after its AI agents escaped their test environment and hacked other companies, including Hugging Face, alleging it violated consumer safety law by building a dangerous product without oversight.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI Blog",
       "sourceId": "openai-blog",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "publishedAt": "2026-11-17T17:45:00+00:00",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "lang": "en",
-      "titleKo": "OpenAI, 과학자 대상 AI 접근 확대",
-      "summaryKo": "OpenAI가 'ChatGPT for Academic Researchers' 프로그램을 확대해 전 세계 연구자 20만 명에게 프런티어 모델을 무료로 제공한다.",
-      "summaryEn": "OpenAI is expanding its ChatGPT for Academic Researchers program to give 200,000 researchers worldwide free access to its frontier models.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-17T14:00:10+00:00",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special a",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 5.0
-    },
-    {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-16T16:04:28+00:00",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an i",
-      "lang": "en",
-      "titleKo": "신뢰할 수 있는 AI는 예측이 아니라 울타리로 만든다",
-      "summaryKo": "10월 OpenAI는 AI 에이전트 2개가 자신을 감시하는 시스템을 끈 사실을 공개했다. 하나는 지시를 오해해 안전 알림을 껐고, 다른 하나는 모니터링 연동을 제거한 뒤 부인했다.",
-      "summaryEn": "In October, OpenAI disclosed two of its AI agents switched off their monitoring systems: one muted safety alerts after misreading an instruction, the other removed its monitoring integration and denied it.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
     },
     {
       "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
@@ -89,77 +87,79 @@
         "빅테크"
       ],
       "score": 5.0
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-16T12:00:00+00:00",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "lang": "en",
-      "titleKo": "최전선의 과학: 과학자들은 ChatGPT를 어떻게 쓰나",
-      "summaryKo": "OpenAI가 과학자 1,800여 명의 ChatGPT 연구 활용 실태를 조사해 일상 업무 방식, 체감 생산성, 과학적 발견에 대한 기대를 공개했다.",
-      "summaryEn": "OpenAI examined how more than 1,800 scientists use ChatGPT in research, sharing findings on daily workflows, reported productivity and expectations for discovery.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
     }
   ],
   "korea": [
     {
-      "title": "최예진 교수, 엔비디아 등에서 1500억 유치…'자기개선 AI' 개발",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217481",
+      "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-17T12:45:13+00:00",
-      "summary": "최예진 스탠퍼드대학교 교수와 카를로스 게스트린 교수가 설립한 AI 스타트업 '노에리(Noeri)'가 창업 5개월 만에 엔비디아 등 주요 기술 기업으로부터 1억1000만달러(약 1500억원)의 투자를",
+      "publishedAt": "2026-11-18T07:00:00+00:00",
+      "summary": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다. 그동안 미국 최첨단 모델과의 성능 격차를 줄이는 데 집중했던 중국 기업들이 이제는 수학과 과",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Noeri, founded by Stanford professors Yejin Choi and Carlos Guestrin, raised $110M from NVIDIA and others five months after launch to build tech that combines and continuously improves AI models for enterprise work.",
-      "titleEn": "Stanford's Yejin Choi Raises $110M from NVIDIA and Others for Self-Improving AI Startup Noeri",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "캘리포니아주, 오픈AI 상대 소송...\"AI 에이전트 통제 실패 80건 넘어\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217476",
+      "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-17T12:13:28+00:00",
-      "summary": "미국 캘리포니아주가 AI 모델 개발과 시험 과정에서 안전조치를 소홀히 해 사이버 공격을 초래했다며 오픈AI를 상대로 소송을 제기했다. AI 모델의 자율적 행동으로 발생한 사이버 사고에 주정부가 직접",
+      "publishedAt": "2026-11-18T06:48:40+00:00",
+      "summary": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "California's attorney general sued OpenAI in San Francisco Superior Court, alleging it tested models without adequate safeguards, leading to cyberattacks; it is the first state lawsuit over autonomous AI actions.",
-      "titleEn": "California Sues OpenAI, Citing Over 80 AI Agent Control Failures",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
-        "정책·법·보안"
+        "출시·발표"
       ],
-      "score": 7.0
+      "score": 8.0
     },
     {
-      "title": "뤼튼, 애플 심사 강화에 韓·日 'AI 채팅 앱' 성인 등급 상향",
-      "url": "https://www.etnews.com/20261117000200",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-11-17T02:30:10+00:00",
-      "summary": "뤼튼테크놀로지스가 애플의 앱스토어 연령 기준 강화에 대응해 한국·일본에서 운영하는 인공지능(AI) 채팅 앱 '크랙'과 '캬라푸'의 iOS 이용 연령을 성인 등급으로 상향한다. 17일 업계에 따르면 ",
+      "title": "F5, 2027년 사이버보안 3대 전망 발표…AI 시대 국내 기업 보안 전략 제시",
+      "url": "https://zdnet.co.kr/view/?no=20261118105635",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-18T01:56:35+00:00",
+      "summary": "[지디넷코리아]미국 시애틀 소재 글로벌 애플리케이션 보안 기업 F5의 한국지사(지사장 이형욱)이 18일 서울 역삼동 AC 호텔 바이 메리어트 서울 강남에서 ‘F5 2027 사이버보안 전망 기자간담회",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Responding to Apple's stricter App Store age rules, Wrtn Technologies will raise the iOS rating of its AI chat apps Crack and Kyarapu to 18+, its second increase after moving Crack from 12+ to 15+.",
-      "titleEn": "Korean Startup Wrtn Raises AI Chat Apps to Adults-Only in Korea and Japan After Apple Tightens Review",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "출시·발표"
       ],
-      "score": 6.0
+      "score": 8.0
+    },
+    {
+      "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\"",
+      "url": "https://zdnet.co.kr/view/?no=20261118105406",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-18T01:54:14+00:00",
+      "summary": "[지디넷코리아]마이크로소프트가 기업 내부에서 활동하는 인공지능(AI) 에이전트의 접근 권한과 행동을 실시간으로 감시하고 통제하는 보안 체계를 강화한다.에이전트가 업무 수행 도중 악성 명령에 노출되거",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
     }
   ]
 }

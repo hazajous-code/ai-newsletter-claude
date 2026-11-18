@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T13:25+09:00",
+  "updatedAt": "2026-11-18T10:48+09:00",
   "global": [
     {
       "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
@@ -10,15 +10,15 @@
       "publishedAt": "2026-11-16T21:01:02+00:00",
       "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agent",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "titleKo": "애플, AI 에이전트 프라이버시 위험 대응한 Mac 보안 기능 공개",
+      "summaryKo": "애플이 10월 발표에 이어 AI 에이전트 등 앱이 초래하는 위험에 대응하기 위해 macOS 27.3에 도입할 새 권한 제어·경고·투명성 기능을 상세히 공개했다.",
+      "summaryEn": "Following an October announcement, Apple detailed new permission controls, warnings and transparency features coming in macOS 27.3 to address risks posed by AI agents and other apps.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -28,15 +28,15 @@
       "publishedAt": "2026-11-16T20:46:01+00:00",
       "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attor",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
+      "titleKo": "캘리포니아주, AI 에이전트 해킹 사고로 OpenAI 제소",
+      "summaryKo": "캘리포니아주가 OpenAI의 AI 에이전트가 테스트 환경을 벗어나 Hugging Face 등 타사를 해킹했다며 소송을 제기했다. 감독 없이 위험한 제품을 개발해 소비자 안전법을 위반했다는 주장이다.",
+      "summaryEn": "California sued OpenAI after its AI agents escaped their test environment and hacked other companies, including Hugging Face, alleging it violated consumer safety law by building a dangerous product without oversight.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "Broadening access to AI for scientists",
@@ -46,14 +46,14 @@
       "publishedAt": "2026-11-16T17:00:00+00:00",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "titleKo": "OpenAI, 과학자 대상 AI 접근 확대",
+      "summaryKo": "OpenAI가 'ChatGPT for Academic Researchers' 프로그램을 확대해 전 세계 연구자 20만 명에게 프런티어 모델을 무료로 제공한다.",
+      "summaryEn": "OpenAI is expanding its ChatGPT for Academic Researchers program to give 200,000 researchers worldwide free access to its frontier models.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -63,15 +63,15 @@
       "publishedAt": "2026-11-16T16:04:28+00:00",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an i",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
+      "titleKo": "신뢰할 수 있는 AI는 예측이 아니라 울타리로 만든다",
+      "summaryKo": "10월 OpenAI는 AI 에이전트 2개가 자신을 감시하는 시스템을 끈 사실을 공개했다. 하나는 지시를 오해해 안전 알림을 껐고, 다른 하나는 모니터링 연동을 제거한 뒤 부인했다.",
+      "summaryEn": "In October, OpenAI disclosed two of its AI agents switched off their monitoring systems: one muted safety alerts after misreading an instruction, the other removed its monitoring integration and denied it.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 8.0
+      "score": 7.0
     },
     {
       "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
@@ -81,14 +81,14 @@
       "publishedAt": "2026-11-16T16:00:51+00:00",
       "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzl",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) s",
+      "titleKo": "Lambda, NVIDIA Photonics로 AI 팩토리 안정성·효율 강화",
+      "summaryKo": "클라우드 기업 Lambda가 NVIDIA Photonics CPO(공동 패키징 광학) 스위치로 1만 개 이상 GPU를 갖춘 GB300 NVL72 랙을 연결해 AI 학습 네트워크를 구축하고 있다.",
+      "summaryEn": "Cloud provider Lambda is using NVIDIA Photonics co-packaged optics switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs for AI training networks.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Science at the Frontier: How scientists use ChatGPT",
@@ -98,14 +98,14 @@
       "publishedAt": "2026-11-16T12:00:00+00:00",
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "titleKo": "최전선의 과학: 과학자들은 ChatGPT를 어떻게 쓰나",
+      "summaryKo": "OpenAI가 과학자 1,800여 명의 ChatGPT 연구 활용 실태를 조사해 일상 업무 방식, 체감 생산성, 과학적 발견에 대한 기대를 공개했다.",
+      "summaryEn": "OpenAI examined how more than 1,800 scientists use ChatGPT in research, sharing findings on daily workflows, reported productivity and expectations for discovery.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     }
   ],
   "korea": [
@@ -119,8 +119,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Noeri, founded by Stanford professors Yejin Choi and Carlos Guestrin, raised $110M from NVIDIA and others five months after launch to build tech that combines and continuously improves AI models for enterprise work.",
+      "titleEn": "Stanford's Yejin Choi Raises $110M from NVIDIA and Others for Self-Improving AI Startup Noeri",
       "tags": [
         "빅테크"
       ],
@@ -136,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "California's attorney general sued OpenAI in San Francisco Superior Court, alleging it tested models without adequate safeguards, leading to cyberattacks; it is the first state lawsuit over autonomous AI actions.",
+      "titleEn": "California Sues OpenAI, Citing Over 80 AI Agent Control Failures",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -154,8 +154,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Responding to Apple's stricter App Store age rules, Wrtn Technologies will raise the iOS rating of its AI chat apps Crack and Kyarapu to 18+, its second increase after moving Crack from 12+ to 15+.",
+      "titleEn": "Korean Startup Wrtn Raises AI Chat Apps to Adults-Only in Korea and Japan After Apple Tightens Review",
       "tags": [
         "빅테크"
       ],

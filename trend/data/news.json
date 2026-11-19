@@ -1,165 +1,180 @@
 {
-  "date": "2026-11-18",
-  "updatedAt": "2026-11-19T10:48+09:00",
+  "date": "2026-11-19",
+  "updatedAt": "2026-11-19T12:03+09:00",
   "global": [
     {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-17T23:04:35+00:00",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "publishedAt": "2026-11-18T23:45:00+00:00",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "lang": "en",
-      "titleKo": "엔비디아 \"젠슨 황 퇴임에도 오픈소스 AI 전략은 그대로\"",
-      "summaryKo": "엔비디아 임시 CEO가 젠슨 황의 갑작스러운 퇴임에도 오픈소스 AI 전략을 유지하고 Hugging Face 인수 계획도 이어가겠다고 재확인했다.",
-      "summaryEn": "Nvidia's interim CEO reaffirmed the company's open source AI strategy and its plan to acquire Hugging Face despite Jensen Huang's sudden departure.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-17T17:45:00+00:00",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-18T22:00:00+00:00",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
       "lang": "en",
-      "titleKo": "OpenAI, GPT-6.2 Astra·Sol 공개",
-      "summaryKo": "OpenAI가 GPT-6.2 Astra와 Sol을 출시했다. 전문 업무 결과물, 코딩, 컴퓨터 사용 능력과 효율을 높이면서 비용은 낮췄으며 ChatGPT Work, Codex, API에서 제공된다.",
-      "summaryEn": "OpenAI released GPT-6.2 Astra and Sol, improving professional outputs, coding, computer use and efficiency at lower cost across ChatGPT Work, Codex and the API.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind Blog",
+      "sourceId": "google-deepmind",
+      "publishedAt": "2026-11-18T21:35:43+00:00",
+      "summary": "",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
+      "score": 7.0
+    },
+    {
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-18T19:40:36+00:00",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and P",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
       "score": 6.0
     },
     {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-17T14:00:10+00:00",
-      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results ",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-18T10:20:30+00:00",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“",
       "lang": "en",
-      "titleKo": "엔비디아 이안 벅, SC26서 과학 연구용 AI 에이전트 도구 공개",
-      "summaryKo": "엔비디아 이안 벅이 시카고 SC26 특별 연설에서 실험 계획·코드 실행·결과 검증을 돕는 에이전트 도구와 함께 Nemotron for Science, Rubin HPC GPU, 확장된 Vera CPU 플랫폼을 발표했다.",
-      "summaryEn": "At SC26 in Chicago, NVIDIA's Ian Buck unveiled AI agent tools for scientific research and announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
       "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "lang": "en",
-      "titleKo": "OpenAI, NATO·동맹국과 AI 기반 사이버 방어 협력",
-      "summaryKo": "OpenAI가 NATO 및 동맹국 사이버 기관과 협력해 신뢰할 수 있는 방어 인력이 취약점을 찾고 수정 사항을 시험하며 핵심 시스템을 보호하도록 지원하고 있다.",
-      "summaryEn": "OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-16T16:00:51+00:00",
-      "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzl",
-      "lang": "en",
-      "titleKo": "Lambda, NVIDIA Photonics로 AI 팩토리 안정성·효율 강화",
-      "summaryKo": "클라우드 기업 Lambda가 NVIDIA Photonics CPO(공동 패키징 광학) 스위치로 1만 개 이상 GPU를 갖춘 GB300 NVL72 랙을 연결해 AI 학습 네트워크를 구축하고 있다.",
-      "summaryEn": "Cloud provider Lambda is using NVIDIA Photonics co-packaged optics switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs for AI training networks.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
+      "tags": [],
       "score": 5.0
     }
   ],
   "korea": [
     {
-      "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
+      "title": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217546",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-18T07:00:00+00:00",
-      "summary": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다. 그동안 미국 최첨단 모델과의 성능 격차를 줄이는 데 집중했던 중국 기업들이 이제는 수학과 과",
+      "publishedAt": "2026-11-19T08:39:28+00:00",
+      "summary": "구글이 최상위 모델에 가까운 성능을 유지하면서 복잡한 업무의 처리 비용을 낮춘 '제미나이 4 네온(Gemini 4 Neon)'을 출시했다. 종합 지능 평가에서 기존 '제미나이 4 카본'을 소폭 앞섰",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Chinese AI firms are entering the AI scientific discovery race led by OpenAI and Anthropic; per SCMP, Moonshot AI is focusing its Kimi models on biology, chemistry and drug discovery research.",
-      "titleEn": "China Joins the 'AI for Scientific Discovery' Race as Moonshot Targets Biology and Chemistry",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217524",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-19T07:00:00+00:00",
+      "summary": "미국에서 항공관제와 은행, 마이크로소프트(MS), 애플, 국가안보국(NSA)까지 주요 시스템이 잇따라 마비되면서 기술에 대한 불안감이 커지고 있습니다. 사이버 공격이나 AI가 원인이라는 증거는 없지",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "“챗GPT로 진단서 41장 위조”…50일간 복무 이탈한 사회복무요원",
+      "url": "https://www.etnews.com/20261119000169",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-19T02:06:07+00:00",
+      "summary": "생성형 인공지능(AI) 챗GPT를 활용해 진단서를 대량으로 조작하고 사회복무를 무단으로 빠진 20대 남성이 징역형 집행유예를 선고받았다. 19일 법조계에 따르면 부산지법 형사4단독 변성환 판사는 사",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-18T06:48:40+00:00",
-      "summary": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI released flagship GPT-6.2 Astra and cost-efficient GPT-6.2 Sol about 50 days after cancelling a prior release over safety, ranking second in overall benchmarks and cutting API prices by 20%.",
-      "titleEn": "OpenAI Launches GPT-6.2 Astra, Ranked No. 2 Worldwide, and Cuts API Prices 20%",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "F5, 2027년 사이버보안 3대 전망 발표…AI 시대 국내 기업 보안 전략 제시",
-      "url": "https://zdnet.co.kr/view/?no=20261118105635",
+      "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산",
+      "url": "https://zdnet.co.kr/view/?no=20261119105124",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-18T01:56:35+00:00",
-      "summary": "[지디넷코리아]미국 시애틀 소재 글로벌 애플리케이션 보안 기업 F5의 한국지사(지사장 이형욱)이 18일 서울 역삼동 AC 호텔 바이 메리어트 서울 강남에서 ‘F5 2027 사이버보안 전망 기자간담회",
+      "publishedAt": "2026-11-19T01:54:05+00:00",
+      "summary": "[지디넷코리아]중국에서 미국의 첨단 인공지능(AI) 모델에 우회 접근할 수 있도록 돕는 프록시 서비스 시장이 형성되고 있는 것으로 나타났다. 일부 중국 AI 기업이 이러한 서비스를 활용해 미국 AI",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "F5 Korea named security sovereignty amid sovereign AI, multi-model AI adoption for stability, and accelerating AI-driven attacks as 2027's top shifts, and outlined response strategies for Korean companies.",
-      "titleEn": "F5 Korea Unveils Three Cybersecurity Outlooks for 2027 and AI-Era Strategies for Korean Firms",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크",
-        "출시·발표"
+        "빅테크"
       ],
-      "score": 8.0
-    },
-    {
-      "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\"",
-      "url": "https://zdnet.co.kr/view/?no=20261118105406",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-18T01:54:14+00:00",
-      "summary": "[지디넷코리아]마이크로소프트가 기업 내부에서 활동하는 인공지능(AI) 에이전트의 접근 권한과 행동을 실시간으로 감시하고 통제하는 보안 체계를 강화한다.에이전트가 업무 수행 도중 악성 명령에 노출되거",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "At Ignite 2026, Microsoft expanded Project Perception with features that monitor enterprise AI agents in real time, reducing their permissions or halting execution when risky or unauthorized actions arise.",
-      "titleEn": "Microsoft Unveils Real-Time Risk Analysis and Isolation to Rein In Rogue AI Agents",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
+      "score": 6.0
     }
   ]
 }

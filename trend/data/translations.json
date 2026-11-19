@@ -2081,5 +2081,41 @@
   "https://www.etnews.com/20261117000200": {
     "titleEn": "Korean Startup Wrtn Raises AI Chat Apps to Adults-Only in Korea and Japan After Apple Tightens Review",
     "summaryEn": "Responding to Apple's stricter App Store age rules, Wrtn Technologies will raise the iOS rating of its AI chat apps Crack and Kyarapu to 18+, its second increase after moving Crack from 12+ to 15+."
+  },
+  "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/": {
+    "titleKo": "엔비디아 \"젠슨 황 퇴임에도 오픈소스 AI 전략은 그대로\"",
+    "summaryKo": "엔비디아 임시 CEO가 젠슨 황의 갑작스러운 퇴임에도 오픈소스 AI 전략을 유지하고 Hugging Face 인수 계획도 이어가겠다고 재확인했다.",
+    "summaryEn": "Nvidia's interim CEO reaffirmed the company's open source AI strategy and its plan to acquire Hugging Face despite Jensen Huang's sudden departure."
+  },
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+    "titleKo": "OpenAI, GPT-6.2 Astra·Sol 공개",
+    "summaryKo": "OpenAI가 GPT-6.2 Astra와 Sol을 출시했다. 전문 업무 결과물, 코딩, 컴퓨터 사용 능력과 효율을 높이면서 비용은 낮췄으며 ChatGPT Work, Codex, API에서 제공된다.",
+    "summaryEn": "OpenAI released GPT-6.2 Astra and Sol, improving professional outputs, coding, computer use and efficiency at lower cost across ChatGPT Work, Codex and the API."
+  },
+  "https://blogs.nvidia.com/blog/ian-buck-sc26/": {
+    "titleKo": "엔비디아 이안 벅, SC26서 과학 연구용 AI 에이전트 도구 공개",
+    "summaryKo": "엔비디아 이안 벅이 시카고 SC26 특별 연설에서 실험 계획·코드 실행·결과 검증을 돕는 에이전트 도구와 함께 Nemotron for Science, Rubin HPC GPU, 확장된 Vera CPU 플랫폼을 발표했다.",
+    "summaryEn": "At SC26 in Chicago, NVIDIA's Ian Buck unveiled AI agent tools for scientific research and announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform."
+  },
+  "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+    "titleKo": "OpenAI, NATO·동맹국과 AI 기반 사이버 방어 협력",
+    "summaryKo": "OpenAI가 NATO 및 동맹국 사이버 기관과 협력해 신뢰할 수 있는 방어 인력이 취약점을 찾고 수정 사항을 시험하며 핵심 시스템을 보호하도록 지원하고 있다.",
+    "summaryEn": "OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217482": {
+    "titleEn": "China Joins the 'AI for Scientific Discovery' Race as Moonshot Targets Biology and Chemistry",
+    "summaryEn": "Chinese AI firms are entering the AI scientific discovery race led by OpenAI and Anthropic; per SCMP, Moonshot AI is focusing its Kimi models on biology, chemistry and drug discovery research."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217513": {
+    "titleEn": "OpenAI Launches GPT-6.2 Astra, Ranked No. 2 Worldwide, and Cuts API Prices 20%",
+    "summaryEn": "OpenAI released flagship GPT-6.2 Astra and cost-efficient GPT-6.2 Sol about 50 days after cancelling a prior release over safety, ranking second in overall benchmarks and cutting API prices by 20%."
+  },
+  "https://zdnet.co.kr/view/?no=20261118105635": {
+    "titleEn": "F5 Korea Unveils Three Cybersecurity Outlooks for 2027 and AI-Era Strategies for Korean Firms",
+    "summaryEn": "F5 Korea named security sovereignty amid sovereign AI, multi-model AI adoption for stability, and accelerating AI-driven attacks as 2027's top shifts, and outlined response strategies for Korean companies."
+  },
+  "https://zdnet.co.kr/view/?no=20261118105406": {
+    "titleEn": "Microsoft Unveils Real-Time Risk Analysis and Isolation to Rein In Rogue AI Agents",
+    "summaryEn": "At Ignite 2026, Microsoft expanded Project Perception with features that monitor enterprise AI agents in real time, reducing their permissions or halting execution when risky or unauthorized actions arise."
   }
 }

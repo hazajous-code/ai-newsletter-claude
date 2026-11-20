@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T12:03+09:00",
+  "updatedAt": "2026-11-20T10:53+09:00",
   "global": [
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -10,14 +10,14 @@
       "publishedAt": "2026-11-18T23:45:00+00:00",
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "titleKo": "AI 사이버공격 우려 속 사티아 나델라 \"상당수 핵심 인프라는 패치 불가능\"",
+      "summaryKo": "마이크로소프트 CEO 사티아 나델라가 최근 Outlook 장애를 대수롭지 않게 평가하면서, AI가 연결된 세계의 보안에 기회와 새로운 과제를 함께 가져오고 있다고 말했다.",
+      "summaryEn": "Microsoft CEO Satya Nadella downplayed the recent Outlook outage and said AI is creating both opportunities and new challenges for securing the connected world.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
@@ -27,14 +27,14 @@
       "publishedAt": "2026-11-18T22:00:00+00:00",
       "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "titleKo": "트럼프 행정부 관리들조차 \"방중으로 AI 협상 진전 어려워\"",
+      "summaryKo": "관리들에 따르면 엔비디아 스캔들의 여파로 트럼프 대통령의 중국 방문 중 AI 관련 협상이 어려워진 상황이다.",
+      "summaryEn": "Administration officials say fallout from the Nvidia scandal has made AI negotiations difficult, leaving little expectation of progress from Trump's China visit.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
       "title": "Introducing Gemini 4 Neon",
@@ -44,7 +44,7 @@
       "publishedAt": "2026-11-18T21:35:43+00:00",
       "summary": "",
       "lang": "en",
-      "titleKo": "",
+      "titleKo": "구글 딥마인드, 'Gemini 4 Neon' 공개",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
@@ -52,7 +52,7 @@
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
@@ -62,15 +62,15 @@
       "publishedAt": "2026-11-18T19:40:36+00:00",
       "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and P",
+      "titleKo": "트럼프의 새 거점 확보, 필리핀 AI 허브",
+      "summaryKo": "트럼프 대통령이 화요일 필리핀에 도착했으며, 기사는 미국의 AI 칩·데이터센터 허브를 필리핀에 두는 구상을 다룬다.",
+      "summaryEn": "President Trump arrived in the Philippines on Tuesday; the article covers a US push to set up an AI chip and data center hub there.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -80,28 +80,30 @@
       "publishedAt": "2026-11-18T17:00:00+00:00",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "titleKo": "Gemini 앱, 저사양(저메모리) 안드로이드 기기에서도 사용 가능",
+      "summaryKo": "구글 Gemini 앱이 메모리가 적은 안드로이드 기기를 지원해, 해당 폰에서도 Gemini Live와 맞춤 이미지 생성을 쓸 수 있게 됐다.",
+      "summaryEn": "The Google Gemini app now supports lower-memory Android devices, bringing Gemini Live and custom image creation to those phones.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     },
     {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-18T10:20:30+00:00",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-17T14:00:10+00:00",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results ",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
+      "titleKo": "엔비디아 이안 벅, SC26서 과학 연구용 AI 에이전트 도구 공개",
+      "summaryKo": "엔비디아 이안 벅이 시카고 SC26 특별 연설에서 실험 계획·코드 실행·결과 검증을 돕는 에이전트 도구와 함께 Nemotron for Science, Rubin HPC GPU, 확장된 Vera CPU 플랫폼을 발표했다.",
+      "summaryEn": "At SC26 in Chicago, NVIDIA's Ian Buck unveiled AI agent tools for scientific research and announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform.",
       "titleEn": "",
-      "tags": [],
+      "tags": [
+        "빅테크"
+      ],
       "score": 5.0
     }
   ],
@@ -116,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Google released Gemini 4 Neon, a Gemini 4 model positioned between Carbon and Hydrogen that slightly outscored Gemini 4 Carbon on overall intelligence while lowering costs for complex tasks.",
+      "titleEn": "Google Launches Gemini 4 Neon, Cutting Task Costs by 32%",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -134,8 +136,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A string of outages hit US air traffic control, banks, Microsoft, Apple and the NSA. There is no evidence of cyberattacks or AI involvement, but fears of AI-driven attacks are rising.",
+      "titleEn": "[Nov 18] Major US Systems Go Down in a Row: No Hack Found, but Fears of AI Attacks Grow",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -152,8 +154,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A Busan court gave a man in his 20s an eight-month suspended sentence after he used ChatGPT to forge 41 medical certificates and skipped his alternative military service duty.",
+      "titleEn": "Korean Social Service Worker Forged 41 Medical Certificates with ChatGPT to Skip Duty",
       "tags": [
         "빅테크"
       ],
@@ -169,8 +171,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "A Chainalysis report says proxy services giving Chinese users access to restricted US models like ChatGPT and Claude are spreading, with some Chinese AI firms using them for distillation and paying in crypto.",
+      "titleEn": "Chinese AI Firms Bypass US Model Restrictions via Proxy Black Market Paid in Crypto",
       "tags": [
         "빅테크"
       ],

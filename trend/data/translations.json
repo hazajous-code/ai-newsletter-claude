@@ -2117,5 +2117,51 @@
   "https://zdnet.co.kr/view/?no=20261118105406": {
     "titleEn": "Microsoft Unveils Real-Time Risk Analysis and Isolation to Rein In Rogue AI Agents",
     "summaryEn": "At Ignite 2026, Microsoft expanded Project Perception with features that monitor enterprise AI agents in real time, reducing their permissions or halting execution when risky or unauthorized actions arise."
+  },
+  "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/": {
+    "titleKo": "AI 사이버공격 우려 속 사티아 나델라 \"상당수 핵심 인프라는 패치 불가능\"",
+    "summaryKo": "마이크로소프트 CEO 사티아 나델라가 최근 Outlook 장애를 대수롭지 않게 평가하면서, AI가 연결된 세계의 보안에 기회와 새로운 과제를 함께 가져오고 있다고 말했다.",
+    "summaryEn": "Microsoft CEO Satya Nadella downplayed the recent Outlook outage and said AI is creating both opportunities and new challenges for securing the connected world."
+  },
+  "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/": {
+    "titleKo": "트럼프 행정부 관리들조차 \"방중으로 AI 협상 진전 어려워\"",
+    "summaryKo": "관리들에 따르면 엔비디아 스캔들의 여파로 트럼프 대통령의 중국 방문 중 AI 관련 협상이 어려워진 상황이다.",
+    "summaryEn": "Administration officials say fallout from the Nvidia scandal has made AI negotiations difficult, leaving little expectation of progress from Trump's China visit."
+  },
+  "https://deepmind.google/blog/introducing-gemini-4-neon/": {
+    "titleKo": "구글 딥마인드, 'Gemini 4 Neon' 공개",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica": {
+    "titleKo": "트럼프의 새 거점 확보, 필리핀 AI 허브",
+    "summaryKo": "트럼프 대통령이 화요일 필리핀에 도착했으며, 기사는 미국의 AI 칩·데이터센터 허브를 필리핀에 두는 구상을 다룬다.",
+    "summaryEn": "President Trump arrived in the Philippines on Tuesday; the article covers a US push to set up an AI chip and data center hub there."
+  },
+  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
+    "titleKo": "Gemini 앱, 저사양(저메모리) 안드로이드 기기에서도 사용 가능",
+    "summaryKo": "구글 Gemini 앱이 메모리가 적은 안드로이드 기기를 지원해, 해당 폰에서도 Gemini Live와 맞춤 이미지 생성을 쓸 수 있게 됐다.",
+    "summaryEn": "The Google Gemini app now supports lower-memory Android devices, bringing Gemini Live and custom image creation to those phones."
+  },
+  "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/": {
+    "titleKo": "후각 AI 스타트업 Osmo \"우리 AI 코는 사람만큼 정확\"",
+    "summaryKo": "Osmo는 뉴저지 연구소에서 약 30명의 숙련된 조향 평가자가 기록한 냄새 묘사를 화학 분석과 대조해, 후각 파운데이션 모델용 학습 데이터를 구축하고 있다.",
+    "summaryEn": "AI startup Osmo has about 30 trained human sniffers in a New Jersey lab describe odors, cross-referencing their notes with chemical analysis to train what it calls the first olfaction foundation model."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217546": {
+    "titleEn": "Google Launches Gemini 4 Neon, Cutting Task Costs by 32%",
+    "summaryEn": "Google released Gemini 4 Neon, a Gemini 4 model positioned between Carbon and Hydrogen that slightly outscored Gemini 4 Carbon on overall intelligence while lowering costs for complex tasks."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217524": {
+    "titleEn": "[Nov 18] Major US Systems Go Down in a Row: No Hack Found, but Fears of AI Attacks Grow",
+    "summaryEn": "A string of outages hit US air traffic control, banks, Microsoft, Apple and the NSA. There is no evidence of cyberattacks or AI involvement, but fears of AI-driven attacks are rising."
+  },
+  "https://www.etnews.com/20261119000169": {
+    "titleEn": "Korean Social Service Worker Forged 41 Medical Certificates with ChatGPT to Skip Duty",
+    "summaryEn": "A Busan court gave a man in his 20s an eight-month suspended sentence after he used ChatGPT to forge 41 medical certificates and skipped his alternative military service duty."
+  },
+  "https://zdnet.co.kr/view/?no=20261119105124": {
+    "titleEn": "Chinese AI Firms Bypass US Model Restrictions via Proxy Black Market Paid in Crypto",
+    "summaryEn": "A Chainalysis report says proxy services giving Chinese users access to restricted US models like ChatGPT and Claude are spreading, with some Chinese AI firms using them for distillation and paying in crypto."
   }
 }

@@ -1,178 +1,160 @@
 {
-  "date": "2026-11-19",
-  "updatedAt": "2026-11-20T10:53+09:00",
+  "date": "2026-11-20",
+  "updatedAt": "2026-11-20T11:57+09:00",
   "global": [
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-18T23:45:00+00:00",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "publishedAt": "2026-11-20T00:56:01+00:00",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "lang": "en",
-      "titleKo": "AI 사이버공격 우려 속 사티아 나델라 \"상당수 핵심 인프라는 패치 불가능\"",
-      "summaryKo": "마이크로소프트 CEO 사티아 나델라가 최근 Outlook 장애를 대수롭지 않게 평가하면서, AI가 연결된 세계의 보안에 기회와 새로운 과제를 함께 가져오고 있다고 말했다.",
-      "summaryEn": "Microsoft CEO Satya Nadella downplayed the recent Outlook outage and said AI is creating both opportunities and new challenges for securing the connected world.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
-      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "source": "WIRED",
-      "sourceId": "wired",
-      "publishedAt": "2026-11-18T22:00:00+00:00",
-      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-20T00:43:50+00:00",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "lang": "en",
-      "titleKo": "트럼프 행정부 관리들조차 \"방중으로 AI 협상 진전 어려워\"",
-      "summaryKo": "관리들에 따르면 엔비디아 스캔들의 여파로 트럼프 대통령의 중국 방문 중 AI 관련 협상이 어려워진 상황이다.",
-      "summaryEn": "Administration officials say fallout from the Nvidia scandal has made AI negotiations difficult, leaving little expectation of progress from Trump's China visit.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind Blog",
-      "sourceId": "google-deepmind",
-      "publishedAt": "2026-11-18T21:35:43+00:00",
-      "summary": "",
+      "title": "Meta’s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-19T20:22:17+00:00",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zucker",
       "lang": "en",
-      "titleKo": "구글 딥마인드, 'Gemini 4 Neon' 공개",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-19T20:05:06+00:00",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI Blog",
+      "sourceId": "google-ai-blog",
+      "publishedAt": "2026-11-19T18:00:00+00:00",
+      "summary": "Gemini spark on a space background",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Gemini spark on a space background",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "source": "NVIDIA Blog",
+      "sourceId": "nvidia-blog",
+      "publishedAt": "2026-11-19T17:00:35+00:00",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developer",
+      "lang": "en",
+      "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
+      "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
+      "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217596",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-20T07:00:23+00:00",
+      "summary": "다리오 아모데이 앤트로픽 CEO가 기업공개(IPO)로 막대한 자금을 확보한 직후에도 AI 안전을 위해 모델 개발 속도를 조절하겠다는 입장을 재확인했다. 상장기업이 된 이후에도 사업적·정치적 압력에 ",
+      "lang": "ko",
+      "titleKo": "",
       "summaryKo": "",
       "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크",
-        "출시·발표"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-18T19:40:36+00:00",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped ",
-      "lang": "en",
-      "titleKo": "트럼프의 새 거점 확보, 필리핀 AI 허브",
-      "summaryKo": "트럼프 대통령이 화요일 필리핀에 도착했으며, 기사는 미국의 AI 칩·데이터센터 허브를 필리핀에 두는 구상을 다룬다.",
-      "summaryEn": "President Trump arrived in the Philippines on Tuesday; the article covers a US push to set up an AI chip and data center hub there.",
-      "titleEn": "",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google AI Blog",
-      "sourceId": "google-ai-blog",
-      "publishedAt": "2026-11-18T17:00:00+00:00",
-      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "lang": "en",
-      "titleKo": "Gemini 앱, 저사양(저메모리) 안드로이드 기기에서도 사용 가능",
-      "summaryKo": "구글 Gemini 앱이 메모리가 적은 안드로이드 기기를 지원해, 해당 폰에서도 Gemini Live와 맞춤 이미지 생성을 쓸 수 있게 됐다.",
-      "summaryEn": "The Google Gemini app now supports lower-memory Android devices, bringing Gemini Live and custom image creation to those phones.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-17T14:00:10+00:00",
-      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results ",
-      "lang": "en",
-      "titleKo": "엔비디아 이안 벅, SC26서 과학 연구용 AI 에이전트 도구 공개",
-      "summaryKo": "엔비디아 이안 벅이 시카고 SC26 특별 연설에서 실험 계획·코드 실행·결과 검증을 돕는 에이전트 도구와 함께 Nemotron for Science, Rubin HPC GPU, 확장된 Vera CPU 플랫폼을 발표했다.",
-      "summaryEn": "At SC26 in Chicago, NVIDIA's Ian Buck unveiled AI agent tools for scientific research and announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217546",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-19T08:39:28+00:00",
-      "summary": "구글이 최상위 모델에 가까운 성능을 유지하면서 복잡한 업무의 처리 비용을 낮춘 '제미나이 4 네온(Gemini 4 Neon)'을 출시했다. 종합 지능 평가에서 기존 '제미나이 4 카본'을 소폭 앞섰",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Google released Gemini 4 Neon, a Gemini 4 model positioned between Carbon and Hydrogen that slightly outscored Gemini 4 Carbon on overall intelligence while lowering costs for complex tasks.",
-      "titleEn": "Google Launches Gemini 4 Neon, Cutting Task Costs by 32%",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217524",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-19T07:00:00+00:00",
-      "summary": "미국에서 항공관제와 은행, 마이크로소프트(MS), 애플, 국가안보국(NSA)까지 주요 시스템이 잇따라 마비되면서 기술에 대한 불안감이 커지고 있습니다. 사이버 공격이나 AI가 원인이라는 증거는 없지",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A string of outages hit US air traffic control, banks, Microsoft, Apple and the NSA. There is no evidence of cyberattacks or AI involvement, but fears of AI-driven attacks are rising.",
-      "titleEn": "[Nov 18] Major US Systems Go Down in a Row: No Hack Found, but Fears of AI Attacks Grow",
-      "tags": [
-        "빅테크",
         "정책·법·보안"
       ],
       "score": 7.0
     },
     {
-      "title": "“챗GPT로 진단서 41장 위조”…50일간 복무 이탈한 사회복무요원",
-      "url": "https://www.etnews.com/20261119000169",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-11-19T02:06:07+00:00",
-      "summary": "생성형 인공지능(AI) 챗GPT를 활용해 진단서를 대량으로 조작하고 사회복무를 무단으로 빠진 20대 남성이 징역형 집행유예를 선고받았다. 19일 법조계에 따르면 부산지법 형사4단독 변성환 판사는 사",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A Busan court gave a man in his 20s an eight-month suspended sentence after he used ChatGPT to forge 41 medical certificates and skipped his alternative military service duty.",
-      "titleEn": "Korean Social Service Worker Forged 41 Medical Certificates with ChatGPT to Skip Duty",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
-    },
-    {
-      "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산",
-      "url": "https://zdnet.co.kr/view/?no=20261119105124",
+      "title": "존 헤네시 알파벳 의장, 스탠퍼드서 한국 AI 미래 논의",
+      "url": "https://zdnet.co.kr/view/?no=20261120104247",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-19T01:54:05+00:00",
-      "summary": "[지디넷코리아]중국에서 미국의 첨단 인공지능(AI) 모델에 우회 접근할 수 있도록 돕는 프록시 서비스 시장이 형성되고 있는 것으로 나타났다. 일부 중국 AI 기업이 이러한 서비스를 활용해 미국 AI",
+      "publishedAt": "2026-11-20T02:15:21+00:00",
+      "summary": "[지디넷코리아]존 헤네시 알파벳 이사회 의장이 미국 스탠퍼드대에서 한국 인공지능(AI) 산업과 데이터센터 투자 협력 방안을 논의했다. 국내 AI 기업 에이에스아이에프(ASIF)는 글로벌 기술 협력망",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "A Chainalysis report says proxy services giving Chinese users access to restricted US models like ChatGPT and Claude are spreading, with some Chinese AI firms using them for distillation and paying in crypto.",
-      "titleEn": "Chinese AI Firms Bypass US Model Restrictions via Proxy Black Market Paid in Crypto",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "카카오 김범수, 2심도 무죄…“AI·혁신 힘 보태겠다”",
+      "url": "https://www.etnews.com/20261120000134",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-20T02:00:03+00:00",
+      "summary": "SM엔터테인먼트 시세를 조종한 혐의로 기소된 카카오 창업자 김범수 미래이니셔티브센터장이 2심에서도 무죄를 선고받았다. 3년 8개월 간 이어진 카카오의 사법 리스크가 해소될 전망이다. 김 센터장은 인",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],

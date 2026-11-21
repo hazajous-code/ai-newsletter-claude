@@ -1,57 +1,56 @@
 {
-  "date": "2026-11-20",
-  "updatedAt": "2026-11-21T10:53+09:00",
+  "date": "2026-11-21",
+  "updatedAt": "2026-11-21T12:05+09:00",
   "global": [
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
-      "publishedAt": "2026-11-20T00:56:01+00:00",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "publishedAt": "2026-11-20T19:53:41+00:00",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "lang": "en",
-      "titleKo": "애플, Mac을 직접 조작하는 자체 AI 에이전트 개발 중인 듯",
-      "summaryKo": "애플이 Meta Muse, Instinct, Claude, OpenAI Dots 등과 경쟁할 수 있는 AI 에이전트를 개발하고 있는 것으로 보인다.",
-      "summaryEn": "Apple appears to be building AI agents that can compete with the likes of Meta Muse, Instinct, Claude and OpenAI Dots.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "titleEn": "",
       "tags": [
-        "빅테크"
+        "마케팅 영향"
       ],
+      "score": 6.5
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-20T18:15:15+00:00",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that mo",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju",
+      "titleEn": "",
+      "tags": [],
       "score": 5.0
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-11-20T00:43:50+00:00",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "lang": "en",
-      "titleKo": "앤트로픽 창업자 7명, 사상 최대 IPO로 약 20억 달러 현금화",
-      "summaryKo": "상향된 주당 83달러 공모가 기준으로 앤트로픽 창업자 7명은 각각 2억8천만 달러를 손에 쥐었고, 회사는 약 1,050억 달러를 조달했다.",
-      "summaryEn": "At the upgraded $83-per-share IPO price, each of Anthropic's seven founders pocketed $280 million, while the company raised nearly $105 billion.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "titleEn": "",
       "tags": [
-        "빅테크"
+        "마케팅 영향",
+        "출시·발표"
       ],
-      "score": 5.0
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "publishedAt": "2026-11-19T20:22:17+00:00",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zucker",
-      "lang": "en",
-      "titleKo": "메타 'Muse Charm', 가격 300달러 될 듯",
-      "summaryKo": "디 인포메이션에 따르면 메타는 Muse AI 에이전트와 대화하는 화면 달린 소형 기기 Muse Charm을 300달러에 판매할 계획이다. 저커버그는 12월 연말 출시를 예고한 바 있다.",
-      "summaryEn": "Meta plans to price the Muse Charm, a small screen gadget for chatting with its Muse AI agent, at $300, per The Information. Zuckerberg had said it would ship in time for the December holidays.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
+      "score": 6.5
     },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
@@ -87,74 +86,38 @@
         "빅테크"
       ],
       "score": 5.0
-    },
+    }
+  ],
+  "korea": [
     {
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-18T14:42:44+00:00",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leav",
-      "lang": "en",
-      "titleKo": "AI 하이프 지수: AI는 어디에나 있다",
-      "summaryKo": "구글은 광고 수익 손실을 감수하면서도 AI 개요를 밀어붙이고, 집 청소용 AI 휴머노이드 로봇까지 등장하는 등 AI가 일상 곳곳으로 퍼지고 있다.",
-      "summaryEn": "AI is spreading everywhere: Google pushes AI Overviews despite billions in lost ad revenue, and AI-powered humanoid robots are being carried into homes to clean.",
+      "title": "미래 피지컬 AI 인재 한자리에…청소년 114명, 로봇 실력 겨룬다",
+      "url": "https://zdnet.co.kr/view/?no=20261121081600",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-21T02:00:02+00:00",
+      "summary": "[지디넷코리아]전국 초중고 학생 114명이 직접 만든 로봇으로 응급상황 해결에 도전한다. 전국 135개 팀 가운데 예선을 통과한 32개 팀이 결선에서 로봇 설계와 프로그래밍 실력을 겨룬다.과학기술정",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217596",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-20T07:00:23+00:00",
-      "summary": "다리오 아모데이 앤트로픽 CEO가 기업공개(IPO)로 막대한 자금을 확보한 직후에도 AI 안전을 위해 모델 개발 속도를 조절하겠다는 입장을 재확인했다. 상장기업이 된 이후에도 사업적·정치적 압력에 ",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Right after Anthropic's IPO, CEO Dario Amodei said at a Nasdaq listing event that it will pace training and deployment to ensure AI stays safe and under human control, resisting business or political pressure.",
-      "titleEn": "Anthropic CEO Dario Amodei: We'll pace AI development and won't bow to business or political pressure",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
     },
     {
-      "title": "존 헤네시 알파벳 의장, 스탠퍼드서 한국 AI 미래 논의",
-      "url": "https://zdnet.co.kr/view/?no=20261120104247",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-20T02:15:21+00:00",
-      "summary": "[지디넷코리아]존 헤네시 알파벳 이사회 의장이 미국 스탠퍼드대에서 한국 인공지능(AI) 산업과 데이터센터 투자 협력 방안을 논의했다. 국내 AI 기업 에이에스아이에프(ASIF)는 글로벌 기술 협력망",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "At the ASI City Forum at Stanford on Nov. 17, Alphabet chairman John Hennessy and ASI Foundry chairman Jimmy Lee discussed global AI investment, Korean data center regulation, AI budgets and Asia's role in AI.",
-      "titleEn": "Alphabet Chairman John Hennessy discusses Korea's AI future at Stanford",
-      "tags": [
-        "빅테크",
-        "정책·법·보안"
-      ],
-      "score": 7.0
-    },
-    {
-      "title": "카카오 김범수, 2심도 무죄…“AI·혁신 힘 보태겠다”",
-      "url": "https://www.etnews.com/20261120000134",
+      "title": "앤트로픽 연구원 “AI 클로드, 수학 최대 난제 리만가설 증명” 주장",
+      "url": "https://www.etnews.com/20261121000021",
       "source": "전자신문",
       "sourceId": "etnews",
-      "publishedAt": "2026-11-20T02:00:03+00:00",
-      "summary": "SM엔터테인먼트 시세를 조종한 혐의로 기소된 카카오 창업자 김범수 미래이니셔티브센터장이 2심에서도 무죄를 선고받았다. 3년 8개월 간 이어진 카카오의 사법 리스크가 해소될 전망이다. 김 센터장은 인",
+      "publishedAt": "2026-11-21T01:05:55+00:00",
+      "summary": "인공지능(AI) 기업 앤트로픽의 한 연구원이 이 회사의 챗봇 클로드로 수학계의 최대 난제 중 하나로 꼽히는 리만 가설을 증명했다고 주장했다는 보도가 나왔다. 20일(현지시간) AFP통신과 파이낸셜타",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "The Seoul High Court acquitted Kakao founder Kim Beom-su of manipulating SM Entertainment's stock price, easing Kakao's 3-year-8-month legal risk. Kim said he will help with AI and innovation.",
-      "titleEn": "Kakao founder Kim Beom-su acquitted again on appeal, vows to support AI and innovation",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],

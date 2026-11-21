@@ -2163,5 +2163,47 @@
   "https://zdnet.co.kr/view/?no=20261119105124": {
     "titleEn": "Chinese AI Firms Bypass US Model Restrictions via Proxy Black Market Paid in Crypto",
     "summaryEn": "A Chainalysis report says proxy services giving Chinese users access to restricted US models like ChatGPT and Claude are spreading, with some Chinese AI firms using them for distillation and paying in crypto."
+  },
+  "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/": {
+    "titleKo": "애플, Mac을 직접 조작하는 자체 AI 에이전트 개발 중인 듯",
+    "summaryKo": "애플이 Meta Muse, Instinct, Claude, OpenAI Dots 등과 경쟁할 수 있는 AI 에이전트를 개발하고 있는 것으로 보인다.",
+    "summaryEn": "Apple appears to be building AI agents that can compete with the likes of Meta Muse, Instinct, Claude and OpenAI Dots."
+  },
+  "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/": {
+    "titleKo": "앤트로픽 창업자 7명, 사상 최대 IPO로 약 20억 달러 현금화",
+    "summaryKo": "상향된 주당 83달러 공모가 기준으로 앤트로픽 창업자 7명은 각각 2억8천만 달러를 손에 쥐었고, 회사는 약 1,050억 달러를 조달했다.",
+    "summaryEn": "At the upgraded $83-per-share IPO price, each of Anthropic's seven founders pocketed $280 million, while the company raised nearly $105 billion."
+  },
+  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price": {
+    "titleKo": "메타 'Muse Charm', 가격 300달러 될 듯",
+    "summaryKo": "디 인포메이션에 따르면 메타는 Muse AI 에이전트와 대화하는 화면 달린 소형 기기 Muse Charm을 300달러에 판매할 계획이다. 저커버그는 12월 연말 출시를 예고한 바 있다.",
+    "summaryEn": "Meta plans to price the Muse Charm, a small screen gadget for chatting with its Muse AI agent, at $300, per The Information. Zuckerberg had said it would ship in time for the December holidays."
+  },
+  "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats": {
+    "titleKo": "구글, 검색 홈페이지에 AI 대화 바로 띄운다",
+    "summaryKo": "구글이 홈페이지를 업데이트해 접이식 사이드바에서 기존 AI 대화를 보고 이어갈 수 있게 했다. 구글 제품 부사장 로비 스타인이 X를 통해 공개했다.",
+    "summaryEn": "Google is updating its homepage with a collapsible sidebar where users can view and continue their AI chats, as shown by VP of product Robby Stein in a post on X."
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/": {
+    "titleKo": "Gemini API에 '도구 검색(Tool Retrieval)' 기능 도입",
+    "summaryKo": "",
+    "summaryEn": ""
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217596": {
+    "titleEn": "Anthropic CEO Dario Amodei: We'll pace AI development and won't bow to business or political pressure",
+    "summaryEn": "Right after Anthropic's IPO, CEO Dario Amodei said at a Nasdaq listing event that it will pace training and deployment to ensure AI stays safe and under human control, resisting business or political pressure."
+  },
+  "https://zdnet.co.kr/view/?no=20261120104247": {
+    "titleEn": "Alphabet Chairman John Hennessy discusses Korea's AI future at Stanford",
+    "summaryEn": "At the ASI City Forum at Stanford on Nov. 17, Alphabet chairman John Hennessy and ASI Foundry chairman Jimmy Lee discussed global AI investment, Korean data center regulation, AI budgets and Asia's role in AI."
+  },
+  "https://www.etnews.com/20261120000134": {
+    "titleEn": "Kakao founder Kim Beom-su acquitted again on appeal, vows to support AI and innovation",
+    "summaryEn": "The Seoul High Court acquitted Kakao founder Kim Beom-su of manipulating SM Entertainment's stock price, easing Kakao's 3-year-8-month legal risk. Kim said he will help with AI and innovation."
+  },
+  "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/": {
+    "titleKo": "AI 하이프 지수: AI는 어디에나 있다",
+    "summaryKo": "구글은 광고 수익 손실을 감수하면서도 AI 개요를 밀어붙이고, 집 청소용 AI 휴머노이드 로봇까지 등장하는 등 AI가 일상 곳곳으로 퍼지고 있다.",
+    "summaryEn": "AI is spreading everywhere: Google pushes AI Overviews despite billions in lost ad revenue, and AI-powered humanoid robots are being carried into homes to clean."
   }
 }

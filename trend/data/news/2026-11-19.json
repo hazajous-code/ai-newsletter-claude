@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-20T10:53+09:00",
+  "updatedAt": "2026-11-19T09:00+09:00",
   "global": [
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -17,7 +17,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
@@ -34,7 +34,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Introducing Gemini 4 Neon",
@@ -52,7 +52,7 @@
         "빅테크",
         "출시·발표"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
@@ -70,7 +70,7 @@
         "빅테크",
         "정책·법·보안"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -87,23 +87,21 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-17T14:00:10+00:00",
-      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results ",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-18T10:20:30+00:00",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“",
       "lang": "en",
-      "titleKo": "엔비디아 이안 벅, SC26서 과학 연구용 AI 에이전트 도구 공개",
-      "summaryKo": "엔비디아 이안 벅이 시카고 SC26 특별 연설에서 실험 계획·코드 실행·결과 검증을 돕는 에이전트 도구와 함께 Nemotron for Science, Rubin HPC GPU, 확장된 Vera CPU 플랫폼을 발표했다.",
-      "summaryEn": "At SC26 in Chicago, NVIDIA's Ian Buck unveiled AI agent tools for scientific research and announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform.",
+      "titleKo": "후각 AI 스타트업 Osmo \"우리 AI 코는 사람만큼 정확\"",
+      "summaryKo": "Osmo는 뉴저지 연구소에서 약 30명의 숙련된 조향 평가자가 기록한 냄새 묘사를 화학 분석과 대조해, 후각 파운데이션 모델용 학습 데이터를 구축하고 있다.",
+      "summaryEn": "AI startup Osmo has about 30 trained human sniffers in a New Jersey lab describe odors, cross-referencing their notes with chemical analysis to train what it calls the first olfaction foundation model.",
       "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
+      "tags": [],
       "score": 5.0
     }
   ],

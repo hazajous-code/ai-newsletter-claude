@@ -2205,5 +2205,28 @@
     "titleKo": "AI 하이프 지수: AI는 어디에나 있다",
     "summaryKo": "구글은 광고 수익 손실을 감수하면서도 AI 개요를 밀어붙이고, 집 청소용 AI 휴머노이드 로봇까지 등장하는 등 AI가 일상 곳곳으로 퍼지고 있다.",
     "summaryEn": "AI is spreading everywhere: Google pushes AI Overviews despite billions in lost ad revenue, and AI-powered humanoid robots are being carried into homes to clean."
+  },
+  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
+    "titleKo": "Daniel Ek, AI 연구자가 세운 핵융합 스타트업에 투자…무엇을 만드나",
+    "summaryKo": "Spotify 창업자 Daniel Ek가 AI 연구자가 설립한 핵융합 발전 스타트업 Europa Fusion에 투자했다. 이 스타트업이 개발 중인 기술을 소개한다.",
+    "summaryEn": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. The article looks at what the startup is building."
+  },
+  "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/": {
+    "titleKo": "AI에서 가장 오해받는 그래프, METR '타임 호라이즌' 대폭 업데이트",
+    "summaryKo": "AI 평가 비영리단체 METR이 타임 호라이즌 그래프를 업데이트했다. 일부 AI 능력은 기하급수적으로 향상 중이지만, 판단력이 필요한 작업은 코딩만큼 잘하지 못하는 것으로 나타났다.",
+    "summaryEn": "AI evaluation nonprofit METR updated its time horizon plot, finding some AI capabilities still improving exponentially, while models are less capable at judgment-heavy tasks than at coding."
+  },
+  "https://openai.com/business/customer-stories/hebbia": {
+    "titleKo": "Hebbia, GPT-6 Astra로 금융 리서치 성능 개선",
+    "summaryKo": "Hebbia가 금융 리서치에 GPT-6 Astra를 테스트한 결과, 사전 평가에서 출처 범위, 인용 적합성, 결과물 표현 품질이 향상됐다.",
+    "summaryEn": "Hebbia tested GPT-6 Astra for financial research, and its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+  },
+  "https://zdnet.co.kr/view/?no=20261121081600": {
+    "titleEn": "114 Korean Students Compete in Physical AI Robotics Challenge Finals",
+    "summaryEn": "Korea's Ministry of Science and ICT held the 2026 Youth Robotics Challenge finals at Hyundai AutoEver's R&D center, where 32 teams tackled health emergency tasks; the winner will represent Korea at ITU's Robotics for Good."
+  },
+  "https://www.etnews.com/20261121000021": {
+    "titleEn": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
+    "summaryEn": "Anthropic researcher and mathematician Levent Alpöge said on his website and in a four-page paper that he believes he found a proof of the Riemann hypothesis with Claude. The claim has not been independently verified."
   }
 }

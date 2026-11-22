@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T12:05+09:00",
+  "updatedAt": "2026-11-22T10:53+09:00",
   "global": [
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -10,29 +10,14 @@
       "publishedAt": "2026-11-20T19:53:41+00:00",
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "titleKo": "Daniel Ek, AI 연구자가 세운 핵융합 스타트업에 투자…무엇을 만드나",
+      "summaryKo": "Spotify 창업자 Daniel Ek가 AI 연구자가 설립한 핵융합 발전 스타트업 Europa Fusion에 투자했다. 이 스타트업이 개발 중인 기술을 소개한다.",
+      "summaryEn": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. The article looks at what the startup is building.",
       "titleEn": "",
       "tags": [
         "마케팅 영향"
       ],
-      "score": 6.5
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-20T18:15:15+00:00",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that mo",
-      "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju",
-      "titleEn": "",
-      "tags": [],
-      "score": 5.0
+      "score": 5.5
     },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -42,9 +27,9 @@
       "publishedAt": "2026-11-20T00:00:00+00:00",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "titleKo": "Hebbia, GPT-6 Astra로 금융 리서치 성능 개선",
+      "summaryKo": "Hebbia가 금융 리서치에 GPT-6 Astra를 테스트한 결과, 사전 평가에서 출처 범위, 인용 적합성, 결과물 표현 품질이 향상됐다.",
+      "summaryEn": "Hebbia tested GPT-6 Astra for financial research, and its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "titleEn": "",
       "tags": [
         "마케팅 영향",
@@ -99,8 +84,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Korea's Ministry of Science and ICT held the 2026 Youth Robotics Challenge finals at Hyundai AutoEver's R&D center, where 32 teams tackled health emergency tasks; the winner will represent Korea at ITU's Robotics for Good.",
+      "titleEn": "114 Korean Students Compete in Physical AI Robotics Challenge Finals",
       "tags": [
         "빅테크"
       ],
@@ -116,12 +101,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic researcher and mathematician Levent Alpöge said on his website and in a four-page paper that he believes he found a proof of the Riemann hypothesis with Claude. The claim has not been independently verified.",
+      "titleEn": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 5.0
     }
   ]
 }

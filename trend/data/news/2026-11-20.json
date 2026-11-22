@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updatedAt": "2026-11-21T10:53+09:00",
+  "updatedAt": "2026-11-20T09:00+09:00",
   "global": [
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -17,7 +17,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -34,7 +34,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "Meta’s Muse Charm might cost $300",
@@ -51,7 +51,24 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-19T20:05:06+00:00",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar ",
+      "lang": "en",
+      "titleKo": "구글, 검색 홈페이지에 AI 대화 바로 띄운다",
+      "summaryKo": "구글이 홈페이지를 업데이트해 접이식 사이드바에서 기존 AI 대화를 보고 이어갈 수 있게 했다. 구글 제품 부사장 로비 스타인이 X를 통해 공개했다.",
+      "summaryEn": "Google is updating its homepage with a collapsible sidebar where users can view and continue their AI chats, as shown by VP of product Robby Stein in a post on X.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
@@ -69,7 +86,7 @@
         "빅테크",
         "출시·발표"
       ],
-      "score": 6.0
+      "score": 7.0
     },
     {
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -82,23 +99,6 @@
       "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
       "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
       "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
-      "titleEn": "",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 5.0
-    },
-    {
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-18T14:42:44+00:00",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leav",
-      "lang": "en",
-      "titleKo": "AI 하이프 지수: AI는 어디에나 있다",
-      "summaryKo": "구글은 광고 수익 손실을 감수하면서도 AI 개요를 밀어붙이고, 집 청소용 AI 휴머노이드 로봇까지 등장하는 등 AI가 일상 곳곳으로 퍼지고 있다.",
-      "summaryEn": "AI is spreading everywhere: Google pushes AI Overviews despite billions in lost ad revenue, and AI-powered humanoid robots are being carried into homes to clean.",
       "titleEn": "",
       "tags": [
         "빅테크"

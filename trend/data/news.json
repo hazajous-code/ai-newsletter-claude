@@ -1,24 +1,7 @@
 {
-  "date": "2026-11-21",
-  "updatedAt": "2026-11-22T10:53+09:00",
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T11:01+09:00",
   "global": [
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "publishedAt": "2026-11-20T19:53:41+00:00",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "lang": "en",
-      "titleKo": "Daniel Ek, AI 연구자가 세운 핵융합 스타트업에 투자…무엇을 만드나",
-      "summaryKo": "Spotify 창업자 Daniel Ek가 AI 연구자가 설립한 핵융합 발전 스타트업 Europa Fusion에 투자했다. 이 스타트업이 개발 중인 기술을 소개한다.",
-      "summaryEn": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. The article looks at what the startup is building.",
-      "titleEn": "",
-      "tags": [
-        "마케팅 영향"
-      ],
-      "score": 5.5
-    },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "url": "https://openai.com/business/customer-stories/hebbia",
@@ -75,38 +58,39 @@
   ],
   "korea": [
     {
-      "title": "미래 피지컬 AI 인재 한자리에…청소년 114명, 로봇 실력 겨룬다",
-      "url": "https://zdnet.co.kr/view/?no=20261121081600",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-21T02:00:02+00:00",
-      "summary": "[지디넷코리아]전국 초중고 학생 114명이 직접 만든 로봇으로 응급상황 해결에 도전한다. 전국 135개 팀 가운데 예선을 통과한 32개 팀이 결선에서 로봇 설계와 프로그래밍 실력을 겨룬다.과학기술정",
+      "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-22T09:09:35+00:00",
+      "summary": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Korea's Ministry of Science and ICT held the 2026 Youth Robotics Challenge finals at Hyundai AutoEver's R&D center, where 32 teams tackled health emergency tasks; the winner will represent Korea at ITU's Robotics for Good.",
-      "titleEn": "114 Korean Students Compete in Physical AI Robotics Challenge Finals",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "앤트로픽 연구원 “AI 클로드, 수학 최대 난제 리만가설 증명” 주장",
-      "url": "https://www.etnews.com/20261121000021",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-11-21T01:05:55+00:00",
-      "summary": "인공지능(AI) 기업 앤트로픽의 한 연구원이 이 회사의 챗봇 클로드로 수학계의 최대 난제 중 하나로 꼽히는 리만 가설을 증명했다고 주장했다는 보도가 나왔다. 20일(현지시간) AFP통신과 파이낸셜타",
+      "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-21T18:20:47+00:00",
+      "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Anthropic researcher and mathematician Levent Alpöge said on his website and in a four-page paper that he believes he found a proof of the Riemann hypothesis with Claude. The claim has not been independently verified.",
-      "titleEn": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크"
+        "빅테크",
+        "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 7.0
     }
   ]
 }

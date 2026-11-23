@@ -2228,5 +2228,13 @@
   "https://www.etnews.com/20261121000021": {
     "titleEn": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
     "summaryEn": "Anthropic researcher and mathematician Levent Alpöge said on his website and in a four-page paper that he believes he found a proof of the Riemann hypothesis with Claude. The claim has not been independently verified."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217654": {
+    "titleEn": "OpenAI and Anthropic Revamp ChatGPT and Claude Mobile Apps, Putting AI Agent Features Front and Center",
+    "summaryEn": "A day apart, OpenAI and Anthropic redesigned their ChatGPT and Claude mobile apps, moving personal AI agent, coding and project management features to the forefront so users can delegate and track tasks on their phones."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217649": {
+    "titleEn": "AI Task Horizon Jumps from 16 to 40 Hours in Six Months, but Judgment Still Lags",
+    "summaryEn": "A METR evaluation of frontier models, including OpenAI's GPT-6 Astra and Anthropic's Claude Opus 5.5, finds AI can now handle tasks taking human experts about 40 hours, up from 16+ hours in May."
   }
 }

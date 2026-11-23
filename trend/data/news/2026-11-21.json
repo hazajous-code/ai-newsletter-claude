@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updatedAt": "2026-11-22T10:53+09:00",
+  "updatedAt": "2026-11-21T09:00+09:00",
   "global": [
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -17,7 +17,22 @@
       "tags": [
         "마케팅 영향"
       ],
-      "score": 5.5
+      "score": 6.5
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-20T18:15:15+00:00",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that mo",
+      "lang": "en",
+      "titleKo": "AI에서 가장 오해받는 그래프, METR '타임 호라이즌' 대폭 업데이트",
+      "summaryKo": "AI 평가 비영리단체 METR이 타임 호라이즌 그래프를 업데이트했다. 일부 AI 능력은 기하급수적으로 향상 중이지만, 판단력이 필요한 작업은 코딩만큼 잘하지 못하는 것으로 나타났다.",
+      "summaryEn": "AI evaluation nonprofit METR updated its time horizon plot, finding some AI capabilities still improving exponentially, while models are less capable at judgment-heavy tasks than at coding.",
+      "titleEn": "",
+      "tags": [],
+      "score": 5.0
     },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
@@ -35,7 +50,7 @@
         "마케팅 영향",
         "출시·발표"
       ],
-      "score": 6.5
+      "score": 7.5
     },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
@@ -106,7 +121,7 @@
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     }
   ]
 }

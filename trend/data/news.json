@@ -1,96 +1,128 @@
 {
-  "date": "2026-11-22",
-  "updatedAt": "2026-11-22T11:01+09:00",
+  "date": "2026-11-23",
+  "updatedAt": "2026-11-23T11:26+09:00",
   "global": [
     {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-23T01:25:53+00:00",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "lang": "en",
-      "titleKo": "Hebbia, GPT-6 Astra로 금융 리서치 성능 개선",
-      "summaryKo": "Hebbia가 금융 리서치에 GPT-6 Astra를 테스트한 결과, 사전 평가에서 출처 범위, 인용 적합성, 결과물 표현 품질이 향상됐다.",
-      "summaryEn": "Hebbia tested GPT-6 Astra for financial research, and its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "titleEn": "",
-      "tags": [
-        "마케팅 영향",
-        "출시·발표"
-      ],
-      "score": 6.5
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "sourceId": "google-ai-blog",
-      "publishedAt": "2026-11-19T18:00:00+00:00",
-      "summary": "Gemini spark on a space background",
-      "lang": "en",
-      "titleKo": "Gemini API에 '도구 검색(Tool Retrieval)' 기능 도입",
+      "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Gemini spark on a space background",
+      "summaryEn": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "titleEn": "",
       "tags": [
-        "빅테크",
-        "출시·발표"
+        "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "source": "NVIDIA Blog",
-      "sourceId": "nvidia-blog",
-      "publishedAt": "2026-11-19T17:00:35+00:00",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developer",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-22T21:14:07+00:00",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "lang": "en",
-      "titleKo": "엔비디아, 프런티어 AI 에이전트로 시뮬레이션을 만드는 개발자들",
-      "summaryKo": "개발자들이 프런티어 AI 모델과 엔비디아 옴니버스 라이브러리를 결합해 에셋 구성, 물리·렌더링 연결, 검증까지 시뮬레이션 제작을 AI 에이전트에 맡기고 있다.",
-      "summaryEn": "Developers are combining frontier AI models with NVIDIA Omniverse libraries, directing AI agents to assemble assets, connect physics and rendering, and check simulations.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "titleEn": "",
       "tags": [
         "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "WIRED",
+      "sourceId": "wired",
+      "publishedAt": "2026-11-22T11:00:00+00:00",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
       ],
       "score": 5.0
     }
   ],
   "korea": [
     {
-      "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+      "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-22T09:09:35+00:00",
-      "summary": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진",
+      "publishedAt": "2026-11-23T07:14:28+00:00",
+      "summary": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "A day apart, OpenAI and Anthropic redesigned their ChatGPT and Claude mobile apps, moving personal AI agent, coding and project management features to the forefront so users can delegate and track tasks on their phones.",
-      "titleEn": "OpenAI and Anthropic Revamp ChatGPT and Claude Mobile Apps, Putting AI Agent Features Front and Center",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
     },
     {
-      "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-21T18:20:47+00:00",
-      "summary": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치",
+      "title": "래블업, 美 AI 인프라 시장 공략 속도…글로벌 유통망 확대",
+      "url": "https://zdnet.co.kr/view/?no=20261123102914",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-23T01:29:33+00:00",
+      "summary": "[지디넷코리아]래블업이 미국 기업용 인공지능(AI) 인프라 시장 공략에 나선다. 현지 IT 솔루션 기업과 공급 계약을 체결하고 자체 AI 인프라 소프트웨어 '백엔드닷에이아이(Backend.AI)'의",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "A METR evaluation of frontier models, including OpenAI's GPT-6 Astra and Anthropic's Claude Opus 5.5, finds AI can now handle tasks taking human experts about 40 hours, up from 16+ hours in May.",
-      "titleEn": "AI Task Horizon Jumps from 16 to 40 Hours in Six Months, but Judgment Still Lags",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
-        "정책·법·보안"
+        "마케팅 영향"
       ],
-      "score": 7.0
+      "score": 9.5
+    },
+    {
+      "title": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유",
+      "url": "https://zdnet.co.kr/view/?no=20261123101243",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-23T01:24:24+00:00",
+      "summary": "[지디넷코리아]인공지능(AI) 기업 앤트로픽이 기업공개(IPO) 과정에서 주관은행에 오픈AI 등 경쟁사 관련 업무를 제한하는 조건을 요구해 월가의 반발을 산 것으로 알려졌다. AI 기업들의 대규모 ",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "오픈AI \"AI가 연구 작업 절반 스스로 완료\"…7개월 만에 성공률 2배",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-22T17:25:00+00:00",
+      "summary": "오픈AI의 에이전트가 인간에게 2~4시간 걸리는 AI 연구 작업을 스스로 완료하는 비율이 7개월 만에 23%에서 46%로 높아진 것으로 나타났다. 연구자들은 AI 덕분에 생산성이 크게 높아졌다고 평",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
     }
   ]
 }

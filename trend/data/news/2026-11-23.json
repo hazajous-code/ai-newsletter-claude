@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T11:26+09:00",
+  "updatedAt": "2026-11-23T09:00+09:00",
   "global": [
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-23T01:25:53+00:00",
       "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "titleKo": "Notable Capital·GIC·Baillie Gifford는 왜 IPO 전 Anthropic에 크게 베팅했나",
+      "summaryKo": "Anthropic에 수십억 달러를 투자한 주요 투자사 세 곳이 투자를 확신한 이유를 밝혔다.",
+      "summaryEn": "Three major backers explain what gave them the conviction to bet billions on Anthropic ahead of its IPO.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -27,9 +27,9 @@
       "publishedAt": "2026-11-22T21:14:07+00:00",
       "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "titleKo": "OpenAI 최고과학책임자가 제안한 AI 개발 제한 방법",
+      "summaryKo": "AI 개발에 속도 제한을 두려면 먼저 그 '속도'를 어떻게 측정할지에 합의해야 한다는 OpenAI 최고과학책임자의 구상을 다뤘다.",
+      "summaryEn": "OpenAI's chief scientist argues that setting a speed limit on AI development first requires agreeing on how to measure that speed.",
       "titleEn": "",
       "tags": [
         "빅테크"
@@ -44,14 +44,32 @@
       "publishedAt": "2026-11-22T11:00:00+00:00",
       "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "titleKo": "미국 대형 은행들, 고객 AI 에이전트의 계좌 접근 막는다",
+      "summaryKo": "미국 주요 금융기관들이 제3자 봇의 계좌 로그인을 금지하고, 봇의 실수로 생긴 손실은 전적으로 고객 책임이라고 경고하고 있다.",
+      "summaryEn": "Major US financial institutions are banning third-party bots from logging into customer accounts and warning that costly bot mistakes are the customer's responsibility.",
       "titleEn": "",
       "tags": [
         "정책·법·보안"
       ],
       "score": 5.0
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "lang": "en",
+      "titleKo": "Hebbia, GPT-6 Astra로 금융 리서치 성능 개선",
+      "summaryKo": "Hebbia가 금융 리서치에 GPT-6 Astra를 테스트한 결과, 사전 평가에서 출처 범위, 인용 적합성, 결과물 표현 품질이 향상됐다.",
+      "summaryEn": "Hebbia tested GPT-6 Astra for financial research, and its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "titleEn": "",
+      "tags": [
+        "마케팅 영향",
+        "출시·발표"
+      ],
+      "score": 6.5
     }
   ],
   "korea": [
@@ -65,8 +83,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI chief scientist Jakub Pachocki released pretraining metrics to track AI intelligence and proposed shared development limits for major labs; Sam Altman called it the company's most important recent release.",
+      "titleEn": "OpenAI: Pretraining Drives Rapid AI Gains, Calls for Development Limits Ahead of Recursive Self-Improvement",
       "tags": [
         "빅테크"
       ],
@@ -82,8 +100,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Lablup USA signed a deal with Insight Enterprises to supply its Backend.AI infrastructure software to US enterprises, starting with mid-market customers; the platform runs across AMD, Intel and Nvidia accelerators.",
+      "titleEn": "Korean AI Infra Startup Lablup Expands US Push with Insight Enterprises Distribution Deal",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -100,8 +118,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Per Reuters, Anthropic asked IPO underwriter staff to pledge not to work for rivals like OpenAI, DeepSeek, Cursor and Hugging Face for six months after listing; some bankers refused to sign.",
+      "titleEn": "\"No OpenAI Work for Six Months\": Why Wall Street Pushed Back on Anthropic's IPO Terms",
       "tags": [
         "빅테크"
       ],
@@ -117,8 +135,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "OpenAI's 'The Jagged Frontier' report says its agents now autonomously complete 46% of AI research tasks that take humans 2-4 hours, up from 23% seven months earlier; humans still lead on new ideas and key decisions.",
+      "titleEn": "OpenAI: AI Agents Now Complete Half of Research Tasks on Their Own, Doubling in Seven Months",
       "tags": [
         "빅테크"
       ],

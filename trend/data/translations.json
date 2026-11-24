@@ -2236,5 +2236,36 @@
   "https://www.aitimes.com/news/articleView.html?idxno=217649": {
     "titleEn": "AI Task Horizon Jumps from 16 to 40 Hours in Six Months, but Judgment Still Lags",
     "summaryEn": "A METR evaluation of frontier models, including OpenAI's GPT-6 Astra and Anthropic's Claude Opus 5.5, finds AI can now handle tasks taking human experts about 40 hours, up from 16+ hours in May."
+  },
+  "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/": {
+    "titleKo": "Notable Capital·GIC·Baillie Gifford는 왜 IPO 전 Anthropic에 크게 베팅했나",
+    "summaryKo": "Anthropic에 수십억 달러를 투자한 주요 투자사 세 곳이 투자를 확신한 이유를 밝혔다.",
+    "summaryEn": "Three major backers explain what gave them the conviction to bet billions on Anthropic ahead of its IPO."
+  },
+  "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/": {
+    "titleKo": "OpenAI 최고과학책임자가 제안한 AI 개발 제한 방법",
+    "summaryKo": "AI 개발에 속도 제한을 두려면 먼저 그 '속도'를 어떻게 측정할지에 합의해야 한다는 OpenAI 최고과학책임자의 구상을 다뤘다.",
+    "summaryEn": "OpenAI's chief scientist argues that setting a speed limit on AI development first requires agreeing on how to measure that speed."
+  },
+  "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/": {
+    "titleKo": "미국 대형 은행들, 고객 AI 에이전트의 계좌 접근 막는다",
+    "summaryKo": "미국 주요 금융기관들이 제3자 봇의 계좌 로그인을 금지하고, 봇의 실수로 생긴 손실은 전적으로 고객 책임이라고 경고하고 있다.",
+    "summaryEn": "Major US financial institutions are banning third-party bots from logging into customer accounts and warning that costly bot mistakes are the customer's responsibility."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217665": {
+    "titleEn": "OpenAI: Pretraining Drives Rapid AI Gains, Calls for Development Limits Ahead of Recursive Self-Improvement",
+    "summaryEn": "OpenAI chief scientist Jakub Pachocki released pretraining metrics to track AI intelligence and proposed shared development limits for major labs; Sam Altman called it the company's most important recent release."
+  },
+  "https://zdnet.co.kr/view/?no=20261123102914": {
+    "titleEn": "Korean AI Infra Startup Lablup Expands US Push with Insight Enterprises Distribution Deal",
+    "summaryEn": "Lablup USA signed a deal with Insight Enterprises to supply its Backend.AI infrastructure software to US enterprises, starting with mid-market customers; the platform runs across AMD, Intel and Nvidia accelerators."
+  },
+  "https://zdnet.co.kr/view/?no=20261123101243": {
+    "titleEn": "\"No OpenAI Work for Six Months\": Why Wall Street Pushed Back on Anthropic's IPO Terms",
+    "summaryEn": "Per Reuters, Anthropic asked IPO underwriter staff to pledge not to work for rivals like OpenAI, DeepSeek, Cursor and Hugging Face for six months after listing; some bankers refused to sign."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217657": {
+    "titleEn": "OpenAI: AI Agents Now Complete Half of Research Tasks on Their Own, Doubling in Seven Months",
+    "summaryEn": "OpenAI's 'The Jagged Frontier' report says its agents now autonomously complete 46% of AI research tasks that take humans 2-4 hours, up from 23% seven months earlier; humans still lead on new ideas and key decisions."
   }
 }

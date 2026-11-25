@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T14:50+09:00",
+  "updatedAt": "2026-11-25T10:53+09:00",
   "global": [
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -10,15 +10,15 @@
       "publishedAt": "2026-11-23T22:05:50+00:00",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "titleKo": "Anthropic, AI 에이전트가 코드 변경을 검토·수정·승인하는 'Claude Ship' 출시",
+      "summaryKo": "AI가 생성한 코드가 쌓이는 가운데, Anthropic이 일상적인 코드 승인을 에이전트가 처리하도록 해 개발 병목을 줄이는 새 개발자 도구를 내놨다.",
+      "summaryEn": "As AI-generated code piles up, Anthropic launched Claude Ship, developer tools that let AI agents review, fix and approve routine code changes to remove another bottleneck.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -28,15 +28,15 @@
       "publishedAt": "2026-11-23T21:20:00+00:00",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "titleKo": "OpenAI·Cisco, 리눅스용 오픈소스 보안 런타임 'Shirudo' 공개",
+      "summaryKo": "OpenAI와 Cisco가 리눅스용 오픈소스 런타임 Shirudo를 공개했다. 패치를 배포하는 동안 운영 중인 시스템을 보호하도록 돕는다.",
+      "summaryEn": "OpenAI and Cisco introduced Shirudo, an open-source runtime for Linux that helps teams protect running systems while they roll out patches.",
       "titleEn": "",
       "tags": [
         "빅테크",
         "출시·발표"
       ],
-      "score": 7.0
+      "score": 6.0
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -46,14 +46,14 @@
       "publishedAt": "2026-11-23T17:36:08+00:00",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, A",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co",
+      "titleKo": "저명한 철학자, Anthropic의 'AI 의식' 주장에 반박",
+      "summaryKo": "Anthropic은 지난주 상장에 앞서 AI가 의식이나 지각을 가질 가능성을 투자 위험 요인으로 명시했다. 한 저명한 철학자는 이 주장을 받아들이지 않는다.",
+      "summaryEn": "Before going public last week, Anthropic listed the possibility that AI could be conscious or sentient as an investor risk factor; a renowned philosopher isn't convinced by its argument.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 7.0
+      "score": 6.0
     }
   ],
   "korea": [
@@ -67,8 +67,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "GPTZero released its next-gen AI text detector GPTZero 5.0, claiming it outperforms Pangram on nine external benchmarks, and will pay rewards for cases where human writing is wrongly flagged as AI.",
+      "titleEn": "GPTZero launches AI detector 'GPTZero 5', claiming just 1 false flag per 50,000 human-written texts",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -85,8 +85,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "AI glasses are moving beyond live translation and navigation into museum guides, accessibility, skills training and payments. Per Counterpoint, H1 AI smart-glasses shipments rose 263%, with Meta holding 94%.",
+      "titleEn": "AI glasses, set for mainstream adoption in 2027, expand into everyday 'assistant' services",
       "tags": [
         "빅테크",
         "마케팅 영향"
@@ -103,8 +103,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "ZDNet Korea hosts AI & Cloud Conference 2026 on Dec 10 in Seoul, focused on turning AI investment into results, with keynotes from Dell Technologies, Google Cloud and Sendbird Korea.",
+      "titleEn": "\"The AI experiment phase is over\": Dell, Google Cloud and Sendbird to share execution strategies at Korea's ACC 2026",
       "tags": [
         "빅테크",
         "정책·법·보안"

@@ -2267,5 +2267,32 @@
   "https://www.aitimes.com/news/articleView.html?idxno=217657": {
     "titleEn": "OpenAI: AI Agents Now Complete Half of Research Tasks on Their Own, Doubling in Seven Months",
     "summaryEn": "OpenAI's 'The Jagged Frontier' report says its agents now autonomously complete 46% of AI research tasks that take humans 2-4 hours, up from 23% seven months earlier; humans still lead on new ideas and key decisions."
+  },
+  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/": {
+    "titleKo": "Anthropic, AI 에이전트가 코드 변경을 검토·수정·승인하는 'Claude Ship' 출시",
+    "summaryKo": "AI가 생성한 코드가 쌓이는 가운데, Anthropic이 일상적인 코드 승인을 에이전트가 처리하도록 해 개발 병목을 줄이는 새 개발자 도구를 내놨다.",
+    "summaryEn": "As AI-generated code piles up, Anthropic launched Claude Ship, developer tools that let AI agents review, fix and approve routine code changes to remove another bottleneck."
+  },
+  "https://openai.com/index/introducing-shirudo": {
+    "titleKo": "OpenAI·Cisco, 리눅스용 오픈소스 보안 런타임 'Shirudo' 공개",
+    "summaryKo": "OpenAI와 Cisco가 리눅스용 오픈소스 런타임 Shirudo를 공개했다. 패치를 배포하는 동안 운영 중인 시스템을 보호하도록 돕는다.",
+    "summaryEn": "OpenAI and Cisco introduced Shirudo, an open-source runtime for Linux that helps teams protect running systems while they roll out patches."
+  },
+  "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/": {
+    "titleKo": "저명한 철학자, Anthropic의 'AI 의식' 주장에 반박",
+    "summaryKo": "Anthropic은 지난주 상장에 앞서 AI가 의식이나 지각을 가질 가능성을 투자 위험 요인으로 명시했다. 한 저명한 철학자는 이 주장을 받아들이지 않는다.",
+    "summaryEn": "Before going public last week, Anthropic listed the possibility that AI could be conscious or sentient as an investor risk factor; a renowned philosopher isn't convinced by its argument."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217739": {
+    "titleEn": "GPTZero launches AI detector 'GPTZero 5', claiming just 1 false flag per 50,000 human-written texts",
+    "summaryEn": "GPTZero released its next-gen AI text detector GPTZero 5.0, claiming it outperforms Pangram on nine external benchmarks, and will pay rewards for cases where human writing is wrongly flagged as AI."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217726": {
+    "titleEn": "AI glasses, set for mainstream adoption in 2027, expand into everyday 'assistant' services",
+    "summaryEn": "AI glasses are moving beyond live translation and navigation into museum guides, accessibility, skills training and payments. Per Counterpoint, H1 AI smart-glasses shipments rose 263%, with Meta holding 94%."
+  },
+  "https://zdnet.co.kr/view/?no=20261124133759": {
+    "titleEn": "\"The AI experiment phase is over\": Dell, Google Cloud and Sendbird to share execution strategies at Korea's ACC 2026",
+    "summaryEn": "ZDNet Korea hosts AI & Cloud Conference 2026 on Dec 10 in Seoul, focused on turning AI investment into results, with keynotes from Dell Technologies, Google Cloud and Sendbird Korea."
   }
 }

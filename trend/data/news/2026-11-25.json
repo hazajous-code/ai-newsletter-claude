@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-25",
+  "updatedAt": "2026-11-25T13:53+09:00",
+  "global": [
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-24T15:15:16+00:00",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the n",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
+      "titleEn": "",
+      "tags": [],
+      "score": 5.0
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-24T13:00:00+00:00",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "titleEn": "",
+      "tags": [
+        "출시·발표"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI Blog",
+      "sourceId": "openai-blog",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 5.0
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, A",
+      "lang": "en",
+      "titleKo": "저명한 철학자, Anthropic의 'AI 의식' 주장에 반박",
+      "summaryKo": "Anthropic은 지난주 상장에 앞서 AI가 의식이나 지각을 가질 가능성을 투자 위험 요인으로 명시했다. 한 저명한 철학자는 이 주장을 받아들이지 않는다.",
+      "summaryEn": "Before going public last week, Anthropic listed the possibility that AI could be conscious or sentient as an investor risk factor; a renowned philosopher isn't convinced by its argument.",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    }
+  ],
+  "korea": [
+    {
+      "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217764",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-25T13:14:35+00:00",
+      "summary": "도널드 트럼프 미국 대통령과 JD 밴스 부통령이 젠슨 황 엔비디아 CEO의 복귀를 적극적으로 추진한 주요 이유 중 하나는 미국의 오픈웨이트 AI 경쟁력을 지키기 위한 것이었던 것으로 알려졌다. 중국",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "오픈AI·앤트로픽 내부서 AI 개발 중단론…\"최고 모델 통제 어려워\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217755",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-25T12:38:15+00:00",
+      "summary": "오픈AI와 앤트로픽 내부에서 차세대 AI 모델의 공개를 포기하는 것은 물론 신규 모델 훈련 자체를 중단해야 한다는 주장까지 나오고 있다. 두 회사가 안전 문제로 모델 훈련과 출시를 늦춰 온 가운데,",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "원전 업무에도 AI 에이전트 심는다…네이버클라우드, 한수원과 맞손",
+      "url": "https://zdnet.co.kr/view/?no=20261125124028",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-25T03:40:49+00:00",
+      "summary": "[지디넷코리아]네이버클라우드가 한국수력원자력과 생성형 인공지능(AI) 플랫폼 구축을 넘어 AI 에이전트 분야로 협력을 확대한다. 원전 현업 담당자가 업무에 필요한 AI 에이전트를 직접 개발하고 활용",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "정책·법·보안"
+      ],
+      "score": 7.0
+    },
+    {
+      "title": "오픈AI·앤트로픽, 인간 통제 벗어난 초강력 AI 미공개 의혹",
+      "url": "https://www.etnews.com/20261125000227",
+      "source": "전자신문",
+      "sourceId": "etnews",
+      "publishedAt": "2026-11-25T02:08:07+00:00",
+      "summary": "오픈AI와 앤트로픽이 인간 통제 기술 발전 속도를 앞지른 강력한 성능의 인공지능(AI) 모델을 개발했지만 안전성 이슈로 미공개 중이라는 의혹이 제기됐다. 24일(현지시간) 미국 악시오스는 오픈AI와",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "출시·발표"
+      ],
+      "score": 8.0
+    }
+  ]
+}

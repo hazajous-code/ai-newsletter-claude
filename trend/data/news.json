@@ -1,37 +1,89 @@
 {
-  "date": "2026-11-25",
-  "updatedAt": "2026-11-25T09:00+09:00",
+  "date": "2026-11-26",
+  "updatedAt": "2026-11-26T13:04+09:00",
   "global": [
     {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-24T15:15:16+00:00",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the n",
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-26T00:04:34+00:00",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Goog",
       "lang": "en",
-      "titleKo": "AI 확산에 한계 맞은 기업 네트워크, 현대화가 시급해졌다",
-      "summaryKo": "기업들의 AI 도입으로 AI가 네트워크 수요의 최대 원인이 되고 있으며, AI 에이전트 작업은 사람이 같은 일을 할 때보다 트래픽을 약 450% 더 발생시킨다.",
-      "summaryEn": "As companies rush to deploy AI, it is becoming the biggest source of network demand; tasks done by AI agents generate an estimated 450% more traffic than the same tasks done by humans.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th",
       "titleEn": "",
-      "tags": [],
+      "tags": [
+        "빅테크"
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "publishedAt": "2026-11-25T21:51:26+00:00",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on ",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The",
+      "titleEn": "",
+      "tags": [
+        "빅테크",
+        "마케팅 영향"
+      ],
+      "score": 8.5
+    },
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-25T20:56:44+00:00",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its re",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "titleEn": "",
+      "tags": [
+        "정책·법·보안"
+      ],
       "score": 5.0
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI Blog",
-      "sourceId": "openai-blog",
-      "publishedAt": "2026-11-24T13:00:00+00:00",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "publishedAt": "2026-11-25T20:03:27+00:00",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "lang": "en",
-      "titleKo": "GPT-6 모델, 자체 추론만으로 단백질 설계 능력 보여",
-      "summaryKo": "GPT-6 모델이 추론과 코드로 단백질 구조와 서열을 설계했으며, 실험실 테스트에서 5개 표적 모두에 결합하는 증거가 확인됐다.",
-      "summaryEn": "GPT-6 models design protein structures and sequences using reasoning and code, and lab tests found evidence of binding across five targets.",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "titleEn": "",
       "tags": [
-        "출시·발표"
+        "빅테크"
       ],
+      "score": 6.0
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "publishedAt": "2026-11-25T10:00:00+00:00",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supe",
+      "lang": "en",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During mor",
+      "titleEn": "",
+      "tags": [],
       "score": 5.0
     },
     {
@@ -49,56 +101,39 @@
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
-    },
+      "score": 5.0
+    }
+  ],
+  "korea": [
     {
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "publishedAt": "2026-11-23T17:36:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, A",
-      "lang": "en",
-      "titleKo": "저명한 철학자, Anthropic의 'AI 의식' 주장에 반박",
-      "summaryKo": "Anthropic은 지난주 상장에 앞서 AI가 의식이나 지각을 가질 가능성을 투자 위험 요인으로 명시했다. 한 저명한 철학자는 이 주장을 받아들이지 않는다.",
-      "summaryEn": "Before going public last week, Anthropic listed the possibility that AI could be conscious or sentient as an investor risk factor; a renowned philosopher isn't convinced by its argument.",
+      "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217800",
+      "source": "AI타임스",
+      "sourceId": "aitimes",
+      "publishedAt": "2026-11-26T12:28:43+00:00",
+      "summary": "오픈AI가 오는 12월부터 챗GPT와 코덱스의 사용량 한도를 하나로 통합한다. 대화형 AI와 업무 수행형 AI를 하나의 서비스로 제공하기 위한 조치로, 두 서비스를 많이 이용하는 헤비 유저는 기존보",
+      "lang": "ko",
+      "titleKo": "",
+      "summaryKo": "",
+      "summaryEn": "",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
       "score": 6.0
-    }
-  ],
-  "korea": [
-    {
-      "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217764",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-25T13:14:35+00:00",
-      "summary": "도널드 트럼프 미국 대통령과 JD 밴스 부통령이 젠슨 황 엔비디아 CEO의 복귀를 적극적으로 추진한 주요 이유 중 하나는 미국의 오픈웨이트 AI 경쟁력을 지키기 위한 것이었던 것으로 알려졌다. 중국",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Reuters reported, citing sources, that President Trump and VP Vance intervened in Nvidia's board decision to bring back Jensen Huang, seeing him as key to a U.S. open-weight AI ecosystem as Chinese firms lead.",
-      "titleEn": "Why Trump Backed Jensen Huang's Return: Seen as Guardian of U.S. Open-Weight AI",
-      "tags": [
-        "빅테크"
-      ],
-      "score": 6.0
     },
     {
-      "title": "오픈AI·앤트로픽 내부서 AI 개발 중단론…\"최고 모델 통제 어려워\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217755",
+      "title": "이재혁 마키나락스 공동 창업자, 식품제조 AX로 시드 투자 유치",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217805",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-25T12:38:15+00:00",
-      "summary": "오픈AI와 앤트로픽 내부에서 차세대 AI 모델의 공개를 포기하는 것은 물론 신규 모델 훈련 자체를 중단해야 한다는 주장까지 나오고 있다. 두 회사가 안전 문제로 모델 훈련과 출시를 늦춰 온 가운데,",
+      "publishedAt": "2026-11-26T12:06:55+00:00",
+      "summary": "산업용 AI 전문 마키나락스를 공동 창업한 이재혁 대표가 식품제조 AX 현장으로 무대를 옮겨 투자유치에 성공했다.식품제조 특화 AX 스타트업 엔크레더블(대표 이재혁)은 카카오벤처스와 더벤처스로부터 ",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Axios, citing 24+ people familiar with internal talks, reported many OpenAI and Anthropic staff believe top models are hard to release safely, with some urging a halt to training new models.",
-      "titleEn": "Calls Grow Inside OpenAI and Anthropic to Pause AI Development Over Control Concerns",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -106,40 +141,38 @@
       "score": 7.0
     },
     {
-      "title": "원전 업무에도 AI 에이전트 심는다…네이버클라우드, 한수원과 맞손",
-      "url": "https://zdnet.co.kr/view/?no=20261125124028",
+      "title": "브랜드 추천부터 예상 순익까지…한국신용데이터, AI로 예비 창업자 돕는다",
+      "url": "https://zdnet.co.kr/view/?no=20261126122412",
       "source": "ZDNet Korea",
       "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-25T03:40:49+00:00",
-      "summary": "[지디넷코리아]네이버클라우드가 한국수력원자력과 생성형 인공지능(AI) 플랫폼 구축을 넘어 AI 에이전트 분야로 협력을 확대한다. 원전 현업 담당자가 업무에 필요한 AI 에이전트를 직접 개발하고 활용",
+      "publishedAt": "2026-11-26T03:24:12+00:00",
+      "summary": "[지디넷코리아]예비 창업자에게 프랜차이즈 브랜드와 지역을 추천해주고 비용과 예상매출 등을 분석해주는 인공지능(AI) 서비스가 나왔다.한국신용데이터(KCD)는 프랜차이즈 예비 창업자를 위한 ‘창업 시",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Naver Cloud signed an MOU with Korea Hydro & Nuclear Power and KEPCO KDN to expand from a HyperCLOVA X-based generative AI platform to AI agents that nuclear plant staff can build and use themselves.",
-      "titleEn": "Naver Cloud Teams Up with Korea Hydro & Nuclear Power to Bring AI Agents to Nuclear Plant Work",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크",
-        "정책·법·보안"
+        "마케팅 영향"
       ],
-      "score": 7.0
+      "score": 6.5
     },
     {
-      "title": "오픈AI·앤트로픽, 인간 통제 벗어난 초강력 AI 미공개 의혹",
-      "url": "https://www.etnews.com/20261125000227",
-      "source": "전자신문",
-      "sourceId": "etnews",
-      "publishedAt": "2026-11-25T02:08:07+00:00",
-      "summary": "오픈AI와 앤트로픽이 인간 통제 기술 발전 속도를 앞지른 강력한 성능의 인공지능(AI) 모델을 개발했지만 안전성 이슈로 미공개 중이라는 의혹이 제기됐다. 24일(현지시간) 미국 악시오스는 오픈AI와",
+      "title": "AI·디지털로 해상 가두리 양식 현안 해결 '첫 걸음'",
+      "url": "https://zdnet.co.kr/view/?no=20261126110326",
+      "source": "ZDNet Korea",
+      "sourceId": "zdnet-korea",
+      "publishedAt": "2026-11-26T03:04:04+00:00",
+      "summary": "[지디넷코리아]스마트 수산업 전문인력 양성 및 커리큘럼 개발을 위한 워크숍이 25일 전남 고흥썬밸리리조트서 개최됐다.이 행사는 해양수산부와 한국수산자원공단(FIRA)이 주최하고, 국립한국농수산대학교",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Axios, citing 24+ sources, reported OpenAI and Anthropic have unreleased models so powerful that many staff doubt they can be released safely; some reportedly favor withholding frontier models and halting new training.",
-      "titleEn": "OpenAI and Anthropic Accused of Withholding Powerful AI Models That Outpace Human Control",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
-        "빅테크",
-        "출시·발표"
+        "정책·법·보안"
       ],
-      "score": 8.0
+      "score": 5.0
     }
   ]
 }

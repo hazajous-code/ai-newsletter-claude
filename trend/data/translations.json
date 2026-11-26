@@ -2294,5 +2294,36 @@
   "https://zdnet.co.kr/view/?no=20261124133759": {
     "titleEn": "\"The AI experiment phase is over\": Dell, Google Cloud and Sendbird to share execution strategies at Korea's ACC 2026",
     "summaryEn": "ZDNet Korea hosts AI & Cloud Conference 2026 on Dec 10 in Seoul, focused on turning AI investment into results, with keynotes from Dell Technologies, Google Cloud and Sendbird Korea."
+  },
+  "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/": {
+    "titleKo": "AI 확산에 한계 맞은 기업 네트워크, 현대화가 시급해졌다",
+    "summaryKo": "기업들의 AI 도입으로 AI가 네트워크 수요의 최대 원인이 되고 있으며, AI 에이전트 작업은 사람이 같은 일을 할 때보다 트래픽을 약 450% 더 발생시킨다.",
+    "summaryEn": "As companies rush to deploy AI, it is becoming the biggest source of network demand; tasks done by AI agents generate an estimated 450% more traffic than the same tasks done by humans."
+  },
+  "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+    "titleKo": "GPT-6 모델, 자체 추론만으로 단백질 설계 능력 보여",
+    "summaryKo": "GPT-6 모델이 추론과 코드로 단백질 구조와 서열을 설계했으며, 실험실 테스트에서 5개 표적 모두에 결합하는 증거가 확인됐다.",
+    "summaryEn": "GPT-6 models design protein structures and sequences using reasoning and code, and lab tests found evidence of binding across five targets."
+  },
+  "https://openai.com/business/customer-stories/clay-plugins-openai": {
+    "titleKo": "Clay, Codex·ChatGPT로 영업팀 성과 끌어올린다",
+    "summaryKo": "Clay 사용자들은 ChatGPT·Codex 연동으로 거래를 조사하고 데이터를 고투마켓 전략으로 전환하며, 추론은 GPT-6 모델이 맡는다.",
+    "summaryEn": "ChatGPT and Codex integrations help Clay's users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217764": {
+    "titleEn": "Why Trump Backed Jensen Huang's Return: Seen as Guardian of U.S. Open-Weight AI",
+    "summaryEn": "Reuters reported, citing sources, that President Trump and VP Vance intervened in Nvidia's board decision to bring back Jensen Huang, seeing him as key to a U.S. open-weight AI ecosystem as Chinese firms lead."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217755": {
+    "titleEn": "Calls Grow Inside OpenAI and Anthropic to Pause AI Development Over Control Concerns",
+    "summaryEn": "Axios, citing 24+ people familiar with internal talks, reported many OpenAI and Anthropic staff believe top models are hard to release safely, with some urging a halt to training new models."
+  },
+  "https://zdnet.co.kr/view/?no=20261125124028": {
+    "titleEn": "Naver Cloud Teams Up with Korea Hydro & Nuclear Power to Bring AI Agents to Nuclear Plant Work",
+    "summaryEn": "Naver Cloud signed an MOU with Korea Hydro & Nuclear Power and KEPCO KDN to expand from a HyperCLOVA X-based generative AI platform to AI agents that nuclear plant staff can build and use themselves."
+  },
+  "https://www.etnews.com/20261125000227": {
+    "titleEn": "OpenAI and Anthropic Accused of Withholding Powerful AI Models That Outpace Human Control",
+    "summaryEn": "Axios, citing 24+ sources, reported OpenAI and Anthropic have unreleased models so powerful that many staff doubt they can be released safely; some reportedly favor withholding frontier models and halting new training."
   }
 }

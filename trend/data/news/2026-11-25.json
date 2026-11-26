@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T13:53+09:00",
+  "updatedAt": "2026-11-25T09:00+09:00",
   "global": [
     {
       "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -10,9 +10,9 @@
       "publishedAt": "2026-11-24T15:15:16+00:00",
       "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the n",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
+      "titleKo": "AI 확산에 한계 맞은 기업 네트워크, 현대화가 시급해졌다",
+      "summaryKo": "기업들의 AI 도입으로 AI가 네트워크 수요의 최대 원인이 되고 있으며, AI 에이전트 작업은 사람이 같은 일을 할 때보다 트래픽을 약 450% 더 발생시킨다.",
+      "summaryEn": "As companies rush to deploy AI, it is becoming the biggest source of network demand; tasks done by AI agents generate an estimated 450% more traffic than the same tasks done by humans.",
       "titleEn": "",
       "tags": [],
       "score": 5.0
@@ -25,9 +25,9 @@
       "publishedAt": "2026-11-24T13:00:00+00:00",
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "titleKo": "GPT-6 모델, 자체 추론만으로 단백질 설계 능력 보여",
+      "summaryKo": "GPT-6 모델이 추론과 코드로 단백질 구조와 서열을 설계했으며, 실험실 테스트에서 5개 표적 모두에 결합하는 증거가 확인됐다.",
+      "summaryEn": "GPT-6 models design protein structures and sequences using reasoning and code, and lab tests found evidence of binding across five targets.",
       "titleEn": "",
       "tags": [
         "출시·발표"
@@ -42,14 +42,14 @@
       "publishedAt": "2026-11-24T00:00:00+00:00",
       "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "lang": "en",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "titleKo": "Clay, Codex·ChatGPT로 영업팀 성과 끌어올린다",
+      "summaryKo": "Clay 사용자들은 ChatGPT·Codex 연동으로 거래를 조사하고 데이터를 고투마켓 전략으로 전환하며, 추론은 GPT-6 모델이 맡는다.",
+      "summaryEn": "ChatGPT and Codex integrations help Clay's users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "titleEn": "",
       "tags": [
         "빅테크"
       ],
-      "score": 5.0
+      "score": 6.0
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -80,8 +80,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Reuters reported, citing sources, that President Trump and VP Vance intervened in Nvidia's board decision to bring back Jensen Huang, seeing him as key to a U.S. open-weight AI ecosystem as Chinese firms lead.",
+      "titleEn": "Why Trump Backed Jensen Huang's Return: Seen as Guardian of U.S. Open-Weight AI",
       "tags": [
         "빅테크"
       ],
@@ -97,8 +97,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Axios, citing 24+ people familiar with internal talks, reported many OpenAI and Anthropic staff believe top models are hard to release safely, with some urging a halt to training new models.",
+      "titleEn": "Calls Grow Inside OpenAI and Anthropic to Pause AI Development Over Control Concerns",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -115,8 +115,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Naver Cloud signed an MOU with Korea Hydro & Nuclear Power and KEPCO KDN to expand from a HyperCLOVA X-based generative AI platform to AI agents that nuclear plant staff can build and use themselves.",
+      "titleEn": "Naver Cloud Teams Up with Korea Hydro & Nuclear Power to Bring AI Agents to Nuclear Plant Work",
       "tags": [
         "빅테크",
         "정책·법·보안"
@@ -133,8 +133,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Axios, citing 24+ sources, reported OpenAI and Anthropic have unreleased models so powerful that many staff doubt they can be released safely; some reportedly favor withholding frontier models and halting new training.",
+      "titleEn": "OpenAI and Anthropic Accused of Withholding Powerful AI Models That Outpace Human Control",
       "tags": [
         "빅테크",
         "출시·발표"

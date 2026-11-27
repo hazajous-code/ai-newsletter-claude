@@ -166,11 +166,12 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
+      "summaryEn": "NumbersAI said its tabular foundation model Causilo ranked first in TabArena's overall, classification and regression Elo rankings across 51 datasets, beating Google Research's TabFM and Amazon's Mitra-v2.",
       "tags": [
         "빅테크"
       ],
-      "score": 6.0
+      "score": 6.0,
+      "titleEn": "Korean Startup NumbersAI's Tabular Model 'Causilo' Tops TabArena Leaderboard"
     }
   ]
 }

@@ -2366,5 +2366,17 @@
   "https://zdnet.co.kr/view/?no=20261126110326": {
     "titleEn": "Korea holds smart fisheries workshop on using AI and digital tech for offshore cage aquaculture",
     "summaryEn": "Korea's Ministry of Oceans and Fisheries and the Korea Fisheries Resources Agency (FIRA) held a smart fisheries workforce workshop on Nov. 25 in Goheung, with course graduations, an AI lecture and e-learning demos."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217847": {
+    "titleEn": "Anthropic brings 'Skills' to MCP servers, letting AI agents receive work know-how",
+    "summaryEn": "Anthropic launched 'Skills over MCP' in public beta for Claude and Claude Code, letting MCP servers deliver instruction packages on how to do tasks, plus support for delegating long-running work."
+  },
+  "https://www.aitimes.com/news/articleView.html?idxno=217858": {
+    "titleEn": "Bank of England governor: unreleased frontier AI could threaten encryption systems",
+    "summaryEn": "BoE Governor Andrew Bailey cited Anthropic's Mythos when asked about AI and financial-system encryption; the BoE urged financial institutions to speed up their transition to new security systems."
+  },
+  "https://zdnet.co.kr/view/?no=20261127111611": {
+    "titleEn": "Canada offers up to 80% compute subsidies for using domestic AI cloud — implications for Korean AI policy",
+    "summaryEn": "Canada added C$700M to its AI Compute Access Fund (now C$1B), covering up to 80% of costs for firms using Canadian sovereign AI infrastructure and up to 50% for qualifying general cloud providers."
   }
 }

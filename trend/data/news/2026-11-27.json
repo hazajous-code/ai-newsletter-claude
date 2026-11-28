@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T13:03+09:00",
+  "updatedAt": "2026-11-28T10:48+09:00",
   "global": [],
   "korea": [
     {
@@ -13,8 +13,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Anthropic launched 'Skills over MCP' in public beta for Claude and Claude Code, letting MCP servers deliver instruction packages on how to do tasks, plus support for delegating long-running work.",
+      "titleEn": "Anthropic brings 'Skills' to MCP servers, letting AI agents receive work know-how",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -31,8 +31,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "BoE Governor Andrew Bailey cited Anthropic's Mythos when asked about AI and financial-system encryption; the BoE urged financial institutions to speed up their transition to new security systems.",
+      "titleEn": "Bank of England governor: unreleased frontier AI could threaten encryption systems",
       "tags": [
         "빅테크",
         "출시·발표"
@@ -49,8 +49,8 @@
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "",
-      "titleEn": "",
+      "summaryEn": "Canada added C$700M to its AI Compute Access Fund (now C$1B), covering up to 80% of costs for firms using Canadian sovereign AI infrastructure and up to 50% for qualifying general cloud providers.",
+      "titleEn": "Canada offers up to 80% compute subsidies for using domestic AI cloud — implications for Korean AI policy",
       "tags": [
         "정책·법·보안"
       ],

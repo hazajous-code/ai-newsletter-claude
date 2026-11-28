@@ -1,60 +1,25 @@
 {
-  "date": "2026-11-27",
-  "updatedAt": "2026-11-28T10:48+09:00",
+  "date": "2026-11-28",
+  "updatedAt": "2026-11-28T12:50+09:00",
   "global": [],
   "korea": [
     {
-      "title": "앤트로픽, MCP 서버에 '스킬' 도입…AI 에이전트에 업무 노하우까지 전달",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217847",
+      "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217889",
       "source": "AI타임스",
       "sourceId": "aitimes",
-      "publishedAt": "2026-11-27T12:23:23+00:00",
-      "summary": "앤트로픽이 AI 에이전트 연결 표준인 모델 컨텍스트 프로토콜(MCP)을 통해 업무 수행 방법을 담은 '스킬(Skills)'을 제공하는 기능을 도입했다. 외부 도구와 데이터를 연결하는 데 더해 업무 ",
+      "publishedAt": "2026-11-28T12:02:54+00:00",
+      "summary": "오픈AI가 애플을 상대로 맞소송을 제기하며 자사의 AI 기기 개발을 방해하기 위해 제조 협력업체에 압력을 행사했다고 주장했다. 불공정한 고용 계약과 영업비밀 침해 의혹도 제기하면서 양사의 갈등이 인",
       "lang": "ko",
       "titleKo": "",
       "summaryKo": "",
-      "summaryEn": "Anthropic launched 'Skills over MCP' in public beta for Claude and Claude Code, letting MCP servers deliver instruction packages on how to do tasks, plus support for delegating long-running work.",
-      "titleEn": "Anthropic brings 'Skills' to MCP servers, letting AI agents receive work know-how",
+      "summaryEn": "",
+      "titleEn": "",
       "tags": [
         "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "영국 중앙은행 총재 \"미공개 최첨단 AI, 암호화 체계 위협 가능성\"",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=217858",
-      "source": "AI타임스",
-      "sourceId": "aitimes",
-      "publishedAt": "2026-11-27T12:15:03+00:00",
-      "summary": "앤드루 베일리 영국 중앙은행(BoE) 총재가 금융 시스템의 암호화 체계에 대한 질문을 받고 아직 일반에 공개되지 않은 최첨단 AI 모델의 강력한 성능과 개발사들의 신중한 공개 방침을 언급했다. 영국",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "BoE Governor Andrew Bailey cited Anthropic's Mythos when asked about AI and financial-system encryption; the BoE urged financial institutions to speed up their transition to new security systems.",
-      "titleEn": "Bank of England governor: unreleased frontier AI could threaten encryption systems",
-      "tags": [
-        "빅테크",
-        "출시·발표"
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "[유미's 픽] 캐나다, 자국 클라우드 쓰면 '파격 지원'…韓 AI 정책 시사점은",
-      "url": "https://zdnet.co.kr/view/?no=20261127111611",
-      "source": "ZDNet Korea",
-      "sourceId": "zdnet-korea",
-      "publishedAt": "2026-11-27T02:17:21+00:00",
-      "summary": "[지디넷코리아]캐나다 정부가 자국 인공지능(AI) 인프라를 이용하는 기업에 컴퓨팅 비용의 최대 80%를 지원하며 소버린 AI 생태계 육성에 속도를 낸다. AI 기업의 서비스 상용화와 자국 클라우드 ",
-      "lang": "ko",
-      "titleKo": "",
-      "summaryKo": "",
-      "summaryEn": "Canada added C$700M to its AI Compute Access Fund (now C$1B), covering up to 80% of costs for firms using Canadian sovereign AI infrastructure and up to 50% for qualifying general cloud providers.",
-      "titleEn": "Canada offers up to 80% compute subsidies for using domestic AI cloud — implications for Korean AI policy",
-      "tags": [
         "정책·법·보안"
       ],
-      "score": 5.0
+      "score": 7.0
     }
   ]
 }
